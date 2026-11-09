@@ -27,7 +27,6 @@
         85633793,
         102087579,
         85922583,
-        85887445,
         85688637
     ],
     "wof:breaches":[],
@@ -45,14 +44,13 @@
             "county_id":102087579,
             "locality_id":85922583,
             "microhood_id":102147477,
-            "neighbourhood_id":85887445,
             "region_id":85688637
         }
     ],
     "wof:id":102147477,
     "wof:lastmodified":1719291522,
     "wof:name":"Off Market",
-    "wof:parent_id":85887445,
+    "wof:parent_id":-1,
     "wof:placetype":"microhood",
     "wof:repo":"whosonfirst-data-admin-us",
     "wof:superseded_by":[],

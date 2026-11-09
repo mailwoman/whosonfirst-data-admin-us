@@ -71,7 +71,6 @@
         102191575,
         404476373,
         85633793,
-        1729465637,
         102084627
     ],
     "wof:breaches":[],
@@ -92,7 +91,6 @@
             "country_id":85633793,
             "county_id":102084627,
             "localadmin_id":404476373,
-            "locality_id":1729465637,
             "neighbourhood_id":85809121,
             "region_id":85688645
         }
@@ -103,7 +101,7 @@
     ],
     "wof:lastmodified":1613675894,
     "wof:name":"Camp Spruce Hill",
-    "wof:parent_id":1729465637,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:population":16,
     "wof:population_rank":1,

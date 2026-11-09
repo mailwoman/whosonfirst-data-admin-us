@@ -32,7 +32,6 @@
         102191575,
         404476313,
         85633793,
-        1729463523,
         102084459
     ],
     "wof:breaches":[],
@@ -50,7 +49,6 @@
             "country_id":85633793,
             "county_id":102084459,
             "localadmin_id":404476313,
-            "locality_id":1729463523,
             "neighbourhood_id":420523637,
             "region_id":85688645
         }
@@ -58,7 +56,7 @@
     "wof:id":420523637,
     "wof:lastmodified":1613694604,
     "wof:name":"Ringville",
-    "wof:parent_id":1729463523,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:population":54,
     "wof:population_rank":1,
