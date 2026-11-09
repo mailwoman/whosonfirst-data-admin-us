@@ -142,8 +142,7 @@
     "wof:belongsto":[
         102191583,
         85632163,
-        136253057,
-        85681227
+        136253057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -167,7 +166,7 @@
     "wof:id":101734545,
     "wof:lastmodified":1722116307,
     "wof:name":"Dededo",
-    "wof:parent_id":85681227,
+    "wof:parent_id":85632163,
     "wof:placetype":"locality",
     "wof:population":1198,
     "wof:population_rank":3,

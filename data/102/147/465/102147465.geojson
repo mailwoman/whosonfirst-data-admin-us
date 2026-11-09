@@ -27,7 +27,7 @@
         85633793,
         102087579,
         85922583,
-        85865905,
+        1108830801,
         85688637
     ],
     "wof:breaches":[],
@@ -52,7 +52,7 @@
     "wof:id":102147465,
     "wof:lastmodified":1719291220,
     "wof:name":"Academy Downs",
-    "wof:parent_id":85865905,
+    "wof:parent_id":1108830801,
     "wof:placetype":"microhood",
     "wof:repo":"whosonfirst-data-admin-us",
     "wof:superseded_by":[],

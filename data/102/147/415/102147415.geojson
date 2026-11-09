@@ -47,7 +47,7 @@
     "src:geom_alt":[],
     "wd:wordcount":5534,
     "wof:belongsto":[
-        85882193,
+        1108832027,
         102191575,
         85633793,
         85922583,
@@ -78,7 +78,7 @@
     "wof:id":102147415,
     "wof:lastmodified":1690881364,
     "wof:name":"Little Saigon",
-    "wof:parent_id":85882193,
+    "wof:parent_id":1108832027,
     "wof:placetype":"microhood",
     "wof:repo":"whosonfirst-data-admin-us",
     "wof:superseded_by":[],

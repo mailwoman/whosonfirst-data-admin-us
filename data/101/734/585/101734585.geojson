@@ -125,8 +125,7 @@
     "wof:belongsto":[
         102191583,
         85632163,
-        136253057,
-        85681227
+        136253057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -159,7 +158,7 @@
     "wof:id":101734585,
     "wof:lastmodified":1722116405,
     "wof:name":"Sinajana",
-    "wof:parent_id":85681227,
+    "wof:parent_id":85632163,
     "wof:placetype":"locality",
     "wof:population":251,
     "wof:population_rank":2,
