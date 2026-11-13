@@ -1,0 +1,91 @@
+{
+  "id": 9895000000,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.53583,41.084779,-81.53583,41.084779",
+    "geom:latitude": 41.084779,
+    "geom:longitude": -81.53583,
+    "iso:country": "US",
+    "lbl:latitude": 41.084779,
+    "lbl:longitude": -81.53583,
+    "mailwoman:sources": [
+      {
+        "property": "wof:name",
+        "citation": "Akron City Council, Council Agenda for March 10, 2025, Consent Agenda item 2: \"ORDINANCE authorizing the purchase of certain real property located in the Five Points area from the Summit County Land Bank\"",
+        "url": "https://onlinedocs.akronohio.gov/OnBaseAgendaOnline/Documents/DownloadFile/March_10,_2025_624_Agenda_3_10_2025_6_30_00_PM.pdf?documentType=1&meetingId=624"
+      },
+      {
+        "property": "location",
+        "citation": "Mark J. Price, \"Grace School: A lost landmark at Five Points in Akron\", Akron Beacon Journal, 2024-12-28: \"Grace School stands at Exchange and Maple streets in 1953 at Five Points in Akron.\"",
+        "url": "https://www.beaconjournal.com/story/news/2024/12/28/grace-school-is-gone-at-five-points-in-akron-where-did-its-marker-go/76898901007/"
+      },
+      {
+        "property": "geometry",
+        "citation": "U.S. Census Bureau TIGERweb, Transportation, Local Roads: the vertex West Exchange St (MTFCC S1400) and S Maple St (MTFCC S1200) share",
+        "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Transportation/MapServer"
+      }
+    ],
+    "mz:hierarchy_label": 0,
+    "mz:is_current": 1,
+    "mz:max_zoom": 18,
+    "mz:min_zoom": 15,
+    "name:eng_x_preferred": [
+      "Five Points"
+    ],
+    "src:geom": "uscensus",
+    "src:geom_alt": [],
+    "wof:belongsto": [
+      85688485,
+      102191575,
+      404524273,
+      85633793,
+      101713359,
+      102084807
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {},
+    "wof:country": "US",
+    "wof:geom_alt": [],
+    "wof:geomhash": "5d6d4847ac2e4df17a63a9621c99bc0a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084807,
+        "localadmin_id": 404524273,
+        "locality_id": 101713359,
+        "neighbourhood_id": 9895000000,
+        "region_id": 85688485
+      }
+    ],
+    "wof:id": 9895000000,
+    "wof:lang": [
+      "eng"
+    ],
+    "wof:lastmodified": 1794611543,
+    "wof:name": "Five Points",
+    "wof:parent_id": 101713359,
+    "wof:placetype": "neighbourhood",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -81.53583,
+    41.084779,
+    -81.53583,
+    41.084779
+  ],
+  "geometry": {
+    "coordinates": [
+      -81.53583,
+      41.084779
+    ],
+    "type": "Point"
+  }
+}
