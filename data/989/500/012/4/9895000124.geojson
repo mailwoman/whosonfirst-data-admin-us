@@ -1,0 +1,82 @@
+{
+  "id": 9895000124,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.8518879540547,41.15533732413405,-83.8518879540547,41.15533732413405",
+    "geom:latitude":41.155337,
+    "geom:longitude":-83.851888,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064787: name \"Hancock\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064787"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064787: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064787"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064787: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064787"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525533 (Pleasant Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525533 (Pleasant Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hancock"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084835,
+        102191575,
+        404525533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1064787
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b370b862b7da3f00a2b01e0416520e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084835,
+            "localadmin_id":404525533,
+            "locality_id":9895000124,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000124,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Hancock",
+    "wof:parent_id":404525533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.8518879540547,
+    41.15533732413405,
+    -83.8518879540547,
+    41.15533732413405
+],
+  "geometry": {"coordinates":[-83.8518879540547,41.15533732413405],"type":"Point"}
+}

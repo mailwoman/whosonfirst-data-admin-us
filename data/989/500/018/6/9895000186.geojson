@@ -1,0 +1,84 @@
+{
+  "id": 9895000186,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.6940224177661,41.422837976761116,-81.6940224177661,41.422837976761116",
+    "geom:latitude":41.422838,
+    "geom:longitude":-81.694022,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1963520: name \"Broadview Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1963520"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1963520: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1963520"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1963520: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1963520"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101712563 (Cleveland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101712563 (Cleveland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Broadview Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101712563,
+        102084837,
+        102191575,
+        404523697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1963520
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d00301fe9544abf583d74d3484da881e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404523697,
+            "locality_id":101712563,
+            "neighbourhood_id":9895000186,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000186,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Broadview Gardens",
+    "wof:parent_id":101712563,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.6940224177661,
+    41.422837976761116,
+    -81.6940224177661,
+    41.422837976761116
+],
+  "geometry": {"coordinates":[-81.6940224177661,41.422837976761116],"type":"Point"}
+}

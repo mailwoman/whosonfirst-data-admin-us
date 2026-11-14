@@ -1,0 +1,82 @@
+{
+  "id": 9895000140,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.56743790425344,41.56505921259116,-83.56743790425344,41.56505921259116",
+    "geom:latitude":41.565059,
+    "geom:longitude":-83.567438,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1067752: name \"Glenwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1067752"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1067752: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1067752"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1067752: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1067752"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524383 (Perrysburg Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524383 (Perrysburg Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Glenwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084781,
+        102191575,
+        404524383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1067752
+    },
+    "wof:country":"US",
+    "wof:geomhash":"063db6794fb28eb3e21ea235a93e5c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084781,
+            "localadmin_id":404524383,
+            "locality_id":9895000140,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000140,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Glenwood",
+    "wof:parent_id":404524383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.56743790425344,
+    41.56505921259116,
+    -83.56743790425344,
+    41.56505921259116
+],
+  "geometry": {"coordinates":[-83.56743790425344,41.56505921259116],"type":"Point"}
+}

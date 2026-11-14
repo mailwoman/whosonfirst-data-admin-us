@@ -1,0 +1,82 @@
+{
+  "id": 9895000072,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.615235212423,41.47172564276935,-84.615235212423,41.47172564276935",
+    "geom:latitude":41.471726,
+    "geom:longitude":-84.615235,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1055241: name \"Durham Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1055241"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1055241: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1055241"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1055241: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1055241"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524207 (Center Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524207 (Center Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Durham Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084817,
+        102191575,
+        404524207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1055241
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e6ddd3153e890624080bbdc01def080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084817,
+            "localadmin_id":404524207,
+            "locality_id":9895000072,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000072,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Durham Estates",
+    "wof:parent_id":404524207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.615235212423,
+    41.47172564276935,
+    -84.615235212423,
+    41.47172564276935
+],
+  "geometry": {"coordinates":[-84.615235212423,41.47172564276935],"type":"Point"}
+}

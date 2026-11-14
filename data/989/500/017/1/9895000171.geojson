@@ -1,0 +1,84 @@
+{
+  "id": 9895000171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.46632477644636,41.60589112482895,-83.46632477644636,41.60589112482895",
+    "geom:latitude":41.605891,
+    "geom:longitude":-83.466325,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1951612: name \"Brighton Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1951612"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1951612: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1951612"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1951612: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1951612"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713227 (Northwood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713227 (Northwood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brighton Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713227,
+        102084781,
+        102191575,
+        404526407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1951612
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b50df35921ea32b7beac8a33106824f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084781,
+            "localadmin_id":404526407,
+            "locality_id":101713227,
+            "neighbourhood_id":9895000171,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000171,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Brighton Gardens",
+    "wof:parent_id":101713227,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.46632477644636,
+    41.60589112482895,
+    -83.46632477644636,
+    41.60589112482895
+],
+  "geometry": {"coordinates":[-83.46632477644636,41.60589112482895],"type":"Point"}
+}

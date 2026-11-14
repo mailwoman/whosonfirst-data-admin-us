@@ -1,0 +1,82 @@
+{
+  "id": 9895000091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.15626089310695,39.29174725435481,-82.15626089310695,39.29174725435481",
+    "geom:latitude":39.291747,
+    "geom:longitude":-82.156261,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1058815: name \"Highland Park Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1058815"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1058815: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1058815"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1058815: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1058815"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524821 (Athens Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524821 (Athens Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Highland Park Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084755,
+        102191575,
+        404524821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1058815
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bdaefed25cb689bb9b0faae8e287c2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084755,
+            "localadmin_id":404524821,
+            "locality_id":9895000091,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000091,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Highland Park Estates",
+    "wof:parent_id":404524821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.15626089310695,
+    39.29174725435481,
+    -82.15626089310695,
+    39.29174725435481
+],
+  "geometry": {"coordinates":[-82.15626089310695,39.29174725435481],"type":"Point"}
+}

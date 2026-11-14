@@ -1,0 +1,84 @@
+{
+  "id": 9895000184,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.6713279177415,41.36867127140533,-83.6713279177415,41.36867127140533",
+    "geom:latitude":41.368671,
+    "geom:longitude":-83.671328,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1952021: name \"Westgate Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1952021"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1952021: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1952021"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1952021: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1952021"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713197 (Bowling Green).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713197 (Bowling Green), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westgate Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713197,
+        102084781,
+        102191575,
+        404526729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1952021
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2af9f6dc81892ea0991a0cc08ef2aafd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084781,
+            "localadmin_id":404526729,
+            "locality_id":101713197,
+            "neighbourhood_id":9895000184,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000184,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Westgate Homes",
+    "wof:parent_id":101713197,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.6713279177415,
+    41.36867127140533,
+    -83.6713279177415,
+    41.36867127140533
+],
+  "geometry": {"coordinates":[-83.6713279177415,41.36867127140533],"type":"Point"}
+}

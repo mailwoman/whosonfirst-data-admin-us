@@ -1,0 +1,82 @@
+{
+  "id": 9895000108,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.4856777484299,40.08591213678991,-81.4856777484299,40.08591213678991",
+    "geom:latitude":40.085912,
+    "geom:longitude":-81.485678,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062659: name \"Brady\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062659"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062659: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062659"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062659: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062659"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525405 (Jefferson Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525405 (Jefferson Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brady"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084783,
+        102191575,
+        404525405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1062659
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83a4a31c8b6e4f2d20875a8ece43129d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084783,
+            "localadmin_id":404525405,
+            "locality_id":9895000108,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000108,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Brady",
+    "wof:parent_id":404525405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.4856777484299,
+    40.08591213678991,
+    -81.4856777484299,
+    40.08591213678991
+],
+  "geometry": {"coordinates":[-81.4856777484299,40.08591213678991],"type":"Point"}
+}

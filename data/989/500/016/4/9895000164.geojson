@@ -1,0 +1,84 @@
+{
+  "id": 9895000164,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.2417718034196,41.7311632539179,-81.2417718034196,41.7311632539179",
+    "geom:latitude":41.731163,
+    "geom:longitude":-81.241772,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1085149: name \"Avery Terrace\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1085149"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1085149: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1085149"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1085149: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1085149"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85983173 (Painesville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85983173 (Painesville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Avery Terrace"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        85983173,
+        102083703,
+        102191575,
+        404526953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1085149
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a6d017ee245a0a066a247097b8eeb94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083703,
+            "localadmin_id":404526953,
+            "locality_id":85983173,
+            "neighbourhood_id":9895000164,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000164,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Avery Terrace",
+    "wof:parent_id":85983173,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.2417718034196,
+    41.7311632539179,
+    -81.2417718034196,
+    41.7311632539179
+],
+  "geometry": {"coordinates":[-81.2417718034196,41.7311632539179],"type":"Point"}
+}

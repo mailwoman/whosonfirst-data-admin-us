@@ -1,0 +1,82 @@
+{
+  "id": 9895000025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.44599141891302,38.43397917528957,-82.44599141891302,38.43397917528957",
+    "geom:latitude":38.433979,
+    "geom:longitude":-82.445991,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1050518: name \"Crescent Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1050518"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1050518: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1050518"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1050518: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1050518"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525207 (Union Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525207 (Union Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Crescent Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083699,
+        102191575,
+        404525207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1050518
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a1f605a3986f53ce7bad27b7de2ebdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083699,
+            "localadmin_id":404525207,
+            "locality_id":9895000025,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000025,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Crescent Lake",
+    "wof:parent_id":404525207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.44599141891302,
+    38.43397917528957,
+    -82.44599141891302,
+    38.43397917528957
+],
+  "geometry": {"coordinates":[-82.44599141891302,38.43397917528957],"type":"Point"}
+}

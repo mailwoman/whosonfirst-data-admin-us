@@ -1,0 +1,84 @@
+{
+  "id": 9895000159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.96370527365542,41.191175967496584,-80.96370527365542,41.191175967496584",
+    "geom:latitude":41.191176,
+    "geom:longitude":-80.963705,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1084525: name \"Rose Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1084525"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1084525: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1084525"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1084525: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1084525"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713297 (Newton Falls).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713297 (Newton Falls), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rose Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713297,
+        102083719,
+        102191575,
+        404526215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1084525
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a8b1712641c7541bb1e86941af737682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083719,
+            "localadmin_id":404526215,
+            "locality_id":101713297,
+            "neighbourhood_id":9895000159,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000159,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Rose Park",
+    "wof:parent_id":101713297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.96370527365542,
+    41.191175967496584,
+    -80.96370527365542,
+    41.191175967496584
+],
+  "geometry": {"coordinates":[-80.96370527365542,41.191175967496584],"type":"Point"}
+}

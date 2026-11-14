@@ -1,0 +1,82 @@
+{
+  "id": 9895000121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.9279607417842,39.500625259918905,-82.9279607417842,39.500625259918905",
+    "geom:latitude":39.500625,
+    "geom:longitude":-82.927961,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064617: name \"Elmwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064617"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064617: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064617"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064617: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064617"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526043 (Pickaway Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526043 (Pickaway Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Elmwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084815,
+        102191575,
+        404526043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1064617
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d512caac53b9ab109af58441ff882c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084815,
+            "localadmin_id":404526043,
+            "locality_id":9895000121,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000121,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Elmwood",
+    "wof:parent_id":404526043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.9279607417842,
+    39.500625259918905,
+    -82.9279607417842,
+    39.500625259918905
+],
+  "geometry": {"coordinates":[-82.9279607417842,39.500625259918905],"type":"Point"}
+}

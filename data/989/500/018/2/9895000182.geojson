@@ -1,0 +1,84 @@
+{
+  "id": 9895000182,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.45410227263947,41.60366882497463,-83.45410227263947,41.60366882497463",
+    "geom:latitude":41.603669,
+    "geom:longitude":-83.454102,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1952002: name \"Turnberry Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1952002"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1952002: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1952002"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1952002: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1952002"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713227 (Northwood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713227 (Northwood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Turnberry Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713227,
+        102084781,
+        102191575,
+        404526407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1952002
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a06b2e431556efdc66a87cbd0518311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084781,
+            "localadmin_id":404526407,
+            "locality_id":101713227,
+            "neighbourhood_id":9895000182,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000182,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Turnberry Estates",
+    "wof:parent_id":101713227,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.45410227263947,
+    41.60366882497463,
+    -83.45410227263947,
+    41.60366882497463
+],
+  "geometry": {"coordinates":[-83.45410227263947,41.60366882497463],"type":"Point"}
+}

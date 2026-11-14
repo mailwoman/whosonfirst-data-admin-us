@@ -1,0 +1,82 @@
+{
+  "id": 9895000095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.09380770504679,40.927008819481934,-83.09380770504679,40.927008819481934",
+    "geom:latitude":40.927009,
+    "geom:longitude":-83.093808,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1060863: name \"Benton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1060863"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1060863: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1060863"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1060863: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1060863"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525161 (Texas Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525161 (Texas Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Benton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084729,
+        102191575,
+        404525161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1060863
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31a5600d2df7a6e02b93080f650f8b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084729,
+            "localadmin_id":404525161,
+            "locality_id":9895000095,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000095,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Benton",
+    "wof:parent_id":404525161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.09380770504679,
+    40.927008819481934,
+    -83.09380770504679,
+    40.927008819481934
+],
+  "geometry": {"coordinates":[-83.09380770504679,40.927008819481934],"type":"Point"}
+}

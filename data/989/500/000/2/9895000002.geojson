@@ -1,0 +1,82 @@
+{
+  "id": 9895000002,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.98465822361557,39.04896162555652,-83.98465822361557,39.04896162555652",
+    "geom:latitude":39.048962,
+    "geom:longitude":-83.984658,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1040038: name \"Eastwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1040038"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1040038: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1040038"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1040038: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1040038"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404523609 (Sterling Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404523609 (Sterling Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Eastwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083665,
+        102191575,
+        404523609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1040038
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee2a915aafdf62affbda44e95dd04554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083665,
+            "localadmin_id":404523609,
+            "locality_id":9895000002,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000002,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Eastwood",
+    "wof:parent_id":404523609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.98465822361557,
+    39.04896162555652,
+    -83.98465822361557,
+    39.04896162555652
+],
+  "geometry": {"coordinates":[-83.98465822361557,39.04896162555652],"type":"Point"}
+}

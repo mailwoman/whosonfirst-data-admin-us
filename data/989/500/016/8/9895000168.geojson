@@ -1,0 +1,84 @@
+{
+  "id": 9895000168,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.81156713265369,39.845349230833456,-82.81156713265369,39.845349230833456",
+    "geom:latitude":39.845349,
+    "geom:longitude":-82.811567,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1730740: name \"Beckley Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1730740"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1730740: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1730740"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1730740: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1730740"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101712379 (Canal Winchester).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101712379 (Canal Winchester), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Beckley Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101712379,
+        102080969,
+        102191575,
+        404523499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1730740
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d11b5b813bc2fd6e295117f032919184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404523499,
+            "locality_id":101712379,
+            "neighbourhood_id":9895000168,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000168,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Beckley Addition",
+    "wof:parent_id":101712379,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.81156713265369,
+    39.845349230833456,
+    -82.81156713265369,
+    39.845349230833456
+],
+  "geometry": {"coordinates":[-82.81156713265369,39.845349230833456],"type":"Point"}
+}

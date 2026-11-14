@@ -1,0 +1,84 @@
+{
+  "id": 9895000022,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.60578362050049,39.211176127323284,-84.60578362050049,39.211176127323284",
+    "geom:latitude":39.211176,
+    "geom:longitude":-84.605784,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1049031: name \"Oakdale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1049031"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1049031: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1049031"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1049031: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1049031"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713803 (White Oak).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713803 (White Oak), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oakdale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713803,
+        102083687,
+        102191575,
+        404525437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1049031
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9b917737533f3a45f80d678fe4bee6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083687,
+            "localadmin_id":404525437,
+            "locality_id":101713803,
+            "neighbourhood_id":9895000022,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000022,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Oakdale",
+    "wof:parent_id":101713803,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.60578362050049,
+    39.211176127323284,
+    -84.60578362050049,
+    39.211176127323284
+],
+  "geometry": {"coordinates":[-84.60578362050049,39.211176127323284],"type":"Point"}
+}

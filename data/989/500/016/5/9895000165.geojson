@@ -1,0 +1,84 @@
+{
+  "id": 9895000165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.23982740178374,41.71866375221796,-81.23982740178374,41.71866375221796",
+    "geom:latitude":41.718664,
+    "geom:longitude":-81.239827,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1085165: name \"Lusard Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1085165"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1085165: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1085165"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1085165: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1085165"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85983173 (Painesville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85983173 (Painesville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lusard Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        85983173,
+        102083703,
+        102191575,
+        404526953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1085165
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15ff6cc0ff3a8d8af647a6a7f6c8b790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083703,
+            "localadmin_id":404526953,
+            "locality_id":85983173,
+            "neighbourhood_id":9895000165,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000165,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Lusard Place",
+    "wof:parent_id":85983173,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.23982740178374,
+    41.71866375221796,
+    -81.23982740178374,
+    41.71866375221796
+],
+  "geometry": {"coordinates":[-81.23982740178374,41.71866375221796],"type":"Point"}
+}

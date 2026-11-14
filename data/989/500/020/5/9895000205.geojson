@@ -1,0 +1,84 @@
+{
+  "id": 9895000205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.21870457088447,40.036707700544625,-84.21870457088447,40.036707700544625",
+    "geom:latitude":40.036708,
+    "geom:longitude":-84.218705,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2778118: name \"Park Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2778118"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2778118: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2778118"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2778118: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2778118"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101712869 (Troy).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101712869 (Troy), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Park Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101712869,
+        102084719,
+        102191575,
+        404526611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2778118
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ad45d0290ac5bb3add6a2a40772e2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084719,
+            "localadmin_id":404526611,
+            "locality_id":101712869,
+            "neighbourhood_id":9895000205,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000205,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Park Place",
+    "wof:parent_id":101712869,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.21870457088447,
+    40.036707700544625,
+    -84.21870457088447,
+    40.036707700544625
+],
+  "geometry": {"coordinates":[-84.21870457088447,40.036707700544625],"type":"Point"}
+}

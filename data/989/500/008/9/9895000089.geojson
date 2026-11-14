@@ -1,0 +1,82 @@
+{
+  "id": 9895000089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.49238897843468,40.38173684661101,-82.49238897843468,40.38173684661101",
+    "geom:latitude":40.381737,
+    "geom:longitude":-82.492389,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1058032: name \"South Mount Vernon\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1058032"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1058032: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1058032"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1058032: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1058032"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526829 (Clinton Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526829 (Clinton Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South Mount Vernon"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084811,
+        102191575,
+        404526829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1058032
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cfec935e4497139aa9692b9dd9e96a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084811,
+            "localadmin_id":404526829,
+            "locality_id":9895000089,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000089,
+    "wof:lastmodified":1794669268,
+    "wof:name":"South Mount Vernon",
+    "wof:parent_id":404526829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.49238897843468,
+    40.38173684661101,
+    -82.49238897843468,
+    40.38173684661101
+],
+  "geometry": {"coordinates":[-82.49238897843468,40.38173684661101],"type":"Point"}
+}

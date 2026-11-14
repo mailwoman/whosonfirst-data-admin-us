@@ -1,0 +1,82 @@
+{
+  "id": 9895000106,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.7275833356849,40.3506317200869,-80.7275833356849,40.3506317200869",
+    "geom:latitude":40.350632,
+    "geom:longitude":-80.727583,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062582: name \"Stuart Manor\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062582"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062582: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062582"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062582: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062582"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526755 (Cross Creek Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526755 (Cross Creek Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stuart Manor"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084713,
+        102191575,
+        404526755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1062582
+    },
+    "wof:country":"US",
+    "wof:geomhash":"05f71ecbc7719e4634f69a60c090a13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084713,
+            "localadmin_id":404526755,
+            "locality_id":9895000106,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000106,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Stuart Manor",
+    "wof:parent_id":404526755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.7275833356849,
+    40.3506317200869,
+    -80.7275833356849,
+    40.3506317200869
+],
+  "geometry": {"coordinates":[-80.7275833356849,40.3506317200869],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9895000054,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.94715907615942,39.86756718200955,-83.94715907615942,39.86756718200955",
+    "geom:latitude":39.867567,
+    "geom:longitude":-83.947159,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051421: name \"West Enon Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051421"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051421: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051421"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051421: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051421"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713555 (Green Meadows).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713555 (Green Meadows), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "West Enon Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713555,
+        102083685,
+        102191575,
+        404525003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1051421
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ccd92507d45e9ad9d3057a61fe9abade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083685,
+            "localadmin_id":404525003,
+            "locality_id":101713555,
+            "neighbourhood_id":9895000054,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000054,
+    "wof:lastmodified":1794669268,
+    "wof:name":"West Enon Estates",
+    "wof:parent_id":101713555,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.94715907615942,
+    39.86756718200955,
+    -83.94715907615942,
+    39.86756718200955
+],
+  "geometry": {"coordinates":[-83.94715907615942,39.86756718200955],"type":"Point"}
+}

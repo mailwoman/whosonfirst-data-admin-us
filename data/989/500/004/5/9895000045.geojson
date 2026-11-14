@@ -1,0 +1,82 @@
+{
+  "id": 9895000045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.79743173208672,39.87673439079966,-83.79743173208672,39.87673439079966",
+    "geom:latitude":39.876734,
+    "geom:longitude":-83.797432,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051369: name \"Shawnee Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051369"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051369: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051369"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051369: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051369"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525011 (Springfield Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525011 (Springfield Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shawnee Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083685,
+        102191575,
+        404525011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1051369
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a780b9507151a68ab744afe74f01775d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083685,
+            "localadmin_id":404525011,
+            "locality_id":9895000045,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000045,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Shawnee Acres",
+    "wof:parent_id":404525011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.79743173208672,
+    39.87673439079966,
+    -83.79743173208672,
+    39.87673439079966
+],
+  "geometry": {"coordinates":[-83.79743173208672,39.87673439079966],"type":"Point"}
+}

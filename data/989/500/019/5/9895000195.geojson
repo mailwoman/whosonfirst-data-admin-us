@@ -1,0 +1,82 @@
+{
+  "id": 9895000195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.99510721583592,40.199970788973104,-82.99510721583592,40.199970788973104",
+    "geom:latitude":40.199971,
+    "geom:longitude":-82.995107,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771302: name \"Meadows At Lewis Center\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771302"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771302: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771302"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771302: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771302"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524525 (Orange Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524525 (Orange Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meadows At Lewis Center"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084739,
+        102191575,
+        404524525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2771302
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ea002caad7fe6a6d666fb6239831602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084739,
+            "localadmin_id":404524525,
+            "locality_id":9895000195,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000195,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Meadows At Lewis Center",
+    "wof:parent_id":404524525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.99510721583592,
+    40.199970788973104,
+    -82.99510721583592,
+    40.199970788973104
+],
+  "geometry": {"coordinates":[-82.99510721583592,40.199970788973104],"type":"Point"}
+}

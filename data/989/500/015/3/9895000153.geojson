@@ -1,0 +1,84 @@
+{
+  "id": 9895000153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.92815221666785,41.85839439172084,-80.92815221666785,41.85839439172084",
+    "geom:latitude":41.858394,
+    "geom:longitude":-80.928152,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1079710: name \"Palmetto Beach\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1079710"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1079710: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1079710"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1079710: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1079710"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85982907 (Geneva-on-the-Lake).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85982907 (Geneva-on-the-Lake), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Palmetto Beach"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        85982907,
+        102083657,
+        102191575,
+        404524709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1079710
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6172284b3c86b6ec031b093e459d553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083657,
+            "localadmin_id":404524709,
+            "locality_id":85982907,
+            "neighbourhood_id":9895000153,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000153,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Palmetto Beach",
+    "wof:parent_id":85982907,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.92815221666785,
+    41.85839439172084,
+    -80.92815221666785,
+    41.85839439172084
+],
+  "geometry": {"coordinates":[-80.92815221666785,41.85839439172084],"type":"Point"}
+}

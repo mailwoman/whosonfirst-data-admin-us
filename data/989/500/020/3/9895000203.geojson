@@ -1,0 +1,82 @@
+{
+  "id": 9895000203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.03335922606033,40.18324378396857,-83.03335922606033,40.18324378396857",
+    "geom:latitude":40.183244,
+    "geom:longitude":-83.033359,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771884: name \"North Orange\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771884"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771884: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771884"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771884: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771884"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524525 (Orange Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524525 (Orange Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North Orange"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084739,
+        102191575,
+        404524525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2771884
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e66bfb3c938dc4c0eaa1f5d3d6cbecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084739,
+            "localadmin_id":404524525,
+            "locality_id":9895000203,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000203,
+    "wof:lastmodified":1794669268,
+    "wof:name":"North Orange",
+    "wof:parent_id":404524525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.03335922606033,
+    40.18324378396857,
+    -83.03335922606033,
+    40.18324378396857
+],
+  "geometry": {"coordinates":[-83.03335922606033,40.18324378396857],"type":"Point"}
+}

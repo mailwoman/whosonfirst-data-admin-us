@@ -1,0 +1,82 @@
+{
+  "id": 9895000157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.61690191246517,41.465336641984436,-84.61690191246517,41.465336641984436",
+    "geom:latitude":41.465337,
+    "geom:longitude":-84.616902,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1080512: name \"Krohns Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1080512"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1080512: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1080512"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1080512: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1080512"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524207 (Center Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524207 (Center Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Krohns Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084817,
+        102191575,
+        404524207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1080512
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f19dde6816ba82d2233b822a8775d394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084817,
+            "localadmin_id":404524207,
+            "locality_id":9895000157,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000157,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Krohns Acres",
+    "wof:parent_id":404524207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.61690191246517,
+    41.465336641984436,
+    -84.61690191246517,
+    41.465336641984436
+],
+  "geometry": {"coordinates":[-84.61690191246517,41.465336641984436],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9895000035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.79604393827903,39.95951210642245,-83.79604393827903,39.95951210642245",
+    "geom:latitude":39.959512,
+    "geom:longitude":-83.796044,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051291: name \"Greenlawn Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051291"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051291: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051291"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051291: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051291"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85982959 (Springfield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85982959 (Springfield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Greenlawn Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        85982959,
+        102083685,
+        102191575,
+        404523641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1051291
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ecae89bd9db4bf91887cb3844baf636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083685,
+            "localadmin_id":404523641,
+            "locality_id":85982959,
+            "neighbourhood_id":9895000035,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000035,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Greenlawn Village",
+    "wof:parent_id":85982959,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.79604393827903,
+    39.95951210642245,
+    -83.79604393827903,
+    39.95951210642245
+],
+  "geometry": {"coordinates":[-83.79604393827903,39.95951210642245],"type":"Point"}
+}

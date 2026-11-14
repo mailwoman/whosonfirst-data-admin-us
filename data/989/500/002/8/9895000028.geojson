@@ -1,0 +1,84 @@
+{
+  "id": 9895000028,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.6415540831407,38.50453268002349,-82.6415540831407,38.50453268002349",
+    "geom:latitude":38.504533,
+    "geom:longitude":-82.641554,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1050554: name \"Three Oaks\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1050554"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1050554: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1050554"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1050554: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1050554"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713253 (Coal Grove).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713253 (Coal Grove), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Three Oaks"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713253,
+        102083699,
+        102191575,
+        404525209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1050554
+    },
+    "wof:country":"US",
+    "wof:geomhash":"43e7139df8d1dfe3d24f83e6b0b982f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083699,
+            "localadmin_id":404525209,
+            "locality_id":101713253,
+            "neighbourhood_id":9895000028,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000028,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Three Oaks",
+    "wof:parent_id":101713253,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.6415540831407,
+    38.50453268002349,
+    -82.6415540831407,
+    38.50453268002349
+],
+  "geometry": {"coordinates":[-82.6415540831407,38.50453268002349],"type":"Point"}
+}

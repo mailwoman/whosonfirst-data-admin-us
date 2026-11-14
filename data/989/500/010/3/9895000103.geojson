@@ -1,0 +1,84 @@
+{
+  "id": 9895000103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.57767868855049,41.408390232087406,-82.57767868855049,41.408390232087406",
+    "geom:latitude":41.40839,
+    "geom:longitude":-82.577679,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062478: name \"Grand Forest Beach\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062478"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062478: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062478"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062478: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062478"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85983197 (Huron).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85983197 (Huron), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Grand Forest Beach"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        85983197,
+        102084735,
+        102191575,
+        404524549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1062478
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e48877da5a19c3186684559a034ef998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084735,
+            "localadmin_id":404524549,
+            "locality_id":85983197,
+            "neighbourhood_id":9895000103,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000103,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Grand Forest Beach",
+    "wof:parent_id":85983197,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.57767868855049,
+    41.408390232087406,
+    -82.57767868855049,
+    41.408390232087406
+],
+  "geometry": {"coordinates":[-82.57767868855049,41.408390232087406],"type":"Point"}
+}

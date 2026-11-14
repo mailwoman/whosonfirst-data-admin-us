@@ -1,0 +1,84 @@
+{
+  "id": 9895000105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.53322931886025,40.73284280976025,-82.53322931886025,40.73284280976025",
+    "geom:latitude":40.732843,
+    "geom:longitude":-82.533229,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062572: name \"South Boulevards\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062572"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062572: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062572"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062572: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062572"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101712287 (Mansfield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101712287 (Mansfield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South Boulevards"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101712287,
+        102083681,
+        102191575,
+        404523977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1062572
+    },
+    "wof:country":"US",
+    "wof:geomhash":"614b5922f76295d0fb652b89e387dd97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083681,
+            "localadmin_id":404523977,
+            "locality_id":101712287,
+            "neighbourhood_id":9895000105,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000105,
+    "wof:lastmodified":1794669268,
+    "wof:name":"South Boulevards",
+    "wof:parent_id":101712287,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.53322931886025,
+    40.73284280976025,
+    -82.53322931886025,
+    40.73284280976025
+],
+  "geometry": {"coordinates":[-82.53322931886025,40.73284280976025],"type":"Point"}
+}

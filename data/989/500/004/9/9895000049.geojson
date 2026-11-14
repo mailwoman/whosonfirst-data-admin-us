@@ -1,0 +1,84 @@
+{
+  "id": 9895000049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.78159832962109,39.90673439763445,-83.78159832962109,39.90673439763445",
+    "geom:latitude":39.906734,
+    "geom:longitude":-83.781598,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051387: name \"Kenwood Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051387"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051387: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051387"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051387: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051387"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85982959 (Springfield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85982959 (Springfield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kenwood Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        85982959,
+        102083685,
+        102191575,
+        404523641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1051387
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a07a3c1d658c9d58b7ac1f247559b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083685,
+            "localadmin_id":404523641,
+            "locality_id":85982959,
+            "neighbourhood_id":9895000049,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000049,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Kenwood Heights",
+    "wof:parent_id":85982959,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.78159832962109,
+    39.90673439763445,
+    -83.78159832962109,
+    39.90673439763445
+],
+  "geometry": {"coordinates":[-83.78159832962109,39.90673439763445],"type":"Point"}
+}

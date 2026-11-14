@@ -1,0 +1,82 @@
+{
+  "id": 9895000127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.78824030119324,40.79534290939232,-82.78824030119324,40.79534290939232",
+    "geom:latitude":40.795343,
+    "geom:longitude":-82.78824,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064982: name \"Leesville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064982"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064982: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064982"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064982: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064982"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525155 (Jefferson Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525155 (Jefferson Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Leesville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084729,
+        102191575,
+        404525155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1064982
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5ed2ed5fca044f077743d073948f661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084729,
+            "localadmin_id":404525155,
+            "locality_id":9895000127,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000127,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Leesville",
+    "wof:parent_id":404525155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.78824030119324,
+    40.79534290939232,
+    -82.78824030119324,
+    40.79534290939232
+],
+  "geometry": {"coordinates":[-82.78824030119324,40.79534290939232],"type":"Point"}
+}

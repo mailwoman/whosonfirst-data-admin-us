@@ -1,0 +1,82 @@
+{
+  "id": 9895000167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.21987357629061,38.808977158383584,-82.21987357629061,38.808977158383584",
+    "geom:latitude":38.808977,
+    "geom:longitude":-82.219874,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698951: name \"Willow Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698951"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698951: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698951"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698951: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698951"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524679 (Gallipolis Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524679 (Gallipolis Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Willow Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083675,
+        102191575,
+        404524679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1698951
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3418165c14fbbb05c171722f520b6c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083675,
+            "localadmin_id":404524679,
+            "locality_id":9895000167,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000167,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Willow Woods",
+    "wof:parent_id":404524679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.21987357629061,
+    38.808977158383584,
+    -82.21987357629061,
+    38.808977158383584
+],
+  "geometry": {"coordinates":[-82.21987357629061,38.808977158383584],"type":"Point"}
+}

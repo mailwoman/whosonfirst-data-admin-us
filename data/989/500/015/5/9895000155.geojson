@@ -1,0 +1,82 @@
+{
+  "id": 9895000155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.67901800669581,40.07785762646306,-81.67901800669581,40.07785762646306",
+    "geom:latitude":40.077858,
+    "geom:longitude":-81.679018,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1080453: name \"Mantua\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1080453"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1080453: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1080453"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1080453: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1080453"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404523781 (Knox Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404523781 (Knox Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mantua"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084783,
+        102191575,
+        404523781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1080453
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8a97b453bc057d035cacd82b12a3c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084783,
+            "localadmin_id":404523781,
+            "locality_id":9895000155,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000155,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Mantua",
+    "wof:parent_id":404523781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.67901800669581,
+    40.07785762646306,
+    -81.67901800669581,
+    40.07785762646306
+],
+  "geometry": {"coordinates":[-81.67901800669581,40.07785762646306],"type":"Point"}
+}

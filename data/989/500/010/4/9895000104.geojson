@@ -1,0 +1,82 @@
+{
+  "id": 9895000104,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.66396891605778,40.350632023365975,-80.66396891605778,40.350632023365975",
+    "geom:latitude":40.350632,
+    "geom:longitude":-80.663969,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062557: name \"Sunshine Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062557"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062557: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062557"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062557: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062557"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526755 (Cross Creek Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526755 (Cross Creek Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunshine Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084713,
+        102191575,
+        404526755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1062557
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb02b193816084834c2334b578410e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084713,
+            "localadmin_id":404526755,
+            "locality_id":9895000104,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000104,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Sunshine Park",
+    "wof:parent_id":404526755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.66396891605778,
+    40.350632023365975,
+    -80.66396891605778,
+    40.350632023365975
+],
+  "geometry": {"coordinates":[-80.66396891605778,40.350632023365975],"type":"Point"}
+}

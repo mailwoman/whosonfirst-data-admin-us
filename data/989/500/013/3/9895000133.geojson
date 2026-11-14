@@ -1,0 +1,84 @@
+{
+  "id": 9895000133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.84152962591975,40.96034098427679,-81.84152962591975,40.96034098427679",
+    "geom:latitude":40.960341,
+    "geom:longitude":-81.84153,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1067272: name \"Johnsons Corners\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1067272"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1067272: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1067272"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1067272: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1067272"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713811 (Sterling).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713811 (Sterling), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Johnsons Corners"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713811,
+        102084731,
+        102191575,
+        404526509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1067272
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e0fec0a2b7a7e4aadb750a5049a95de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084731,
+            "localadmin_id":404526509,
+            "locality_id":101713811,
+            "neighbourhood_id":9895000133,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000133,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Johnsons Corners",
+    "wof:parent_id":101713811,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.84152962591975,
+    40.96034098427679,
+    -81.84152962591975,
+    40.96034098427679
+],
+  "geometry": {"coordinates":[-81.84152962591975,40.96034098427679],"type":"Point"}
+}

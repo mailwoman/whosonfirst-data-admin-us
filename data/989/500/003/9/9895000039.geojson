@@ -1,0 +1,82 @@
+{
+  "id": 9895000039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.90715816824772,39.92062289301611,-83.90715816824772,39.92062289301611",
+    "geom:latitude":39.920623,
+    "geom:longitude":-83.907158,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051351: name \"Sycamore West\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051351"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051351: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051351"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051351: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051351"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524995 (Bethel Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524995 (Bethel Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sycamore West"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083685,
+        102191575,
+        404524995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1051351
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4c16ecd16f6bc5b506604d4179d9efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083685,
+            "localadmin_id":404524995,
+            "locality_id":9895000039,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000039,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Sycamore West",
+    "wof:parent_id":404524995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.90715816824772,
+    39.92062289301611,
+    -83.90715816824772,
+    39.92062289301611
+],
+  "geometry": {"coordinates":[-83.90715816824772,39.92062289301611],"type":"Point"}
+}

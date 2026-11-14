@@ -1,0 +1,84 @@
+{
+  "id": 9895000163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.65341261462643,40.371742827296195,-80.65341261462643,40.371742827296195",
+    "geom:latitude":40.371743,
+    "geom:longitude":-80.653413,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1084631: name \"Spahns Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1084631"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1084631: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1084631"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1084631: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1084631"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713083 (Steubenville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713083 (Steubenville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Spahns Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713083,
+        102084713,
+        102191575,
+        404526769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1084631
+    },
+    "wof:country":"US",
+    "wof:geomhash":"39645b5a71fa56637483575f7da187df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084713,
+            "localadmin_id":404526769,
+            "locality_id":101713083,
+            "neighbourhood_id":9895000163,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000163,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Spahns Addition",
+    "wof:parent_id":101713083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.65341261462643,
+    40.371742827296195,
+    -80.65341261462643,
+    40.371742827296195
+],
+  "geometry": {"coordinates":[-80.65341261462643,40.371742827296195],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.36039247358168,40.90451009605866,-81.36039247358168,40.90451009605866",
+    "geom:latitude":40.90451,
+    "geom:longitude":-81.360392,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1038607: name \"Cairo\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1038607"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1038607: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1038607"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1038607: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1038607"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524271 (Plain Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524271 (Plain Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cairo"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083731,
+        102191575,
+        404524271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1038607
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a679fdfc76127540f94c40ad1b6c9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083731,
+            "localadmin_id":404524271,
+            "locality_id":9895000001,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000001,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Cairo",
+    "wof:parent_id":404524271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.36039247358168,
+    40.90451009605866,
+    -81.36039247358168,
+    40.90451009605866
+],
+  "geometry": {"coordinates":[-81.36039247358168,40.90451009605866],"type":"Point"}
+}

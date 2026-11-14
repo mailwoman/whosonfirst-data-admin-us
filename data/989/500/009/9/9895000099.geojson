@@ -1,0 +1,82 @@
+{
+  "id": 9895000099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.58243260094225,40.29256437850781,-83.58243260094225,40.29256437850781",
+    "geom:latitude":40.292564,
+    "geom:longitude":-83.582433,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1061513: name \"Middleburg\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1061513"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1061513: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1061513"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1061513: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1061513"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526559 (Zane Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526559 (Zane Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Middleburg"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083729,
+        102191575,
+        404526559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1061513
+    },
+    "wof:country":"US",
+    "wof:geomhash":"398ab045a3670b2d5ef3b9e98b283283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083729,
+            "localadmin_id":404526559,
+            "locality_id":9895000099,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000099,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Middleburg",
+    "wof:parent_id":404526559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.58243260094225,
+    40.29256437850781,
+    -83.58243260094225,
+    40.29256437850781
+],
+  "geometry": {"coordinates":[-83.58243260094225,40.29256437850781],"type":"Point"}
+}

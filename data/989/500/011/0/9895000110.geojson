@@ -1,0 +1,82 @@
+{
+  "id": 9895000110,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.9429901467411,39.51062421513754,-83.9429901467411,39.51062421513754",
+    "geom:latitude":39.510624,
+    "geom:longitude":-83.94299,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062920: name \"North Kingman\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062920"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062920: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062920"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062920: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062920"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524921 (Chester Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524921 (Chester Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North Kingman"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083645,
+        102191575,
+        404524921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1062920
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11e622c8bfad6c1320f4dacddc3fdeac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083645,
+            "localadmin_id":404524921,
+            "locality_id":9895000110,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000110,
+    "wof:lastmodified":1794669268,
+    "wof:name":"North Kingman",
+    "wof:parent_id":404524921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.9429901467411,
+    39.51062421513754,
+    -83.9429901467411,
+    39.51062421513754
+],
+  "geometry": {"coordinates":[-83.9429901467411,39.51062421513754],"type":"Point"}
+}

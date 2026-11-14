@@ -1,0 +1,82 @@
+{
+  "id": 9895000158,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.77513650691309,39.690357348198745,-81.77513650691309,39.690357348198745",
+    "geom:latitude":39.690357,
+    "geom:longitude":-81.775137,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1084018: name \"Meigs\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1084018"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1084018: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1084018"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1084018: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1084018"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524085 (Bristol Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524085 (Bristol Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meigs"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083711,
+        102191575,
+        404524085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1084018
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22e68ddab5e35c5e50834e6b5aecc70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083711,
+            "localadmin_id":404524085,
+            "locality_id":9895000158,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000158,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Meigs",
+    "wof:parent_id":404524085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.77513650691309,
+    39.690357348198745,
+    -81.77513650691309,
+    39.690357348198745
+],
+  "geometry": {"coordinates":[-81.77513650691309,39.690357348198745],"type":"Point"}
+}

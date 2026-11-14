@@ -1,0 +1,82 @@
+{
+  "id": 9895000057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.90993576629273,39.88784508795289,-83.90993576629273,39.88784508795289",
+    "geom:latitude":39.887845,
+    "geom:longitude":-83.909936,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052366: name \"Lindair Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052366"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052366: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052366"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052366: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052366"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525003 (Mad River Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525003 (Mad River Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lindair Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083685,
+        102191575,
+        404525003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1052366
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22811eea8647cfeeabbac792c4cb502d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083685,
+            "localadmin_id":404525003,
+            "locality_id":9895000057,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000057,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Lindair Acres",
+    "wof:parent_id":404525003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.90993576629273,
+    39.88784508795289,
+    -83.90993576629273,
+    39.88784508795289
+],
+  "geometry": {"coordinates":[-83.90993576629273,39.88784508795289],"type":"Point"}
+}

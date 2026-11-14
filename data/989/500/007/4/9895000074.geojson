@@ -1,0 +1,82 @@
+{
+  "id": 9895000074,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.53606608546062,41.43144763962484,-84.53606608546062,41.43144763962484",
+    "geom:latitude":41.431448,
+    "geom:longitude":-84.536066,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1055264: name \"Plover Lake Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1055264"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1055264: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1055264"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1055264: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1055264"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526643 (Pulaski Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526643 (Pulaski Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Plover Lake Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084817,
+        102191575,
+        404526643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1055264
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec709f849524e660e44f47273e35f54f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084817,
+            "localadmin_id":404526643,
+            "locality_id":9895000074,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000074,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Plover Lake Addition",
+    "wof:parent_id":404526643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.53606608546062,
+    41.43144763962484,
+    -84.53606608546062,
+    41.43144763962484
+],
+  "geometry": {"coordinates":[-84.53606608546062,41.43144763962484],"type":"Point"}
+}

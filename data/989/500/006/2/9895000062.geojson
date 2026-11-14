@@ -1,0 +1,82 @@
+{
+  "id": 9895000062,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.08176756540993,40.61868075554722,-81.08176756540993,40.61868075554722",
+    "geom:latitude":40.618681,
+    "geom:longitude":-81.081768,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052460: name \"Wyncrest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052460"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052460: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052460"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052460: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052460"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524973 (Washington Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524973 (Washington Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wyncrest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084825,
+        102191575,
+        404524973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1052460
+    },
+    "wof:country":"US",
+    "wof:geomhash":"50cf537d4bdf4a25aacdef487c27e5a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084825,
+            "localadmin_id":404524973,
+            "locality_id":9895000062,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000062,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Wyncrest",
+    "wof:parent_id":404524973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.08176756540993,
+    40.61868075554722,
+    -81.08176756540993,
+    40.61868075554722
+],
+  "geometry": {"coordinates":[-81.08176756540993,40.61868075554722],"type":"Point"}
+}

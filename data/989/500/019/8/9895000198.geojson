@@ -1,0 +1,82 @@
+{
+  "id": 9895000198,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.9491872052109,40.23538779768203,-82.9491872052109,40.23538779768203",
+    "geom:latitude":40.235388,
+    "geom:longitude":-82.949187,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771361: name \"Meadows At Cheshire\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771361"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771361: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771361"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771361: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771361"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524371 (Berlin Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524371 (Berlin Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meadows At Cheshire"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084739,
+        102191575,
+        404524371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2771361
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7dae1926d65965e0f1f6f6290106cebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084739,
+            "localadmin_id":404524371,
+            "locality_id":9895000198,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000198,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Meadows At Cheshire",
+    "wof:parent_id":404524371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.9491872052109,
+    40.23538779768203,
+    -82.9491872052109,
+    40.23538779768203
+],
+  "geometry": {"coordinates":[-82.9491872052109,40.23538779768203],"type":"Point"}
+}

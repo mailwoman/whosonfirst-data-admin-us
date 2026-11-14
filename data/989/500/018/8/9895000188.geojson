@@ -1,0 +1,84 @@
+{
+  "id": 9895000188,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.39983754621639,41.65699923362418,-81.39983754621639,41.65699923362418",
+    "geom:latitude":41.656999,
+    "geom:longitude":-81.399838,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1966092: name \"Oak Hill Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1966092"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1966092: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1966092"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1966092: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1966092"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85983185 (Willoughby).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85983185 (Willoughby), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oak Hill Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        85983185,
+        102083703,
+        102191575,
+        404526961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1966092
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b90bf849aee52ebf02cc21dbab148f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083703,
+            "localadmin_id":404526961,
+            "locality_id":85983185,
+            "neighbourhood_id":9895000188,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000188,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Oak Hill Village",
+    "wof:parent_id":85983185,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.39983754621639,
+    41.65699923362418,
+    -81.39983754621639,
+    41.65699923362418
+],
+  "geometry": {"coordinates":[-81.39983754621639,41.65699923362418],"type":"Point"}
+}

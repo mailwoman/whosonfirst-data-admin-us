@@ -1,0 +1,82 @@
+{
+  "id": 9895000032,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.5176631687849,38.830917849154865,-82.5176631687849,38.830917849154865",
+    "geom:latitude":38.830918,
+    "geom:longitude":-82.517663,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051226: name \"Gallia\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051226"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051226: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051226"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051226: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051226"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404523521 (Greenfield Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404523521 (Greenfield Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gallia"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083675,
+        102191575,
+        404523521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1051226
+    },
+    "wof:country":"US",
+    "wof:geomhash":"57e16061dc2055f3f4eab94b9dc9747b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083675,
+            "localadmin_id":404523521,
+            "locality_id":9895000032,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000032,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Gallia",
+    "wof:parent_id":404523521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.5176631687849,
+    38.830917849154865,
+    -82.5176631687849,
+    38.830917849154865
+],
+  "geometry": {"coordinates":[-82.5176631687849,38.830917849154865],"type":"Point"}
+}

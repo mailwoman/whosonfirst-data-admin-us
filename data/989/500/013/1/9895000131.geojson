@@ -1,0 +1,82 @@
+{
+  "id": 9895000131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.82550048426782,41.58839320349327,-83.82550048426782,41.58839320349327",
+    "geom:latitude":41.588393,
+    "geom:longitude":-83.8255,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1065782: name \"Midway\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1065782"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1065782: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1065782"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1065782: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1065782"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404523755 (Swanton Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404523755 (Swanton Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Midway"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084787,
+        102191575,
+        404523755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1065782
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ccbf227b901fd2ade0e23f80dbfa695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084787,
+            "localadmin_id":404523755,
+            "locality_id":9895000131,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000131,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Midway",
+    "wof:parent_id":404523755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.82550048426782,
+    41.58839320349327,
+    -83.82550048426782,
+    41.58839320349327
+],
+  "geometry": {"coordinates":[-83.82550048426782,41.58839320349327],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000008,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.27158616557487,39.76617969460521,-83.27158616557487,39.76617969460521",
+    "geom:latitude":39.76618,
+    "geom:longitude":-83.271586,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1048463: name \"Antioch\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1048463"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1048463: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1048463"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1048463: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1048463"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526083 (Pleasant Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526083 (Pleasant Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Antioch"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084757,
+        102191575,
+        404526083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1048463
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6361f391f34cb69ae5c2b68850fba29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084757,
+            "localadmin_id":404526083,
+            "locality_id":9895000008,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000008,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Antioch",
+    "wof:parent_id":404526083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.27158616557487,
+    39.76617969460521,
+    -83.27158616557487,
+    39.76617969460521
+],
+  "geometry": {"coordinates":[-83.27158616557487,39.76617969460521],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.10899176827328,40.54257123962789,-81.10899176827328,40.54257123962789",
+    "geom:latitude":40.542571,
+    "geom:longitude":-81.108992,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052444: name \"Heritage Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052444"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052444: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052444"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052444: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052444"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524969 (Union Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524969 (Union Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Heritage Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084825,
+        102191575,
+        404524969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1052444
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5cefa50ec6046dacabd2dcd65530888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084825,
+            "localadmin_id":404524969,
+            "locality_id":9895000059,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000059,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Heritage Hills",
+    "wof:parent_id":404524969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.10899176827328,
+    40.54257123962789,
+    -81.10899176827328,
+    40.54257123962789
+],
+  "geometry": {"coordinates":[-81.10899176827328,40.54257123962789],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.52933569522874,40.457569159074325,-82.52933569522874,40.457569159074325",
+    "geom:latitude":40.457569,
+    "geom:longitude":-82.529336,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1042330: name \"Knox\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1042330"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1042330: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1042330"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1042330: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1042330"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526891 (Morris Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526891 (Morris Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Knox"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084811,
+        102191575,
+        404526891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1042330
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9febb3a93b9c6669e8eaad734453b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084811,
+            "localadmin_id":404526891,
+            "locality_id":9895000005,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000005,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Knox",
+    "wof:parent_id":404526891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.52933569522874,
+    40.457569159074325,
+    -82.52933569522874,
+    40.457569159074325
+],
+  "geometry": {"coordinates":[-82.52933569522874,40.457569159074325],"type":"Point"}
+}

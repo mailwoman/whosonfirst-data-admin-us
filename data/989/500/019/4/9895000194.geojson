@@ -1,0 +1,82 @@
+{
+  "id": 9895000194,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.80329314133883,39.992118758823054,-82.80329314133883,39.992118758823054",
+    "geom:latitude":39.992119,
+    "geom:longitude":-82.803293,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771183: name \"Blacklick Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771183"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771183: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771183"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771183: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771183"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404523497 (Jefferson Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404523497 (Jefferson Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Blacklick Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102080969,
+        102191575,
+        404523497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2771183
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec1e3abaa9cf14d019621dcd100294a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404523497,
+            "locality_id":9895000194,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000194,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Blacklick Ridge",
+    "wof:parent_id":404523497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.80329314133883,
+    39.992118758823054,
+    -82.80329314133883,
+    39.992118758823054
+],
+  "geometry": {"coordinates":[-82.80329314133883,39.992118758823054],"type":"Point"}
+}

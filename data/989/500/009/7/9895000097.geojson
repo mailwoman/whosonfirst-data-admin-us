@@ -1,0 +1,82 @@
+{
+  "id": 9895000097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.29995120196001,41.29783432754148,-84.29995120196001,41.29783432754148",
+    "geom:latitude":41.297834,
+    "geom:longitude":-84.299951,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1061237: name \"Independence\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1061237"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1061237: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1061237"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1061237: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1061237"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524365 (Richland Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524365 (Richland Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Independence"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083701,
+        102191575,
+        404524365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1061237
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c66e48b2420ca62dd3e08bf009fd9ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083701,
+            "localadmin_id":404524365,
+            "locality_id":9895000097,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000097,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Independence",
+    "wof:parent_id":404524365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.29995120196001,
+    41.29783432754148,
+    -84.29995120196001,
+    41.29783432754148
+],
+  "geometry": {"coordinates":[-84.29995120196001,41.29783432754148],"type":"Point"}
+}

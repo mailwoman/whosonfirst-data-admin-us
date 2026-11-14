@@ -1,0 +1,84 @@
+{
+  "id": 9895000070,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.97351462784553,39.13702008863427,-82.97351462784553,39.13702008863427",
+    "geom:latitude":39.13702,
+    "geom:longitude":-82.973515,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1055193: name \"Kilgore Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1055193"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1055193: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1055193"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1055193: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1055193"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713051 (Waverly).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713051 (Waverly), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kilgore Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713051,
+        102084711,
+        102191575,
+        404525633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1055193
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0573a86a0185b43ad2f4191115d8e34a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084711,
+            "localadmin_id":404525633,
+            "locality_id":101713051,
+            "neighbourhood_id":9895000070,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000070,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Kilgore Estates",
+    "wof:parent_id":101713051,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.97351462784553,
+    39.13702008863427,
+    -82.97351462784553,
+    39.13702008863427
+],
+  "geometry": {"coordinates":[-82.97351462784553,39.13702008863427],"type":"Point"}
+}

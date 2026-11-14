@@ -1,0 +1,82 @@
+{
+  "id": 9895000015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.70980572112794,40.22257849644776,-80.70980572112794,40.22257849644776",
+    "geom:latitude":40.222578,
+    "geom:longitude":-80.709806,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1048852: name \"Hopewell\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1048852"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1048852: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1048852"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1048852: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1048852"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526775 (Warren Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526775 (Warren Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hopewell"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084713,
+        102191575,
+        404526775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1048852
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1fc24959351dde740f70a2fac1ee3d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084713,
+            "localadmin_id":404526775,
+            "locality_id":9895000015,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000015,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Hopewell",
+    "wof:parent_id":404526775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.70980572112794,
+    40.22257849644776,
+    -80.70980572112794,
+    40.22257849644776
+],
+  "geometry": {"coordinates":[-80.70980572112794,40.22257849644776],"type":"Point"}
+}

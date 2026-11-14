@@ -1,0 +1,82 @@
+{
+  "id": 9895000065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.49123238576784,40.54840472335912,-81.49123238576784,40.54840472335912",
+    "geom:latitude":40.548405,
+    "geom:longitude":-81.491232,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1054241: name \"Candlelight Villas\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1054241"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1054241: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1054241"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1054241: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1054241"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524311 (Dover Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524311 (Dover Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Candlelight Villas"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084737,
+        102191575,
+        404524311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1054241
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b859d6706abd539ba96831fd4bf64a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084737,
+            "localadmin_id":404524311,
+            "locality_id":9895000065,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000065,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Candlelight Villas",
+    "wof:parent_id":404524311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.49123238576784,
+    40.54840472335912,
+    -81.49123238576784,
+    40.54840472335912
+],
+  "geometry": {"coordinates":[-81.49123238576784,40.54840472335912],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000116,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.40289607979011,40.81756617797237,-81.40289607979011,40.81756617797237",
+    "geom:latitude":40.817566,
+    "geom:longitude":-81.402896,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1063128: name \"Lakeview Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1063128"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1063128: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1063128"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1063128: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1063128"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524271 (Plain Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524271 (Plain Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lakeview Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083731,
+        102191575,
+        404524271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1063128
+    },
+    "wof:country":"US",
+    "wof:geomhash":"542fc5776ccbd3f5578d4ebb0cc01331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083731,
+            "localadmin_id":404524271,
+            "locality_id":9895000116,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000116,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Lakeview Heights",
+    "wof:parent_id":404524271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.40289607979011,
+    40.81756617797237,
+    -81.40289607979011,
+    40.81756617797237
+],
+  "geometry": {"coordinates":[-81.40289607979011,40.81756617797237],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.34789435945912,40.77117787224649,-81.34789435945912,40.77117787224649",
+    "geom:latitude":40.771178,
+    "geom:longitude":-81.347894,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1057726: name \"Orchard Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1057726"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1057726: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1057726"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1057726: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1057726"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525725 (Canton Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525725 (Canton Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Orchard Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083731,
+        102191575,
+        404525725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1057726
+    },
+    "wof:country":"US",
+    "wof:geomhash":"122630dbf9456a51915fbcfe7e7e9eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083731,
+            "localadmin_id":404525725,
+            "locality_id":9895000087,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000087,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Orchard Heights",
+    "wof:parent_id":404525725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.34789435945912,
+    40.77117787224649,
+    -81.34789435945912,
+    40.77117787224649
+],
+  "geometry": {"coordinates":[-81.34789435945912,40.77117787224649],"type":"Point"}
+}

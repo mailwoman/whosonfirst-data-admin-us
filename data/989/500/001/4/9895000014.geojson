@@ -1,0 +1,82 @@
+{
+  "id": 9895000014,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.97021910887881,40.185617340440736,-83.97021910887881,40.185617340440736",
+    "geom:latitude":40.185617,
+    "geom:longitude":-83.970219,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1048800: name \"Grandview Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1048800"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1048800: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1048800"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1048800: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1048800"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524983 (Johnson Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524983 (Johnson Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Grandview Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084709,
+        102191575,
+        404524983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1048800
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8fa5dfc2c9c6b7bdfe59ca57c0767099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084709,
+            "localadmin_id":404524983,
+            "locality_id":9895000014,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000014,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Grandview Heights",
+    "wof:parent_id":404524983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.97021910887881,
+    40.185617340440736,
+    -83.97021910887881,
+    40.185617340440736
+],
+  "geometry": {"coordinates":[-83.97021910887881,40.185617340440736],"type":"Point"}
+}

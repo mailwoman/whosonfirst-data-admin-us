@@ -1,0 +1,84 @@
+{
+  "id": 9895000056,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.46155476893964,40.386181648668384,-82.46155476893964,40.386181648668384",
+    "geom:latitude":40.386182,
+    "geom:longitude":-82.461555,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051975: name \"Buckingham Court\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051975"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051975: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051975"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051975: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051975"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713265 (Mount Vernon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713265 (Mount Vernon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Buckingham Court"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713265,
+        102084811,
+        102191575,
+        404526893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1051975
+    },
+    "wof:country":"US",
+    "wof:geomhash":"76d1c440245a4f11d14459dc286e6bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084811,
+            "localadmin_id":404526893,
+            "locality_id":101713265,
+            "neighbourhood_id":9895000056,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000056,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Buckingham Court",
+    "wof:parent_id":101713265,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.46155476893964,
+    40.386181648668384,
+    -82.46155476893964,
+    40.386181648668384
+],
+  "geometry": {"coordinates":[-82.46155476893964,40.386181648668384],"type":"Point"}
+}

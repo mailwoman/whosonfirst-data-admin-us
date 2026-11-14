@@ -1,0 +1,84 @@
+{
+  "id": 9895000150,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.01022823996864,41.58061539330728,-84.01022823996864,41.58061539330728",
+    "geom:latitude":41.580615,
+    "geom:longitude":-84.010228,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1079671: name \"Delta Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1079671"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1079671: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1079671"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1079671: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1079671"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85983115 (Delta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85983115 (Delta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Delta Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        85983115,
+        102083693,
+        102191575,
+        404524673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1079671
+    },
+    "wof:country":"US",
+    "wof:geomhash":"519b36abdefba7b256ff17100f34ae7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083693,
+            "localadmin_id":404524673,
+            "locality_id":85983115,
+            "neighbourhood_id":9895000150,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000150,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Delta Heights",
+    "wof:parent_id":85983115,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.01022823996864,
+    41.58061539330728,
+    -84.01022823996864,
+    41.58061539330728
+],
+  "geometry": {"coordinates":[-84.01022823996864,41.58061539330728],"type":"Point"}
+}

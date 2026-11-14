@@ -1,0 +1,84 @@
+{
+  "id": 9895000202,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.23738927001892,39.96248273352332,-83.23738927001892,39.96248273352332",
+    "geom:latitude":39.962483,
+    "geom:longitude":-83.237389,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771810: name \"Lake Darby Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771810"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771810: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771810"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771810: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771810"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713835 (Lake Darby).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713835 (Lake Darby), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lake Darby Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713835,
+        102080969,
+        102191575,
+        404523505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2771810
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab6c85a9ba774fb12b90399c41e23375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404523505,
+            "locality_id":101713835,
+            "neighbourhood_id":9895000202,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000202,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Lake Darby Estates",
+    "wof:parent_id":101713835,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.23738927001892,
+    39.96248273352332,
+    -83.23738927001892,
+    39.96248273352332
+],
+  "geometry": {"coordinates":[-83.23738927001892,39.96248273352332],"type":"Point"}
+}

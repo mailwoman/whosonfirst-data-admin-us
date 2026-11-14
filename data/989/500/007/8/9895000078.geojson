@@ -1,0 +1,82 @@
+{
+  "id": 9895000078,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.74996657252105,40.545609868491475,-84.74996657252105,40.545609868491475",
+    "geom:latitude":40.54561,
+    "geom:longitude":-84.749967,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1056559: name \"Wabash\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1056559"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1056559: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1056559"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1056559: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1056559"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526603 (Washington Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526603 (Washington Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wabash"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083647,
+        102191575,
+        404526603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1056559
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d10c6b3efae2d08a0c2b0822f38c7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083647,
+            "localadmin_id":404526603,
+            "locality_id":9895000078,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000078,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Wabash",
+    "wof:parent_id":404526603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.74996657252105,
+    40.545609868491475,
+    -84.74996657252105,
+    40.545609868491475
+],
+  "geometry": {"coordinates":[-84.74996657252105,40.545609868491475],"type":"Point"}
+}

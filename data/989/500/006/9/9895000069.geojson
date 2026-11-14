@@ -1,0 +1,82 @@
+{
+  "id": 9895000069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.619294383702,40.017302117454435,-81.619294383702,40.017302117454435",
+    "geom:latitude":40.017302,
+    "geom:longitude":-81.619294,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1054766: name \"Meadow Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1054766"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1054766: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1054766"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1054766: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1054766"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525399 (Cambridge Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525399 (Cambridge Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meadow Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084783,
+        102191575,
+        404525399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1054766
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c399ae9273354f5d25e1902ccfdcb826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084783,
+            "localadmin_id":404525399,
+            "locality_id":9895000069,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000069,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Meadow Village",
+    "wof:parent_id":404525399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.619294383702,
+    40.017302117454435,
+    -81.619294383702,
+    40.017302117454435
+],
+  "geometry": {"coordinates":[-81.619294383702,40.017302117454435],"type":"Point"}
+}

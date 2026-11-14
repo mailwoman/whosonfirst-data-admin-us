@@ -1,0 +1,84 @@
+{
+  "id": 9895000076,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.33772306266506,39.48839929260933,-84.33772306266506,39.48839929260933",
+    "geom:latitude":39.488399,
+    "geom:longitude":-84.337723,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1056398: name \"Lemon\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1056398"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1056398: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1056398"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1056398: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1056398"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101712653 (Middletown).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101712653 (Middletown), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lemon"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101712653,
+        102084743,
+        102191575,
+        404524795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1056398
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c859a6caef397a848e5bd6b5725e554c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084743,
+            "localadmin_id":404524795,
+            "locality_id":101712653,
+            "neighbourhood_id":9895000076,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000076,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Lemon",
+    "wof:parent_id":101712653,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.33772306266506,
+    39.48839929260933,
+    -84.33772306266506,
+    39.48839929260933
+],
+  "geometry": {"coordinates":[-84.33772306266506,39.48839929260933],"type":"Point"}
+}

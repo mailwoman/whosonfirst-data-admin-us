@@ -1,0 +1,84 @@
+{
+  "id": 9895000201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.14344924545108,40.00762474611727,-83.14344924545108,40.00762474611727",
+    "geom:latitude":40.007625,
+    "geom:longitude":-83.143449,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771686: name \"Oak Run\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771686"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771686: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771686"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771686: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771686"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101712381 (Columbus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101712381 (Columbus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oak Run"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101712381,
+        102080969,
+        102191575,
+        404524625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2771686
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e91e22120e8f5dda190fbc53deed397a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524625,
+            "locality_id":101712381,
+            "neighbourhood_id":9895000201,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000201,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Oak Run",
+    "wof:parent_id":101712381,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.14344924545108,
+    40.00762474611727,
+    -83.14344924545108,
+    40.00762474611727
+],
+  "geometry": {"coordinates":[-83.14344924545108,40.00762474611727],"type":"Point"}
+}

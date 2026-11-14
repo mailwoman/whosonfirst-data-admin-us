@@ -1,0 +1,82 @@
+{
+  "id": 9895000125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.3946147034857,41.06061797733463,-82.3946147034857,41.06061797733463",
+    "geom:latitude":41.060618,
+    "geom:longitude":-82.394615,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064826: name \"Hereford\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064826"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064826: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064826"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064826: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064826"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524689 (Ruggles Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524689 (Ruggles Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hereford"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084829,
+        102191575,
+        404524689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1064826
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6651894aac0f1d86ae2fbdce23314b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084829,
+            "localadmin_id":404524689,
+            "locality_id":9895000125,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000125,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Hereford",
+    "wof:parent_id":404524689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.3946147034857,
+    41.06061797733463,
+    -82.3946147034857,
+    41.06061797733463
+],
+  "geometry": {"coordinates":[-82.3946147034857,41.06061797733463],"type":"Point"}
+}

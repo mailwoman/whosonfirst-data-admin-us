@@ -1,0 +1,84 @@
+{
+  "id": 9895000093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.07626193931603,41.46588286663266,-82.07626193931603,41.46588286663266",
+    "geom:latitude":41.465883,
+    "geom:longitude":-82.076262,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1058952: name \"Crandall\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1058952"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1058952: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1058952"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1058952: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1058952"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101712965 (Sheffield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101712965 (Sheffield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Crandall"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101712965,
+        102083683,
+        102191575,
+        404525325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1058952
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b301cbf5ddc38151524a80e9407522a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083683,
+            "localadmin_id":404525325,
+            "locality_id":101712965,
+            "neighbourhood_id":9895000093,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000093,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Crandall",
+    "wof:parent_id":101712965,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.07626193931603,
+    41.46588286663266,
+    -82.07626193931603,
+    41.46588286663266
+],
+  "geometry": {"coordinates":[-82.07626193931603,41.46588286663266],"type":"Point"}
+}

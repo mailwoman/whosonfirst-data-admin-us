@@ -1,0 +1,82 @@
+{
+  "id": 9895000119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.64146790853296,40.33979892199012,-80.64146790853296,40.33979892199012",
+    "geom:latitude":40.339799,
+    "geom:longitude":-80.641468,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1063810: name \"Jefferson Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1063810"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1063810: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1063810"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1063810: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1063810"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526773 (Steubenville Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526773 (Steubenville Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jefferson Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084713,
+        102191575,
+        404526773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1063810
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a8c2ac2d04e146e0adb9eee22ac36f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084713,
+            "localadmin_id":404526773,
+            "locality_id":9895000119,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000119,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Jefferson Heights",
+    "wof:parent_id":404526773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.64146790853296,
+    40.33979892199012,
+    -80.64146790853296,
+    40.33979892199012
+],
+  "geometry": {"coordinates":[-80.64146790853296,40.33979892199012],"type":"Point"}
+}

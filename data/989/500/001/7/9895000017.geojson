@@ -1,0 +1,82 @@
+{
+  "id": 9895000017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.89736270560516,39.165917541409485,-81.89736270560516,39.165917541409485",
+    "geom:latitude":39.165918,
+    "geom:longitude":-81.897363,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1048966: name \"Meigs\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1048966"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1048966: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1048966"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1048966: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1048966"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524039 (Orange Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524039 (Orange Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meigs"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083655,
+        102191575,
+        404524039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1048966
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f19db83ab821f6e18e4ee3a41a1ea162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083655,
+            "localadmin_id":404524039,
+            "locality_id":9895000017,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000017,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Meigs",
+    "wof:parent_id":404524039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.89736270560516,
+    39.165917541409485,
+    -81.89736270560516,
+    39.165917541409485
+],
+  "geometry": {"coordinates":[-81.89736270560516,39.165917541409485],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9895000071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.97490342776635,39.12757588632707,-82.97490342776635,39.12757588632707",
+    "geom:latitude":39.127576,
+    "geom:longitude":-82.974903,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1055225: name \"Waverly Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1055225"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1055225: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1055225"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1055225: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1055225"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713051 (Waverly).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713051 (Waverly), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Waverly Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713051,
+        102084711,
+        102191575,
+        404525633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1055225
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a970c769d631188ce3656f39ffaf2398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084711,
+            "localadmin_id":404525633,
+            "locality_id":101713051,
+            "neighbourhood_id":9895000071,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000071,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Waverly Estates",
+    "wof:parent_id":101713051,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.97490342776635,
+    39.12757588632707,
+    -82.97490342776635,
+    39.12757588632707
+],
+  "geometry": {"coordinates":[-82.97490342776635,39.12757588632707],"type":"Point"}
+}

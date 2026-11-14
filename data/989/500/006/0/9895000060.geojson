@@ -1,0 +1,82 @@
+{
+  "id": 9895000060,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.08315676058949,40.55562654315255,-81.08315676058949,40.55562654315255",
+    "geom:latitude":40.555627,
+    "geom:longitude":-81.083157,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052446: name \"Rolling Meadow Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052446"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052446: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052446"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052446: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052446"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524969 (Union Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524969 (Union Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rolling Meadow Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084825,
+        102191575,
+        404524969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1052446
+    },
+    "wof:country":"US",
+    "wof:geomhash":"896721937e4c90e2a1213076056b9716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084825,
+            "localadmin_id":404524969,
+            "locality_id":9895000060,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000060,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Rolling Meadow Acres",
+    "wof:parent_id":404524969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.08315676058949,
+    40.55562654315255,
+    -81.08315676058949,
+    40.55562654315255
+],
+  "geometry": {"coordinates":[-81.08315676058949,40.55562654315255],"type":"Point"}
+}

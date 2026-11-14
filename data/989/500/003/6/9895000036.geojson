@@ -1,0 +1,82 @@
+{
+  "id": 9895000036,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.94299338337107,39.97840040302737,-83.94299338337107,39.97840040302737",
+    "geom:latitude":39.9784,
+    "geom:longitude":-83.942993,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051292: name \"Hampton Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051292"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051292: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051292"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051292: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051292"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525009 (Pike Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525009 (Pike Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hampton Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083685,
+        102191575,
+        404525009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1051292
+    },
+    "wof:country":"US",
+    "wof:geomhash":"238ca9757fe8cfba2e9ce5ec141302a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083685,
+            "localadmin_id":404525009,
+            "locality_id":9895000036,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000036,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Hampton Woods",
+    "wof:parent_id":404525009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.94299338337107,
+    39.97840040302737,
+    -83.94299338337107,
+    39.97840040302737
+],
+  "geometry": {"coordinates":[-83.94299338337107,39.97840040302737],"type":"Point"}
+}

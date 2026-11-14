@@ -1,0 +1,84 @@
+{
+  "id": 9895000081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.39011827340721,40.786177572500286,-81.39011827340721,40.786177572500286",
+    "geom:latitude":40.786178,
+    "geom:longitude":-81.390118,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1057491: name \"Whittier Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1057491"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1057491: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1057491"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1057491: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1057491"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713301 (Canton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713301 (Canton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Whittier Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713301,
+        102083731,
+        102191575,
+        404524261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1057491
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7958636a0b7f9dbf2aa17f8e14622ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083731,
+            "localadmin_id":404524261,
+            "locality_id":101713301,
+            "neighbourhood_id":9895000081,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000081,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Whittier Park",
+    "wof:parent_id":101713301,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.39011827340721,
+    40.786177572500286,
+    -81.39011827340721,
+    40.786177572500286
+],
+  "geometry": {"coordinates":[-81.39011827340721,40.786177572500286],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.40460092146135,39.9931281773095,-82.40460092146135,39.9931281773095",
+    "geom:latitude":39.993128,
+    "geom:longitude":-82.404601,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064656: name \"Fleatown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064656"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064656: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064656"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064656: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064656"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525237 (Licking Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525237 (Licking Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fleatown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084761,
+        102191575,
+        404525237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1064656
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e624c11f2ee9fe155835fe0cf84b4864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084761,
+            "localadmin_id":404525237,
+            "locality_id":9895000123,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000123,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Fleatown",
+    "wof:parent_id":404525237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.40460092146135,
+    39.9931281773095,
+    -82.40460092146135,
+    39.9931281773095
+],
+  "geometry": {"coordinates":[-82.40460092146135,39.9931281773095],"type":"Point"}
+}

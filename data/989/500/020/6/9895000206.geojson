@@ -1,0 +1,84 @@
+{
+  "id": 9895000206,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.47560381086508,40.93555799675023,-81.47560381086508,40.93555799675023",
+    "geom:latitude":40.935558,
+    "geom:longitude":-81.475604,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2778174: name \"Greensburg Woodlands\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2778174"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2778174: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2778174"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2778174: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2778174"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713373 (Green).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713373 (Green), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Greensburg Woodlands"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713373,
+        102084807,
+        102191575,
+        404525987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2778174
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7493da91fda208c22f03f86db7cbfc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084807,
+            "localadmin_id":404525987,
+            "locality_id":101713373,
+            "neighbourhood_id":9895000206,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000206,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Greensburg Woodlands",
+    "wof:parent_id":101713373,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.47560381086508,
+    40.93555799675023,
+    -81.47560381086508,
+    40.93555799675023
+],
+  "geometry": {"coordinates":[-81.47560381086508,40.93555799675023],"type":"Point"}
+}

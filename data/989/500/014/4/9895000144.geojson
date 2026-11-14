@@ -1,0 +1,82 @@
+{
+  "id": 9895000144,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.02231908291294,41.072565642775054,-81.02231908291294,41.072565642775054",
+    "geom:latitude":41.072566,
+    "geom:longitude":-81.022319,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1071103: name \"Lloyd\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1071103"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1071103: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1071103"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1071103: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1071103"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404523949 (Palmyra Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404523949 (Palmyra Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lloyd"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084819,
+        102191575,
+        404523949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1071103
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e15ffaeaa3ba5886b3f32b8e016f070c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084819,
+            "localadmin_id":404523949,
+            "locality_id":9895000144,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000144,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Lloyd",
+    "wof:parent_id":404523949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.02231908291294,
+    41.072565642775054,
+    -81.02231908291294,
+    41.072565642775054
+],
+  "geometry": {"coordinates":[-81.02231908291294,41.072565642775054],"type":"Point"}
+}

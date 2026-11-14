@@ -1,0 +1,84 @@
+{
+  "id": 9895000200,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.16620525504068,40.043836751633414,-83.16620525504068,40.043836751633414",
+    "geom:latitude":40.043837,
+    "geom:longitude":-83.166205,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771636: name \"Hilliard Run\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771636"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771636: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771636"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2771636: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2771636"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101712413 (Hilliard).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101712413 (Hilliard), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hilliard Run"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101712413,
+        102080969,
+        102191575,
+        404524639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2771636
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c77649c60ac2603987efd7cb39281169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524639,
+            "locality_id":101712413,
+            "neighbourhood_id":9895000200,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000200,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Hilliard Run",
+    "wof:parent_id":101712413,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.16620525504068,
+    40.043836751633414,
+    -83.16620525504068,
+    40.043836751633414
+],
+  "geometry": {"coordinates":[-83.16620525504068,40.043836751633414],"type":"Point"}
+}

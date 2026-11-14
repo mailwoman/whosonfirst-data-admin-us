@@ -1,0 +1,84 @@
+{
+  "id": 9895000192,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.35556015288036,39.29500755541556,-84.35556015288036,39.29500755541556",
+    "geom:latitude":39.295008,
+    "geom:longitude":-84.35556,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2353389: name \"Brenner Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2353389"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2353389: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2353389"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2353389: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2353389"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101712271 (Sharonville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101712271 (Sharonville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brenner Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101712271,
+        102083687,
+        102191575,
+        404525383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2353389
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61d2d90bae065d94fb2c9a55d54a8e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083687,
+            "localadmin_id":404525383,
+            "locality_id":101712271,
+            "neighbourhood_id":9895000192,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000192,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Brenner Woods",
+    "wof:parent_id":101712271,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.35556015288036,
+    39.29500755541556,
+    -84.35556015288036,
+    39.29500755541556
+],
+  "geometry": {"coordinates":[-84.35556015288036,39.29500755541556],"type":"Point"}
+}

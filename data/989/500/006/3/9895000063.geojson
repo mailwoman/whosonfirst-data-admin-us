@@ -1,0 +1,84 @@
+{
+  "id": 9895000063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.04681613358477,41.504492275078846,-82.04681613358477,41.504492275078846",
+    "geom:latitude":41.504492,
+    "geom:longitude":-82.046816,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052667: name \"Beech Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052667"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052667: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052667"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052667: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052667"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101712945 (Avon Lake).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101712945 (Avon Lake), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Beech Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101712945,
+        102083683,
+        102191575,
+        404525291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1052667
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e11a17735ce6e1071d2eaa508907fa90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083683,
+            "localadmin_id":404525291,
+            "locality_id":101712945,
+            "neighbourhood_id":9895000063,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000063,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Beech Park",
+    "wof:parent_id":101712945,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.04681613358477,
+    41.504492275078846,
+    -82.04681613358477,
+    41.504492275078846
+],
+  "geometry": {"coordinates":[-82.04681613358477,41.504492275078846],"type":"Point"}
+}

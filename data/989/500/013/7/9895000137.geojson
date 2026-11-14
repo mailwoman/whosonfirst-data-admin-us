@@ -1,0 +1,82 @@
+{
+  "id": 9895000137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.88680256836753,40.05785571302508,-81.88680256836753,40.05785571302508",
+    "geom:latitude":40.057856,
+    "geom:longitude":-81.886803,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1067308: name \"Spencer\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1067308"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1067308: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1067308"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1067308: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1067308"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525761 (Salem Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525761 (Salem Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Spencer"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084785,
+        102191575,
+        404525761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1067308
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33141deb994784f725235a502b28356c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084785,
+            "localadmin_id":404525761,
+            "locality_id":9895000137,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000137,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Spencer",
+    "wof:parent_id":404525761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.88680256836753,
+    40.05785571302508,
+    -81.88680256836753,
+    40.05785571302508
+],
+  "geometry": {"coordinates":[-81.88680256836753,40.05785571302508],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9895000130,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.56160601358114,41.710056738359185,-83.56160601358114,41.710056738359185",
+    "geom:latitude":41.710057,
+    "geom:longitude":-83.561606,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1065726: name \"Mayfair Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1065726"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1065726: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1065726"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1065726: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1065726"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101712039 (Toledo).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101712039 (Toledo), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mayfair Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101712039,
+        102084787,
+        102191575,
+        404525355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1065726
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e2111ed3294530c6c372aeb23636bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084787,
+            "localadmin_id":404525355,
+            "locality_id":101712039,
+            "neighbourhood_id":9895000130,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000130,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Mayfair Park",
+    "wof:parent_id":101712039,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.56160601358114,
+    41.710056738359185,
+    -83.56160601358114,
+    41.710056738359185
+],
+  "geometry": {"coordinates":[-83.56160601358114,41.710056738359185],"type":"Point"}
+}

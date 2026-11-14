@@ -1,0 +1,82 @@
+{
+  "id": 9895000209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.76273397359718,40.54721076517865,-82.76273397359718,40.54721076517865",
+    "geom:latitude":40.547211,
+    "geom:longitude":-82.762734,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805295: name \"Hidden Lakes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805295"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805295: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805295"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805295: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805295"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404527003 (Franklin Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404527003 (Franklin Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hidden Lakes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083749,
+        102191575,
+        404527003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805295
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63130856b5b10c2121d233e601a1ca1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083749,
+            "localadmin_id":404527003,
+            "locality_id":9895000209,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000209,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Hidden Lakes",
+    "wof:parent_id":404527003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.76273397359718,
+    40.54721076517865,
+    -82.76273397359718,
+    40.54721076517865
+],
+  "geometry": {"coordinates":[-82.76273397359718,40.54721076517865],"type":"Point"}
+}

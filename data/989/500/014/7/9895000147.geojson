@@ -1,0 +1,84 @@
+{
+  "id": 9895000147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.45790319270776,39.45230391639409,-81.45790319270776,39.45230391639409",
+    "geom:latitude":39.452304,
+    "geom:longitude":-81.457903,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1077104: name \"Unionville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1077104"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1077104: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1077104"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1077104: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1077104"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713827 (Devola).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713827 (Devola), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Unionville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713827,
+        102084767,
+        102191575,
+        404526373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1077104
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68bb5e7303178fd313ac82b13caf52b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084767,
+            "localadmin_id":404526373,
+            "locality_id":101713827,
+            "neighbourhood_id":9895000147,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000147,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Unionville",
+    "wof:parent_id":101713827,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.45790319270776,
+    39.45230391639409,
+    -81.45790319270776,
+    39.45230391639409
+],
+  "geometry": {"coordinates":[-81.45790319270776,39.45230391639409],"type":"Point"}
+}

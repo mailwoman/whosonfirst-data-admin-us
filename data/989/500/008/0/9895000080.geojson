@@ -1,0 +1,82 @@
+{
+  "id": 9895000080,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.40039607823587,40.81395507768295,-81.40039607823587,40.81395507768295",
+    "geom:latitude":40.813955,
+    "geom:longitude":-81.400396,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1057481: name \"Edmeyer Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1057481"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1057481: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1057481"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1057481: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1057481"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525725 (Canton Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525725 (Canton Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Edmeyer Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083731,
+        102191575,
+        404525725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1057481
+    },
+    "wof:country":"US",
+    "wof:geomhash":"91f7fea30faf070cc1cfdb0a817a6f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083731,
+            "localadmin_id":404525725,
+            "locality_id":9895000080,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000080,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Edmeyer Park",
+    "wof:parent_id":404525725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.40039607823587,
+    40.81395507768295,
+    -81.40039607823587,
+    40.81395507768295
+],
+  "geometry": {"coordinates":[-81.40039607823587,40.81395507768295],"type":"Point"}
+}

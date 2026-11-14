@@ -1,0 +1,84 @@
+{
+  "id": 9895000094,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.01935521751797,40.125904273831345,-83.01935521751797,40.125904273831345",
+    "geom:latitude":40.125904,
+    "geom:longitude":-83.019355,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1059964: name \"Northwoods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1059964"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1059964: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1059964"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1059964: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1059964"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101712381 (Columbus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101712381 (Columbus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Northwoods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101712381,
+        102080969,
+        102191575,
+        404524625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1059964
+    },
+    "wof:country":"US",
+    "wof:geomhash":"65e494ca64bd9e220895ba54292a974a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524625,
+            "locality_id":101712381,
+            "neighbourhood_id":9895000094,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000094,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Northwoods",
+    "wof:parent_id":101712381,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.01935521751797,
+    40.125904273831345,
+    -83.01935521751797,
+    40.125904273831345
+],
+  "geometry": {"coordinates":[-83.01935521751797,40.125904273831345],"type":"Point"}
+}

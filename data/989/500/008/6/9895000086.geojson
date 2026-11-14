@@ -1,0 +1,82 @@
+{
+  "id": 9895000086,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.3092806506704,40.810066581255676,-81.3092806506704,40.810066581255676",
+    "geom:latitude":40.810067,
+    "geom:longitude":-81.309281,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1057683: name \"Lynn Center Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1057683"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1057683: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1057683"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1057683: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1057683"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525805 (Osnaburg Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525805 (Osnaburg Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lynn Center Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083731,
+        102191575,
+        404525805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1057683
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5cbcd5fdcf3b9001b0f56b1eb7c30fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083731,
+            "localadmin_id":404525805,
+            "locality_id":9895000086,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000086,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Lynn Center Park",
+    "wof:parent_id":404525805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.3092806506704,
+    40.810066581255676,
+    -81.3092806506704,
+    40.810066581255676
+],
+  "geometry": {"coordinates":[-81.3092806506704,40.810066581255676],"type":"Point"}
+}

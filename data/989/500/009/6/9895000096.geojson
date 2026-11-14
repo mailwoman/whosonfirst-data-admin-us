@@ -1,0 +1,82 @@
+{
+  "id": 9895000096,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.96324220931531,40.23868109769414,-82.96324220931531,40.23868109769414",
+    "geom:latitude":40.238681,
+    "geom:longitude":-82.963242,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1060954: name \"Cheshire\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1060954"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1060954: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1060954"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1060954: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1060954"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524371 (Berlin Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524371 (Berlin Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cheshire"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084739,
+        102191575,
+        404524371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1060954
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d1363d58a1b5489d2598951f3926815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084739,
+            "localadmin_id":404524371,
+            "locality_id":9895000096,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000096,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Cheshire",
+    "wof:parent_id":404524371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.96324220931531,
+    40.23868109769414,
+    -82.96324220931531,
+    40.23868109769414
+],
+  "geometry": {"coordinates":[-82.96324220931531,40.23868109769414],"type":"Point"}
+}

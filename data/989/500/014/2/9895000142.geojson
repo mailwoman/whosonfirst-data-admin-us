@@ -1,0 +1,82 @@
+{
+  "id": 9895000142,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.17565917976714,41.6870006491505,-81.17565917976714,41.6870006491505",
+    "geom:latitude":41.687001,
+    "geom:longitude":-81.175659,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1068741: name \"Five Points\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1068741"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1068741: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1068741"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1068741: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1068741"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526909 (Leroy Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526909 (Leroy Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Five Points"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083703,
+        102191575,
+        404526909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1068741
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aaa5eb4431f392cf4d1586ec13eaa737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083703,
+            "localadmin_id":404526909,
+            "locality_id":9895000142,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000142,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Five Points",
+    "wof:parent_id":404526909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.17565917976714,
+    41.6870006491505,
+    -81.17565917976714,
+    41.6870006491505
+],
+  "geometry": {"coordinates":[-81.17565917976714,41.6870006491505],"type":"Point"}
+}

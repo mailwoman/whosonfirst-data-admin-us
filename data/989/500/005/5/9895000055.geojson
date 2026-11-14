@@ -1,0 +1,84 @@
+{
+  "id": 9895000055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.46155466922666,40.38340384845791,-82.46155466922666,40.38340384845791",
+    "geom:latitude":40.383404,
+    "geom:longitude":-82.461555,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051974: name \"Vaughan Court\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051974"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051974: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051974"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051974: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051974"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713265 (Mount Vernon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713265 (Mount Vernon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Vaughan Court"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713265,
+        102084811,
+        102191575,
+        404526893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1051974
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6f6e435a9dc2db4bda1c7b9f168a79ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084811,
+            "localadmin_id":404526893,
+            "locality_id":101713265,
+            "neighbourhood_id":9895000055,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000055,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Vaughan Court",
+    "wof:parent_id":101713265,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.46155466922666,
+    40.38340384845791,
+    -82.46155466922666,
+    40.38340384845791
+],
+  "geometry": {"coordinates":[-82.46155466922666,40.38340384845791],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9895000151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.95870922672746,41.85894979097322,-80.95870922672746,41.85894979097322",
+    "geom:latitude":41.85895,
+    "geom:longitude":-80.958709,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1079707: name \"Grandview Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1079707"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1079707: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1079707"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1079707: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1079707"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85982907 (Geneva-on-the-Lake).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85982907 (Geneva-on-the-Lake), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Grandview Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        85982907,
+        102083657,
+        102191575,
+        404524709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1079707
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad55e1d839840200bc4dbcb42c3d2610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083657,
+            "localadmin_id":404524709,
+            "locality_id":85982907,
+            "neighbourhood_id":9895000151,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000151,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Grandview Park",
+    "wof:parent_id":85982907,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.95870922672746,
+    41.85894979097322,
+    -80.95870922672746,
+    41.85894979097322
+],
+  "geometry": {"coordinates":[-80.95870922672746,41.85894979097322],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.86792050571145,40.61451301888222,-81.86792050571145,40.61451301888222",
+    "geom:latitude":40.614513,
+    "geom:longitude":-81.867921,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062879: name \"Martinsville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062879"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062879: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062879"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1062879: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1062879"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526563 (Salt Creek Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526563 (Salt Creek Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Martinsville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083651,
+        102191575,
+        404526563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1062879
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0cef0e2cbfef909b117b8f97284b3f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083651,
+            "localadmin_id":404526563,
+            "locality_id":9895000109,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000109,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Martinsville",
+    "wof:parent_id":404526563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.86792050571145,
+    40.61451301888222,
+    -81.86792050571145,
+    40.61451301888222
+],
+  "geometry": {"coordinates":[-81.86792050571145,40.61451301888222],"type":"Point"}
+}

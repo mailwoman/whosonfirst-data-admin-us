@@ -1,0 +1,82 @@
+{
+  "id": 9895000042,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.86771306057871,39.96728960452656,-83.86771306057871,39.96728960452656",
+    "geom:latitude":39.96729,
+    "geom:longitude":-83.867713,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051362: name \"Westridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051362"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051362: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051362"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1051362: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1051362"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524997 (German Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524997 (German Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083685,
+        102191575,
+        404524997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1051362
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb63c670f4cea5b055db6235a2c7465a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083685,
+            "localadmin_id":404524997,
+            "locality_id":9895000042,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000042,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Westridge",
+    "wof:parent_id":404524997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.86771306057871,
+    39.96728960452656,
+    -83.86771306057871,
+    39.96728960452656
+],
+  "geometry": {"coordinates":[-83.86771306057871,39.96728960452656],"type":"Point"}
+}

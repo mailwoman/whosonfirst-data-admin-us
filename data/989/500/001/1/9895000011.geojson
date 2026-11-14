@@ -1,0 +1,82 @@
+{
+  "id": 9895000011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.13399190239326,40.891455403841455,-81.13399190239326,40.891455403841455",
+    "geom:latitude":40.891455,
+    "geom:longitude":-81.133992,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1048508: name \"Beechwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1048508"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1048508: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1048508"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1048508: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1048508"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525899 (Washington Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525899 (Washington Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Beechwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083731,
+        102191575,
+        404525899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1048508
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ee185ae3f09e285a7d47345dfa33c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083731,
+            "localadmin_id":404525899,
+            "locality_id":9895000011,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000011,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Beechwood",
+    "wof:parent_id":404525899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.13399190239326,
+    40.891455403841455,
+    -81.13399190239326,
+    40.891455403841455
+],
+  "geometry": {"coordinates":[-81.13399190239326,40.891455403841455],"type":"Point"}
+}

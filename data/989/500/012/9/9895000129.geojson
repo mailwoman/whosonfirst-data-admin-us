@@ -1,0 +1,82 @@
+{
+  "id": 9895000129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.9315307760203,41.237839831424566,-81.9315307760203,41.237839831424566",
+    "geom:latitude":41.23784,
+    "geom:longitude":-81.931531,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1065421: name \"Valley City\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1065421"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1065421: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1065421"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1065421: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1065421"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526335 (Liverpool Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526335 (Liverpool Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Valley City"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102081391,
+        102191575,
+        404526335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1065421
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6f62861f45db9f5c4b6d26d88fa95955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081391,
+            "localadmin_id":404526335,
+            "locality_id":9895000129,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000129,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Valley City",
+    "wof:parent_id":404526335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.9315307760203,
+    41.237839831424566,
+    -81.9315307760203,
+    41.237839831424566
+],
+  "geometry": {"coordinates":[-81.9315307760203,41.237839831424566],"type":"Point"}
+}

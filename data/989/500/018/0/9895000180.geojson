@@ -1,0 +1,84 @@
+{
+  "id": 9895000180,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.65105102746905,41.54783760514877,-83.65105102746905,41.54783760514877",
+    "geom:latitude":41.547838,
+    "geom:longitude":-83.651051,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1951990: name \"The Estates of Fort Meigs\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1951990"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1951990: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1951990"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1951990: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1951990"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713223 (Perrysburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713223 (Perrysburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "The Estates of Fort Meigs"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713223,
+        102084781,
+        102191575,
+        404526413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1951990
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fbbe042c0bbccd35dd126e7d2524ffa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084781,
+            "localadmin_id":404526413,
+            "locality_id":101713223,
+            "neighbourhood_id":9895000180,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000180,
+    "wof:lastmodified":1794669268,
+    "wof:name":"The Estates of Fort Meigs",
+    "wof:parent_id":101713223,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.65105102746905,
+    41.54783760514877,
+    -83.65105102746905,
+    41.54783760514877
+],
+  "geometry": {"coordinates":[-83.65105102746905,41.54783760514877],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.7457382814096,40.71145469585052,-82.7457382814096,40.71145469585052",
+    "geom:latitude":40.711455,
+    "geom:longitude":-82.745738,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1054477: name \"Jackson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1054477"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1054477: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1054477"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1054477: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1054477"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525663 (North Bloomfield Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525663 (North Bloomfield Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jackson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083749,
+        102191575,
+        404525663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1054477
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ddeb70d67410c3b3b36d81a8bc3420d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083749,
+            "localadmin_id":404525663,
+            "locality_id":9895000067,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000067,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Jackson",
+    "wof:parent_id":404525663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.7457382814096,
+    40.71145469585052,
+    -82.7457382814096,
+    40.71145469585052
+],
+  "geometry": {"coordinates":[-82.7457382814096,40.71145469585052],"type":"Point"}
+}

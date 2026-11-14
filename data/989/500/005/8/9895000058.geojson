@@ -1,0 +1,82 @@
+{
+  "id": 9895000058,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.20010819746031,40.56395994002571,-81.20010819746031,40.56395994002571",
+    "geom:latitude":40.56396,
+    "geom:longitude":-81.200108,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052428: name \"Valleyview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052428"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052428: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052428"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1052428: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1052428"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404524959 (Harrison Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404524959 (Harrison Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Valleyview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084825,
+        102191575,
+        404524959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1052428
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e84edcead68dfbf3b6ec44a3ea72ed1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084825,
+            "localadmin_id":404524959,
+            "locality_id":9895000058,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000058,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Valleyview",
+    "wof:parent_id":404524959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.20010819746031,
+    40.56395994002571,
+    -81.20010819746031,
+    40.56395994002571
+],
+  "geometry": {"coordinates":[-81.20010819746031,40.56395994002571],"type":"Point"}
+}

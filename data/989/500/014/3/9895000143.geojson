@@ -1,0 +1,82 @@
+{
+  "id": 9895000143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.14986824079665,39.95646388209359,-82.14986824079665,39.95646388209359",
+    "geom:latitude":39.956464,
+    "geom:longitude":-82.149868,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1071011: name \"Mount Sterling\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1071011"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1071011: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1071011"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1071011: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1071011"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525683 (Hopewell Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525683 (Hopewell Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mount Sterling"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084785,
+        102191575,
+        404525683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1071011
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c21cf39aac9aceef9c755dcce3e7d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084785,
+            "localadmin_id":404525683,
+            "locality_id":9895000143,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000143,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Mount Sterling",
+    "wof:parent_id":404525683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.14986824079665,
+    39.95646388209359,
+    -82.14986824079665,
+    39.95646388209359
+],
+  "geometry": {"coordinates":[-82.14986824079665,39.95646388209359],"type":"Point"}
+}

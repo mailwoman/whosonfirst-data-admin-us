@@ -1,0 +1,82 @@
+{
+  "id": 9895000021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.73243766098165,40.472837504907865,-83.73243766098165,40.472837504907865",
+    "geom:latitude":40.472838,
+    "geom:longitude":-83.732438,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1049026: name \"Northwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1049026"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1049026: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1049026"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1049026: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1049026"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525191 (Richland Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525191 (Richland Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Northwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083729,
+        102191575,
+        404525191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1049026
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6d676931f49f7a8bc2911a2d2f3f9c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083729,
+            "localadmin_id":404525191,
+            "locality_id":9895000021,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000021,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Northwood",
+    "wof:parent_id":404525191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.73243766098165,
+    40.472837504907865,
+    -83.73243766098165,
+    40.472837504907865
+],
+  "geometry": {"coordinates":[-83.73243766098165,40.472837504907865],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000112,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.01130912160416,41.415060112242465,-83.01130912160416,41.415060112242465",
+    "geom:latitude":41.41506,
+    "geom:longitude":-83.011309,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1063074: name \"Upton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1063074"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1063074: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1063074"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1063074: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1063074"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526815 (Riley Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526815 (Riley Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Upton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083653,
+        102191575,
+        404526815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1063074
+    },
+    "wof:country":"US",
+    "wof:geomhash":"01558b9e51b67f28a5605768f1a14e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083653,
+            "localadmin_id":404526815,
+            "locality_id":9895000112,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000112,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Upton",
+    "wof:parent_id":404526815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.01130912160416,
+    41.415060112242465,
+    -83.01130912160416,
+    41.415060112242465
+],
+  "geometry": {"coordinates":[-83.01130912160416,41.415060112242465],"type":"Point"}
+}

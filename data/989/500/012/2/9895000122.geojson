@@ -1,0 +1,84 @@
+{
+  "id": 9895000122,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.99764580715771,41.36838885262829,-81.99764580715771,41.36838885262829",
+    "geom:latitude":41.368389,
+    "geom:longitude":-81.997646,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064650: name \"Fields\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064650"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064650: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064650"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1064650: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1064650"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101712959 (North Ridgeville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101712959 (North Ridgeville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fields"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101712959,
+        102083683,
+        102191575,
+        404523743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1064650
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ccd9451a1706785ddf406966a9b3978a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083683,
+            "localadmin_id":404523743,
+            "locality_id":101712959,
+            "neighbourhood_id":9895000122,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000122,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Fields",
+    "wof:parent_id":101712959,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.99764580715771,
+    41.36838885262829,
+    -81.99764580715771,
+    41.36838885262829
+],
+  "geometry": {"coordinates":[-81.99764580715771,41.36838885262829],"type":"Point"}
+}

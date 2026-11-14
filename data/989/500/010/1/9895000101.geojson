@@ -1,0 +1,82 @@
+{
+  "id": 9895000101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.89241628167392,41.39089371379335,-82.89241628167392,41.39089371379335",
+    "geom:latitude":41.390894,
+    "geom:longitude":-82.892416,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1061815: name \"Whitmore\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1061815"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1061815: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1061815"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1061815: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1061815"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526869 (Townsend Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526869 (Townsend Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Whitmore"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102083653,
+        102191575,
+        404526869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1061815
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1acd543ecb4341f71f82663054ac4b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083653,
+            "localadmin_id":404526869,
+            "locality_id":9895000101,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000101,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Whitmore",
+    "wof:parent_id":404526869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.89241628167392,
+    41.39089371379335,
+    -82.89241628167392,
+    41.39089371379335
+],
+  "geometry": {"coordinates":[-82.89241628167392,41.39089371379335],"type":"Point"}
+}

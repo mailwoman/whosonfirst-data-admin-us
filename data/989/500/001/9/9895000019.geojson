@@ -1,0 +1,82 @@
+{
+  "id": 9895000019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.27967228329166,39.96533938428234,-84.27967228329166,39.96533938428234",
+    "geom:latitude":39.965339,
+    "geom:longitude":-84.279672,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1049002: name \"Nashville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1049002"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1049002: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1049002"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1049002: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1049002"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404526703 (Union Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404526703 (Union Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Nashville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084719,
+        102191575,
+        404526703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1049002
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa3081c837f815e9b11c4b3667dba16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084719,
+            "localadmin_id":404526703,
+            "locality_id":9895000019,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000019,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Nashville",
+    "wof:parent_id":404526703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.27967228329166,
+    39.96533938428234,
+    -84.27967228329166,
+    39.96533938428234
+],
+  "geometry": {"coordinates":[-84.27967228329166,39.96533938428234],"type":"Point"}
+}

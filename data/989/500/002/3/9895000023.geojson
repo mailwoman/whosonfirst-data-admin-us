@@ -1,0 +1,82 @@
+{
+  "id": 9895000023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.29927646459242,41.02728742198423,-81.29927646459242,41.02728742198423",
+    "geom:latitude":41.027287,
+    "geom:longitude":-81.299276,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1049145: name \"Saint Joseph\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1049145"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1049145: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1049145"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1049145: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1049145"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404525741 (Randolph Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404525741 (Randolph Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Joseph"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        102084819,
+        102191575,
+        404525741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1049145
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4e3936addfa6e26f6b62565a0eeb78a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084819,
+            "localadmin_id":404525741,
+            "locality_id":9895000023,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000023,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Saint Joseph",
+    "wof:parent_id":404525741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.29927646459242,
+    41.02728742198423,
+    -81.29927646459242,
+    41.02728742198423
+],
+  "geometry": {"coordinates":[-81.29927646459242,41.02728742198423],"type":"Point"}
+}

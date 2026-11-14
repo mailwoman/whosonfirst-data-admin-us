@@ -1,0 +1,84 @@
+{
+  "id": 9895000024,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.38432230103366,38.44064677911573,-82.38432230103366,38.44064677911573",
+    "geom:latitude":38.440647,
+    "geom:longitude":-82.384322,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1050513: name \"Sunny Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1050513"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1050513: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1050513"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1050513: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1050513"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101713261 (Proctorville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101713261 (Proctorville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunny Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688485,
+        101713261,
+        102083699,
+        102191575,
+        404525207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1050513
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fff73ff97e1cc9f7d651d1597a50e8c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083699,
+            "localadmin_id":404525207,
+            "locality_id":101713261,
+            "neighbourhood_id":9895000024,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":9895000024,
+    "wof:lastmodified":1794669268,
+    "wof:name":"Sunny Acres",
+    "wof:parent_id":101713261,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.38432230103366,
+    38.44064677911573,
+    -82.38432230103366,
+    38.44064677911573
+],
+  "geometry": {"coordinates":[-82.38432230103366,38.44064677911573],"type":"Point"}
+}
