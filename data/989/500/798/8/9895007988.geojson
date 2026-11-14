@@ -1,0 +1,80 @@
+{
+  "id": 9895007988,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.99540945307064,48.06779924356086,-111.99540945307064,48.06779924356086",
+    "geom:latitude":48.067799,
+    "geom:longitude":-111.995409,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806657: name \"Midway Colony\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806657"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806657: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806657"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806657: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806657"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083907 (Pondera).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083907 (Pondera), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Midway Colony"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        102083907,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806657
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc990e18cf1f844c8f9d01c24e2fbf6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083907,
+            "locality_id":9895007988,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895007988,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Midway Colony",
+    "wof:parent_id":102083907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.99540945307064,
+    48.06779924356086,
+    -111.99540945307064,
+    48.06779924356086
+],
+  "geometry": {"coordinates":[-111.99540945307064,48.06779924356086],"type":"Point"}
+}

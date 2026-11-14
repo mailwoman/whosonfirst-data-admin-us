@@ -1,0 +1,82 @@
+{
+  "id": 9895002321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.61904721901512,40.30206075410073,-74.61904721901512,40.30206075410073",
+    "geom:latitude":40.302061,
+    "geom:longitude":-74.619047,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 883465: name \"Princeton Colonial Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/883465"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 883465: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/883465"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 883465: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/883465"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404478267 (West Windsor Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404478267 (West Windsor Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Princeton Colonial Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102081129,
+        102191575,
+        404478267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":883465
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c29c8f8be45694823f775a2ed022fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478267,
+            "locality_id":9895002321,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895002321,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Princeton Colonial Park",
+    "wof:parent_id":404478267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.61904721901512,
+    40.30206075410073,
+    -74.61904721901512,
+    40.30206075410073
+],
+  "geometry": {"coordinates":[-74.61904721901512,40.30206075410073],"type":"Point"}
+}

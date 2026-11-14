@@ -1,0 +1,82 @@
+{
+  "id": 9895006623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.82969744608991,39.16233764659883,-76.82969744608991,39.16233764659883",
+    "geom:latitude":39.162338,
+    "geom:longitude":-76.829697,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1709061: name \"Glen Oaks\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1709061"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1709061: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1709061"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1709061: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1709061"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950033 (Columbia).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950033 (Columbia), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Glen Oaks"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85950033,
+        102084263,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1709061
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b8413a6936a047d6be5987ebabf9dc9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "neighbourhood_id":9895006623,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006623,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Glen Oaks",
+    "wof:parent_id":85950033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.82969744608991,
+    39.16233764659883,
+    -76.82969744608991,
+    39.16233764659883
+],
+  "geometry": {"coordinates":[-76.82969744608991,39.16233764659883],"type":"Point"}
+}

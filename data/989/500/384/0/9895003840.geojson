@@ -1,0 +1,82 @@
+{
+  "id": 9895003840,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.48414636275899,36.17951239601759,-85.48414636275899,36.17951239601759",
+    "geom:latitude":36.179512,
+    "geom:longitude":-85.484146,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1310964: name \"Park Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1310964"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1310964: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1310964"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1310964: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1310964"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722459 (Cookeville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722459 (Cookeville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Park Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722459,
+        102086339,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1310964
+    },
+    "wof:country":"US",
+    "wof:geomhash":"015a006193f0e8e6c84e7cec1254582e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":9895003840,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003840,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Park Village",
+    "wof:parent_id":101722459,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.48414636275899,
+    36.17951239601759,
+    -85.48414636275899,
+    36.17951239601759
+],
+  "geometry": {"coordinates":[-85.48414636275899,36.17951239601759],"type":"Point"}
+}

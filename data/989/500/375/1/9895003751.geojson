@@ -1,0 +1,82 @@
+{
+  "id": 9895003751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.0156465801784,32.90295850017247,-80.0156465801784,32.90295850017247",
+    "geom:latitude":32.902959,
+    "geom:longitude":-80.015647,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1253063: name \"Oak Grove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1253063"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1253063: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1253063"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1253063: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1253063"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720751 (North Charleston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720751 (North Charleston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oak Grove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720751,
+        102085591,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1253063
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4523bddcce6c1ec61b715205206a9a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085591,
+            "locality_id":101720751,
+            "neighbourhood_id":9895003751,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003751,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Oak Grove",
+    "wof:parent_id":101720751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.0156465801784,
+    32.90295850017247,
+    -80.0156465801784,
+    32.90295850017247
+],
+  "geometry": {"coordinates":[-80.0156465801784,32.90295850017247],"type":"Point"}
+}

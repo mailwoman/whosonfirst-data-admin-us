@@ -1,0 +1,82 @@
+{
+  "id": 9895001904,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.09605378029501,38.54679374834564,-76.09605378029501,38.54679374834564",
+    "geom:latitude":38.546794,
+    "geom:longitude":-76.096054,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 596630: name \"Patamoke Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/596630"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 596630: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/596630"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 596630: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/596630"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949435 (Cambridge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949435 (Cambridge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Patamoke Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949435,
+        102082723,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":596630
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2453021335f2391735ff486bb2bc42c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082723,
+            "locality_id":85949435,
+            "neighbourhood_id":9895001904,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001904,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Patamoke Village",
+    "wof:parent_id":85949435,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.09605378029501,
+    38.54679374834564,
+    -76.09605378029501,
+    38.54679374834564
+],
+  "geometry": {"coordinates":[-76.09605378029501,38.54679374834564],"type":"Point"}
+}

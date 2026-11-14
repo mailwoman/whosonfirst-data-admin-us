@@ -1,0 +1,82 @@
+{
+  "id": 9895003254,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.1167013425844,40.42035590253534,-79.1167013425844,40.42035590253534",
+    "geom:latitude":40.420356,
+    "geom:longitude":-79.116701,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1175567: name \"Germany\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1175567"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1175567: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1175567"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1175567: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1175567"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486489 (West Wheatfield Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486489 (West Wheatfield Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Germany"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081387,
+        102191575,
+        404486489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1175567
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea50d9334d31e048dcbc581935cf67e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081387,
+            "localadmin_id":404486489,
+            "locality_id":9895003254,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003254,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Germany",
+    "wof:parent_id":404486489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.1167013425844,
+    40.42035590253534,
+    -79.1167013425844,
+    40.42035590253534
+],
+  "geometry": {"coordinates":[-79.1167013425844,40.42035590253534],"type":"Point"}
+}

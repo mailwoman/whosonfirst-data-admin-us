@@ -1,0 +1,80 @@
+{
+  "id": 9895007225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.54132547771164,31.571575593888845,-94.54132547771164,31.571575593888845",
+    "geom:latitude":31.571576,
+    "geom:longitude":-94.541325,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2034836: name \"Oak Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2034836"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2034836: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2034836"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2034836: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2034836"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080711 (Nacogdoches).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080711 (Nacogdoches), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oak Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102080711,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2034836
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc75e97125158fe110ca5380ad39e5b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080711,
+            "locality_id":9895007225,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007225,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Oak Ridge",
+    "wof:parent_id":102080711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.54132547771164,
+    31.571575593888845,
+    -94.54132547771164,
+    31.571575593888845
+],
+  "geometry": {"coordinates":[-94.54132547771164,31.571575593888845],"type":"Point"}
+}

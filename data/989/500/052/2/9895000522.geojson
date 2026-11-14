@@ -1,0 +1,82 @@
+{
+  "id": 9895000522,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.12083991577815,30.82963616979918,-88.12083991577815,30.82963616979918",
+    "geom:latitude":30.829636,
+    "geom:longitude":-88.12084,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143819: name \"Spanish Trace\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143819"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143819: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143819"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143819: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143819"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913735 (Saraland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913735 (Saraland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Spanish Trace"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913735,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143819
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78247a2cd8d5a59c79228fe93430d567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":85913735,
+            "neighbourhood_id":9895000522,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000522,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Spanish Trace",
+    "wof:parent_id":85913735,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.12083991577815,
+    30.82963616979918,
+    -88.12083991577815,
+    30.82963616979918
+],
+  "geometry": {"coordinates":[-88.12083991577815,30.82963616979918],"type":"Point"}
+}

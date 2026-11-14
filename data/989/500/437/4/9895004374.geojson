@@ -1,0 +1,82 @@
+{
+  "id": 9895004374,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.00383974944832,40.69189682096824,-112.00383974944832,40.69189682096824",
+    "geom:latitude":40.691897,
+    "geom:longitude":-112.00384,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451719: name \"Harmony Lane\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451719"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451719: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451719"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451719: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451719"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728063 (West Valley City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728063 (West Valley City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Harmony Lane"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728063,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451719
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49bf9709be0075dc4821e6f737c87d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":9895004374,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004374,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Harmony Lane",
+    "wof:parent_id":101728063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.00383974944832,
+    40.69189682096824,
+    -112.00383974944832,
+    40.69189682096824
+],
+  "geometry": {"coordinates":[-112.00383974944832,40.69189682096824],"type":"Point"}
+}

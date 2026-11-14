@@ -1,0 +1,82 @@
+{
+  "id": 9895006995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.74983150842527,37.96672444330324,-89.74983150842527,37.96672444330324",
+    "geom:latitude":37.966724,
+    "geom:longitude":-89.749832,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1820700: name \"Randolph\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1820700"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1820700: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1820700"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1820700: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1820700"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404499505 (Bremen).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404499505 (Bremen), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Randolph"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102082271,
+        102191575,
+        404499505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1820700
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bfb57597c9e779e99929d7a46acf3eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082271,
+            "localadmin_id":404499505,
+            "locality_id":9895006995,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895006995,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Randolph",
+    "wof:parent_id":404499505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.74983150842527,
+    37.96672444330324,
+    -89.74983150842527,
+    37.96672444330324
+],
+  "geometry": {"coordinates":[-89.74983150842527,37.96672444330324],"type":"Point"}
+}

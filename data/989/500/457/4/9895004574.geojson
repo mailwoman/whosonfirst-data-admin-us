@@ -1,0 +1,82 @@
+{
+  "id": 9895004574,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.0041172462261,40.66828601815948,-112.0041172462261,40.66828601815948",
+    "geom:latitude":40.668286,
+    "geom:longitude":-112.004117,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452291: name \"Arlington Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452291"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452291: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452291"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452291: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452291"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728063 (West Valley City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728063 (West Valley City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Arlington Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728063,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1452291
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1331e2eddbf292f666a3c064bd6947f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":9895004574,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004574,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Arlington Park",
+    "wof:parent_id":101728063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.0041172462261,
+    40.66828601815948,
+    -112.0041172462261,
+    40.66828601815948
+],
+  "geometry": {"coordinates":[-112.0041172462261,40.66828601815948],"type":"Point"}
+}

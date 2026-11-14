@@ -1,0 +1,82 @@
+{
+  "id": 9895001062,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.71674828977625,28.043636713919692,-81.71674828977625,28.043636713919692",
+    "geom:latitude":28.043637,
+    "geom:longitude":-81.716748,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 282588: name \"Florence Villa\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/282588"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 282588: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/282588"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 282588: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/282588"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933301 (Winter Haven).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933301 (Winter Haven), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Florence Villa"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933301,
+        102085843,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":282588
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7cf943eab44c017776f418c49d335aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085843,
+            "locality_id":85933301,
+            "neighbourhood_id":9895001062,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001062,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Florence Villa",
+    "wof:parent_id":85933301,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.71674828977625,
+    28.043636713919692,
+    -81.71674828977625,
+    28.043636713919692
+],
+  "geometry": {"coordinates":[-81.71674828977625,28.043636713919692],"type":"Point"}
+}

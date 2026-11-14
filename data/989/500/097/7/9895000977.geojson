@@ -1,0 +1,82 @@
+{
+  "id": 9895000977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.68160022349893,39.76539760899885,-75.68160022349893,39.76539760899885",
+    "geom:latitude":39.765398,
+    "geom:longitude":-75.6816,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215969: name \"Bella Vista\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215969"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215969: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215969"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215969: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215969"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931749 (Hockessin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931749 (Hockessin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bella Vista"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        85931749,
+        102083891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":215969
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e453bdb0099c345d1ca721a32d47ee3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":9895000977,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000977,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Bella Vista",
+    "wof:parent_id":85931749,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.68160022349893,
+    39.76539760899885,
+    -75.68160022349893,
+    39.76539760899885
+],
+  "geometry": {"coordinates":[-75.68160022349893,39.76539760899885],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895007868,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.70823310883199,28.434360234859067,-80.70823310883199,28.434360234859067",
+    "geom:latitude":28.43436,
+    "geom:longitude":-80.708233,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805181: name \"North Merritt Island\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805181"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805181: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805181"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805181: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805181"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084721 (Brevard).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084721 (Brevard), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North Merritt Island"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102084721,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805181
+    },
+    "wof:country":"US",
+    "wof:geomhash":"75459d238983600bd990aeefc7915711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084721,
+            "locality_id":9895007868,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007868,
+    "wof:lastmodified":1794681145,
+    "wof:name":"North Merritt Island",
+    "wof:parent_id":102084721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.70823310883199,
+    28.434360234859067,
+    -80.70823310883199,
+    28.434360234859067
+],
+  "geometry": {"coordinates":[-80.70823310883199,28.434360234859067],"type":"Point"}
+}

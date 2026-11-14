@@ -1,0 +1,82 @@
+{
+  "id": 9895001844,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.0566171365526,39.693173081460586,-76.0566171365526,39.693173081460586",
+    "geom:latitude":39.693173,
+    "geom:longitude":-76.056617,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589550: name \"Tome Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589550"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589550: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589550"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589550: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589550"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949401 (Rising Sun).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949401 (Rising Sun), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tome Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949401,
+        102082183,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":589550
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d18e9018f21018dcefec205ba0535524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "locality_id":85949401,
+            "neighbourhood_id":9895001844,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001844,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Tome Estates",
+    "wof:parent_id":85949401,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.0566171365526,
+    39.693173081460586,
+    -76.0566171365526,
+    39.693173081460586
+],
+  "geometry": {"coordinates":[-76.0566171365526,39.693173081460586],"type":"Point"}
+}

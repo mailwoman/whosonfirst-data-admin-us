@@ -1,0 +1,80 @@
+{
+  "id": 9895000701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.56667848672022,33.35012212946313,-87.56667848672022,33.35012212946313",
+    "geom:latitude":33.350122,
+    "geom:longitude":-87.566678,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148165: name \"Four Winds\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148165"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148165: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148165"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148165: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148165"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Four Winds"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148165
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e84d1309ed233d656364d8182d635081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000701,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000701,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Four Winds",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.56667848672022,
+    33.35012212946313,
+    -87.56667848672022,
+    33.35012212946313
+],
+  "geometry": {"coordinates":[-87.56667848672022,33.35012212946313],"type":"Point"}
+}

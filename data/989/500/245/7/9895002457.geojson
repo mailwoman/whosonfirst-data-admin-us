@@ -1,0 +1,80 @@
+{
+  "id": 9895002457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.41478104695842,35.82597842431399,-80.41478104695842,35.82597842431399",
+    "geom:latitude":35.825978,
+    "geom:longitude":-80.414781,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 992102: name \"Petersville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/992102"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 992102: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/992102"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 992102: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/992102"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080877 (Davidson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080877 (Davidson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Petersville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":992102
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb2c28e047f28351877ab8b40ecbb83c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080877,
+            "locality_id":9895002457,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002457,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Petersville",
+    "wof:parent_id":102080877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.41478104695842,
+    35.82597842431399,
+    -80.41478104695842,
+    35.82597842431399
+],
+  "geometry": {"coordinates":[-80.41478104695842,35.82597842431399],"type":"Point"}
+}

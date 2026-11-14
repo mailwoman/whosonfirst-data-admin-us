@@ -1,0 +1,80 @@
+{
+  "id": 9895007882,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.62342035336715,33.68940695003859,-117.62342035336715,33.68940695003859",
+    "geom:latitude":33.689407,
+    "geom:longitude":-117.62342,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805255: name \"Upper Aliso\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805255"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805255: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805255"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805255: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805255"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080847 (Orange).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080847 (Orange), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Upper Aliso"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102080847,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805255
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4ed5b775339e987e67f74fdd4de3f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":9895007882,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007882,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Upper Aliso",
+    "wof:parent_id":102080847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.62342035336715,
+    33.68940695003859,
+    -117.62342035336715,
+    33.68940695003859
+],
+  "geometry": {"coordinates":[-117.62342035336715,33.68940695003859],"type":"Point"}
+}

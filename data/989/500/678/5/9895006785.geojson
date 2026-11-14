@@ -1,0 +1,82 @@
+{
+  "id": 9895006785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.39280559423858,36.809867669227415,-79.39280559423858,36.809867669227415",
+    "geom:latitude":36.809868,
+    "geom:longitude":-79.392806,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1738297: name \"Woodlawn\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1738297"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1738297: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1738297"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1738297: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1738297"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728587 (Chatham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728587 (Chatham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodlawn"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728587,
+        102083813,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1738297
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28cf0f16df463b49d24cd3c38c1f3e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083813,
+            "locality_id":101728587,
+            "neighbourhood_id":9895006785,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006785,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Woodlawn",
+    "wof:parent_id":101728587,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.39280559423858,
+    36.809867669227415,
+    -79.39280559423858,
+    36.809867669227415
+],
+  "geometry": {"coordinates":[-79.39280559423858,36.809867669227415],"type":"Point"}
+}

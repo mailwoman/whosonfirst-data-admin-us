@@ -1,0 +1,84 @@
+{
+  "id": 9895007204,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.40706671013417,41.599825349510866,-73.40706671013417,41.599825349510866",
+    "geom:latitude":41.599825,
+    "geom:longitude":-73.407067,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1988526: name \"Park Lane\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1988526"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1988526: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1988526"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1988526: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1988526"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931231 (New Milford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931231 (New Milford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Park Lane"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688629,
+        85931231,
+        102085375,
+        102191575,
+        404496031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1988526
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff9282e5c05955477a87ca0f6527928f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496031,
+            "locality_id":85931231,
+            "neighbourhood_id":9895007204,
+            "region_id":85688629
+        }
+    ],
+    "wof:id":9895007204,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Park Lane",
+    "wof:parent_id":85931231,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.40706671013417,
+    41.599825349510866,
+    -73.40706671013417,
+    41.599825349510866
+],
+  "geometry": {"coordinates":[-73.40706671013417,41.599825349510866],"type":"Point"}
+}

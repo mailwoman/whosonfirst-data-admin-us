@@ -1,0 +1,80 @@
+{
+  "id": 9895007844,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.99563642991812,35.40115895556082,-118.99563642991812,35.40115895556082",
+    "geom:latitude":35.401159,
+    "geom:longitude":-118.995636,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804553: name \"La Cresta\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804553"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804553: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804553"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804553: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804553"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081727 (Kern).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081727 (Kern), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "La Cresta"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102081727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804553
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2fd1b50009ec29bd84068cf1d44f52c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081727,
+            "locality_id":9895007844,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007844,
+    "wof:lastmodified":1794681145,
+    "wof:name":"La Cresta",
+    "wof:parent_id":102081727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.99563642991812,
+    35.40115895556082,
+    -118.99563642991812,
+    35.40115895556082
+],
+  "geometry": {"coordinates":[-118.99563642991812,35.40115895556082],"type":"Point"}
+}

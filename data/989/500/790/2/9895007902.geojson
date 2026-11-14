@@ -1,0 +1,82 @@
+{
+  "id": 9895007902,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.9546659858696,40.32473299099402,-78.9546659858696,40.32473299099402",
+    "geom:latitude":40.324733,
+    "geom:longitude":-78.954666,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805571: name \"Westwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805571"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805571: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805571"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805571: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805571"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404485187 (Lower Yoder Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404485187 (Lower Yoder Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080879,
+        102191575,
+        404485187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805571
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33733bdd0ff95b58a12007136093420b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080879,
+            "localadmin_id":404485187,
+            "locality_id":9895007902,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895007902,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Westwood",
+    "wof:parent_id":404485187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.9546659858696,
+    40.32473299099402,
+    -78.9546659858696,
+    40.32473299099402
+],
+  "geometry": {"coordinates":[-78.9546659858696,40.32473299099402],"type":"Point"}
+}

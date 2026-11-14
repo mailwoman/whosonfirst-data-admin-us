@@ -1,0 +1,82 @@
+{
+  "id": 9895001458,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.58747995796347,39.78588538811889,-85.58747995796347,39.78588538811889",
+    "geom:latitude":39.785885,
+    "geom:longitude":-85.58748,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 446674: name \"Henry\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/446674"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 446674: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/446674"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 446674: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/446674"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404501619 (Ripley Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404501619 (Ripley Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Henry"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102087215,
+        102191575,
+        404501619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":446674
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c983e30cae3b2f6bc74f8d38c7a79002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087215,
+            "localadmin_id":404501619,
+            "locality_id":9895001458,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895001458,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Henry",
+    "wof:parent_id":404501619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.58747995796347,
+    39.78588538811889,
+    -85.58747995796347,
+    39.78588538811889
+],
+  "geometry": {"coordinates":[-85.58747995796347,39.78588538811889],"type":"Point"}
+}

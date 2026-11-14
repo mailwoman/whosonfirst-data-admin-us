@@ -1,0 +1,82 @@
+{
+  "id": 9895005089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.0796768489521,41.303837282059945,-112.0796768489521,41.303837282059945",
+    "geom:latitude":41.303837,
+    "geom:longitude":-112.079677,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453619: name \"Wheeler Village Unit One\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453619"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453619: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453619"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453619: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453619"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728027 (Plain City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728027 (Plain City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wheeler Village Unit One"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728027,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453619
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58b95473a6cc37a4607cbaf571029e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728027,
+            "neighbourhood_id":9895005089,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005089,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Wheeler Village Unit One",
+    "wof:parent_id":101728027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.0796768489521,
+    41.303837282059945,
+    -112.0796768489521,
+    41.303837282059945
+],
+  "geometry": {"coordinates":[-112.0796768489521,41.303837282059945],"type":"Point"}
+}

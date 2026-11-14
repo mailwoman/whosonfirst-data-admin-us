@@ -1,0 +1,80 @@
+{
+  "id": 9895004869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.92773009749406,41.1560609778858,-111.92773009749406,41.1560609778858",
+    "geom:latitude":41.156061,
+    "geom:longitude":-111.92773,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453203: name \"Uintah Highlands\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453203"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453203: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453203"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453203: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453203"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083539 (Weber).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083539 (Weber), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Uintah Highlands"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453203
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6c416bd9f365fef2be6d5324162c207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":9895004869,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004869,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Uintah Highlands",
+    "wof:parent_id":102083539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.92773009749406,
+    41.1560609778858,
+    -111.92773009749406,
+    41.1560609778858
+],
+  "geometry": {"coordinates":[-111.92773009749406,41.1560609778858],"type":"Point"}
+}

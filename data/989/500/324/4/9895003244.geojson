@@ -1,0 +1,82 @@
+{
+  "id": 9895003244,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.51224173698886,40.1648086783345,-78.51224173698886,40.1648086783345",
+    "geom:latitude":40.164809,
+    "geom:longitude":-78.512242,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1171875: name \"Churchville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1171875"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1171875: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1171875"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1171875: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1171875"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404482619 (East St. Clair Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404482619 (East St. Clair Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Churchville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080939,
+        102191575,
+        404482619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1171875
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a07bece0dbaff2d3ee5498159797856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080939,
+            "localadmin_id":404482619,
+            "locality_id":9895003244,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003244,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Churchville",
+    "wof:parent_id":404482619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.51224173698886,
+    40.1648086783345,
+    -78.51224173698886,
+    40.1648086783345
+],
+  "geometry": {"coordinates":[-78.51224173698886,40.1648086783345],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895007933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.06185139489264,41.95339006387938,-72.06185139489264,41.95339006387938",
+    "geom:latitude":41.95339,
+    "geom:longitude":-72.061851,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805990: name \"Lake Bungee\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805990"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805990: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805990"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805990: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805990"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404495735 (Woodstock).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404495735 (Woodstock), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lake Bungee"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688629,
+        102085377,
+        102191575,
+        404495735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805990
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d9b3676d512b6a5bb22f1381c2cdc3ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085377,
+            "localadmin_id":404495735,
+            "locality_id":9895007933,
+            "region_id":85688629
+        }
+    ],
+    "wof:id":9895007933,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Lake Bungee",
+    "wof:parent_id":404495735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.06185139489264,
+    41.95339006387938,
+    -72.06185139489264,
+    41.95339006387938
+],
+  "geometry": {"coordinates":[-72.06185139489264,41.95339006387938],"type":"Point"}
+}

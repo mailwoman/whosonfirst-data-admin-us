@@ -1,0 +1,82 @@
+{
+  "id": 9895005390,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.90022745192695,40.86745124802389,-111.90022745192695,40.86745124802389",
+    "geom:latitude":40.867451,
+    "geom:longitude":-111.900227,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454084: name \"Sorrento Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454084"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454084: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454084"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454084: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454084"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727887 (Woods Cross).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727887 (Woods Cross), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sorrento Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727887,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1454084
+    },
+    "wof:country":"US",
+    "wof:geomhash":"76e9fedb22d2cd4ce75078d72daf67f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":9895005390,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005390,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Sorrento Estates",
+    "wof:parent_id":101727887,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.90022745192695,
+    40.86745124802389,
+    -111.90022745192695,
+    40.86745124802389
+],
+  "geometry": {"coordinates":[-111.90022745192695,40.86745124802389],"type":"Point"}
+}

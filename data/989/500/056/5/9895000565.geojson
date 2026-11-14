@@ -1,0 +1,82 @@
+{
+  "id": 9895000565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.76388155993624,33.345950359186546,-86.76388155993624,33.345950359186546",
+    "geom:latitude":33.34595,
+    "geom:longitude":-86.763882,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146470: name \"Indian Springs Ranch\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146470"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146470: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146470"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146470: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146470"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914511 (Indian Springs Village).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914511 (Indian Springs Village), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Indian Springs Ranch"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914511,
+        102085499,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146470
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ce855002afc43cc67a63d637b919c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085499,
+            "locality_id":85914511,
+            "neighbourhood_id":9895000565,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000565,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Indian Springs Ranch",
+    "wof:parent_id":85914511,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.76388155993624,
+    33.345950359186546,
+    -86.76388155993624,
+    33.345950359186546
+],
+  "geometry": {"coordinates":[-86.76388155993624,33.345950359186546],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895006487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.28779683070266,36.18925278608442,-96.28779683070266,36.18925278608442",
+    "geom:latitude":36.189253,
+    "geom:longitude":-96.287797,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1699804: name \"Shady Grove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1699804"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1699804: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1699804"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1699804: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1699804"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083995 (Pawnee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083995 (Pawnee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shady Grove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688585,
+        102083995,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1699804
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2449c56dc16f555fc24028bbd1289ee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083995,
+            "locality_id":9895006487,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":9895006487,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Shady Grove",
+    "wof:parent_id":102083995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.28779683070266,
+    36.18925278608442,
+    -96.28779683070266,
+    36.18925278608442
+],
+  "geometry": {"coordinates":[-96.28779683070266,36.18925278608442],"type":"Point"}
+}

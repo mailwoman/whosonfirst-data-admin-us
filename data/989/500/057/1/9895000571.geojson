@@ -1,0 +1,82 @@
+{
+  "id": 9895000571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.8416605772341,33.251509536756046,-86.8416605772341,33.251509536756046",
+    "geom:latitude":33.25151,
+    "geom:longitude":-86.841661,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146532: name \"Navajo Pines\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146532"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146532: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146532"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146532: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146532"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914487 (Alabaster).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914487 (Alabaster), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Navajo Pines"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914487,
+        102085499,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146532
+    },
+    "wof:country":"US",
+    "wof:geomhash":"62ee691705cca6356d6d1d55486e8c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085499,
+            "locality_id":85914487,
+            "neighbourhood_id":9895000571,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000571,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Navajo Pines",
+    "wof:parent_id":85914487,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.8416605772341,
+    33.251509536756046,
+    -86.8416605772341,
+    33.251509536756046
+],
+  "geometry": {"coordinates":[-86.8416605772341,33.251509536756046],"type":"Point"}
+}

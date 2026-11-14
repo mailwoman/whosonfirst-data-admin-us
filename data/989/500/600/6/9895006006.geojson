@@ -1,0 +1,82 @@
+{
+  "id": 9895006006,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.21925148075862,34.01890705345131,-118.21925148075862,34.01890705345131",
+    "geom:latitude":34.018907,
+    "geom:longitude":-118.219251,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661470: name \"Soto Street Junction\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661470"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661470: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661470"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661470: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661470"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923517 (Los Angeles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923517 (Los Angeles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Soto Street Junction"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923517,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661470
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f863b01b425bf26eb838cdbe994e86e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":9895006006,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006006,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Soto Street Junction",
+    "wof:parent_id":85923517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.21925148075862,
+    34.01890705345131,
+    -118.21925148075862,
+    34.01890705345131
+],
+  "geometry": {"coordinates":[-118.21925148075862,34.01890705345131],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003308,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.06017265131872,40.16511741082284,-75.06017265131872,40.16511741082284",
+    "geom:latitude":40.165117,
+    "geom:longitude":-75.060173,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1192302: name \"County Line\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1192302"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1192302: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1192302"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1192302: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1192302"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404482775 (Upper Southampton Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404482775 (Upper Southampton Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "County Line"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080987,
+        102191575,
+        404482775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1192302
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31c0b6857c7c4ace480878ea41ee7ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080987,
+            "localadmin_id":404482775,
+            "locality_id":9895003308,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003308,
+    "wof:lastmodified":1794681133,
+    "wof:name":"County Line",
+    "wof:parent_id":404482775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.06017265131872,
+    40.16511741082284,
+    -75.06017265131872,
+    40.16511741082284
+],
+  "geometry": {"coordinates":[-75.06017265131872,40.16511741082284],"type":"Point"}
+}

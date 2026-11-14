@@ -1,0 +1,82 @@
+{
+  "id": 9895005057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.94023102064853,41.30383719365692,-111.94023102064853,41.30383719365692",
+    "geom:latitude":41.303837,
+    "geom:longitude":-111.940231,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453541: name \"Cold Water Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453541"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453541: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453541"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453541: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453541"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728037 (North Ogden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728037 (North Ogden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cold Water Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728037,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453541
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70df23415385be413212829afa2b6861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728037,
+            "neighbourhood_id":9895005057,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005057,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Cold Water Estates",
+    "wof:parent_id":101728037,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.94023102064853,
+    41.30383719365692,
+    -111.94023102064853,
+    41.30383719365692
+],
+  "geometry": {"coordinates":[-111.94023102064853,41.30383719365692],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895001816,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.81388657972023,39.58288269241178,-77.81388657972023,39.58288269241178",
+    "geom:latitude":39.582883,
+    "geom:longitude":-77.813887,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 588257: name \"Williamsport Station\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/588257"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 588257: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/588257"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 588257: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/588257"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082189 (Washington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082189 (Washington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Williamsport Station"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082189,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":588257
+    },
+    "wof:country":"US",
+    "wof:geomhash":"610421c8770d56777bde5dbfc519c859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":9895001816,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001816,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Williamsport Station",
+    "wof:parent_id":102082189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.81388657972023,
+    39.58288269241178,
+    -77.81388657972023,
+    39.58288269241178
+],
+  "geometry": {"coordinates":[-77.81388657972023,39.58288269241178],"type":"Point"}
+}

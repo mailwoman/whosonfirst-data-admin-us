@@ -1,0 +1,82 @@
+{
+  "id": 9895001940,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.60608068659333,39.32844808806062,-76.60608068659333,39.32844808806062",
+    "geom:latitude":39.328448,
+    "geom:longitude":-76.606081,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 598226: name \"Waverly\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/598226"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 598226: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/598226"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 598226: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/598226"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949461 (Baltimore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949461 (Baltimore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Waverly"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949461,
+        102081589,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":598226
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f5e69f0b2f40c1fb2332868282ae572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "neighbourhood_id":9895001940,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001940,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Waverly",
+    "wof:parent_id":85949461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.60608068659333,
+    39.32844808806062,
+    -76.60608068659333,
+    39.32844808806062
+],
+  "geometry": {"coordinates":[-76.60608068659333,39.32844808806062],"type":"Point"}
+}

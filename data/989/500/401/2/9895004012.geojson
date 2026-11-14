@@ -1,0 +1,82 @@
+{
+  "id": 9895004012,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.6738904134747,36.30561396944136,-86.6738904134747,36.30561396944136",
+    "geom:latitude":36.305614,
+    "geom:longitude":-86.67389,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313472: name \"North Hills Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313472"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313472: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313472"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313472: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313472"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723183 (Nashville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723183 (Nashville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North Hills Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723183,
+        102087061,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1313472
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a3e4e8e3eeabe4f830596d421cdd205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":9895004012,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895004012,
+    "wof:lastmodified":1794681135,
+    "wof:name":"North Hills Estates",
+    "wof:parent_id":101723183,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.6738904134747,
+    36.30561396944136,
+    -86.6738904134747,
+    36.30561396944136
+],
+  "geometry": {"coordinates":[-86.6738904134747,36.30561396944136],"type":"Point"}
+}

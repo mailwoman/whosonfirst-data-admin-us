@@ -1,0 +1,82 @@
+{
+  "id": 9895005793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.32458614474503,36.308447052140416,-82.32458614474503,36.308447052140416",
+    "geom:latitude":36.308447,
+    "geom:longitude":-82.324586,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640288: name \"Breezy Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640288"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640288: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640288"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640288: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640288"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722757 (Johnson City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722757 (Johnson City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Breezy Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722757,
+        102086335,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1640288
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e2a4fcd354bcd937bbb22931f95f4991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":9895005793,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895005793,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Breezy Hills",
+    "wof:parent_id":101722757,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.32458614474503,
+    36.308447052140416,
+    -82.32458614474503,
+    36.308447052140416
+],
+  "geometry": {"coordinates":[-82.32458614474503,36.308447052140416],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9895007530,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.21222808803356,41.547507764620754,-88.21222808803356,41.547507764620754",
+    "geom:latitude":41.547508,
+    "geom:longitude":-88.212228,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355741: name \"Riverbrook Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355741"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355741: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355741"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355741: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355741"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940583 (Joliet).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940583 (Joliet), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Riverbrook Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940583,
+        102080845,
+        102191575,
+        404499143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2355741
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a7168830abc78302f050255d4263bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499143,
+            "locality_id":85940583,
+            "neighbourhood_id":9895007530,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007530,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Riverbrook Estates",
+    "wof:parent_id":85940583,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.21222808803356,
+    41.547507764620754,
+    -88.21222808803356,
+    41.547507764620754
+],
+  "geometry": {"coordinates":[-88.21222808803356,41.547507764620754],"type":"Point"}
+}

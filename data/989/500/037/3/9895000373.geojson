@@ -1,0 +1,82 @@
+{
+  "id": 9895000373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.39300673547808,32.66958356542833,-85.39300673547808,32.66958356542833",
+    "geom:latitude":32.669584,
+    "geom:longitude":-85.393007,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138196: name \"India Lakes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138196"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138196: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138196"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138196: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138196"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913815 (Opelika).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913815 (Opelika), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "India Lakes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913815,
+        102085751,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":138196
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30c92d68ab472267e00b3b42c156298b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085751,
+            "locality_id":85913815,
+            "neighbourhood_id":9895000373,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000373,
+    "wof:lastmodified":1794681121,
+    "wof:name":"India Lakes",
+    "wof:parent_id":85913815,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.39300673547808,
+    32.66958356542833,
+    -85.39300673547808,
+    32.66958356542833
+],
+  "geometry": {"coordinates":[-85.39300673547808,32.66958356542833],"type":"Point"}
+}

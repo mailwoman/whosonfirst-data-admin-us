@@ -1,0 +1,82 @@
+{
+  "id": 9895006028,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.80895749832548,33.86529795940611,-117.80895749832548,33.86529795940611",
+    "geom:latitude":33.865298,
+    "geom:longitude":-117.808957,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661716: name \"Yorba\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661716"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661716: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661716"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661716: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661716"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923167 (Anaheim).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923167 (Anaheim), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Yorba"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923167,
+        102080847,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661716
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d26bcb660cce090fab0d5402e237a40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923167,
+            "neighbourhood_id":9895006028,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006028,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Yorba",
+    "wof:parent_id":85923167,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.80895749832548,
+    33.86529795940611,
+    -117.80895749832548,
+    33.86529795940611
+],
+  "geometry": {"coordinates":[-117.80895749832548,33.86529795940611],"type":"Point"}
+}

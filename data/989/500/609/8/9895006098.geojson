@@ -1,0 +1,82 @@
+{
+  "id": 9895006098,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.19560721515901,34.12557152327852,-117.19560721515901,34.12557152327852",
+    "geom:latitude":34.125572,
+    "geom:longitude":-117.195607,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670946: name \"Molino\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670946"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670946: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670946"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670946: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670946"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923915 (Highland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923915 (Highland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Molino"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923915,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1670946
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e79a8d902c9e2029b275cdda041d6dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85923915,
+            "neighbourhood_id":9895006098,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006098,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Molino",
+    "wof:parent_id":85923915,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.19560721515901,
+    34.12557152327852,
+    -117.19560721515901,
+    34.12557152327852
+],
+  "geometry": {"coordinates":[-117.19560721515901,34.12557152327852],"type":"Point"}
+}

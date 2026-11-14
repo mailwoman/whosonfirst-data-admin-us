@@ -1,0 +1,80 @@
+{
+  "id": 9895007829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.52297055442021,39.04439539680761,-77.52297055442021,39.04439539680761",
+    "geom:latitude":39.044395,
+    "geom:longitude":-77.522971,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804187: name \"Goose Creek Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804187"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804187: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804187"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804187: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804187"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084951 (Loudoun).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084951 (Loudoun), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Goose Creek Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102084951,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804187
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfdb4110fd97efeb658f65a073cfb7f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":9895007829,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895007829,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Goose Creek Village",
+    "wof:parent_id":102084951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.52297055442021,
+    39.04439539680761,
+    -77.52297055442021,
+    39.04439539680761
+],
+  "geometry": {"coordinates":[-77.52297055442021,39.04439539680761],"type":"Point"}
+}

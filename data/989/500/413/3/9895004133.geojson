@@ -1,0 +1,80 @@
+{
+  "id": 9895004133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.1807567595656,31.094643911544058,-94.1807567595656,31.094643911544058",
+    "geom:latitude":31.094644,
+    "geom:longitude":-94.180757,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1383652: name \"Plum Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1383652"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1383652: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1383652"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1383652: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1383652"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087319 (Angelina).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087319 (Angelina), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Plum Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102087319,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1383652
+    },
+    "wof:country":"US",
+    "wof:geomhash":"76ef32c7418465215983e0d25385bb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087319,
+            "locality_id":9895004133,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004133,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Plum Ridge",
+    "wof:parent_id":102087319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.1807567595656,
+    31.094643911544058,
+    -94.1807567595656,
+    31.094643911544058
+],
+  "geometry": {"coordinates":[-94.1807567595656,31.094643911544058],"type":"Point"}
+}

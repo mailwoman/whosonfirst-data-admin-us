@@ -1,0 +1,82 @@
+{
+  "id": 9895003375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.45810136722679,40.67007293578265,-79.45810136722679,40.67007293578265",
+    "geom:latitude":40.670073,
+    "geom:longitude":-79.458101,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1203296: name \"Cochrans Mills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1203296"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1203296: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1203296"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1203296: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1203296"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404484265 (Burrell Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404484265 (Burrell Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cochrans Mills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081371,
+        102191575,
+        404484265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1203296
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89c608d41fb7d2f2db27dc83854b27b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081371,
+            "localadmin_id":404484265,
+            "locality_id":9895003375,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003375,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Cochrans Mills",
+    "wof:parent_id":404484265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.45810136722679,
+    40.67007293578265,
+    -79.45810136722679,
+    40.67007293578265
+],
+  "geometry": {"coordinates":[-79.45810136722679,40.67007293578265],"type":"Point"}
+}

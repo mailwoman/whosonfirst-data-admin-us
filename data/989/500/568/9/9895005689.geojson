@@ -1,0 +1,82 @@
+{
+  "id": 9895005689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.90789149026573,42.513912387850255,-88.90789149026573,42.513912387850255",
+    "geom:latitude":42.513912,
+    "geom:longitude":-88.907891,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1565241: name \"Foxhollow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1565241"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1565241: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1565241"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1565241: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1565241"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404495351 (Turtle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404495351 (Turtle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Foxhollow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688517,
+        102081829,
+        102191575,
+        404495351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1565241
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2727685a5655912616c33fba32c086a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081829,
+            "localadmin_id":404495351,
+            "locality_id":9895005689,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":9895005689,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Foxhollow",
+    "wof:parent_id":404495351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.90789149026573,
+    42.513912387850255,
+    -88.90789149026573,
+    42.513912387850255
+],
+  "geometry": {"coordinates":[-88.90789149026573,42.513912387850255],"type":"Point"}
+}

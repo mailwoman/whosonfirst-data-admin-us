@@ -1,0 +1,82 @@
+{
+  "id": 9895003650,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.69514056613204,34.79873122114364,-82.69514056613204,34.79873122114364",
+    "geom:latitude":34.798731,
+    "geom:longitude":-82.695141,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243525: name \"Rosewood Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243525"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243525: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243525"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243525: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243525"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721179 (Liberty).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721179 (Liberty), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rosewood Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721179,
+        102085671,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1243525
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dcb7314ddc6e6d19ec9438d186fc39b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085671,
+            "locality_id":101721179,
+            "neighbourhood_id":9895003650,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003650,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Rosewood Heights",
+    "wof:parent_id":101721179,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.69514056613204,
+    34.79873122114364,
+    -82.69514056613204,
+    34.79873122114364
+],
+  "geometry": {"coordinates":[-82.69514056613204,34.79873122114364],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001860,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.58552488379823,39.37983689882332,-76.58552488379823,39.37983689882332",
+    "geom:latitude":39.379837,
+    "geom:longitude":-76.585525,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590326: name \"Glendale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590326"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590326: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590326"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590326: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590326"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950227 (Towson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950227 (Towson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Glendale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85950227,
+        102082193,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":590326
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ec32afe6b926bafd87338118416f57a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950227,
+            "neighbourhood_id":9895001860,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001860,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Glendale",
+    "wof:parent_id":85950227,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.58552488379823,
+    39.37983689882332,
+    -76.58552488379823,
+    39.37983689882332
+],
+  "geometry": {"coordinates":[-76.58552488379823,39.37983689882332],"type":"Point"}
+}

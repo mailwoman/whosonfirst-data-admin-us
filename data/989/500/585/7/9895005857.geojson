@@ -1,0 +1,82 @@
+{
+  "id": 9895005857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.42915121763664,37.784100944483896,-122.42915121763664,37.784100944483896",
+    "geom:latitude":37.784101,
+    "geom:longitude":-122.429151,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1655520: name \"Saint Francis Square\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1655520"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1655520: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1655520"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1655520: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1655520"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922583 (San Francisco).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922583 (San Francisco), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Francis Square"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922583,
+        102087579,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1655520
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8fef76c4ffedd3e6f9e1f52e1bd0aba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":9895005857,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005857,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Saint Francis Square",
+    "wof:parent_id":85922583,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.42915121763664,
+    37.784100944483896,
+    -122.42915121763664,
+    37.784100944483896
+],
+  "geometry": {"coordinates":[-122.42915121763664,37.784100944483896],"type":"Point"}
+}

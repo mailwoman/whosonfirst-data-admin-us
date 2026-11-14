@@ -1,0 +1,82 @@
+{
+  "id": 9895007360,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.0711242161117,37.36639383538977,-122.0711242161117,37.36639383538977",
+    "geom:latitude":37.366394,
+    "geom:longitude":-122.071124,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354013: name \"Waverly Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354013"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354013: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354013"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354013: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354013"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922355 (Mountain View).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922355 (Mountain View), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Waverly Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922355,
+        102081673,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354013
+    },
+    "wof:country":"US",
+    "wof:geomhash":"494ff58bc305920c5fe29c8969f8a498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922355,
+            "neighbourhood_id":9895007360,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007360,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Waverly Park",
+    "wof:parent_id":85922355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.0711242161117,
+    37.36639383538977,
+    -122.0711242161117,
+    37.36639383538977
+],
+  "geometry": {"coordinates":[-122.0711242161117,37.36639383538977],"type":"Point"}
+}

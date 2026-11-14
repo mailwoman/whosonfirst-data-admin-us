@@ -1,0 +1,82 @@
+{
+  "id": 9895005576,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.28522024566364,36.846821987707294,-76.28522024566364,36.846821987707294",
+    "geom:latitude":36.846822,
+    "geom:longitude":-76.28522,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1497051: name \"Norfolk\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1497051"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1497051: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1497051"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1497051: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1497051"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728769 (Norfolk).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728769 (Norfolk), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Norfolk"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728769,
+        102085935,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1497051
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5458c12685703ef5bd63bbe79262a37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":9895005576,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005576,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Norfolk",
+    "wof:parent_id":101728769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.28522024566364,
+    36.846821987707294,
+    -76.28522024566364,
+    36.846821987707294
+],
+  "geometry": {"coordinates":[-76.28522024566364,36.846821987707294],"type":"Point"}
+}

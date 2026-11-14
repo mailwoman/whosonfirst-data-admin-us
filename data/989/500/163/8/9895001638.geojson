@@ -1,0 +1,82 @@
+{
+  "id": 9895001638,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.01924280096965,30.022985030931988,-90.01924280096965,30.022985030931988",
+    "geom:latitude":30.022985,
+    "geom:longitude":-90.019243,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558879: name \"Pine Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558879"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558879: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558879"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558879: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558879"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948111 (New Orleans).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948111 (New Orleans), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pine Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948111,
+        102086693,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":558879
+    },
+    "wof:country":"US",
+    "wof:geomhash":"855f5a4e48e7fe3e4720473f9d8e7925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":9895001638,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001638,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Pine Village",
+    "wof:parent_id":85948111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.01924280096965,
+    30.022985030931988,
+    -90.01924280096965,
+    30.022985030931988
+],
+  "geometry": {"coordinates":[-90.01924280096965,30.022985030931988],"type":"Point"}
+}

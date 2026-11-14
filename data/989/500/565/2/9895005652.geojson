@@ -1,0 +1,80 @@
+{
+  "id": 9895005652,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.21370680945127,47.89014016383621,-120.21370680945127,47.89014016383621",
+    "geom:latitude":47.89014,
+    "geom:longitude":-120.213707,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1529775: name \"Granite Falls\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1529775"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1529775: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1529775"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1529775: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1529775"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081241 (Chelan).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081241 (Chelan), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Granite Falls"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102081241,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1529775
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1eed5acd7374d1d955a81149818d162c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081241,
+            "locality_id":9895005652,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005652,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Granite Falls",
+    "wof:parent_id":102081241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.21370680945127,
+    47.89014016383621,
+    -120.21370680945127,
+    47.89014016383621
+],
+  "geometry": {"coordinates":[-120.21370680945127,47.89014016383621],"type":"Point"}
+}

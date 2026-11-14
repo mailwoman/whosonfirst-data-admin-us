@@ -1,0 +1,82 @@
+{
+  "id": 9895001735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.03618769971612,29.884655600144658,-90.03618769971612,29.884655600144658",
+    "geom:latitude":29.884656,
+    "geom:longitude":-90.036188,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559305: name \"Bellemeade\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559305"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559305: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559305"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559305: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559305"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948737 (Timberlane).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948737 (Timberlane), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bellemeade"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948737,
+        102083179,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":559305
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1de377393ffeb9af673455f1d74f93d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948737,
+            "neighbourhood_id":9895001735,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001735,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Bellemeade",
+    "wof:parent_id":85948737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.03618769971612,
+    29.884655600144658,
+    -90.03618769971612,
+    29.884655600144658
+],
+  "geometry": {"coordinates":[-90.03618769971612,29.884655600144658],"type":"Point"}
+}

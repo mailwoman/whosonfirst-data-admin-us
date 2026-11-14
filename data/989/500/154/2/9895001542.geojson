@@ -1,0 +1,82 @@
+{
+  "id": 9895001542,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.58605732832693,38.05480620647259,-84.58605732832693,38.05480620647259",
+    "geom:latitude":38.054806,
+    "geom:longitude":-84.586057,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 517000: name \"Van Meter\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/517000"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 517000: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/517000"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 517000: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/517000"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85947137 (Lexington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85947137 (Lexington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Van Meter"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688641,
+        85947137,
+        102084695,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":517000
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6738de0698637f6e2196e80e16f0cf5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":9895001542,
+            "region_id":85688641
+        }
+    ],
+    "wof:id":9895001542,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Van Meter",
+    "wof:parent_id":85947137,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.58605732832693,
+    38.05480620647259,
+    -84.58605732832693,
+    38.05480620647259
+],
+  "geometry": {"coordinates":[-84.58605732832693,38.05480620647259],"type":"Point"}
+}

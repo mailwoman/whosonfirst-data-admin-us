@@ -1,0 +1,80 @@
+{
+  "id": 9895001106,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.08865578137112,26.927285378972435,-80.08865578137112,26.927285378972435",
+    "geom:latitude":26.927285,
+    "geom:longitude":-80.088656,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 301128: name \"Salhaven\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/301128"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 301128: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/301128"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 301128: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/301128"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085845 (Palm Beach).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085845 (Palm Beach), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Salhaven"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102085845,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":301128
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d12fbe3aeaf0b9346f1ccb7d0d78de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085845,
+            "locality_id":9895001106,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001106,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Salhaven",
+    "wof:parent_id":102085845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.08865578137112,
+    26.927285378972435,
+    -80.08865578137112,
+    26.927285378972435
+],
+  "geometry": {"coordinates":[-80.08865578137112,26.927285378972435],"type":"Point"}
+}

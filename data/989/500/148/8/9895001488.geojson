@@ -1,0 +1,80 @@
+{
+  "id": 9895001488,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.99221404037321,41.00860777220357,-94.99221404037321,41.00860777220357",
+    "geom:latitude":41.008608,
+    "geom:longitude":-94.992214,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 464776: name \"Tenville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/464776"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 464776: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/464776"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 464776: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/464776"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086535 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086535 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tenville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688713,
+        102086535,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":464776
+    },
+    "wof:country":"US",
+    "wof:geomhash":"94f58dd762502dfaef13caafc38542a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086535,
+            "locality_id":9895001488,
+            "region_id":85688713
+        }
+    ],
+    "wof:id":9895001488,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Tenville",
+    "wof:parent_id":102086535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.99221404037321,
+    41.00860777220357,
+    -94.99221404037321,
+    41.00860777220357
+],
+  "geometry": {"coordinates":[-94.99221404037321,41.00860777220357],"type":"Point"}
+}

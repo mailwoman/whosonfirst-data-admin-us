@@ -1,0 +1,84 @@
+{
+  "id": 9895002400,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.78568959009569,40.91788530426991,-73.78568959009569,40.91788530426991",
+    "geom:latitude":40.917885,
+    "geom:longitude":-73.78569,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 962683: name \"Rochelle Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/962683"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 962683: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/962683"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 962683: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/962683"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85978749 (New Rochelle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85978749 (New Rochelle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rochelle Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        85978749,
+        102082373,
+        102191575,
+        404523375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":962683
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aadf77f8631c9880dca5bbe66968e24a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523375,
+            "locality_id":85978749,
+            "neighbourhood_id":9895002400,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002400,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Rochelle Park",
+    "wof:parent_id":85978749,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.78568959009569,
+    40.91788530426991,
+    -73.78568959009569,
+    40.91788530426991
+],
+  "geometry": {"coordinates":[-73.78568959009569,40.91788530426991],"type":"Point"}
+}

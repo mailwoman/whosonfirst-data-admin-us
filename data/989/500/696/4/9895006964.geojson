@@ -1,0 +1,82 @@
+{
+  "id": 9895006964,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.4038362832138,36.87765559009822,-76.4038362832138,36.87765559009822",
+    "geom:latitude":36.877656,
+    "geom:longitude":-76.403836,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1790951: name \"Peachtree\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1790951"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1790951: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1790951"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1790951: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1790951"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728677 (Portsmouth).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728677 (Portsmouth), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Peachtree"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728677,
+        102086707,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1790951
+    },
+    "wof:country":"US",
+    "wof:geomhash":"66b6858585202e75cdd306ab36fb8fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":9895006964,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006964,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Peachtree",
+    "wof:parent_id":101728677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.4038362832138,
+    36.87765559009822,
+    -76.4038362832138,
+    36.87765559009822
+],
+  "geometry": {"coordinates":[-76.4038362832138,36.87765559009822],"type":"Point"}
+}

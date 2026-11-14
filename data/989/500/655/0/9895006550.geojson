@@ -1,0 +1,82 @@
+{
+  "id": 9895006550,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.36081762622518,37.9471511628945,-122.36081762622518,37.9471511628945",
+    "geom:latitude":37.947151,
+    "geom:longitude":-122.360818,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701660: name \"Triangle Court\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701660"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701660: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701660"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701660: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701660"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922131 (Richmond).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922131 (Richmond), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Triangle Court"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922131,
+        102086225,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1701660
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7b79c1d5b89b8dc557d93598d025d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922131,
+            "neighbourhood_id":9895006550,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006550,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Triangle Court",
+    "wof:parent_id":85922131,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.36081762622518,
+    37.9471511628945,
+    -122.36081762622518,
+    37.9471511628945
+],
+  "geometry": {"coordinates":[-122.36081762622518,37.9471511628945],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895006562,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.41798782794856,34.05010579760955,-84.41798782794856,34.05010579760955",
+    "geom:latitude":34.050106,
+    "geom:longitude":-84.417988,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1704776: name \"Glenforest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1704776"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1704776: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1704776"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1704776: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1704776"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082313 (Cobb).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082313 (Cobb), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Glenforest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102082313,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1704776
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f5938e1998c55c54cd564053c93da89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":9895006562,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006562,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Glenforest",
+    "wof:parent_id":102082313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.41798782794856,
+    34.05010579760955,
+    -84.41798782794856,
+    34.05010579760955
+],
+  "geometry": {"coordinates":[-84.41798782794856,34.05010579760955],"type":"Point"}
+}

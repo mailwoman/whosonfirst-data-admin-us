@@ -1,0 +1,82 @@
+{
+  "id": 9895007399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.04945450672693,39.596395294962406,-105.04945450672693,39.596395294962406",
+    "geom:latitude":39.596395,
+    "geom:longitude":-105.049455,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354577: name \"Columbine Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354577"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354577: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354577"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354577: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354577"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85930607 (Columbine).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85930607 (Columbine), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Columbine Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85930607,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354577
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0125e798612008c84f1bbe669bd42b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":85930607,
+            "neighbourhood_id":9895007399,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007399,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Columbine Heights",
+    "wof:parent_id":85930607,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.04945450672693,
+    39.596395294962406,
+    -105.04945450672693,
+    39.596395294962406
+],
+  "geometry": {"coordinates":[-105.04945450672693,39.596395294962406],"type":"Point"}
+}

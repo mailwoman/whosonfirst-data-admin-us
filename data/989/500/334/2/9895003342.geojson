@@ -1,0 +1,84 @@
+{
+  "id": 9895003342,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.90783179038307,40.45146577495128,-79.90783179038307,40.45146577495128",
+    "geom:latitude":40.451466,
+    "geom:longitude":-79.907832,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1198186: name \"Homewood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1198186"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1198186: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1198186"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1198186: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1198186"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101718805 (Pittsburgh).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101718805 (Pittsburgh), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Homewood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101718805,
+        102080887,
+        102191575,
+        404482523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1198186
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f9dab7e6f76655f53f3608cf6b8ef960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":9895003342,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003342,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Homewood",
+    "wof:parent_id":101718805,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.90783179038307,
+    40.45146577495128,
+    -79.90783179038307,
+    40.45146577495128
+],
+  "geometry": {"coordinates":[-79.90783179038307,40.45146577495128],"type":"Point"}
+}

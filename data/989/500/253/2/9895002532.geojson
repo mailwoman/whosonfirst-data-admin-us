@@ -1,0 +1,82 @@
+{
+  "id": 9895002532,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.53673633621871,34.96793463656965,-80.53673633621871,34.96793463656965",
+    "geom:latitude":34.967935,
+    "geom:longitude":-80.536736,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002258: name \"Oakland\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002258"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002258: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002258"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002258: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002258"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981353 (Monroe).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981353 (Monroe), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oakland"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981353,
+        102080895,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1002258
+    },
+    "wof:country":"US",
+    "wof:geomhash":"def932d8d880bad42ce129e2b9c9a2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080895,
+            "locality_id":85981353,
+            "neighbourhood_id":9895002532,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002532,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Oakland",
+    "wof:parent_id":85981353,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.53673633621871,
+    34.96793463656965,
+    -80.53673633621871,
+    34.96793463656965
+],
+  "geometry": {"coordinates":[-80.53673633621871,34.96793463656965],"type":"Point"}
+}

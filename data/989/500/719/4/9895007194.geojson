@@ -1,0 +1,82 @@
+{
+  "id": 9895007194,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.29137169950641,37.8074327565666,-122.29137169950641,37.8074327565666",
+    "geom:latitude":37.807433,
+    "geom:longitude":-122.291372,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1961976: name \"Peralta Villa\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1961976"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1961976: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1961976"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1961976: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1961976"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921881 (Oakland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921881 (Oakland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Peralta Villa"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85921881,
+        102086959,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1961976
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e0aaafe94cb5d4318fc2b22163a7ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "neighbourhood_id":9895007194,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007194,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Peralta Villa",
+    "wof:parent_id":85921881,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.29137169950641,
+    37.8074327565666,
+    -122.29137169950641,
+    37.8074327565666
+],
+  "geometry": {"coordinates":[-122.29137169950641,37.8074327565666],"type":"Point"}
+}

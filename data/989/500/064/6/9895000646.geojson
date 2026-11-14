@@ -1,0 +1,80 @@
+{
+  "id": 9895000646,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.63112459448517,33.166237088500615,-87.63112459448517,33.166237088500615",
+    "geom:latitude":33.166237,
+    "geom:longitude":-87.631125,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147852: name \"Berkshire Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147852"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147852: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147852"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147852: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147852"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Berkshire Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147852
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3bdecaaf23da229cf31e9326035b18a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000646,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000646,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Berkshire Estates",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.63112459448517,
+    33.166237088500615,
+    -87.63112459448517,
+    33.166237088500615
+],
+  "geometry": {"coordinates":[-87.63112459448517,33.166237088500615],"type":"Point"}
+}

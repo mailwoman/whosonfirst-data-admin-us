@@ -1,0 +1,82 @@
+{
+  "id": 9895000338,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.78052722710619,34.18343517370443,-85.78052722710619,34.18343517370443",
+    "geom:latitude":34.183435,
+    "geom:longitude":-85.780527,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136943: name \"Mountain Lake Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136943"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136943: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136943"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136943: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136943"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85899499 (Leesburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85899499 (Leesburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mountain Lake Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85899499,
+        102085467,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":136943
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7a18e5509872d7641f7658885a8ae1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085467,
+            "locality_id":85899499,
+            "neighbourhood_id":9895000338,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000338,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Mountain Lake Estates",
+    "wof:parent_id":85899499,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.78052722710619,
+    34.18343517370443,
+    -85.78052722710619,
+    34.18343517370443
+],
+  "geometry": {"coordinates":[-85.78052722710619,34.18343517370443],"type":"Point"}
+}

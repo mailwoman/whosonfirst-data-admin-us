@@ -1,0 +1,80 @@
+{
+  "id": 9895005675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.6856153499042,39.43509928798082,-79.6856153499042,39.43509928798082",
+    "geom:latitude":39.435099,
+    "geom:longitude":-79.685615,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1555406: name \"Preston\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1555406"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1555406: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1555406"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1555406: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1555406"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083385 (Preston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083385 (Preston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Preston"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        102083385,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1555406
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4517074acf269ccede822638d13f51b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083385,
+            "locality_id":9895005675,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895005675,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Preston",
+    "wof:parent_id":102083385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.6856153499042,
+    39.43509928798082,
+    -79.6856153499042,
+    39.43509928798082
+],
+  "geometry": {"coordinates":[-79.6856153499042,39.43509928798082],"type":"Point"}
+}

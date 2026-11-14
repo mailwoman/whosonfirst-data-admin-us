@@ -1,0 +1,84 @@
+{
+  "id": 9895007565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.29400621824759,38.65210714064684,-90.29400621824759,38.65210714064684",
+    "geom:latitude":38.652107,
+    "geom:longitude":-90.294006,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2469210: name \"Skinker-De Baliviere\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2469210"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2469210: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2469210"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2469210: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2469210"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85971343 (St. Louis).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85971343 (St. Louis), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Skinker-De Baliviere"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        85971343,
+        102080791,
+        102191575,
+        404518053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2469210
+    },
+    "wof:country":"US",
+    "wof:geomhash":"757e54ff584a4055e35d1d1189a35974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":9895007565,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895007565,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Skinker-De Baliviere",
+    "wof:parent_id":85971343,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.29400621824759,
+    38.65210714064684,
+    -90.29400621824759,
+    38.65210714064684
+],
+  "geometry": {"coordinates":[-90.29400621824759,38.65210714064684],"type":"Point"}
+}

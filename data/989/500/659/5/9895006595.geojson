@@ -1,0 +1,82 @@
+{
+  "id": 9895006595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.54163286304622,39.27622647964439,-76.54163286304622,39.27622647964439",
+    "geom:latitude":39.276226,
+    "geom:longitude":-76.541633,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1707659: name \"O'Donnell Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1707659"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1707659: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1707659"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1707659: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1707659"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949461 (Baltimore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949461 (Baltimore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "O'Donnell Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949461,
+        102081589,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1707659
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4562a22c3bde03170d49dcb0e49cd178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "neighbourhood_id":9895006595,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006595,
+    "wof:lastmodified":1794681141,
+    "wof:name":"O'Donnell Heights",
+    "wof:parent_id":85949461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.54163286304622,
+    39.27622647964439,
+    -76.54163286304622,
+    39.27622647964439
+],
+  "geometry": {"coordinates":[-76.54163286304622,39.27622647964439],"type":"Point"}
+}

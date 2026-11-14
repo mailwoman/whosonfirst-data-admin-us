@@ -1,0 +1,82 @@
+{
+  "id": 9895004802,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.95300841111145,41.21717238305327,-111.95300841111145,41.21717238305327",
+    "geom:latitude":41.217172,
+    "geom:longitude":-111.953008,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453066: name \"Maguires\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453066"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453066: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453066"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453066: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453066"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728033 (Ogden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728033 (Ogden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Maguires"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728033,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453066
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b2c17c0a33aa85acf3b480ce5455525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":9895004802,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004802,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Maguires",
+    "wof:parent_id":101728033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.95300841111145,
+    41.21717238305327,
+    -111.95300841111145,
+    41.21717238305327
+],
+  "geometry": {"coordinates":[-111.95300841111145,41.21717238305327],"type":"Point"}
+}

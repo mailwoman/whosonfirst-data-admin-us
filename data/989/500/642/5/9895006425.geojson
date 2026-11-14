@@ -1,0 +1,82 @@
+{
+  "id": 9895006425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.88720279537226,39.6559435428654,-76.88720279537226,39.6559435428654",
+    "geom:latitude":39.655944,
+    "geom:longitude":-76.887203,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695514: name \"Royal Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695514"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695514: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695514"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695514: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695514"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949365 (Manchester).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949365 (Manchester), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Royal Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949365,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695514
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c58d878bbdb2c10611207d4cbb1534ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949365,
+            "neighbourhood_id":9895006425,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006425,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Royal Heights",
+    "wof:parent_id":85949365,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.88720279537226,
+    39.6559435428654,
+    -76.88720279537226,
+    39.6559435428654
+],
+  "geometry": {"coordinates":[-76.88720279537226,39.6559435428654],"type":"Point"}
+}

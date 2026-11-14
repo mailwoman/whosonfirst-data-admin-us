@@ -1,0 +1,82 @@
+{
+  "id": 9895000252,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.0043171066936,34.94314996402391,-92.0043171066936,34.94314996402391",
+    "geom:latitude":34.94315,
+    "geom:longitude":-92.004317,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 61262: name \"Country Club Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/61262"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 61262: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/61262"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 61262: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/61262"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921127 (Cabot).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921127 (Cabot), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Country Club Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        85921127,
+        102082027,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":61262
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e323eb88b9ac01558cb872068f6c34db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082027,
+            "locality_id":85921127,
+            "neighbourhood_id":9895000252,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000252,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Country Club Addition",
+    "wof:parent_id":85921127,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.0043171066936,
+    34.94314996402391,
+    -92.0043171066936,
+    34.94314996402391
+],
+  "geometry": {"coordinates":[-92.0043171066936,34.94314996402391],"type":"Point"}
+}

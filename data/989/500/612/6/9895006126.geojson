@@ -1,0 +1,82 @@
+{
+  "id": 9895006126,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.18574573884297,31.593790569449965,-84.18574573884297,31.593790569449965",
+    "geom:latitude":31.593791,
+    "geom:longitude":-84.185746,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671131: name \"Hedrick Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671131"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671131: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671131"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671131: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671131"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85935991 (Albany).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85935991 (Albany), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hedrick Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85935991,
+        102084427,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671131
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ba80cfa39bafd903082c5fbe314c6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":9895006126,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006126,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Hedrick Park",
+    "wof:parent_id":85935991,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.18574573884297,
+    31.593790569449965,
+    -84.18574573884297,
+    31.593790569449965
+],
+  "geometry": {"coordinates":[-84.18574573884297,31.593790569449965],"type":"Point"}
+}

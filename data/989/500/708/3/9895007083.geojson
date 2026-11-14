@@ -1,0 +1,82 @@
+{
+  "id": 9895007083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.13309835484701,33.49308865367795,-117.13309835484701,33.49308865367795",
+    "geom:latitude":33.493089,
+    "geom:longitude":-117.133098,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1849568: name \"Windsor Crest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1849568"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1849568: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1849568"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1849568: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1849568"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923337 (Temecula).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923337 (Temecula), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Windsor Crest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923337,
+        102086221,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1849568
+    },
+    "wof:country":"US",
+    "wof:geomhash":"faf449e39a39197db21f9909933627ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923337,
+            "neighbourhood_id":9895007083,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007083,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Windsor Crest",
+    "wof:parent_id":85923337,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.13309835484701,
+    33.49308865367795,
+    -117.13309835484701,
+    33.49308865367795
+],
+  "geometry": {"coordinates":[-117.13309835484701,33.49308865367795],"type":"Point"}
+}

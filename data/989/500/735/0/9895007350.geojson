@@ -1,0 +1,82 @@
+{
+  "id": 9895007350,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.42410185105999,39.913208048085494,-75.42410185105999,39.913208048085494",
+    "geom:latitude":39.913208,
+    "geom:longitude":-75.424102,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2349956: name \"Riddle Glen\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2349956"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2349956: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2349956"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2349956: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2349956"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486561 (Middletown Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486561 (Middletown Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Riddle Glen"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080913,
+        102191575,
+        404486561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2349956
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab3ab4a44b43eeee8b8a4ef662836421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080913,
+            "localadmin_id":404486561,
+            "locality_id":9895007350,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895007350,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Riddle Glen",
+    "wof:parent_id":404486561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.42410185105999,
+    39.913208048085494,
+    -75.42410185105999,
+    39.913208048085494
+],
+  "geometry": {"coordinates":[-75.42410185105999,39.913208048085494],"type":"Point"}
+}

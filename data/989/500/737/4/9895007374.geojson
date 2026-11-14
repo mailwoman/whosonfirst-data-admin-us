@@ -1,0 +1,82 @@
+{
+  "id": 9895007374,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.10779092623508,37.406116035729056,-122.10779092623508,37.406116035729056",
+    "geom:latitude":37.406116,
+    "geom:longitude":-122.107791,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354037: name \"The Crossings\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354037"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354037: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354037"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354037: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354037"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922355 (Mountain View).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922355 (Mountain View), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "The Crossings"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922355,
+        102081673,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354037
+    },
+    "wof:country":"US",
+    "wof:geomhash":"185f2a1d1e1fc2b6d8d8037ba4449295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922355,
+            "neighbourhood_id":9895007374,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007374,
+    "wof:lastmodified":1794681144,
+    "wof:name":"The Crossings",
+    "wof:parent_id":85922355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.10779092623508,
+    37.406116035729056,
+    -122.10779092623508,
+    37.406116035729056
+],
+  "geometry": {"coordinates":[-122.10779092623508,37.406116035729056],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001616,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.80185382891594,32.3857169854994,-93.80185382891594,32.3857169854994",
+    "geom:latitude":32.385717,
+    "geom:longitude":-93.801854,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 552180: name \"Southport Country\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/552180"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 552180: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/552180"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 552180: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/552180"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85947819 (Shreveport).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85947819 (Shreveport), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Southport Country"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85947819,
+        102087235,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":552180
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c97699dc3868543c478cc9a4e9c23fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":9895001616,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001616,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Southport Country",
+    "wof:parent_id":85947819,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.80185382891594,
+    32.3857169854994,
+    -93.80185382891594,
+    32.3857169854994
+],
+  "geometry": {"coordinates":[-93.80185382891594,32.3857169854994],"type":"Point"}
+}

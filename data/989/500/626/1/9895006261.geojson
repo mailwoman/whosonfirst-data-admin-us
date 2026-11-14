@@ -1,0 +1,82 @@
+{
+  "id": 9895006261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.42560952803942,37.16208070231408,-80.42560952803942,37.16208070231408",
+    "geom:latitude":37.162081,
+    "geom:longitude":-80.42561,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674645: name \"Mountain View Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674645"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674645: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674645"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674645: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674645"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728703 (Christiansburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728703 (Christiansburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mountain View Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728703,
+        102087271,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1674645
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa906b3f79fa7289f2a2a0d6aefb1186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087271,
+            "locality_id":101728703,
+            "neighbourhood_id":9895006261,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006261,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Mountain View Park",
+    "wof:parent_id":101728703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.42560952803942,
+    37.16208070231408,
+    -80.42560952803942,
+    37.16208070231408
+],
+  "geometry": {"coordinates":[-80.42560952803942,37.16208070231408],"type":"Point"}
+}

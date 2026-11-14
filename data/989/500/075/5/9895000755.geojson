@@ -1,0 +1,82 @@
+{
+  "id": 9895000755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.47973145227886,33.16818109420596,-87.47973145227886,33.16818109420596",
+    "geom:latitude":33.168181,
+    "geom:longitude":-87.479731,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148421: name \"Oxford Gate\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148421"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148421: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148421"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148421: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148421"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914453 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914453 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oxford Gate"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914453,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148421
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ee74add90d4072bb66eb765ef0322f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85914453,
+            "neighbourhood_id":9895000755,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000755,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Oxford Gate",
+    "wof:parent_id":85914453,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.47973145227886,
+    33.16818109420596,
+    -87.47973145227886,
+    33.16818109420596
+],
+  "geometry": {"coordinates":[-87.47973145227886,33.16818109420596],"type":"Point"}
+}

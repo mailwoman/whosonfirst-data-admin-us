@@ -1,0 +1,80 @@
+{
+  "id": 9895007732,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.21250333057574,27.96600518262603,-82.21250333057574,27.96600518262603",
+    "geom:latitude":27.966005,
+    "geom:longitude":-82.212503,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484936: name \"Shepherd Plantation\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484936"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484936: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484936"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484936: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484936"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085773 (Hillsborough).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085773 (Hillsborough), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shepherd Plantation"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2484936
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa52ad2890b4e1aa9e1670966a4ebabb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":9895007732,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007732,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Shepherd Plantation",
+    "wof:parent_id":102085773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.21250333057574,
+    27.96600518262603,
+    -82.21250333057574,
+    27.96600518262603
+],
+  "geometry": {"coordinates":[-82.21250333057574,27.96600518262603],"type":"Point"}
+}

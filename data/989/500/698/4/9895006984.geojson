@@ -1,0 +1,82 @@
+{
+  "id": 9895006984,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.27727604458097,39.80698365473415,-88.27727604458097,39.80698365473415",
+    "geom:latitude":39.806984,
+    "geom:longitude":-88.277276,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1807768: name \"Northgate\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1807768"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1807768: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1807768"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1807768: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1807768"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404497759 (Tuscola Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404497759 (Tuscola Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Northgate"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102080821,
+        102191575,
+        404497759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1807768
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d9535693c13c34a6ca2a83df453b083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080821,
+            "localadmin_id":404497759,
+            "locality_id":9895006984,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895006984,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Northgate",
+    "wof:parent_id":404497759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.27727604458097,
+    39.80698365473415,
+    -88.27727604458097,
+    39.80698365473415
+],
+  "geometry": {"coordinates":[-88.27727604458097,39.80698365473415],"type":"Point"}
+}

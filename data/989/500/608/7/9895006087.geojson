@@ -1,0 +1,82 @@
+{
+  "id": 9895006087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.3584243155389,34.16862206212858,-118.3584243155389,34.16862206212858",
+    "geom:latitude":34.168622,
+    "geom:longitude":-118.358424,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1669981: name \"La Paco\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1669981"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1669981: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1669981"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1669981: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1669981"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923517 (Los Angeles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923517 (Los Angeles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "La Paco"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923517,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1669981
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49c11f2f3c16c3bdd17551fb775ecf24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":9895006087,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006087,
+    "wof:lastmodified":1794681140,
+    "wof:name":"La Paco",
+    "wof:parent_id":85923517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.3584243155389,
+    34.16862206212858,
+    -118.3584243155389,
+    34.16862206212858
+],
+  "geometry": {"coordinates":[-118.3584243155389,34.16862206212858],"type":"Point"}
+}

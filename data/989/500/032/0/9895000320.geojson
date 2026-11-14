@@ -1,0 +1,80 @@
+{
+  "id": 9895000320,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.15361307587146,33.45483866761786,-87.15361307587146,33.45483866761786",
+    "geom:latitude":33.454839,
+    "geom:longitude":-87.153613,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 124060: name \"Oak Grove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/124060"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 124060: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/124060"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 124060: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/124060"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085481 (Jefferson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085481 (Jefferson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oak Grove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":124060
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa14cbc8dd019fedf18a69478733c2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":9895000320,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000320,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Oak Grove",
+    "wof:parent_id":102085481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.15361307587146,
+    33.45483866761786,
+    -87.15361307587146,
+    33.45483866761786
+],
+  "geometry": {"coordinates":[-87.15361307587146,33.45483866761786],"type":"Point"}
+}

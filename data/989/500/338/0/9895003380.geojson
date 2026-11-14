@@ -1,0 +1,82 @@
+{
+  "id": 9895003380,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.84311384163338,41.39451045542126,-79.84311384163338,41.39451045542126",
+    "geom:latitude":41.39451,
+    "geom:longitude":-79.843114,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1203649: name \"Galena Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1203649"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1203649: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1203649"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1203649: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1203649"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404487559 (Frenchcreek Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404487559 (Frenchcreek Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Galena Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081279,
+        102191575,
+        404487559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1203649
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd36d58f6b2f4092798dcc43cb45d33f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081279,
+            "localadmin_id":404487559,
+            "locality_id":9895003380,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003380,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Galena Hill",
+    "wof:parent_id":404487559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.84311384163338,
+    41.39451045542126,
+    -79.84311384163338,
+    41.39451045542126
+],
+  "geometry": {"coordinates":[-79.84311384163338,41.39451045542126],"type":"Point"}
+}

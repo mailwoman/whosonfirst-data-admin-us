@@ -1,0 +1,82 @@
+{
+  "id": 9895002104,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.13203683919714,32.27848590723034,-90.13203683919714,32.27848590723034",
+    "geom:latitude":32.278486,
+    "geom:longitude":-90.132037,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687005: name \"Bates Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687005"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687005: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687005"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687005: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687005"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969947 (Pearl).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969947 (Pearl), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bates Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969947,
+        102084869,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":687005
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3aae370213fdd9e7f765b211a3283c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":9895002104,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002104,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Bates Park",
+    "wof:parent_id":85969947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.13203683919714,
+    32.27848590723034,
+    -90.13203683919714,
+    32.27848590723034
+],
+  "geometry": {"coordinates":[-90.13203683919714,32.27848590723034],"type":"Point"}
+}

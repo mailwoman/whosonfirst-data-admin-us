@@ -1,0 +1,82 @@
+{
+  "id": 9895000546,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.61892218329625,34.75731731796413,-87.61892218329625,34.75731731796413",
+    "geom:latitude":34.757317,
+    "geom:longitude":-87.618922,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146239: name \"Detroit Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146239"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146239: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146239"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146239: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146239"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85897481 (Muscle Shoals).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85897481 (Muscle Shoals), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Detroit Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85897481,
+        102085625,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146239
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2057f0d8e24d5f4b8f6f0adb111fcd1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085625,
+            "locality_id":85897481,
+            "neighbourhood_id":9895000546,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000546,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Detroit Park",
+    "wof:parent_id":85897481,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.61892218329625,
+    34.75731731796413,
+    -87.61892218329625,
+    34.75731731796413
+],
+  "geometry": {"coordinates":[-87.61892218329625,34.75731731796413],"type":"Point"}
+}

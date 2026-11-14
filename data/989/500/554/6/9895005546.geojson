@@ -1,0 +1,82 @@
+{
+  "id": 9895005546,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.08775830672884,38.82734286907292,-77.08775830672884,38.82734286907292",
+    "geom:latitude":38.827343,
+    "geom:longitude":-77.087758,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1493366: name \"Oakcrest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1493366"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1493366: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1493366"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1493366: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1493366"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728581 (Alexandria).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728581 (Alexandria), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oakcrest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728581,
+        102080641,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1493366
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82367d941973f91e8f2b544b7f234c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":9895005546,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005546,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Oakcrest",
+    "wof:parent_id":101728581,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.08775830672884,
+    38.82734286907292,
+    -77.08775830672884,
+    38.82734286907292
+],
+  "geometry": {"coordinates":[-77.08775830672884,38.82734286907292],"type":"Point"}
+}

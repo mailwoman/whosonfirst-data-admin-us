@@ -1,0 +1,82 @@
+{
+  "id": 9895007702,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.11020330369952,28.027105199710352,-82.11020330369952,28.027105199710352",
+    "geom:latitude":28.027105,
+    "geom:longitude":-82.110203,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484283: name \"Mimosa Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484283"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484283: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484283"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484283: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484283"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931795 (Plant City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931795 (Plant City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mimosa Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85931795,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2484283
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b0dbfd4e8b52f1d884ac0b1f89d7f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85931795,
+            "neighbourhood_id":9895007702,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007702,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Mimosa Park",
+    "wof:parent_id":85931795,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.11020330369952,
+    28.027105199710352,
+    -82.11020330369952,
+    28.027105199710352
+],
+  "geometry": {"coordinates":[-82.11020330369952,28.027105199710352],"type":"Point"}
+}

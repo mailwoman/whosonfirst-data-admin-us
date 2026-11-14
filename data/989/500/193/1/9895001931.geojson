@@ -1,0 +1,82 @@
+{
+  "id": 9895001931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.63913669299238,39.26372597455486,-76.63913669299238,39.26372597455486",
+    "geom:latitude":39.263726,
+    "geom:longitude":-76.639137,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 597793: name \"Mount Winans\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/597793"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 597793: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/597793"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 597793: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/597793"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949461 (Baltimore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949461 (Baltimore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mount Winans"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949461,
+        102081589,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":597793
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1eb0c4a0fcbf04698b59c40a37e23e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "neighbourhood_id":9895001931,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001931,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Mount Winans",
+    "wof:parent_id":85949461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.63913669299238,
+    39.26372597455486,
+    -76.63913669299238,
+    39.26372597455486
+],
+  "geometry": {"coordinates":[-76.63913669299238,39.26372597455486],"type":"Point"}
+}

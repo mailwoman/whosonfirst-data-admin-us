@@ -1,0 +1,82 @@
+{
+  "id": 9895001724,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.1217785197857,30.479362092253993,-91.1217785197857,30.479362092253993",
+    "geom:latitude":30.479362,
+    "geom:longitude":-91.121779,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559256: name \"Victoria Garden\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559256"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559256: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559256"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559256: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559256"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948205 (Baton Rouge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948205 (Baton Rouge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Victoria Garden"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948205,
+        102087229,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":559256
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a50054bca1ecd742d18c4d69b264a123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":9895001724,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001724,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Victoria Garden",
+    "wof:parent_id":85948205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.1217785197857,
+    30.479362092253993,
+    -91.1217785197857,
+    30.479362092253993
+],
+  "geometry": {"coordinates":[-91.1217785197857,30.479362092253993],"type":"Point"}
+}

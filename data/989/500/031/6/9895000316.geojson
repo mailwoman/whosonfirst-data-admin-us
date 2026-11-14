@@ -1,0 +1,80 @@
+{
+  "id": 9895000316,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.56892027383425,34.83703753649852,-87.56892027383425,34.83703753649852",
+    "geom:latitude":34.837038,
+    "geom:longitude":-87.56892,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 121136: name \"Kendale Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/121136"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 121136: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/121136"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 121136: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/121136"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085527 (Lauderdale).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085527 (Lauderdale), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kendale Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085527,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":121136
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5708985e92131a91fef55d0ef870f158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085527,
+            "locality_id":9895000316,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000316,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Kendale Gardens",
+    "wof:parent_id":102085527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.56892027383425,
+    34.83703753649852,
+    -87.56892027383425,
+    34.83703753649852
+],
+  "geometry": {"coordinates":[-87.56892027383425,34.83703753649852],"type":"Point"}
+}

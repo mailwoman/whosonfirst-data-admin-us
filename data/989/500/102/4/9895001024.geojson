@@ -1,0 +1,82 @@
+{
+  "id": 9895001024,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.39321897877056,33.23115381054072,-117.39321897877056,33.23115381054072",
+    "geom:latitude":33.231154,
+    "geom:longitude":-117.393219,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 253280: name \"Ysidora\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/253280"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 253280: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/253280"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 253280: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/253280"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85925283 (Camp Pendleton South).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85925283 (Camp Pendleton South), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ysidora"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85925283,
+        102083569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":253280
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47d360b33384247df4d92c3dff896467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85925283,
+            "neighbourhood_id":9895001024,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001024,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Ysidora",
+    "wof:parent_id":85925283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.39321897877056,
+    33.23115381054072,
+    -117.39321897877056,
+    33.23115381054072
+],
+  "geometry": {"coordinates":[-117.39321897877056,33.23115381054072],"type":"Point"}
+}

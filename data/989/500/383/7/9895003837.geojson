@@ -1,0 +1,82 @@
+{
+  "id": 9895003837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.46747915752135,36.17923489608019,-85.46747915752135,36.17923489608019",
+    "geom:latitude":36.179235,
+    "geom:longitude":-85.467479,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1310892: name \"Darwin Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1310892"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1310892: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1310892"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1310892: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1310892"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722459 (Cookeville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722459 (Cookeville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Darwin Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722459,
+        102086339,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1310892
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82a8bb24a7219f586c866760b974847c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":9895003837,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003837,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Darwin Park",
+    "wof:parent_id":101722459,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.46747915752135,
+    36.17923489608019,
+    -85.46747915752135,
+    36.17923489608019
+],
+  "geometry": {"coordinates":[-85.46747915752135,36.17923489608019],"type":"Point"}
+}

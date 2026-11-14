@@ -1,0 +1,82 @@
+{
+  "id": 9895005970,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.09397036960173,34.14806737490441,-118.09397036960173,34.14806737490441",
+    "geom:latitude":34.148067,
+    "geom:longitude":-118.09397,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660885: name \"Lamanda Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660885"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660885: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660885"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660885: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660885"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923487 (Pasadena).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923487 (Pasadena), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lamanda Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923487,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1660885
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf64a00d09778bf9390469d87767ac36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923487,
+            "neighbourhood_id":9895005970,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005970,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Lamanda Park",
+    "wof:parent_id":85923487,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.09397036960173,
+    34.14806737490441,
+    -118.09397036960173,
+    34.14806737490441
+],
+  "geometry": {"coordinates":[-118.09397036960173,34.14806737490441],"type":"Point"}
+}

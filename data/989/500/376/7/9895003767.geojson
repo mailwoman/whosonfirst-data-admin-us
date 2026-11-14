@@ -1,0 +1,82 @@
+{
+  "id": 9895003767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.72839233154879,43.645537756452015,-96.72839233154879,43.645537756452015",
+    "geom:latitude":43.645538,
+    "geom:longitude":-96.728392,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1257356: name \"Renner\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1257356"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1257356: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1257356"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1257356: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1257356"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404491231 (Mapleton Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404491231 (Mapleton Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Renner"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688693,
+        102086007,
+        102191575,
+        404491231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1257356
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e982fd7624f905c00249f60238703e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491231,
+            "locality_id":9895003767,
+            "region_id":85688693
+        }
+    ],
+    "wof:id":9895003767,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Renner",
+    "wof:parent_id":404491231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.72839233154879,
+    43.645537756452015,
+    -96.72839233154879,
+    43.645537756452015
+],
+  "geometry": {"coordinates":[-96.72839233154879,43.645537756452015],"type":"Point"}
+}

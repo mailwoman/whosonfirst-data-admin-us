@@ -1,0 +1,82 @@
+{
+  "id": 9895001865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.69663720125365,39.095950138114304,-76.69663720125365,39.095950138114304",
+    "geom:latitude":39.09595,
+    "geom:longitude":-76.696637,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590765: name \"Mayfield\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590765"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590765: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590765"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590765: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590765"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949733 (Odenton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949733 (Odenton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mayfield"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949733,
+        102083469,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":590765
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc2933aad6171807f6aac0e5c5b2c67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949733,
+            "neighbourhood_id":9895001865,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001865,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Mayfield",
+    "wof:parent_id":85949733,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.69663720125365,
+    39.095950138114304,
+    -76.69663720125365,
+    39.095950138114304
+],
+  "geometry": {"coordinates":[-76.69663720125365,39.095950138114304],"type":"Point"}
+}

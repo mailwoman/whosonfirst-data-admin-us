@@ -1,0 +1,80 @@
+{
+  "id": 9895008111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.7188921551344,26.87444892790168,-81.7188921551344,26.87444892790168",
+    "geom:latitude":26.874449,
+    "geom:longitude":-81.718892,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2833183: name \"Babcock Ranch\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2833183"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2833183: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2833183"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2833183: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2833183"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085809 (Charlotte).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085809 (Charlotte), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Babcock Ranch"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102085809,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2833183
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41981d5e88cc42ab465e4cf7c8771848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085809,
+            "locality_id":9895008111,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895008111,
+    "wof:lastmodified":1794681146,
+    "wof:name":"Babcock Ranch",
+    "wof:parent_id":102085809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.7188921551344,
+    26.87444892790168,
+    -81.7188921551344,
+    26.87444892790168
+],
+  "geometry": {"coordinates":[-81.7188921551344,26.87444892790168],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000314,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.61888749658776,34.70454204792776,-86.61888749658776,34.70454204792776",
+    "geom:latitude":34.704542,
+    "geom:longitude":-86.618887,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 120562: name \"Huntsville Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/120562"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 120562: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/120562"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 120562: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/120562"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913601 (Huntsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913601 (Huntsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Huntsville Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913601,
+        102085487,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":120562
+    },
+    "wof:country":"US",
+    "wof:geomhash":"916af1cef96b0ed1cc6328f3df583c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085487,
+            "locality_id":85913601,
+            "neighbourhood_id":9895000314,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000314,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Huntsville Park",
+    "wof:parent_id":85913601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.61888749658776,
+    34.70454204792776,
+    -86.61888749658776,
+    34.70454204792776
+],
+  "geometry": {"coordinates":[-86.61888749658776,34.70454204792776],"type":"Point"}
+}

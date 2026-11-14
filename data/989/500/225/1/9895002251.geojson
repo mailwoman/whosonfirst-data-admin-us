@@ -1,0 +1,82 @@
+{
+  "id": 9895002251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.03601855072266,37.18061163178247,-93.03601855072266,37.18061163178247",
+    "geom:latitude":37.180612,
+    "geom:longitude":-93.036019,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740507: name \"All\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740507"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740507: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740507"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740507: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740507"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404517869 (Benton Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404517869 (Benton Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "All"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102086149,
+        102191575,
+        404517869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":740507
+    },
+    "wof:country":"US",
+    "wof:geomhash":"babae3aa5ab520e71db3e7be265a4ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086149,
+            "localadmin_id":404517869,
+            "locality_id":9895002251,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002251,
+    "wof:lastmodified":1794681128,
+    "wof:name":"All",
+    "wof:parent_id":404517869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.03601855072266,
+    37.18061163178247,
+    -93.03601855072266,
+    37.18061163178247
+],
+  "geometry": {"coordinates":[-93.03601855072266,37.18061163178247],"type":"Point"}
+}

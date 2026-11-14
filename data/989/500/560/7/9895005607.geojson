@@ -1,0 +1,82 @@
+{
+  "id": 9895005607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.3204193009368,47.64621502012014,-122.3204193009368,47.64621502012014",
+    "geom:latitude":47.646215,
+    "geom:longitude":-122.320419,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1509905: name \"North Broadway\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1509905"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1509905: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1509905"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1509905: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1509905"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101730401 (Seattle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101730401 (Seattle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North Broadway"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        101730401,
+        102086191,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1509905
+    },
+    "wof:country":"US",
+    "wof:geomhash":"edeece1e56d29e38dd873655526c4df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":9895005607,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005607,
+    "wof:lastmodified":1794681138,
+    "wof:name":"North Broadway",
+    "wof:parent_id":101730401,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.3204193009368,
+    47.64621502012014,
+    -122.3204193009368,
+    47.64621502012014
+],
+  "geometry": {"coordinates":[-122.3204193009368,47.64621502012014],"type":"Point"}
+}

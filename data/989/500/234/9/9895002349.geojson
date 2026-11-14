@@ -1,0 +1,118 @@
+{
+  "id": 9895002349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.96458423341545,40.68094465130956,-73.96458423341545,40.68094465130956",
+    "geom:latitude":40.680945,
+    "geom:longitude":-73.964584,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 942180: name \"Adelphi\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/942180"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 942180: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/942180"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 942180: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/942180"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85977539 (New York).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85977539 (New York), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Adelphi"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        85977539,
+        102081779,
+        102081863,
+        102082361,
+        102082377,
+        102083063,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":942180
+    },
+    "wof:country":"US",
+    "wof:geomhash":"255144f00a30c710d6903fcbfe4b06eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002349,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002349,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002349,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002349,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002349,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002349,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Adelphi",
+    "wof:parent_id":85977539,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96458423341545,
+    40.68094465130956,
+    -73.96458423341545,
+    40.68094465130956
+],
+  "geometry": {"coordinates":[-73.96458423341545,40.68094465130956],"type":"Point"}
+}

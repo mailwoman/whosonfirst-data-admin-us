@@ -1,0 +1,82 @@
+{
+  "id": 9895005635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.31291787963093,47.56149321618437,-122.31291787963093,47.56149321618437",
+    "geom:latitude":47.561493,
+    "geom:longitude":-122.312918,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1512676: name \"South Seattle\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1512676"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1512676: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1512676"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1512676: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1512676"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101730401 (Seattle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101730401 (Seattle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South Seattle"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        101730401,
+        102086191,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1512676
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9040bb82e8a31820c9caa1ff10d32384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":9895005635,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005635,
+    "wof:lastmodified":1794681138,
+    "wof:name":"South Seattle",
+    "wof:parent_id":101730401,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.31291787963093,
+    47.56149321618437,
+    -122.31291787963093,
+    47.56149321618437
+],
+  "geometry": {"coordinates":[-122.31291787963093,47.56149321618437],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.57888908689085,36.314779875587604,-86.57888908689085,36.314779875587604",
+    "geom:latitude":36.31478,
+    "geom:longitude":-86.578889,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311936: name \"Lake Club Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311936"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311936: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311936"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311936: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311936"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723169 (Hendersonville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723169 (Hendersonville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lake Club Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723169,
+        102086357,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1311936
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9949579ec7fffc461a449edb9d480394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723169,
+            "neighbourhood_id":9895003893,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003893,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Lake Club Estates",
+    "wof:parent_id":101723169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.57888908689085,
+    36.314779875587604,
+    -86.57888908689085,
+    36.314779875587604
+],
+  "geometry": {"coordinates":[-86.57888908689085,36.314779875587604],"type":"Point"}
+}

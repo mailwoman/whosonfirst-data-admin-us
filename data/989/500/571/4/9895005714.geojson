@@ -1,0 +1,82 @@
+{
+  "id": 9895005714,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.10200240219237,44.85168179148533,-85.10200240219237,44.85168179148533",
+    "geom:latitude":44.851682,
+    "geom:longitude":-85.102002,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1617934: name \"Westwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1617934"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1617934: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1617934"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1617934: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1617934"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404509017 (Rapid River Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404509017 (Rapid River Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688599,
+        102083755,
+        102191575,
+        404509017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1617934
+    },
+    "wof:country":"US",
+    "wof:geomhash":"86b55f52349711bc99b3bd84af3b0b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083755,
+            "localadmin_id":404509017,
+            "locality_id":9895005714,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":9895005714,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Westwood",
+    "wof:parent_id":404509017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.10200240219237,
+    44.85168179148533,
+    -85.10200240219237,
+    44.85168179148533
+],
+  "geometry": {"coordinates":[-85.10200240219237,44.85168179148533],"type":"Point"}
+}

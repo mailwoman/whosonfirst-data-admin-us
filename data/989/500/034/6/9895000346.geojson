@@ -1,0 +1,80 @@
+{
+  "id": 9895000346,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.0652459198898,32.52069640895622,-86.0652459198898,32.52069640895622",
+    "geom:latitude":32.520696,
+    "geom:longitude":-86.065246,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137223: name \"Hidden Forest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137223"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137223: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137223"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137223: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137223"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085631 (Elmore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085631 (Elmore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hidden Forest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085631,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":137223
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca0dbe85eea2b623c06d15893dff4621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085631,
+            "locality_id":9895000346,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000346,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Hidden Forest",
+    "wof:parent_id":102085631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.0652459198898,
+    32.52069640895622,
+    -86.0652459198898,
+    32.52069640895622
+],
+  "geometry": {"coordinates":[-86.0652459198898,32.52069640895622],"type":"Point"}
+}

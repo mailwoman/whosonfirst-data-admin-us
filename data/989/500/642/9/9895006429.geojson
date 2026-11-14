@@ -1,0 +1,82 @@
+{
+  "id": 9895006429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.17387387940788,39.56760851451885,-77.17387387940788,39.56760851451885",
+    "geom:latitude":39.567609,
+    "geom:longitude":-77.173874,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695535: name \"Bellevue Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695535"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695535: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695535"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695535: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695535"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949355 (Union Bridge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949355 (Union Bridge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bellevue Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949355,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695535
+    },
+    "wof:country":"US",
+    "wof:geomhash":"782dd917ab87bc2398cff7d196c465fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949355,
+            "neighbourhood_id":9895006429,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006429,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Bellevue Heights",
+    "wof:parent_id":85949355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.17387387940788,
+    39.56760851451885,
+    -77.17387387940788,
+    39.56760851451885
+],
+  "geometry": {"coordinates":[-77.17387387940788,39.56760851451885],"type":"Point"}
+}

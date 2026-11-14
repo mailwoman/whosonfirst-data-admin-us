@@ -1,0 +1,82 @@
+{
+  "id": 9895004916,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.04273212102805,41.156061168619146,-112.04273212102805,41.156061168619146",
+    "geom:latitude":41.156061,
+    "geom:longitude":-112.042732,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453298: name \"Berrett\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453298"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453298: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453298"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453298: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453298"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728023 (Roy).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728023 (Roy), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Berrett"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728023,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453298
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4c0716717b682867980d16926df3578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":9895004916,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004916,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Berrett",
+    "wof:parent_id":101728023,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.04273212102805,
+    41.156061168619146,
+    -112.04273212102805,
+    41.156061168619146
+],
+  "geometry": {"coordinates":[-112.04273212102805,41.156061168619146],"type":"Point"}
+}

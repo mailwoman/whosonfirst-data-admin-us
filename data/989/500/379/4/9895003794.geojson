@@ -1,0 +1,80 @@
+{
+  "id": 9895003794,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.34499767924552,35.699798162304,-86.34499767924552,35.699798162304",
+    "geom:latitude":35.699798,
+    "geom:longitude":-86.344998,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1297771: name \"Plainview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1297771"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1297771: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1297771"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1297771: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1297771"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086355 (Rutherford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086355 (Rutherford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Plainview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086355,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1297771
+    },
+    "wof:country":"US",
+    "wof:geomhash":"057b97b1684a0614aee51a6b353a3f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":9895003794,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003794,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Plainview",
+    "wof:parent_id":102086355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.34499767924552,
+    35.699798162304,
+    -86.34499767924552,
+    35.699798162304
+],
+  "geometry": {"coordinates":[-86.34499767924552,35.699798162304],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001896,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.81465781740678,38.97484364569909,-75.81465781740678,38.97484364569909",
+    "geom:latitude":38.974844,
+    "geom:longitude":-75.814658,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 595829: name \"Maple Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/595829"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 595829: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/595829"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 595829: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/595829"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949269 (Greensboro).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949269 (Greensboro), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Maple Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949269,
+        102081215,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":595829
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b54de12e185577d80b086aae430ee6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949269,
+            "neighbourhood_id":9895001896,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001896,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Maple Village",
+    "wof:parent_id":85949269,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.81465781740678,
+    38.97484364569909,
+    -75.81465781740678,
+    38.97484364569909
+],
+  "geometry": {"coordinates":[-75.81465781740678,38.97484364569909],"type":"Point"}
+}

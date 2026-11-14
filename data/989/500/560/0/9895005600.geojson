@@ -1,0 +1,82 @@
+{
+  "id": 9895005600,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.57561747077257,37.12207738813301,-80.57561747077257,37.12207738813301",
+    "geom:latitude":37.122077,
+    "geom:longitude":-80.575617,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1501101: name \"Sunset Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1501101"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1501101: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1501101"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1501101: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1501101"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728831 (Radford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728831 (Radford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunset Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728831,
+        102081063,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1501101
+    },
+    "wof:country":"US",
+    "wof:geomhash":"65073840b07b00f961211ecaa16882bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081063,
+            "locality_id":101728831,
+            "neighbourhood_id":9895005600,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005600,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Sunset Village",
+    "wof:parent_id":101728831,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.57561747077257,
+    37.12207738813301,
+    -80.57561747077257,
+    37.12207738813301
+],
+  "geometry": {"coordinates":[-80.57561747077257,37.12207738813301],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003400,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.36338300995742,41.62562491988678,-79.36338300995742,41.62562491988678",
+    "geom:latitude":41.625625,
+    "geom:longitude":-79.363383,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1209912: name \"Queen\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1209912"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1209912: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1209912"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1209912: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1209912"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404485301 (Hickory Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404485301 (Hickory Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Queen"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080977,
+        102191575,
+        404485301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1209912
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0aac0be60b24c0fac36024711c9adb91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080977,
+            "localadmin_id":404485301,
+            "locality_id":9895003400,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003400,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Queen",
+    "wof:parent_id":404485301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.36338300995742,
+    41.62562491988678,
+    -79.36338300995742,
+    41.62562491988678
+],
+  "geometry": {"coordinates":[-79.36338300995742,41.62562491988678],"type":"Point"}
+}

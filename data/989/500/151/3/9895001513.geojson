@@ -1,0 +1,82 @@
+{
+  "id": 9895001513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.49522069919809,38.02564050454879,-84.49522069919809,38.02564050454879",
+    "geom:latitude":38.025641,
+    "geom:longitude":-84.495221,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 498880: name \"Mount Vernon\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/498880"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 498880: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/498880"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 498880: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/498880"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85947137 (Lexington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85947137 (Lexington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mount Vernon"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688641,
+        85947137,
+        102084695,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":498880
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ff48706f80e0931d82f1d0f48ae1e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":9895001513,
+            "region_id":85688641
+        }
+    ],
+    "wof:id":9895001513,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Mount Vernon",
+    "wof:parent_id":85947137,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.49522069919809,
+    38.02564050454879,
+    -84.49522069919809,
+    38.02564050454879
+],
+  "geometry": {"coordinates":[-84.49522069919809,38.02564050454879],"type":"Point"}
+}

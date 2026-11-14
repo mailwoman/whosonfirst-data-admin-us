@@ -1,0 +1,80 @@
+{
+  "id": 9895002595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.06918105424762,36.05737032265433,-79.06918105424762,36.05737032265433",
+    "geom:latitude":36.05737,
+    "geom:longitude":-79.069181,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002556: name \"Colonial Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002556"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002556: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002556"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002556: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002556"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087647 (Orange).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087647 (Orange), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Colonial Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087647,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1002556
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d5800ceb375934f23ee6bf06b0e14a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087647,
+            "locality_id":9895002595,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002595,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Colonial Hills",
+    "wof:parent_id":102087647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.06918105424762,
+    36.05737032265433,
+    -79.06918105424762,
+    36.05737032265433
+],
+  "geometry": {"coordinates":[-79.06918105424762,36.05737032265433],"type":"Point"}
+}

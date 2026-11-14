@@ -1,0 +1,82 @@
+{
+  "id": 9895007494,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.0941768376011,39.78139531765038,-105.0941768376011,39.78139531765038",
+    "geom:latitude":39.781395,
+    "geom:longitude":-105.094177,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354895: name \"Green Valley\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354895"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354895: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354895"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354895: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354895"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929737 (Wheat Ridge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929737 (Wheat Ridge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Green Valley"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929737,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354895
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9abc58af0b620ba2105bed56b506c953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":85929737,
+            "neighbourhood_id":9895007494,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007494,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Green Valley",
+    "wof:parent_id":85929737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.0941768376011,
+    39.78139531765038,
+    -105.0941768376011,
+    39.78139531765038
+],
+  "geometry": {"coordinates":[-105.0941768376011,39.78139531765038],"type":"Point"}
+}

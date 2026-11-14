@@ -1,0 +1,84 @@
+{
+  "id": 9895001955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.34672880106193,42.63482211623504,-71.34672880106193,42.63482211623504",
+    "geom:latitude":42.634822,
+    "geom:longitude":-71.346729,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 611839: name \"Middlesex Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/611839"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 611839: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/611839"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 611839: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/611839"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950327 (Lowell).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950327 (Lowell), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Middlesex Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688645,
+        85950327,
+        102084643,
+        102191575,
+        404476397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":611839
+    },
+    "wof:country":"US",
+    "wof:geomhash":"431aeaf44dc776cc4306df6cb0817165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476397,
+            "locality_id":85950327,
+            "neighbourhood_id":9895001955,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":9895001955,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Middlesex Village",
+    "wof:parent_id":85950327,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.34672880106193,
+    42.63482211623504,
+    -71.34672880106193,
+    42.63482211623504
+],
+  "geometry": {"coordinates":[-71.34672880106193,42.63482211623504],"type":"Point"}
+}

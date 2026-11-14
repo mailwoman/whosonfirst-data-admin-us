@@ -1,0 +1,82 @@
+{
+  "id": 9895002439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.82281655505197,43.06950990730936,-78.82281655505197,43.06950990730936",
+    "geom:latitude":43.06951,
+    "geom:longitude":-78.822817,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 974223: name \"Hoffman\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/974223"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 974223: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/974223"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 974223: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/974223"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404522747 (Pendleton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404522747 (Pendleton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hoffman"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102081767,
+        102191575,
+        404522747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":974223
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55cdb648ca5a89bf34fa32afd4cb9949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081767,
+            "localadmin_id":404522747,
+            "locality_id":9895002439,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002439,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Hoffman",
+    "wof:parent_id":404522747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.82281655505197,
+    43.06950990730936,
+    -78.82281655505197,
+    43.06950990730936
+],
+  "geometry": {"coordinates":[-78.82281655505197,43.06950990730936],"type":"Point"}
+}

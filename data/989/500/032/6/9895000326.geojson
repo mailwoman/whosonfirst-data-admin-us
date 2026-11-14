@@ -1,0 +1,82 @@
+{
+  "id": 9895000326,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.86611883948986,34.24177134241701,-86.86611883948986,34.24177134241701",
+    "geom:latitude":34.241771,
+    "geom:longitude":-86.866119,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 128463: name \"Vinemont\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/128463"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 128463: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/128463"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 128463: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/128463"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914235 (South Vinemont).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914235 (South Vinemont), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Vinemont"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914235,
+        102085729,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":128463
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5983f0ae9e73169b18dbb6be8abdd220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085729,
+            "locality_id":85914235,
+            "neighbourhood_id":9895000326,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000326,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Vinemont",
+    "wof:parent_id":85914235,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.86611883948986,
+    34.24177134241701,
+    -86.86611883948986,
+    34.24177134241701
+],
+  "geometry": {"coordinates":[-86.86611883948986,34.24177134241701],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895002834,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.16499684820486,35.45961242624655,-78.16499684820486,35.45961242624655",
+    "geom:latitude":35.459612,
+    "geom:longitude":-78.164997,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005077: name \"Delwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005077"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005077: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005077"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005077: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005077"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080883 (Johnston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080883 (Johnston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Delwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080883,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005077
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca0c9b290102dfae22cd7f8f5f1d657d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080883,
+            "locality_id":9895002834,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002834,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Delwood",
+    "wof:parent_id":102080883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.16499684820486,
+    35.45961242624655,
+    -78.16499684820486,
+    35.45961242624655
+],
+  "geometry": {"coordinates":[-78.16499684820486,35.45961242624655],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006650,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.45026625670627,39.4214986745288,-77.45026625670627,39.4214986745288",
+    "geom:latitude":39.421499,
+    "geom:longitude":-77.450266,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711970: name \"Willowcrest Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711970"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711970: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711970"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711970: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711970"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949385 (Frederick).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949385 (Frederick), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Willowcrest Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949385,
+        102081593,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1711970
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ee2a23b023748d7620a48616cd99920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":9895006650,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006650,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Willowcrest Gardens",
+    "wof:parent_id":85949385,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.45026625670627,
+    39.4214986745288,
+    -77.45026625670627,
+    39.4214986745288
+],
+  "geometry": {"coordinates":[-77.45026625670627,39.4214986745288],"type":"Point"}
+}

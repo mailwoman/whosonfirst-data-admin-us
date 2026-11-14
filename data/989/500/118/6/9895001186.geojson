@@ -1,0 +1,82 @@
+{
+  "id": 9895001186,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.79434290462669,31.10380377234618,-83.79434290462669,31.10380377234618",
+    "geom:latitude":31.103804,
+    "geom:longitude":-83.794343,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 344021: name \"Sunset\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/344021"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 344021: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/344021"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 344021: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/344021"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936781 (Moultrie).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936781 (Moultrie), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunset"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936781,
+        102084501,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":344021
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eccdc4a71fa2acd4b9f7fef237fedc3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084501,
+            "locality_id":85936781,
+            "neighbourhood_id":9895001186,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001186,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Sunset",
+    "wof:parent_id":85936781,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.79434290462669,
+    31.10380377234618,
+    -83.79434290462669,
+    31.10380377234618
+],
+  "geometry": {"coordinates":[-83.79434290462669,31.10380377234618],"type":"Point"}
+}

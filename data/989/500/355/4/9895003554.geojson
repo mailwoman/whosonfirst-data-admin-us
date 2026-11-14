@@ -1,0 +1,82 @@
+{
+  "id": 9895003554,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.2012079392252,33.00878821761313,-80.2012079392252,33.00878821761313",
+    "geom:latitude":33.008788,
+    "geom:longitude":-80.201208,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241212: name \"Shephard Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241212"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241212: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241212"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241212: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241212"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720753 (Summerville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720753 (Summerville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shephard Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720753,
+        102085409,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1241212
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c6e8cd168a34c67ce01fdda0554a638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085409,
+            "locality_id":101720753,
+            "neighbourhood_id":9895003554,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003554,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Shephard Park",
+    "wof:parent_id":101720753,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.2012079392252,
+    33.00878821761313,
+    -80.2012079392252,
+    33.00878821761313
+],
+  "geometry": {"coordinates":[-80.2012079392252,33.00878821761313],"type":"Point"}
+}

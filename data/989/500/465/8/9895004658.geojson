@@ -1,0 +1,82 @@
+{
+  "id": 9895004658,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.0260624508133,40.67273021690849,-112.0260624508133,40.67273021690849",
+    "geom:latitude":40.67273,
+    "geom:longitude":-112.026062,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452698: name \"Cape Cod Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452698"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452698: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452698"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452698: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452698"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728063 (West Valley City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728063 (West Valley City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cape Cod Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728063,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1452698
+    },
+    "wof:country":"US",
+    "wof:geomhash":"639f95a660fa1db6b956baa26e0f03c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":9895004658,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004658,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Cape Cod Estates",
+    "wof:parent_id":101728063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.0260624508133,
+    40.67273021690849,
+    -112.0260624508133,
+    40.67273021690849
+],
+  "geometry": {"coordinates":[-112.0260624508133,40.67273021690849],"type":"Point"}
+}

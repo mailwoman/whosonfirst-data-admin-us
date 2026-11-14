@@ -1,0 +1,80 @@
+{
+  "id": 9895007999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.10377255540907,35.307109195510996,-108.10377255540907,35.307109195510996",
+    "geom:latitude":35.307109,
+    "geom:longitude":-108.103773,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806719: name \"Homer C Jones\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806719"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806719: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806719"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806719: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806719"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081579 (McKinley).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081579 (McKinley), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Homer C Jones"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081579,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806719
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d45e8cf1bd0282d43d881a8d4875c6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081579,
+            "locality_id":9895007999,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895007999,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Homer C Jones",
+    "wof:parent_id":102081579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.10377255540907,
+    35.307109195510996,
+    -108.10377255540907,
+    35.307109195510996
+],
+  "geometry": {"coordinates":[-108.10377255540907,35.307109195510996],"type":"Point"}
+}

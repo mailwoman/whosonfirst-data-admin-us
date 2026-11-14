@@ -1,0 +1,82 @@
+{
+  "id": 9895000575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.82082656889044,33.2090107270868,-86.82082656889044,33.2090107270868",
+    "geom:latitude":33.209011,
+    "geom:longitude":-86.820827,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146560: name \"Scottsdale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146560"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146560: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146560"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146560: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146560"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914487 (Alabaster).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914487 (Alabaster), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Scottsdale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914487,
+        102085499,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146560
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6b808c38e4fe5de85961d46e9ba6d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085499,
+            "locality_id":85914487,
+            "neighbourhood_id":9895000575,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000575,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Scottsdale",
+    "wof:parent_id":85914487,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.82082656889044,
+    33.2090107270868,
+    -86.82082656889044,
+    33.2090107270868
+],
+  "geometry": {"coordinates":[-86.82082656889044,33.2090107270868],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895004173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.09854922148119,38.72358588768904,-112.09854922148119,38.72358588768904",
+    "geom:latitude":38.723586,
+    "geom:longitude":-112.098549,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1442122: name \"Jensen\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1442122"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1442122: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1442122"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1442122: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1442122"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083543 (Sevier).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083543 (Sevier), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jensen"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        102083543,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1442122
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3150e562e0d368aa6711e507763ea80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083543,
+            "locality_id":9895004173,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004173,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Jensen",
+    "wof:parent_id":102083543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.09854922148119,
+    38.72358588768904,
+    -112.09854922148119,
+    38.72358588768904
+],
+  "geometry": {"coordinates":[-112.09854922148119,38.72358588768904],"type":"Point"}
+}

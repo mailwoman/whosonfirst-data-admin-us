@@ -1,0 +1,82 @@
+{
+  "id": 9895000537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.16858990321222,33.56649972885989,-86.16858990321222,33.56649972885989",
+    "geom:latitude":33.5665,
+    "geom:longitude":-86.16859,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144807: name \"Eureka Shores\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144807"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144807: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144807"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144807: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144807"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914143 (Lincoln).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914143 (Lincoln), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Eureka Shores"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914143,
+        102085517,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":144807
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e1232a4c8f73b020f585a669810447d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085517,
+            "locality_id":85914143,
+            "neighbourhood_id":9895000537,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000537,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Eureka Shores",
+    "wof:parent_id":85914143,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.16858990321222,
+    33.56649972885989,
+    -86.16858990321222,
+    33.56649972885989
+],
+  "geometry": {"coordinates":[-86.16858990321222,33.56649972885989],"type":"Point"}
+}

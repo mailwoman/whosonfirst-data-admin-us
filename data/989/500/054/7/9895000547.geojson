@@ -1,0 +1,82 @@
+{
+  "id": 9895000547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.67225639869456,34.77176161879946,-87.67225639869456,34.77176161879946",
+    "geom:latitude":34.771762,
+    "geom:longitude":-87.672256,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146242: name \"Easton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146242"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146242: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146242"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146242: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146242"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85897473 (Sheffield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85897473 (Sheffield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Easton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85897473,
+        102085625,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146242
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d979a5b0435a771f4fd1bef53d9c5a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085625,
+            "locality_id":85897473,
+            "neighbourhood_id":9895000547,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000547,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Easton",
+    "wof:parent_id":85897473,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.67225639869456,
+    34.77176161879946,
+    -87.67225639869456,
+    34.77176161879946
+],
+  "geometry": {"coordinates":[-87.67225639869456,34.77176161879946],"type":"Point"}
+}

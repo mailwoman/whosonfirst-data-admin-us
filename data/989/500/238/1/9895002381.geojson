@@ -1,0 +1,84 @@
+{
+  "id": 9895002381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.13512952664946,42.8286950552615,-74.13512952664946,42.8286950552615",
+    "geom:latitude":42.828695,
+    "geom:longitude":-74.13513,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 956512: name \"Mariaville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/956512"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 956512: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/956512"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 956512: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/956512"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85979293 (Mariaville Lake).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85979293 (Mariaville Lake), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mariaville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        85979293,
+        102081765,
+        102191575,
+        404522381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":956512
+    },
+    "wof:country":"US",
+    "wof:geomhash":"629fbc1c3f9db1e61983652d4b8c7c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081765,
+            "localadmin_id":404522381,
+            "locality_id":85979293,
+            "neighbourhood_id":9895002381,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002381,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Mariaville",
+    "wof:parent_id":85979293,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.13512952664946,
+    42.8286950552615,
+    -74.13512952664946,
+    42.8286950552615
+],
+  "geometry": {"coordinates":[-74.13512952664946,42.8286950552615],"type":"Point"}
+}

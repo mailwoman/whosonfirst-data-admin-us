@@ -1,0 +1,82 @@
+{
+  "id": 9895004948,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.03273182106201,41.17383917188719,-112.03273182106201,41.17383917188719",
+    "geom:latitude":41.173839,
+    "geom:longitude":-112.032732,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453349: name \"Maplewood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453349"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453349: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453349"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453349: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453349"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728023 (Roy).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728023 (Roy), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Maplewood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728023,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453349
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd1d0ddd10bc8591e379e01d400bac8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":9895004948,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004948,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Maplewood Estates",
+    "wof:parent_id":101728023,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.03273182106201,
+    41.17383917188719,
+    -112.03273182106201,
+    41.17383917188719
+],
+  "geometry": {"coordinates":[-112.03273182106201,41.17383917188719],"type":"Point"}
+}

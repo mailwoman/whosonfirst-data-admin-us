@@ -1,0 +1,80 @@
+{
+  "id": 9895006655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.3385973260328,39.4906649923418,-77.3385973260328,39.4906649923418",
+    "geom:latitude":39.490665,
+    "geom:longitude":-77.338597,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1712074: name \"Glade Manor\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1712074"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1712074: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1712074"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1712074: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1712074"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081593 (Frederick).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081593 (Frederick), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Glade Manor"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102081593,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1712074
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92dfb59f6cf9376b5dfe0fee12fbd5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":9895006655,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006655,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Glade Manor",
+    "wof:parent_id":102081593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.3385973260328,
+    39.4906649923418,
+    -77.3385973260328,
+    39.4906649923418
+],
+  "geometry": {"coordinates":[-77.3385973260328,39.4906649923418],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895007170,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.06680551481176,44.811166153277725,-73.06680551481176,44.811166153277725",
+    "geom:latitude":44.811166,
+    "geom:longitude":-73.066806,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1920649: name \"Hill Farm Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1920649"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1920649: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1920649"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1920649: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1920649"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404527133 (St. Albans).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404527133 (St. Albans), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hill Farm Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688763,
+        102080729,
+        102191575,
+        404527133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1920649
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c7af36c1422afe968d39547169409cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080729,
+            "localadmin_id":404527133,
+            "locality_id":9895007170,
+            "region_id":85688763
+        }
+    ],
+    "wof:id":9895007170,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Hill Farm Estates",
+    "wof:parent_id":404527133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.06680551481176,
+    44.811166153277725,
+    -73.06680551481176,
+    44.811166153277725
+],
+  "geometry": {"coordinates":[-73.06680551481176,44.811166153277725],"type":"Point"}
+}

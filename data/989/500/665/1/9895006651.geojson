@@ -1,0 +1,82 @@
+{
+  "id": 9895006651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.46137755977804,39.423165274458455,-77.46137755977804,39.423165274458455",
+    "geom:latitude":39.423165,
+    "geom:longitude":-77.461378,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711974: name \"Woodlawn Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711974"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711974: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711974"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711974: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711974"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949385 (Frederick).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949385 (Frederick), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodlawn Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949385,
+        102081593,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1711974
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a85081c2fec8d07afbf831b8ed0d7469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":9895006651,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006651,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Woodlawn Village",
+    "wof:parent_id":85949385,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.46137755977804,
+    39.423165274458455,
+    -77.46137755977804,
+    39.423165274458455
+],
+  "geometry": {"coordinates":[-77.46137755977804,39.423165274458455],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006058,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.55964740280905,38.36484762986707,-75.55964740280905,38.36484762986707",
+    "geom:latitude":38.364848,
+    "geom:longitude":-75.559647,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668686: name \"Philmore Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668686"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668686: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668686"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668686: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668686"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949177 (Salisbury).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949177 (Salisbury), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Philmore Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949177,
+        102082715,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1668686
+    },
+    "wof:country":"US",
+    "wof:geomhash":"94a7e7a76680c1b1cac43a768ca32815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":9895006058,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006058,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Philmore Park",
+    "wof:parent_id":85949177,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.55964740280905,
+    38.36484762986707,
+    -75.55964740280905,
+    38.36484762986707
+],
+  "geometry": {"coordinates":[-75.55964740280905,38.36484762986707],"type":"Point"}
+}

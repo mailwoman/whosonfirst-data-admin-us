@@ -1,0 +1,82 @@
+{
+  "id": 9895008091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.95500800427156,41.05300721849432,-95.95500800427156,41.05300721849432",
+    "geom:latitude":41.053007,
+    "geom:longitude":-95.955008,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830955: name \"Buccaneer Bay\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830955"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830955: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830955"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830955: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830955"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404519615 (Plattsmouth).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404519615 (Plattsmouth), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Buccaneer Bay"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688563,
+        102082791,
+        102191575,
+        404519615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2830955
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be31eb1c85119ae373aa59d2d5da0c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082791,
+            "localadmin_id":404519615,
+            "locality_id":9895008091,
+            "region_id":85688563
+        }
+    ],
+    "wof:id":9895008091,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Buccaneer Bay",
+    "wof:parent_id":404519615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.95500800427156,
+    41.05300721849432,
+    -95.95500800427156,
+    41.05300721849432
+],
+  "geometry": {"coordinates":[-95.95500800427156,41.05300721849432],"type":"Point"}
+}

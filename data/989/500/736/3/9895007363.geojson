@@ -1,0 +1,82 @@
+{
+  "id": 9895007363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.14584643448266,37.428338235182146,-122.14584643448266,37.428338235182146",
+    "geom:latitude":37.428338,
+    "geom:longitude":-122.145846,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354019: name \"Evergreen Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354019"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354019: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354019"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354019: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354019"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922351 (Palo Alto).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922351 (Palo Alto), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Evergreen Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922351,
+        102081673,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354019
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b74bc5f156d2aa80a0ad0a8df959216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "neighbourhood_id":9895007363,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007363,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Evergreen Park",
+    "wof:parent_id":85922351,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.14584643448266,
+    37.428338235182146,
+    -122.14584643448266,
+    37.428338235182146
+],
+  "geometry": {"coordinates":[-122.14584643448266,37.428338235182146],"type":"Point"}
+}

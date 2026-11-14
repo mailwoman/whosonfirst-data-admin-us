@@ -1,0 +1,82 @@
+{
+  "id": 9895000989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.51354978898829,38.349085433779834,-120.51354978898829,38.349085433779834",
+    "geom:latitude":38.349085,
+    "geom:longitude":-120.51355,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 225841: name \"Independence\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/225841"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 225841: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/225841"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 225841: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/225841"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85927595 (Rail Road Flat).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85927595 (Rail Road Flat), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Independence"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85927595,
+        102080867,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":225841
+    },
+    "wof:country":"US",
+    "wof:geomhash":"824859f601aaff22898514a26ee5f37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080867,
+            "locality_id":85927595,
+            "neighbourhood_id":9895000989,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895000989,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Independence",
+    "wof:parent_id":85927595,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.51354978898829,
+    38.349085433779834,
+    -120.51354978898829,
+    38.349085433779834
+],
+  "geometry": {"coordinates":[-120.51354978898829,38.349085433779834],"type":"Point"}
+}

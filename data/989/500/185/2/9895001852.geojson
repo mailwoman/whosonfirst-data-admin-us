@@ -1,0 +1,82 @@
+{
+  "id": 9895001852,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.99192288721717,39.00122890775296,-76.99192288721717,39.00122890775296",
+    "geom:latitude":39.001229,
+    "geom:longitude":-76.991923,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589991: name \"Clifton Park Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589991"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589991: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589991"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589991: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589991"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950277 (Silver Spring).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950277 (Silver Spring), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Clifton Park Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85950277,
+        102082719,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":589991
+    },
+    "wof:country":"US",
+    "wof:geomhash":"34062aa5155af8571e05ccf030bc3439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950277,
+            "neighbourhood_id":9895001852,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001852,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Clifton Park Village",
+    "wof:parent_id":85950277,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.99192288721717,
+    39.00122890775296,
+    -76.99192288721717,
+    39.00122890775296
+],
+  "geometry": {"coordinates":[-76.99192288721717,39.00122890775296],"type":"Point"}
+}

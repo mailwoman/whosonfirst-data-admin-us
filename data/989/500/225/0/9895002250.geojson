@@ -1,0 +1,82 @@
+{
+  "id": 9895002250,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.58042513176865,36.89534035319376,-91.58042513176865,36.89534035319376",
+    "geom:latitude":36.89534,
+    "geom:longitude":-91.580425,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740477: name \"Not\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740477"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740477: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740477"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740477: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740477"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404515761 (Spring Creek Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404515761 (Spring Creek Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Not"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102086157,
+        102191575,
+        404515761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":740477
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f28cef8c1e7e6b17c7f70cf51832eb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086157,
+            "localadmin_id":404515761,
+            "locality_id":9895002250,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002250,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Not",
+    "wof:parent_id":404515761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.58042513176865,
+    36.89534035319376,
+    -91.58042513176865,
+    36.89534035319376
+],
+  "geometry": {"coordinates":[-91.58042513176865,36.89534035319376],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000354,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.87802248892115,32.95707370952436,-85.87802248892115,32.95707370952436",
+    "geom:latitude":32.957074,
+    "geom:longitude":-85.878022,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137363: name \"Andrew Jackson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137363"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137363: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137363"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137363: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137363"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085567 (Tallapoosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085567 (Tallapoosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Andrew Jackson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085567,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":137363
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e2ef2bd8ee4acd8536a0a8cc99f5c40e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085567,
+            "locality_id":9895000354,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000354,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Andrew Jackson",
+    "wof:parent_id":102085567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.87802248892115,
+    32.95707370952436,
+    -85.87802248892115,
+    32.95707370952436
+],
+  "geometry": {"coordinates":[-85.87802248892115,32.95707370952436],"type":"Point"}
+}

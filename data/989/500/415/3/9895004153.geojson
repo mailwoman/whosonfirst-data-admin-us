@@ -1,0 +1,82 @@
+{
+  "id": 9895004153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-143.34641352190062,63.385280404392034,-143.34641352190062,63.385280404392034",
+    "geom:latitude":63.38528,
+    "geom:longitude":-143.346414,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1410618: name \"Tanacross\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1410618"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1410618: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1410618"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1410618: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1410618"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85916461 (Tanacross).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85916461 (Tanacross), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tanacross"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85916461,
+        102080993,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1410618
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5206206c882aa565e35bb6c25d304ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080993,
+            "locality_id":85916461,
+            "neighbourhood_id":9895004153,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004153,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Tanacross",
+    "wof:parent_id":85916461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -143.34641352190062,
+    63.385280404392034,
+    -143.34641352190062,
+    63.385280404392034
+],
+  "geometry": {"coordinates":[-143.34641352190062,63.385280404392034],"type":"Point"}
+}

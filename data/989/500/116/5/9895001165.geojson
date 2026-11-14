@@ -1,0 +1,80 @@
+{
+  "id": 9895001165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.86917429261962,32.80338821285401,-84.86917429261962,32.80338821285401",
+    "geom:latitude":32.803388,
+    "geom:longitude":-84.869174,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 333236: name \"Tip Top\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/333236"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 333236: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/333236"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 333236: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/333236"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084477 (Harris).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084477 (Harris), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tip Top"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102084477,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":333236
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7473bf46dcdcac3461d43adad9aee19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084477,
+            "locality_id":9895001165,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001165,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Tip Top",
+    "wof:parent_id":102084477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.86917429261962,
+    32.80338821285401,
+    -84.86917429261962,
+    32.80338821285401
+],
+  "geometry": {"coordinates":[-84.86917429261962,32.80338821285401],"type":"Point"}
+}

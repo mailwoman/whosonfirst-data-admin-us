@@ -1,0 +1,82 @@
+{
+  "id": 9895000870,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.33335949725205,34.66954141185557,-87.33335949725205,34.66954141185557",
+    "geom:latitude":34.669541,
+    "geom:longitude":-87.333359,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 164238: name \"Courtland Downs\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/164238"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 164238: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/164238"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 164238: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/164238"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914257 (Courtland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914257 (Courtland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Courtland Downs"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914257,
+        102085601,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":164238
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49cdb35e6f9fb30ffe72aa31b0439a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085601,
+            "locality_id":85914257,
+            "neighbourhood_id":9895000870,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000870,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Courtland Downs",
+    "wof:parent_id":85914257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.33335949725205,
+    34.66954141185557,
+    -87.33335949725205,
+    34.66954141185557
+],
+  "geometry": {"coordinates":[-87.33335949725205,34.66954141185557],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000880,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.50554409903816,33.57094321664305,-86.50554409903816,33.57094321664305",
+    "geom:latitude":33.570943,
+    "geom:longitude":-86.505544,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 165089: name \"Heritage Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/165089"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 165089: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/165089"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 165089: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/165089"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913421 (Moody).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913421 (Moody), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Heritage Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913421,
+        102085647,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":165089
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb93f833f2e884472b2290cb4b9d5285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085647,
+            "locality_id":85913421,
+            "neighbourhood_id":9895000880,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000880,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Heritage Park",
+    "wof:parent_id":85913421,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.50554409903816,
+    33.57094321664305,
+    -86.50554409903816,
+    33.57094321664305
+],
+  "geometry": {"coordinates":[-86.50554409903816,33.57094321664305],"type":"Point"}
+}

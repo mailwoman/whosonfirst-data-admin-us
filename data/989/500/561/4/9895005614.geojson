@@ -1,0 +1,80 @@
+{
+  "id": 9895005614,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.34211783084194,48.94206798261711,-122.34211783084194,48.94206798261711",
+    "geom:latitude":48.942068,
+    "geom:longitude":-122.342118,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511019: name \"Hampton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511019"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511019: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511019"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511019: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511019"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085363 (Whatcom).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085363 (Whatcom), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hampton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102085363,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1511019
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5cc5086cde4ebeefd640826d63eb8f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":9895005614,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005614,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Hampton",
+    "wof:parent_id":102085363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.34211783084194,
+    48.94206798261711,
+    -122.34211783084194,
+    48.94206798261711
+],
+  "geometry": {"coordinates":[-122.34211783084194,48.94206798261711],"type":"Point"}
+}

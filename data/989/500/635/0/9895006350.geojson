@@ -1,0 +1,82 @@
+{
+  "id": 9895006350,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.40576248816033,33.365122051198405,-84.40576248816033,33.365122051198405",
+    "geom:latitude":33.365122,
+    "geom:longitude":-84.405762,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687664: name \"Bakersfield Farms\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687664"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687664: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687664"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687664: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687664"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936027 (Woolsey).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936027 (Woolsey), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bakersfield Farms"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936027,
+        102081687,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1687664
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c25f94e6a115056e8559ed97074c136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936027,
+            "neighbourhood_id":9895006350,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006350,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Bakersfield Farms",
+    "wof:parent_id":85936027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.40576248816033,
+    33.365122051198405,
+    -84.40576248816033,
+    33.365122051198405
+],
+  "geometry": {"coordinates":[-84.40576248816033,33.365122051198405],"type":"Point"}
+}

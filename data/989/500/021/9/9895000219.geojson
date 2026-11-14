@@ -1,0 +1,82 @@
+{
+  "id": 9895000219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.82014905742051,33.28894410851064,-111.82014905742051,33.28894410851064",
+    "geom:latitude":33.288944,
+    "geom:longitude":-111.820149,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 25047: name \"Rancho de Chandler\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/25047"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 25047: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/25047"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 25047: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/25047"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85917533 (Chandler).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85917533 (Chandler), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rancho de Chandler"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688719,
+        85917533,
+        102087421,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":25047
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee6141b54b3749d9ac54c7882f597e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917533,
+            "neighbourhood_id":9895000219,
+            "region_id":85688719
+        }
+    ],
+    "wof:id":9895000219,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Rancho de Chandler",
+    "wof:parent_id":85917533,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.82014905742051,
+    33.28894410851064,
+    -111.82014905742051,
+    33.28894410851064
+],
+  "geometry": {"coordinates":[-111.82014905742051,33.28894410851064],"type":"Point"}
+}

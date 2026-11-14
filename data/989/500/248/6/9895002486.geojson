@@ -1,0 +1,82 @@
+{
+  "id": 9895002486,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.09285812368687,35.36681020192672,-81.09285812368687,35.36681020192672",
+    "geom:latitude":35.36681,
+    "geom:longitude":-81.092858,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001615: name \"Craig Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001615"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001615: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001615"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001615: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001615"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981147 (Stanley).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981147 (Stanley), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Craig Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981147,
+        102087869,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1001615
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8631065289de2ddebba50a8a28d72015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087869,
+            "locality_id":85981147,
+            "neighbourhood_id":9895002486,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002486,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Craig Heights",
+    "wof:parent_id":85981147,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.09285812368687,
+    35.36681020192672,
+    -81.09285812368687,
+    35.36681020192672
+],
+  "geometry": {"coordinates":[-81.09285812368687,35.36681020192672],"type":"Point"}
+}

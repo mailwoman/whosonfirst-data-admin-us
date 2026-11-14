@@ -1,0 +1,82 @@
+{
+  "id": 9895004994,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.95828631703621,41.251894686241634,-111.95828631703621,41.251894686241634",
+    "geom:latitude":41.251895,
+    "geom:longitude":-111.958286,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453417: name \"Shady Brook\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453417"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453417: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453417"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453417: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453417"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728033 (Ogden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728033 (Ogden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shady Brook"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728033,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453417
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1631b60ee7ce0ffda6a71e5ad2947595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":9895004994,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004994,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Shady Brook",
+    "wof:parent_id":101728033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.95828631703621,
+    41.251894686241634,
+    -111.95828631703621,
+    41.251894686241634
+],
+  "geometry": {"coordinates":[-111.95828631703621,41.251894686241634],"type":"Point"}
+}

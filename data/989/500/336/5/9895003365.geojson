@@ -1,0 +1,84 @@
+{
+  "id": 9895003365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.97461501866941,40.07845229695953,-74.97461501866941,40.07845229695953",
+    "geom:latitude":40.078452,
+    "geom:longitude":-74.974615,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1202581: name \"Milbrook\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1202581"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1202581: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1202581"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1202581: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1202581"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101718083 (Philadelphia).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101718083 (Philadelphia), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Milbrook"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101718083,
+        102081353,
+        102191575,
+        404483701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1202581
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4b64ea437b0d5361a654578c742c189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "neighbourhood_id":9895003365,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003365,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Milbrook",
+    "wof:parent_id":101718083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.97461501866941,
+    40.07845229695953,
+    -74.97461501866941,
+    40.07845229695953
+],
+  "geometry": {"coordinates":[-74.97461501866941,40.07845229695953],"type":"Point"}
+}

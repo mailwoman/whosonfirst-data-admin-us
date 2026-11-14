@@ -1,0 +1,118 @@
+{
+  "id": 9895002386,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.875970610323,40.765943271637056,-73.875970610323,40.765943271637056",
+    "geom:latitude":40.765943,
+    "geom:longitude":-73.875971,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 958681: name \"North Beach\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/958681"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 958681: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/958681"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 958681: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/958681"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85977539 (New York).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85977539 (New York), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North Beach"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        85977539,
+        102081779,
+        102081863,
+        102082361,
+        102082377,
+        102083063,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":958681
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7cee65d3a555f804366ada8c59dc4ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002386,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002386,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002386,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002386,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002386,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002386,
+    "wof:lastmodified":1794681129,
+    "wof:name":"North Beach",
+    "wof:parent_id":85977539,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.875970610323,
+    40.765943271637056,
+    -73.875970610323,
+    40.765943271637056
+],
+  "geometry": {"coordinates":[-73.875970610323,40.765943271637056],"type":"Point"}
+}

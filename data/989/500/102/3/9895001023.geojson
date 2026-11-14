@@ -1,0 +1,80 @@
+{
+  "id": 9895001023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.11706425000314,36.42745465183038,-119.11706425000314,36.42745465183038",
+    "geom:latitude":36.427455,
+    "geom:longitude":-119.117064,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252981: name \"Sequoia\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252981"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252981: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252981"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252981: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252981"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082895 (Tulare).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082895 (Tulare), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sequoia"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102082895,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":252981
+    },
+    "wof:country":"US",
+    "wof:geomhash":"97a3fb119f4afa82e71930c9c5b2a27a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082895,
+            "locality_id":9895001023,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001023,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Sequoia",
+    "wof:parent_id":102082895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.11706425000314,
+    36.42745465183038,
+    -119.11706425000314,
+    36.42745465183038
+],
+  "geometry": {"coordinates":[-119.11706425000314,36.42745465183038],"type":"Point"}
+}

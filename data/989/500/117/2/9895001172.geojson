@@ -1,0 +1,82 @@
+{
+  "id": 9895001172,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.80716514533724,34.14815960335353,-84.80716514533724,34.14815960335353",
+    "geom:latitude":34.14816,
+    "geom:longitude":-84.807165,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 334261: name \"Conyers Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/334261"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 334261: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/334261"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 334261: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/334261"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936223 (Cartersville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936223 (Cartersville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Conyers Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936223,
+        102082937,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":334261
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a52565fd302f745189575ff95b2c1bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082937,
+            "locality_id":85936223,
+            "neighbourhood_id":9895001172,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001172,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Conyers Estates",
+    "wof:parent_id":85936223,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.80716514533724,
+    34.14815960335353,
+    -84.80716514533724,
+    34.14815960335353
+],
+  "geometry": {"coordinates":[-84.80716514533724,34.14815960335353],"type":"Point"}
+}

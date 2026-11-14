@@ -1,0 +1,80 @@
+{
+  "id": 9895001141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.79011201828239,30.966626103657305,-81.79011201828239,30.966626103657305",
+    "geom:latitude":30.966626,
+    "geom:longitude":-81.790112,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 332093: name \"Jefferson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/332093"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 332093: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/332093"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 332093: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/332093"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081693 (Camden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081693 (Camden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jefferson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102081693,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":332093
+    },
+    "wof:country":"US",
+    "wof:geomhash":"869b9b133f682c37c1b264d02045d385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":9895001141,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001141,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Jefferson",
+    "wof:parent_id":102081693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.79011201828239,
+    30.966626103657305,
+    -81.79011201828239,
+    30.966626103657305
+],
+  "geometry": {"coordinates":[-81.79011201828239,30.966626103657305],"type":"Point"}
+}

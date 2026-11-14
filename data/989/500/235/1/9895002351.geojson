@@ -1,0 +1,84 @@
+{
+  "id": 9895002351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.10757685288502,40.97816497284402,-72.10757685288502,40.97816497284402",
+    "geom:latitude":40.978165,
+    "geom:longitude":-72.107577,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 943221: name \"Beach Hampton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/943221"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 943221: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/943221"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 943221: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/943221"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85979941 (Amagansett).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85979941 (Amagansett), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Beach Hampton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        85979941,
+        102082395,
+        102191575,
+        404521445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":943221
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bed77d5b4002f4fa163fb6497a70ec9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082395,
+            "localadmin_id":404521445,
+            "locality_id":85979941,
+            "neighbourhood_id":9895002351,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002351,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Beach Hampton",
+    "wof:parent_id":85979941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.10757685288502,
+    40.97816497284402,
+    -72.10757685288502,
+    40.97816497284402
+],
+  "geometry": {"coordinates":[-72.10757685288502,40.97816497284402],"type":"Point"}
+}

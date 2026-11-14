@@ -1,0 +1,80 @@
+{
+  "id": 9895002795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.91530695207616,35.00156020122427,-78.91530695207616,35.00156020122427",
+    "geom:latitude":35.00156,
+    "geom:longitude":-78.915307,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004923: name \"Westchester\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004923"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004923: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004923"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004923: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004923"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080897 (Cumberland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080897 (Cumberland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westchester"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080897,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1004923
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f2b46c2f7c61c5ad6180cf64f285d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080897,
+            "locality_id":9895002795,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002795,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Westchester",
+    "wof:parent_id":102080897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.91530695207616,
+    35.00156020122427,
+    -78.91530695207616,
+    35.00156020122427
+],
+  "geometry": {"coordinates":[-78.91530695207616,35.00156020122427],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895002588,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.07751455356019,36.00264841075989,-79.07751455356019,36.00264841075989",
+    "geom:latitude":36.002648,
+    "geom:longitude":-79.077515,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002545: name \"Hideaway Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002545"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002545: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002545"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002545: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002545"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087647 (Orange).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087647 (Orange), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hideaway Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087647,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1002545
+    },
+    "wof:country":"US",
+    "wof:geomhash":"98441dc7b84dfc44593013651c8cdafc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087647,
+            "locality_id":9895002588,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002588,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Hideaway Estates",
+    "wof:parent_id":102087647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.07751455356019,
+    36.00264841075989,
+    -79.07751455356019,
+    36.00264841075989
+],
+  "geometry": {"coordinates":[-79.07751455356019,36.00264841075989],"type":"Point"}
+}

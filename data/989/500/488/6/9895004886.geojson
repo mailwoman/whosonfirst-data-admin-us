@@ -1,0 +1,82 @@
+{
+  "id": 9895004886,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.93689700072663,41.16883887859518,-111.93689700072663,41.16883887859518",
+    "geom:latitude":41.168839,
+    "geom:longitude":-111.936897,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453244: name \"Shadow Valley Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453244"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453244: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453244"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453244: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453244"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728033 (Ogden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728033 (Ogden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shadow Valley Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728033,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453244
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4b10a30da5cec9cc2a18f182eb56535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":9895004886,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004886,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Shadow Valley Estates",
+    "wof:parent_id":101728033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.93689700072663,
+    41.16883887859518,
+    -111.93689700072663,
+    41.16883887859518
+],
+  "geometry": {"coordinates":[-111.93689700072663,41.16883887859518],"type":"Point"}
+}

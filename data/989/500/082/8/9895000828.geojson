@@ -1,0 +1,82 @@
+{
+  "id": 9895000828,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.86188860717951,31.379341665973453,-85.86188860717951,31.379341665973453",
+    "geom:latitude":31.379342,
+    "geom:longitude":-85.861889,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155756: name \"Gateway Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155756"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155756: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155756"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155756: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155756"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85899527 (Enterprise).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85899527 (Enterprise), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gateway Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85899527,
+        102085699,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":155756
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29ad8f6ae3f04d6c950ca364b9b7957b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085699,
+            "locality_id":85899527,
+            "neighbourhood_id":9895000828,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000828,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Gateway Estates",
+    "wof:parent_id":85899527,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.86188860717951,
+    31.379341665973453,
+    -85.86188860717951,
+    31.379341665973453
+],
+  "geometry": {"coordinates":[-85.86188860717951,31.379341665973453],"type":"Point"}
+}

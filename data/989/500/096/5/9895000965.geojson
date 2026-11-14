@@ -1,0 +1,82 @@
+{
+  "id": 9895000965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.46353125617782,39.79456542300329,-75.46353125617782,39.79456542300329",
+    "geom:latitude":39.794565,
+    "geom:longitude":-75.463531,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215808: name \"Riverside Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215808"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215808: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215808"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215808: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215808"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931731 (Claymont).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931731 (Claymont), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Riverside Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        85931731,
+        102083891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":215808
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc90383d09417a3f7fd1d43add21772d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931731,
+            "neighbourhood_id":9895000965,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000965,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Riverside Addition",
+    "wof:parent_id":85931731,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.46353125617782,
+    39.79456542300329,
+    -75.46353125617782,
+    39.79456542300329
+],
+  "geometry": {"coordinates":[-75.46353125617782,39.79456542300329],"type":"Point"}
+}

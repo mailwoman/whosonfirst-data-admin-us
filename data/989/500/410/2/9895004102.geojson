@@ -1,0 +1,80 @@
+{
+  "id": 9895004102,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.74137812576775,31.27629465075822,-96.74137812576775,31.27629465075822",
+    "geom:latitude":31.276295,
+    "geom:longitude":-96.741378,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1379434: name \"Blue Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1379434"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1379434: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1379434"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1379434: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1379434"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081953 (Falls).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081953 (Falls), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Blue Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102081953,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1379434
+    },
+    "wof:country":"US",
+    "wof:geomhash":"03192ff8ae4d84bb1f53680c8e30f9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081953,
+            "locality_id":9895004102,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004102,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Blue Ridge",
+    "wof:parent_id":102081953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.74137812576775,
+    31.27629465075822,
+    -96.74137812576775,
+    31.27629465075822
+],
+  "geometry": {"coordinates":[-96.74137812576775,31.27629465075822],"type":"Point"}
+}

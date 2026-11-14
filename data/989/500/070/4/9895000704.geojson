@@ -1,0 +1,82 @@
+{
+  "id": 9895000704,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.54473327225158,33.18901409666468,-87.54473327225158,33.18901409666468",
+    "geom:latitude":33.189014,
+    "geom:longitude":-87.544733,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148178: name \"Glendale Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148178"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148178: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148178"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148178: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148178"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914453 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914453 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Glendale Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914453,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148178
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1df54d49ff31c9805ee8c5958350fa60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85914453,
+            "neighbourhood_id":9895000704,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000704,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Glendale Gardens",
+    "wof:parent_id":85914453,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.54473327225158,
+    33.18901409666468,
+    -87.54473327225158,
+    33.18901409666468
+],
+  "geometry": {"coordinates":[-87.54473327225158,33.18901409666468],"type":"Point"}
+}

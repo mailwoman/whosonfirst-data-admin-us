@@ -1,0 +1,82 @@
+{
+  "id": 9895007957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.62003874169649,40.656182623244035,-74.62003874169649,40.656182623244035",
+    "geom:latitude":40.656183,
+    "geom:longitude":-74.620039,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806197: name \"The Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806197"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806197: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806197"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806197: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806197"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404477911 (Bernards Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404477911 (Bernards Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "The Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102085045,
+        102191575,
+        404477911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806197
+    },
+    "wof:country":"US",
+    "wof:geomhash":"678be9729b57af7fd57b8c752c526667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085045,
+            "localadmin_id":404477911,
+            "locality_id":9895007957,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895007957,
+    "wof:lastmodified":1794681145,
+    "wof:name":"The Hills",
+    "wof:parent_id":404477911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.62003874169649,
+    40.656182623244035,
+    -74.62003874169649,
+    40.656182623244035
+],
+  "geometry": {"coordinates":[-74.62003874169649,40.656182623244035],"type":"Point"}
+}

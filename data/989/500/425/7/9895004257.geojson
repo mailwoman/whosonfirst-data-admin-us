@@ -1,0 +1,82 @@
+{
+  "id": 9895004257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.06217712014343,41.12106076336154,-112.06217712014343,41.12106076336154",
+    "geom:latitude":41.121061,
+    "geom:longitude":-112.062177,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451481: name \"Frew Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451481"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451481: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451481"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451481: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451481"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727885 (West Point).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727885 (West Point), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Frew Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727885,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451481
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe583c078b46cfbdb079ef2c1fdc9630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727885,
+            "neighbourhood_id":9895004257,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004257,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Frew Estates",
+    "wof:parent_id":101727885,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.06217712014343,
+    41.12106076336154,
+    -112.06217712014343,
+    41.12106076336154
+],
+  "geometry": {"coordinates":[-112.06217712014343,41.12106076336154],"type":"Point"}
+}

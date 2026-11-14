@@ -1,0 +1,80 @@
+{
+  "id": 9895007828,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.14796145306389,40.760324363146864,-91.14796145306389,40.760324363146864",
+    "geom:latitude":40.760324,
+    "geom:longitude":-91.147961,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804186: name \"Oak Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804186"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804186: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804186"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804186: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804186"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086609 (Des Moines).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086609 (Des Moines), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oak Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688713,
+        102086609,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804186
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0f65db561b1fab25241e1ec99310bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086609,
+            "locality_id":9895007828,
+            "region_id":85688713
+        }
+    ],
+    "wof:id":9895007828,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Oak Hills",
+    "wof:parent_id":102086609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.14796145306389,
+    40.760324363146864,
+    -91.14796145306389,
+    40.760324363146864
+],
+  "geometry": {"coordinates":[-91.14796145306389,40.760324363146864],"type":"Point"}
+}

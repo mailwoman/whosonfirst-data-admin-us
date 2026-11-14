@@ -1,0 +1,82 @@
+{
+  "id": 9895005368,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.93967489701231,41.13550557513469,-111.93967489701231,41.13550557513469",
+    "geom:latitude":41.135506,
+    "geom:longitude":-111.939675,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454041: name \"Canyon Drive\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454041"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454041: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454041"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454041: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454041"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727911 (South Weber).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727911 (South Weber), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Canyon Drive"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727911,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1454041
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b266dfb50cf68249d3900a6520e79f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":9895005368,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005368,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Canyon Drive",
+    "wof:parent_id":101727911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.93967489701231,
+    41.13550557513469,
+    -111.93967489701231,
+    41.13550557513469
+],
+  "geometry": {"coordinates":[-111.93967489701231,41.13550557513469],"type":"Point"}
+}

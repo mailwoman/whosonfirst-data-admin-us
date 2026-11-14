@@ -1,0 +1,82 @@
+{
+  "id": 9895004922,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.05106552332256,41.15939446832813,-112.05106552332256,41.15939446832813",
+    "geom:latitude":41.159394,
+    "geom:longitude":-112.051066,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453306: name \"Carriage Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453306"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453306: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453306"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453306: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453306"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728023 (Roy).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728023 (Roy), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Carriage Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728023,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453306
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2da25dc09b257565a4d9092654b2c1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":9895004922,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004922,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Carriage Place",
+    "wof:parent_id":101728023,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.05106552332256,
+    41.15939446832813,
+    -112.05106552332256,
+    41.15939446832813
+],
+  "geometry": {"coordinates":[-112.05106552332256,41.15939446832813],"type":"Point"}
+}

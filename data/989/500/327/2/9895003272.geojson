@@ -1,0 +1,82 @@
+{
+  "id": 9895003272,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.57496017323747,40.82009398247895,-76.57496017323747,40.82009398247895",
+    "geom:latitude":40.820094,
+    "geom:longitude":-76.57496,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1183137: name \"Overlook\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1183137"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1183137: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1183137"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1183137: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1183137"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486507 (Ralpho Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486507 (Ralpho Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Overlook"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081349,
+        102191575,
+        404486507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1183137
+    },
+    "wof:country":"US",
+    "wof:geomhash":"254f7a19f46c2efaaa4be547989175c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081349,
+            "localadmin_id":404486507,
+            "locality_id":9895003272,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003272,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Overlook",
+    "wof:parent_id":404486507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.57496017323747,
+    40.82009398247895,
+    -76.57496017323747,
+    40.82009398247895
+],
+  "geometry": {"coordinates":[-76.57496017323747,40.82009398247895],"type":"Point"}
+}

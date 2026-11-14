@@ -1,0 +1,82 @@
+{
+  "id": 9895006515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.81110537817811,33.425114474151755,-86.81110537817811,33.425114474151755",
+    "geom:latitude":33.425114,
+    "geom:longitude":-86.811105,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700164: name \"Gentilly Forest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700164"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700164: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700164"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700164: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700164"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914483 (Vestavia Hills).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914483 (Vestavia Hills), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gentilly Forest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914483,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700164
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae349c7014733d1d284a8a2a6d098a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914483,
+            "neighbourhood_id":9895006515,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006515,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Gentilly Forest",
+    "wof:parent_id":85914483,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.81110537817811,
+    33.425114474151755,
+    -86.81110537817811,
+    33.425114474151755
+],
+  "geometry": {"coordinates":[-86.81110537817811,33.425114474151755],"type":"Point"}
+}

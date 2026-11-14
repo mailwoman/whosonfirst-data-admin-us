@@ -1,0 +1,82 @@
+{
+  "id": 9895007929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.45989461886869,41.46795282254697,-73.45989461886869,41.46795282254697",
+    "geom:latitude":41.467953,
+    "geom:longitude":-73.459895,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805949: name \"Kellogg Point\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805949"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805949: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805949"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805949: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805949"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404495953 (New Fairfield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404495953 (New Fairfield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kellogg Point"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688629,
+        102084283,
+        102191575,
+        404495953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805949
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eebf95ad438bd27e26296afc50236b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495953,
+            "locality_id":9895007929,
+            "region_id":85688629
+        }
+    ],
+    "wof:id":9895007929,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Kellogg Point",
+    "wof:parent_id":404495953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.45989461886869,
+    41.46795282254697,
+    -73.45989461886869,
+    41.46795282254697
+],
+  "geometry": {"coordinates":[-73.45989461886869,41.46795282254697],"type":"Point"}
+}

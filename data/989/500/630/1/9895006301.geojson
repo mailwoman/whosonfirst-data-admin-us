@@ -1,0 +1,80 @@
+{
+  "id": 9895006301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.05079598526369,39.24434346933674,-121.05079598526369,39.24434346933674",
+    "geom:latitude":39.244343,
+    "geom:longitude":-121.050796,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682841: name \"Bella Vista Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682841"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682841: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682841"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682841: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682841"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085391 (Nevada).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085391 (Nevada), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bella Vista Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102085391,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1682841
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a740bf6d82a00234dc1b1d248ceb0f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085391,
+            "locality_id":9895006301,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006301,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Bella Vista Park",
+    "wof:parent_id":102085391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.05079598526369,
+    39.24434346933674,
+    -121.05079598526369,
+    39.24434346933674
+],
+  "geometry": {"coordinates":[-121.05079598526369,39.24434346933674],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000846,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.23578191280528,33.10790566536644,-85.23578191280528,33.10790566536644",
+    "geom:latitude":33.107906,
+    "geom:longitude":-85.235782,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 156680: name \"McCosh Mill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/156680"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 156680: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/156680"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 156680: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/156680"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085637 (Chambers).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085637 (Chambers), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "McCosh Mill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085637,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":156680
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c287bf1a3bdb9cafc5e1f12d34221229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085637,
+            "locality_id":9895000846,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000846,
+    "wof:lastmodified":1794681123,
+    "wof:name":"McCosh Mill",
+    "wof:parent_id":102085637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.23578191280528,
+    33.10790566536644,
+    -85.23578191280528,
+    33.10790566536644
+],
+  "geometry": {"coordinates":[-85.23578191280528,33.10790566536644],"type":"Point"}
+}

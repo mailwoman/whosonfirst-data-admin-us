@@ -1,0 +1,80 @@
+{
+  "id": 9895000946,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.68271071815822,39.67150889055975,-75.68271071815822,39.67150889055975",
+    "geom:latitude":39.671509,
+    "geom:longitude":-75.682711,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215773: name \"Fox Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215773"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215773: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215773"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215773: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215773"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083891 (New Castle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083891 (New Castle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fox Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        102083891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":215773
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a53046ec83df1a8048e2335f9ab5e673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":9895000946,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000946,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Fox Woods",
+    "wof:parent_id":102083891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.68271071815822,
+    39.67150889055975,
+    -75.68271071815822,
+    39.67150889055975
+],
+  "geometry": {"coordinates":[-75.68271071815822,39.67150889055975],"type":"Point"}
+}

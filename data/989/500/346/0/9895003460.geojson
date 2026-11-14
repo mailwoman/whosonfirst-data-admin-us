@@ -1,0 +1,82 @@
+{
+  "id": 9895003460,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.78097728288228,34.642613184697126,-82.78097728288228,34.642613184697126",
+    "geom:latitude":34.642613,
+    "geom:longitude":-82.780977,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233422: name \"Pendleton Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233422"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233422: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233422"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233422: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233422"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720821 (Pendleton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720821 (Pendleton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pendleton Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720821,
+        102085401,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1233422
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7d5ca2940c5d8ca732da1b3a8ff3134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085401,
+            "locality_id":101720821,
+            "neighbourhood_id":9895003460,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003460,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Pendleton Gardens",
+    "wof:parent_id":101720821,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.78097728288228,
+    34.642613184697126,
+    -82.78097728288228,
+    34.642613184697126
+],
+  "geometry": {"coordinates":[-82.78097728288228,34.642613184697126],"type":"Point"}
+}

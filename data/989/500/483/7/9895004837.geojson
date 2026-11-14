@@ -1,0 +1,82 @@
+{
+  "id": 9895004837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.96078640932029,41.19467237970759,-111.96078640932029,41.19467237970759",
+    "geom:latitude":41.194672,
+    "geom:longitude":-111.960786,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453129: name \"Bel-Mar Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453129"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453129: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453129"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453129: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453129"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728021 (South Ogden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728021 (South Ogden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bel-Mar Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728021,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453129
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad02d756f660d65affec81dede33e8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728021,
+            "neighbourhood_id":9895004837,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004837,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Bel-Mar Acres",
+    "wof:parent_id":101728021,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.96078640932029,
+    41.19467237970759,
+    -111.96078640932029,
+    41.19467237970759
+],
+  "geometry": {"coordinates":[-111.96078640932029,41.19467237970759],"type":"Point"}
+}

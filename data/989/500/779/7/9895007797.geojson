@@ -1,0 +1,84 @@
+{
+  "id": 9895007797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.36630594697608,41.68730777991776,-88.36630594697608,41.68730777991776",
+    "geom:latitude":41.687308,
+    "geom:longitude":-88.366306,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2778329: name \"Oswego Village Square\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2778329"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2778329: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2778329"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2778329: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2778329"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85941079 (Oswego).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85941079 (Oswego), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oswego Village Square"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85941079,
+        102083533,
+        102191575,
+        404498411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2778329
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4cb545a98303d341e2beb3ee93530c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "locality_id":85941079,
+            "neighbourhood_id":9895007797,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007797,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Oswego Village Square",
+    "wof:parent_id":85941079,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.36630594697608,
+    41.68730777991776,
+    -88.36630594697608,
+    41.68730777991776
+],
+  "geometry": {"coordinates":[-88.36630594697608,41.68730777991776],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006852,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.93979260272822,33.63474752612164,-117.93979260272822,33.63474752612164",
+    "geom:latitude":33.634748,
+    "geom:longitude":-117.939793,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765285: name \"Island View Trailer Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765285"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765285: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765285"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765285: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765285"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923161 (Costa Mesa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923161 (Costa Mesa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Island View Trailer Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923161,
+        102080847,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1765285
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd349602fb9cc06d852ac50cbb226b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923161,
+            "neighbourhood_id":9895006852,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006852,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Island View Trailer Park",
+    "wof:parent_id":85923161,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.93979260272822,
+    33.63474752612164,
+    -117.93979260272822,
+    33.63474752612164
+],
+  "geometry": {"coordinates":[-117.93979260272822,33.63474752612164],"type":"Point"}
+}

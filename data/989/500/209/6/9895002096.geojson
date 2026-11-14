@@ -1,0 +1,80 @@
+{
+  "id": 9895002096,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.8592769354561,32.245155472874266,-90.8592769354561,32.245155472874266",
+    "geom:latitude":32.245155,
+    "geom:longitude":-90.859277,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686378: name \"Sherwood Forest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686378"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686378: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686378"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686378: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686378"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083779 (Warren).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083779 (Warren), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sherwood Forest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102083779,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":686378
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e701a70e95d53835825861c92116680d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":9895002096,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002096,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Sherwood Forest",
+    "wof:parent_id":102083779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.8592769354561,
+    32.245155472874266,
+    -90.8592769354561,
+    32.245155472874266
+],
+  "geometry": {"coordinates":[-90.8592769354561,32.245155472874266],"type":"Point"}
+}

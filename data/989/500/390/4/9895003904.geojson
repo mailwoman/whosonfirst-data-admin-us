@@ -1,0 +1,82 @@
+{
+  "id": 9895003904,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.17408656136425,35.86119708514761,-84.17408656136425,35.86119708514761",
+    "geom:latitude":35.861197,
+    "geom:longitude":-84.174087,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312334: name \"Kingsgate\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312334"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312334: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312334"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312334: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312334"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722867 (Farragut).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722867 (Farragut), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kingsgate"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722867,
+        102086455,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312334
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81de0215400bb4f5820b1d8b803432fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722867,
+            "neighbourhood_id":9895003904,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003904,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Kingsgate",
+    "wof:parent_id":101722867,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.17408656136425,
+    35.86119708514761,
+    -84.17408656136425,
+    35.86119708514761
+],
+  "geometry": {"coordinates":[-84.17408656136425,35.86119708514761],"type":"Point"}
+}

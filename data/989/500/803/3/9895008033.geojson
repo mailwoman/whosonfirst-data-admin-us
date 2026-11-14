@@ -1,0 +1,82 @@
+{
+  "id": 9895008033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.33175499062644,40.30508131264658,-78.33175499062644,40.30508131264658",
+    "geom:latitude":40.305081,
+    "geom:longitude":-78.331755,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807044: name \"Homewood at Martinsburg\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807044"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807044: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807044"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807044: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807044"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404484719 (North Woodbury Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404484719 (North Woodbury Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Homewood at Martinsburg"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081325,
+        102191575,
+        404484719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807044
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0dbb889a78a0327a324a4a9194e09afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081325,
+            "localadmin_id":404484719,
+            "locality_id":9895008033,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895008033,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Homewood at Martinsburg",
+    "wof:parent_id":404484719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.33175499062644,
+    40.30508131264658,
+    -78.33175499062644,
+    40.30508131264658
+],
+  "geometry": {"coordinates":[-78.33175499062644,40.30508131264658],"type":"Point"}
+}

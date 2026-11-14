@@ -1,0 +1,82 @@
+{
+  "id": 9895006029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.26553780393694,37.87548636383581,-122.26553780393694,37.87548636383581",
+    "geom:latitude":37.875486,
+    "geom:longitude":-122.265538,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661748: name \"Normandy Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661748"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661748: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661748"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661748: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661748"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921915 (Berkeley).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921915 (Berkeley), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Normandy Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85921915,
+        102086959,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661748
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a00463d2167afaea29639a330c3ace32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "neighbourhood_id":9895006029,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006029,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Normandy Village",
+    "wof:parent_id":85921915,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.26553780393694,
+    37.87548636383581,
+    -122.26553780393694,
+    37.87548636383581
+],
+  "geometry": {"coordinates":[-122.26553780393694,37.87548636383581],"type":"Point"}
+}

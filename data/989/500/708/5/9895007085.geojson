@@ -1,0 +1,84 @@
+{
+  "id": 9895007085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.18065181890988,42.910299996080646,-88.18065181890988,42.910299996080646",
+    "geom:latitude":42.9103,
+    "geom:longitude":-88.180652,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1850266: name \"Glen Oaks Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1850266"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1850266: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1850266"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1850266: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1850266"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101733509 (Muskego).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101733509 (Muskego), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Glen Oaks Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688517,
+        101733509,
+        102081741,
+        102191575,
+        404495657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1850266
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ffe1645d0b094460a72dbbf45a2e5961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081741,
+            "localadmin_id":404495657,
+            "locality_id":101733509,
+            "neighbourhood_id":9895007085,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":9895007085,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Glen Oaks Estates",
+    "wof:parent_id":101733509,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.18065181890988,
+    42.910299996080646,
+    -88.18065181890988,
+    42.910299996080646
+],
+  "geometry": {"coordinates":[-88.18065181890988,42.910299996080646],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895007222,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.51610687253708,33.10262381001185,-96.51610687253708,33.10262381001185",
+    "geom:latitude":33.102624,
+    "geom:longitude":-96.516107,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2034632: name \"Branch\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2034632"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2034632: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2034632"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2034632: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2034632"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086765 (Collin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086765 (Collin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Branch"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102086765,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2034632
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a6c792462bf065d8c0781a9d3110e4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086765,
+            "locality_id":9895007222,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007222,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Branch",
+    "wof:parent_id":102086765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.51610687253708,
+    33.10262381001185,
+    -96.51610687253708,
+    33.10262381001185
+],
+  "geometry": {"coordinates":[-96.51610687253708,33.10262381001185],"type":"Point"}
+}

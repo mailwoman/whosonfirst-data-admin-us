@@ -1,0 +1,84 @@
+{
+  "id": 9895005693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.43593711708623,43.113626014749634,-88.43593711708623,43.113626014749634",
+    "geom:latitude":43.113626,
+    "geom:longitude":-88.435937,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1570761: name \"Okauchee\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1570761"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1570761: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1570761"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1570761: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1570761"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101733913 (Okauchee Lake).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101733913 (Okauchee Lake), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Okauchee"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688517,
+        101733913,
+        102081741,
+        102191575,
+        404495665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1570761
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a22ec482824b3c97ee59096fe126e3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081741,
+            "localadmin_id":404495665,
+            "locality_id":101733913,
+            "neighbourhood_id":9895005693,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":9895005693,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Okauchee",
+    "wof:parent_id":101733913,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.43593711708623,
+    43.113626014749634,
+    -88.43593711708623,
+    43.113626014749634
+],
+  "geometry": {"coordinates":[-88.43593711708623,43.113626014749634],"type":"Point"}
+}

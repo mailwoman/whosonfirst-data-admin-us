@@ -1,0 +1,80 @@
+{
+  "id": 9895008109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.29174968344724,34.33352292619558,-119.29174968344724,34.33352292619558",
+    "geom:latitude":34.333523,
+    "geom:longitude":-119.29175,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2832974: name \"North Ventura\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2832974"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2832974: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2832974"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2832974: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2832974"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086933 (Ventura).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086933 (Ventura), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North Ventura"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102086933,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2832974
+    },
+    "wof:country":"US",
+    "wof:geomhash":"739fe97cf0c20883c19a615038b2e0b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086933,
+            "locality_id":9895008109,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895008109,
+    "wof:lastmodified":1794681146,
+    "wof:name":"North Ventura",
+    "wof:parent_id":102086933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.29174968344724,
+    34.33352292619558,
+    -119.29174968344724,
+    34.33352292619558
+],
+  "geometry": {"coordinates":[-119.29174968344724,34.33352292619558],"type":"Point"}
+}

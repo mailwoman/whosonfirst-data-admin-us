@@ -1,0 +1,82 @@
+{
+  "id": 9895000619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.53249516734274,34.633431037393734,-86.53249516734274,34.633431037393734",
+    "geom:latitude":34.633431,
+    "geom:longitude":-86.532495,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147304: name \"Tara\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147304"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147304: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147304"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147304: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147304"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913601 (Huntsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913601 (Huntsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tara"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913601,
+        102085487,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147304
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04de9dc413753cd28beb1bc9976d8ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085487,
+            "locality_id":85913601,
+            "neighbourhood_id":9895000619,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000619,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Tara",
+    "wof:parent_id":85913601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.53249516734274,
+    34.633431037393734,
+    -86.53249516734274,
+    34.633431037393734
+],
+  "geometry": {"coordinates":[-86.53249516734274,34.633431037393734],"type":"Point"}
+}

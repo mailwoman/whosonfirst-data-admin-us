@@ -1,0 +1,82 @@
+{
+  "id": 9895003356,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.30059884385861,41.01701800874134,-79.30059884385861,41.01701800874134",
+    "geom:latitude":41.017018,
+    "geom:longitude":-79.300599,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201960: name \"Millville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201960"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201960: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201960"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201960: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201960"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486769 (Redbank Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486769 (Redbank Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Millville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081389,
+        102191575,
+        404486769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1201960
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8e4118bd47c8641e12e2217c420e558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081389,
+            "localadmin_id":404486769,
+            "locality_id":9895003356,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003356,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Millville",
+    "wof:parent_id":404486769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.30059884385861,
+    41.01701800874134,
+    -79.30059884385861,
+    41.01701800874134
+],
+  "geometry": {"coordinates":[-79.30059884385861,41.01701800874134],"type":"Point"}
+}

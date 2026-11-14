@@ -1,0 +1,82 @@
+{
+  "id": 9895003246,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.99631719848993,40.94564872870175,-75.99631719848993,40.94564872870175",
+    "geom:latitude":40.945649,
+    "geom:longitude":-75.996317,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1172626: name \"Crystal Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1172626"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1172626: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1172626"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1172626: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1172626"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486239 (Hazle Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486239 (Hazle Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Crystal Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081351,
+        102191575,
+        404486239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1172626
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52920d4902a32dfcff660e6ffde76044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081351,
+            "localadmin_id":404486239,
+            "locality_id":9895003246,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003246,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Crystal Ridge",
+    "wof:parent_id":404486239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.99631719848993,
+    40.94564872870175,
+    -75.99631719848993,
+    40.94564872870175
+],
+  "geometry": {"coordinates":[-75.99631719848993,40.94564872870175],"type":"Point"}
+}

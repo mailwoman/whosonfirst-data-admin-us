@@ -1,0 +1,82 @@
+{
+  "id": 9895006815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.3659571199485,38.813983795915505,-81.3659571199485,38.813983795915505",
+    "geom:latitude":38.813984,
+    "geom:longitude":-81.365957,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740975: name \"Quiet Vale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740975"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740975: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740975"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740975: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740975"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101731535 (Spencer).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101731535 (Spencer), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Quiet Vale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        101731535,
+        102083399,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1740975
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82f61a6e9fdea8a91c68f0bbe55334e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":9895006815,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895006815,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Quiet Vale",
+    "wof:parent_id":101731535,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.3659571199485,
+    38.813983795915505,
+    -81.3659571199485,
+    38.813983795915505
+],
+  "geometry": {"coordinates":[-81.3659571199485,38.813983795915505],"type":"Point"}
+}

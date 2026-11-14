@@ -1,0 +1,82 @@
+{
+  "id": 9895004171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.92161634962162,40.8166182407248,-111.92161634962162,40.8166182407248",
+    "geom:latitude":40.816618,
+    "geom:longitude":-111.921616,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1438551: name \"Becks\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1438551"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1438551: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1438551"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1438551: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1438551"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728075 (Salt Lake City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728075 (Salt Lake City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Becks"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728075,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1438551
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1324f4f26dac72bd6bfda45ea3c0ea7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":9895004171,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004171,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Becks",
+    "wof:parent_id":101728075,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.92161634962162,
+    40.8166182407248,
+    -111.92161634962162,
+    40.8166182407248
+],
+  "geometry": {"coordinates":[-111.92161634962162,40.8166182407248],"type":"Point"}
+}

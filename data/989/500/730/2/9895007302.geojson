@@ -1,0 +1,84 @@
+{
+  "id": 9895007302,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.84111693485089,42.10778568085075,-87.84111693485089,42.10778568085075",
+    "geom:latitude":42.107786,
+    "geom:longitude":-87.841117,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2098128: name \"Stone Hedge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2098128"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2098128: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2098128"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2098128: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2098128"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940769 (Northbrook).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940769 (Northbrook), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stone Hedge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940769,
+        102084317,
+        102191575,
+        404497637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2098128
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bbefbf7032edff406bb965d9d12712c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940769,
+            "neighbourhood_id":9895007302,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007302,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Stone Hedge",
+    "wof:parent_id":85940769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.84111693485089,
+    42.10778568085075,
+    -87.84111693485089,
+    42.10778568085075
+],
+  "geometry": {"coordinates":[-87.84111693485089,42.10778568085075],"type":"Point"}
+}

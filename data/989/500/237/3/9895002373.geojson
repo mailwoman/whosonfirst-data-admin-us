@@ -1,0 +1,82 @@
+{
+  "id": 9895002373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.7262747432783,41.71426482381048,-74.7262747432783,41.71426482381048",
+    "geom:latitude":41.714265,
+    "geom:longitude":-74.726275,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 952257: name \"Harris\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/952257"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 952257: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/952257"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 952257: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/952257"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404523203 (Thompson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404523203 (Thompson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Harris"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102082407,
+        102191575,
+        404523203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":952257
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4c4e8f1e31428321334907e93858e389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082407,
+            "localadmin_id":404523203,
+            "locality_id":9895002373,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002373,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Harris",
+    "wof:parent_id":404523203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.7262747432783,
+    41.71426482381048,
+    -74.7262747432783,
+    41.71426482381048
+],
+  "geometry": {"coordinates":[-74.7262747432783,41.71426482381048],"type":"Point"}
+}

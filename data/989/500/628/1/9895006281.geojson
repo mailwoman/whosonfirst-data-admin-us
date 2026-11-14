@@ -1,0 +1,82 @@
+{
+  "id": 9895006281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.53356902540553,38.69262646274661,-76.53356902540553,38.69262646274661",
+    "geom:latitude":38.692626,
+    "geom:longitude":-76.533569,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676347: name \"Windward Key\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676347"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676347: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676347"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676347: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676347"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949251 (Chesapeake Beach).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949251 (Chesapeake Beach), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Windward Key"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949251,
+        102084241,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1676347
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd9c3aa64f9cd378a844685563d3b33d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949251,
+            "neighbourhood_id":9895006281,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006281,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Windward Key",
+    "wof:parent_id":85949251,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.53356902540553,
+    38.69262646274661,
+    -76.53356902540553,
+    38.69262646274661
+],
+  "geometry": {"coordinates":[-76.53356902540553,38.69262646274661],"type":"Point"}
+}

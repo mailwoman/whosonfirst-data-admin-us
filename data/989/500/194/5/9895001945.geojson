@@ -1,0 +1,82 @@
+{
+  "id": 9895001945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.70330661641816,39.31539218202318,-76.70330661641816,39.31539218202318",
+    "geom:latitude":39.315392,
+    "geom:longitude":-76.703307,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 598247: name \"Wetheredsville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/598247"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 598247: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/598247"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 598247: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/598247"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949461 (Baltimore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949461 (Baltimore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wetheredsville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949461,
+        102081589,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":598247
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3473a1f5a55e6f720c3c434b30d91ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "neighbourhood_id":9895001945,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001945,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Wetheredsville",
+    "wof:parent_id":85949461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.70330661641816,
+    39.31539218202318,
+    -76.70330661641816,
+    39.31539218202318
+],
+  "geometry": {"coordinates":[-76.70330661641816,39.31539218202318],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006740,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.09606942717478,38.727129622735205,-121.09606942717478,38.727129622735205",
+    "geom:latitude":38.72713,
+    "geom:longitude":-121.096069,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733947: name \"Summit Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733947"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733947: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733947"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733947: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733947"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85924065 (El Dorado Hills).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85924065 (El Dorado Hills), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Summit Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85924065,
+        102086953,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1733947
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2fa020e80531b1cdcdf12a062feffcd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086953,
+            "locality_id":85924065,
+            "neighbourhood_id":9895006740,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006740,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Summit Village",
+    "wof:parent_id":85924065,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.09606942717478,
+    38.727129622735205,
+    -121.09606942717478,
+    38.727129622735205
+],
+  "geometry": {"coordinates":[-121.09606942717478,38.727129622735205],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000936,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.08296017201187,38.70289771589037,-75.08296017201187,38.70289771589037",
+    "geom:latitude":38.702898,
+    "geom:longitude":-75.08296,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215467: name \"Dodds Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215467"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215467: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215467"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215467: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215467"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083887 (Sussex).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083887 (Sussex), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dodds Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        102083887,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":215467
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61397c450a057df25dba6a5f2331fd5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":9895000936,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000936,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Dodds Addition",
+    "wof:parent_id":102083887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.08296017201187,
+    38.70289771589037,
+    -75.08296017201187,
+    38.70289771589037
+],
+  "geometry": {"coordinates":[-75.08296017201187,38.70289771589037],"type":"Point"}
+}

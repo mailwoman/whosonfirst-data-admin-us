@@ -1,0 +1,82 @@
+{
+  "id": 9895000437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.27997327382992,32.3904217729161,-86.27997327382992,32.3904217729161",
+    "geom:latitude":32.390422,
+    "geom:longitude":-86.279973,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142649: name \"King Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142649"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142649: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142649"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142649: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142649"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "King Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142649
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5302d49bfc80569ca4e12edea2cddbe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000437,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000437,
+    "wof:lastmodified":1794681122,
+    "wof:name":"King Hill",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.27997327382992,
+    32.3904217729161,
+    -86.27997327382992,
+    32.3904217729161
+],
+  "geometry": {"coordinates":[-86.27997327382992,32.3904217729161],"type":"Point"}
+}

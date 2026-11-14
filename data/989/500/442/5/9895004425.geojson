@@ -1,0 +1,82 @@
+{
+  "id": 9895004425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.89133642940297,40.71245263183225,-111.89133642940297,40.71245263183225",
+    "geom:latitude":40.712453,
+    "geom:longitude":-111.891336,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451814: name \"Southgate Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451814"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451814: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451814"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451814: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451814"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728057 (South Salt Lake).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728057 (South Salt Lake), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Southgate Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728057,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451814
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d4212e46ac21d5838c419d1340803af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":9895004425,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004425,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Southgate Park",
+    "wof:parent_id":101728057,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.89133642940297,
+    40.71245263183225,
+    -111.89133642940297,
+    40.71245263183225
+],
+  "geometry": {"coordinates":[-111.89133642940297,40.71245263183225],"type":"Point"}
+}

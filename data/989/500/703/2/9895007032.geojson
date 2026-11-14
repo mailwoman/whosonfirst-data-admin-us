@@ -1,0 +1,82 @@
+{
+  "id": 9895007032,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.0528874993651,42.19725212675123,-89.0528874993651,42.19725212675123",
+    "geom:latitude":42.197252,
+    "geom:longitude":-89.052887,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1829435: name \"Canyon Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1829435"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1829435: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1829435"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1829435: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1829435"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404499335 (Cherry Valley Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404499335 (Cherry Valley Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Canyon Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102080827,
+        102191575,
+        404499335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1829435
+    },
+    "wof:country":"US",
+    "wof:geomhash":"753abbd5a41f79e7212e50472324708a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080827,
+            "localadmin_id":404499335,
+            "locality_id":9895007032,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007032,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Canyon Ridge",
+    "wof:parent_id":404499335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.0528874993651,
+    42.19725212675123,
+    -89.0528874993651,
+    42.19725212675123
+],
+  "geometry": {"coordinates":[-89.0528874993651,42.19725212675123],"type":"Point"}
+}

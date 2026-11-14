@@ -1,0 +1,82 @@
+{
+  "id": 9895000560,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.84999418075122,33.27150884052479,-86.84999418075122,33.27150884052479",
+    "geom:latitude":33.271509,
+    "geom:longitude":-86.849994,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146436: name \"Fox Haven\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146436"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146436: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146436"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146436: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146436"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914471 (Helena).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914471 (Helena), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fox Haven"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914471,
+        102085499,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146436
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a92110b98e742b1d7eeb34fc94d46e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085499,
+            "locality_id":85914471,
+            "neighbourhood_id":9895000560,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000560,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Fox Haven",
+    "wof:parent_id":85914471,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.84999418075122,
+    33.27150884052479,
+    -86.84999418075122,
+    33.27150884052479
+],
+  "geometry": {"coordinates":[-86.84999418075122,33.27150884052479],"type":"Point"}
+}

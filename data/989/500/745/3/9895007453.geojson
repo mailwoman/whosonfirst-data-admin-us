@@ -1,0 +1,82 @@
+{
+  "id": 9895007453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.82223225732793,39.63000641562998,-104.82223225732793,39.63000641562998",
+    "geom:latitude":39.630006,
+    "geom:longitude":-104.822232,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354680: name \"Sundown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354680"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354680: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354680"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354680: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354680"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929235 (Aurora).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929235 (Aurora), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sundown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929235,
+        102086877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354680
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fbed50491d380dedc4f2c93d9568b5e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086877,
+            "locality_id":85929235,
+            "neighbourhood_id":9895007453,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007453,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Sundown",
+    "wof:parent_id":85929235,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.82223225732793,
+    39.63000641562998,
+    -104.82223225732793,
+    39.63000641562998
+],
+  "geometry": {"coordinates":[-104.82223225732793,39.63000641562998],"type":"Point"}
+}

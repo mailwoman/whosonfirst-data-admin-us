@@ -1,0 +1,82 @@
+{
+  "id": 9895002962,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.4111691565596,36.02569946692294,-80.4111691565596,36.02569946692294",
+    "geom:latitude":36.025699,
+    "geom:longitude":-80.411169,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005517: name \"Meadowbrook Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005517"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005517: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005517"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005517: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005517"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980703 (Clemmons).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980703 (Clemmons), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meadowbrook Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980703,
+        102080957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005517
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a78b735082cd9505f1b2a874cf32a891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080957,
+            "locality_id":85980703,
+            "neighbourhood_id":9895002962,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002962,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Meadowbrook Estates",
+    "wof:parent_id":85980703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.4111691565596,
+    36.02569946692294,
+    -80.4111691565596,
+    36.02569946692294
+],
+  "geometry": {"coordinates":[-80.4111691565596,36.02569946692294],"type":"Point"}
+}

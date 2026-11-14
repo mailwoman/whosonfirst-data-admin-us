@@ -1,0 +1,80 @@
+{
+  "id": 9895007985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.34383121482686,48.869343373578744,-112.34383121482686,48.869343373578744",
+    "geom:latitude":48.869343,
+    "geom:longitude":-112.343831,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806628: name \"Zenith Colony\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806628"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806628: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806628"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806628: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806628"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085069 (Glacier).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085069 (Glacier), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Zenith Colony"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        102085069,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806628
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68f26eb9917c02135845a39b812e8314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085069,
+            "locality_id":9895007985,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895007985,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Zenith Colony",
+    "wof:parent_id":102085069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.34383121482686,
+    48.869343373578744,
+    -112.34383121482686,
+    48.869343373578744
+],
+  "geometry": {"coordinates":[-112.34383121482686,48.869343373578744],"type":"Point"}
+}

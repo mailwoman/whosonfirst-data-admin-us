@@ -1,0 +1,82 @@
+{
+  "id": 9895002265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.4421173054971,37.3808878987323,-92.4421173054971,37.3808878987323",
+    "geom:latitude":37.380888,
+    "geom:longitude":-92.442117,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 752001: name \"Saint George\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/752001"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 752001: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/752001"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 752001: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/752001"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404517961 (Elk Creek Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404517961 (Elk Creek Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint George"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102080801,
+        102191575,
+        404517961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":752001
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c7fdc848656e1294bcdb5ce27e4cb62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080801,
+            "localadmin_id":404517961,
+            "locality_id":9895002265,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002265,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Saint George",
+    "wof:parent_id":404517961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.4421173054971,
+    37.3808878987323,
+    -92.4421173054971,
+    37.3808878987323
+],
+  "geometry": {"coordinates":[-92.4421173054971,37.3808878987323],"type":"Point"}
+}

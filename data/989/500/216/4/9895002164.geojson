@@ -1,0 +1,80 @@
+{
+  "id": 9895002164,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.42782363944126,33.55845723936652,-88.42782363944126,33.55845723936652",
+    "geom:latitude":33.558457,
+    "geom:longitude":-88.427824,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687952: name \"Woodland Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687952"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687952: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687952"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687952: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687952"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081023 (Lowndes).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081023 (Lowndes), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodland Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102081023,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":687952
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a957919ea1eeae12c96dae1c54597631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":9895002164,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002164,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Woodland Heights",
+    "wof:parent_id":102081023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.42782363944126,
+    33.55845723936652,
+    -88.42782363944126,
+    33.55845723936652
+],
+  "geometry": {"coordinates":[-88.42782363944126,33.55845723936652],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000948,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.69715592257427,39.674564290931535,-75.69715592257427,39.674564290931535",
+    "geom:latitude":39.674564,
+    "geom:longitude":-75.697156,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215775: name \"Elmwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215775"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215775: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215775"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215775: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215775"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083891 (New Castle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083891 (New Castle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Elmwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        102083891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":215775
+    },
+    "wof:country":"US",
+    "wof:geomhash":"527e1d9cdb7767178fe7c45e8e1f44a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":9895000948,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000948,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Elmwood",
+    "wof:parent_id":102083891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.69715592257427,
+    39.674564290931535,
+    -75.69715592257427,
+    39.674564290931535
+],
+  "geometry": {"coordinates":[-75.69715592257427,39.674564290931535],"type":"Point"}
+}

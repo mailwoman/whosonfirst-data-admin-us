@@ -1,0 +1,82 @@
+{
+  "id": 9895000246,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.02709561458948,34.96148306651181,-92.02709561458948,34.96148306651181",
+    "geom:latitude":34.961483,
+    "geom:longitude":-92.027096,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 61251: name \"Pheasant Run Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/61251"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 61251: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/61251"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 61251: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/61251"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921127 (Cabot).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921127 (Cabot), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pheasant Run Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        85921127,
+        102082027,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":61251
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6d06493f9a6d234168733346b446e7c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082027,
+            "locality_id":85921127,
+            "neighbourhood_id":9895000246,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000246,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Pheasant Run Addition",
+    "wof:parent_id":85921127,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.02709561458948,
+    34.96148306651181,
+    -92.02709561458948,
+    34.96148306651181
+],
+  "geometry": {"coordinates":[-92.02709561458948,34.96148306651181],"type":"Point"}
+}

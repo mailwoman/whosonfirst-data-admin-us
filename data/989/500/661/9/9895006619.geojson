@@ -1,0 +1,82 @@
+{
+  "id": 9895006619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.83414355607903,39.29900257372282,-76.83414355607903,39.29900257372282",
+    "geom:latitude":39.299003,
+    "geom:longitude":-76.834144,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1708535: name \"The Orchards\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1708535"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1708535: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1708535"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1708535: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1708535"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950037 (Ellicott City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950037 (Ellicott City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "The Orchards"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85950037,
+        102084263,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1708535
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d295c03633297d84e5914a8221a6b629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "neighbourhood_id":9895006619,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006619,
+    "wof:lastmodified":1794681141,
+    "wof:name":"The Orchards",
+    "wof:parent_id":85950037,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.83414355607903,
+    39.29900257372282,
+    -76.83414355607903,
+    39.29900257372282
+],
+  "geometry": {"coordinates":[-76.83414355607903,39.29900257372282],"type":"Point"}
+}

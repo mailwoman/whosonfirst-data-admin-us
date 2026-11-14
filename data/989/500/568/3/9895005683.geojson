@@ -1,0 +1,82 @@
+{
+  "id": 9895005683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.56179491029994,39.2406386707832,-81.56179491029994,39.2406386707832",
+    "geom:latitude":39.240639,
+    "geom:longitude":-81.561795,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1556592: name \"South Hills Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1556592"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1556592: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1556592"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1556592: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1556592"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101731687 (Parkersburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101731687 (Parkersburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South Hills Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        101731687,
+        102083343,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1556592
+    },
+    "wof:country":"US",
+    "wof:geomhash":"afa4f4a6f1b213e06e27ac80dd5be816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":9895005683,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895005683,
+    "wof:lastmodified":1794681138,
+    "wof:name":"South Hills Estates",
+    "wof:parent_id":101731687,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.56179491029994,
+    39.2406386707832,
+    -81.56179491029994,
+    39.2406386707832
+],
+  "geometry": {"coordinates":[-81.56179491029994,39.2406386707832],"type":"Point"}
+}

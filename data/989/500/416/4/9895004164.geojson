@@ -1,0 +1,82 @@
+{
+  "id": 9895004164,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-134.58390898070178,57.50333749789815,-134.58390898070178,57.50333749789815",
+    "geom:latitude":57.503337,
+    "geom:longitude":-134.583909,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1420113: name \"Angoon\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1420113"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1420113: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1420113"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1420113: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1420113"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85916117 (Angoon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85916117 (Angoon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Angoon"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85916117,
+        102191575,
+        1108960989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1420113
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9df56c9b17bb8d5a05869cfbf280bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":1108960989,
+            "locality_id":85916117,
+            "neighbourhood_id":9895004164,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004164,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Angoon",
+    "wof:parent_id":85916117,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -134.58390898070178,
+    57.50333749789815,
+    -134.58390898070178,
+    57.50333749789815
+],
+  "geometry": {"coordinates":[-134.58390898070178,57.50333749789815],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895005844,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.74574426013687,38.31158408767859,-119.74574426013687,38.31158408767859",
+    "geom:latitude":38.311584,
+    "geom:longitude":-119.745744,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1652887: name \"Kennedy Meadow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1652887"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1652887: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1652887"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1652887: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1652887"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086939 (Tuolumne).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086939 (Tuolumne), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kennedy Meadow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102086939,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1652887
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95c3e4fea643e0689a8abfed4c8209fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086939,
+            "locality_id":9895005844,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005844,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Kennedy Meadow",
+    "wof:parent_id":102086939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.74574426013687,
+    38.31158408767859,
+    -119.74574426013687,
+    38.31158408767859
+],
+  "geometry": {"coordinates":[-119.74574426013687,38.31158408767859],"type":"Point"}
+}

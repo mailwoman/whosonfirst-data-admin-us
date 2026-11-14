@@ -1,0 +1,82 @@
+{
+  "id": 9895003928,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.238295327105,35.15257749617768,-85.238295327105,35.15257749617768",
+    "geom:latitude":35.152577,
+    "geom:longitude":-85.238295,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312611: name \"Briarfield\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312611"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312611: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312611"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312611: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312611"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723043 (Chattanooga).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723043 (Chattanooga), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Briarfield"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723043,
+        102087185,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312611
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4344c2f846d5baac8ea1c11b2d172bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":9895003928,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003928,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Briarfield",
+    "wof:parent_id":101723043,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.238295327105,
+    35.15257749617768,
+    -85.238295327105,
+    35.15257749617768
+],
+  "geometry": {"coordinates":[-85.238295327105,35.15257749617768],"type":"Point"}
+}

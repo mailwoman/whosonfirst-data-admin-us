@@ -1,0 +1,82 @@
+{
+  "id": 9895006542,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.57165762190422,33.64705303000773,-86.57165762190422,33.64705303000773",
+    "geom:latitude":33.647053,
+    "geom:longitude":-86.571658,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700584: name \"Saddlewood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700584"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700584: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700584"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700584: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700584"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913473 (Trussville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913473 (Trussville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saddlewood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913473,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700584
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3527d183c28f7603afa9bb429c312066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85913473,
+            "neighbourhood_id":9895006542,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006542,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Saddlewood",
+    "wof:parent_id":85913473,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.57165762190422,
+    33.64705303000773,
+    -86.57165762190422,
+    33.64705303000773
+],
+  "geometry": {"coordinates":[-86.57165762190422,33.64705303000773],"type":"Point"}
+}

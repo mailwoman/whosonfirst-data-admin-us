@@ -1,0 +1,82 @@
+{
+  "id": 9895006864,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.92395880859715,33.741688739456336,-117.92395880859715,33.741688739456336",
+    "geom:latitude":33.741689,
+    "geom:longitude":-117.923959,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765437: name \"Bali-Hi Mobile Home Lodge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765437"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765437: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765437"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765437: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765437"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923049 (Santa Ana).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923049 (Santa Ana), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bali-Hi Mobile Home Lodge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923049,
+        102080847,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1765437
+    },
+    "wof:country":"US",
+    "wof:geomhash":"97c4db911a76025524e40d63e880c0bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923049,
+            "neighbourhood_id":9895006864,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006864,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Bali-Hi Mobile Home Lodge",
+    "wof:parent_id":85923049,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.92395880859715,
+    33.741688739456336,
+    -117.92395880859715,
+    33.741688739456336
+],
+  "geometry": {"coordinates":[-117.92395880859715,33.741688739456336],"type":"Point"}
+}

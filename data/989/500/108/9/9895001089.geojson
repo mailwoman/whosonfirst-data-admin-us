@@ -1,0 +1,80 @@
+{
+  "id": 9895001089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.12545407426408,30.491595722389622,-84.12545407426408,30.491595722389622",
+    "geom:latitude":30.491596,
+    "geom:longitude":-84.125454,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 295311: name \"Gardner\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/295311"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 295311: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/295311"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 295311: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/295311"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085783 (Leon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085783 (Leon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gardner"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102085783,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":295311
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9db0d2375f8937fa02d215488dafa043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085783,
+            "locality_id":9895001089,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001089,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Gardner",
+    "wof:parent_id":102085783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.12545407426408,
+    30.491595722389622,
+    -84.12545407426408,
+    30.491595722389622
+],
+  "geometry": {"coordinates":[-84.12545407426408,30.491595722389622],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.67915854483087,33.509833396958335,-86.67915854483087,33.509833396958335",
+    "geom:latitude":33.509833,
+    "geom:longitude":-86.679159,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700075: name \"Brentwood Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700075"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700075: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700075"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700075: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700075"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914835 (Irondale).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914835 (Irondale), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brentwood Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914835,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700075
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92f5d97f19d1f803ae72faf7362bf5a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914835,
+            "neighbourhood_id":9895006495,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006495,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Brentwood Hills",
+    "wof:parent_id":85914835,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.67915854483087,
+    33.509833396958335,
+    -86.67915854483087,
+    33.509833396958335
+],
+  "geometry": {"coordinates":[-86.67915854483087,33.509833396958335],"type":"Point"}
+}

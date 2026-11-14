@@ -1,0 +1,82 @@
+{
+  "id": 9895001031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.4494292137352,37.7260474377919,-122.4494292137352,37.7260474377919",
+    "geom:latitude":37.726047,
+    "geom:longitude":-122.449429,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 256020: name \"Eldton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/256020"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 256020: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/256020"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 256020: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/256020"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922583 (San Francisco).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922583 (San Francisco), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Eldton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922583,
+        102087579,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":256020
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1183a7d0833229b68ea605034df9c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":9895001031,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001031,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Eldton",
+    "wof:parent_id":85922583,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.4494292137352,
+    37.7260474377919,
+    -122.4494292137352,
+    37.7260474377919
+],
+  "geometry": {"coordinates":[-122.4494292137352,37.7260474377919],"type":"Point"}
+}

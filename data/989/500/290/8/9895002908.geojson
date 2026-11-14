@@ -1,0 +1,82 @@
+{
+  "id": 9895002908,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.88026287417995,35.70516508873342,-77.88026287417995,35.70516508873342",
+    "geom:latitude":35.705165,
+    "geom:longitude":-77.880263,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005354: name \"Bel-Air Forest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005354"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005354: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005354"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005354: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005354"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980891 (Wilson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980891 (Wilson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bel-Air Forest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980891,
+        102087637,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005354
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15803c7e2124ad8e6260ef3b6ba3dad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087637,
+            "locality_id":85980891,
+            "neighbourhood_id":9895002908,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002908,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Bel-Air Forest",
+    "wof:parent_id":85980891,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.88026287417995,
+    35.70516508873342,
+    -77.88026287417995,
+    35.70516508873342
+],
+  "geometry": {"coordinates":[-77.88026287417995,35.70516508873342],"type":"Point"}
+}

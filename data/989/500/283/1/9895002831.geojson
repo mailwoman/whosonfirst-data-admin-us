@@ -1,0 +1,82 @@
+{
+  "id": 9895002831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.46956782751224,35.29345723497128,-82.46956782751224,35.29345723497128",
+    "geom:latitude":35.293457,
+    "geom:longitude":-82.469568,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005073: name \"Westwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005073"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005073: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005073"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005073: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005073"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981549 (Valley Hill).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981549 (Valley Hill), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981549,
+        102080983,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005073
+    },
+    "wof:country":"US",
+    "wof:geomhash":"120ac43d685a8228210c57225d74e260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080983,
+            "locality_id":85981549,
+            "neighbourhood_id":9895002831,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002831,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Westwood",
+    "wof:parent_id":85981549,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.46956782751224,
+    35.29345723497128,
+    -82.46956782751224,
+    35.29345723497128
+],
+  "geometry": {"coordinates":[-82.46956782751224,35.29345723497128],"type":"Point"}
+}

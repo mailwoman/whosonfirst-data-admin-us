@@ -1,0 +1,82 @@
+{
+  "id": 9895004586,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.98995034437665,40.67828592015216,-111.98995034437665,40.67828592015216",
+    "geom:latitude":40.678286,
+    "geom:longitude":-111.98995,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452341: name \"Fairlane Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452341"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452341: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452341"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452341: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452341"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728063 (West Valley City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728063 (West Valley City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fairlane Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728063,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1452341
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7e06b620c9058b7448c18a68a949e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":9895004586,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004586,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Fairlane Heights",
+    "wof:parent_id":101728063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.98995034437665,
+    40.67828592015216,
+    -111.98995034437665,
+    40.67828592015216
+],
+  "geometry": {"coordinates":[-111.98995034437665,40.67828592015216],"type":"Point"}
+}

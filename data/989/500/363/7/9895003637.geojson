@@ -1,0 +1,82 @@
+{
+  "id": 9895003637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.80292329146162,34.680668692028185,-82.80292329146162,34.680668692028185",
+    "geom:latitude":34.680669,
+    "geom:longitude":-82.802923,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243282: name \"Carolina Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243282"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243282: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243282"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243282: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243282"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720811 (Clemson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720811 (Clemson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Carolina Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720811,
+        102085671,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1243282
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28517aa3eb3ad8a3a55c6e4a087fb867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085671,
+            "locality_id":101720811,
+            "neighbourhood_id":9895003637,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003637,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Carolina Hills",
+    "wof:parent_id":101720811,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.80292329146162,
+    34.680668692028185,
+    -82.80292329146162,
+    34.680668692028185
+],
+  "geometry": {"coordinates":[-82.80292329146162,34.680668692028185],"type":"Point"}
+}

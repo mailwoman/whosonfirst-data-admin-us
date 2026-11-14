@@ -1,0 +1,80 @@
+{
+  "id": 9895004017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.12917653847254,36.22839563412851,-87.12917653847254,36.22839563412851",
+    "geom:latitude":36.228396,
+    "geom:longitude":-87.129177,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1314262: name \"Germantown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1314262"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1314262: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1314262"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1314262: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1314262"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086233 (Cheatham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086233 (Cheatham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Germantown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086233,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1314262
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77cf57ecef87b5c3c894d7e3d4201b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086233,
+            "locality_id":9895004017,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895004017,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Germantown",
+    "wof:parent_id":102086233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.12917653847254,
+    36.22839563412851,
+    -87.12917653847254,
+    36.22839563412851
+],
+  "geometry": {"coordinates":[-87.12917653847254,36.22839563412851],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000966,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.475754060022,39.78817672132788,-75.475754060022,39.78817672132788",
+    "geom:latitude":39.788177,
+    "geom:longitude":-75.475754,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215810: name \"Greenmount\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215810"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215810: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215810"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215810: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215810"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083891 (New Castle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083891 (New Castle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Greenmount"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        102083891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":215810
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58d763136ffe32c48c20f85ad6d42ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":9895000966,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000966,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Greenmount",
+    "wof:parent_id":102083891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.475754060022,
+    39.78817672132788,
+    -75.475754060022,
+    39.78817672132788
+],
+  "geometry": {"coordinates":[-75.475754060022,39.78817672132788],"type":"Point"}
+}

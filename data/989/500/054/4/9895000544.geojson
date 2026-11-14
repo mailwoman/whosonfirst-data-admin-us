@@ -1,0 +1,82 @@
+{
+  "id": 9895000544,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.58669827826006,34.8462041371,-87.58669827826006,34.8462041371",
+    "geom:latitude":34.846204,
+    "geom:longitude":-87.586698,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 145159: name \"Evergreen Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/145159"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 145159: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/145159"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 145159: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/145159"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914011 (Florence).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914011 (Florence), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Evergreen Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914011,
+        102085527,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":145159
+    },
+    "wof:country":"US",
+    "wof:geomhash":"91f4446b9ea9ebf4db3f56f1d0a40c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085527,
+            "locality_id":85914011,
+            "neighbourhood_id":9895000544,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000544,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Evergreen Estates",
+    "wof:parent_id":85914011,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.58669827826006,
+    34.8462041371,
+    -87.58669827826006,
+    34.8462041371
+],
+  "geometry": {"coordinates":[-87.58669827826006,34.8462041371],"type":"Point"}
+}

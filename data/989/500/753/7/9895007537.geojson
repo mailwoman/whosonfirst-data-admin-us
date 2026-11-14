@@ -1,0 +1,84 @@
+{
+  "id": 9895007537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.98361692911925,41.633063392051874,-87.98361692911925,41.633063392051874",
+    "geom:latitude":41.633063,
+    "geom:longitude":-87.983617,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2356081: name \"Country Squire\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2356081"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2356081: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2356081"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2356081: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2356081"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940555 (Homer Glen).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940555 (Homer Glen), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Country Squire"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940555,
+        102080845,
+        102191575,
+        404499139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2356081
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6d7028afdd385d767a07583ff168c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499139,
+            "locality_id":85940555,
+            "neighbourhood_id":9895007537,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007537,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Country Squire",
+    "wof:parent_id":85940555,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.98361692911925,
+    41.633063392051874,
+    -87.98361692911925,
+    41.633063392051874
+],
+  "geometry": {"coordinates":[-87.98361692911925,41.633063392051874],"type":"Point"}
+}

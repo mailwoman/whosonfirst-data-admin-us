@@ -1,0 +1,82 @@
+{
+  "id": 9895000913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.6074765202181,39.74527094651957,-104.6074765202181,39.74527094651957",
+    "geom:latitude":39.745271,
+    "geom:longitude":-104.607477,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 184998: name \"Watkins\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/184998"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 184998: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/184998"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 184998: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/184998"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85930225 (Watkins).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85930225 (Watkins), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Watkins"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85930225,
+        102086877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":184998
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e893f5f1d99b00a521ab36f104e06ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086877,
+            "locality_id":85930225,
+            "neighbourhood_id":9895000913,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000913,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Watkins",
+    "wof:parent_id":85930225,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.6074765202181,
+    39.74527094651957,
+    -104.6074765202181,
+    39.74527094651957
+],
+  "geometry": {"coordinates":[-104.6074765202181,39.74527094651957],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895004082,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.35525124094555,29.468026204614375,-96.35525124094555,29.468026204614375",
+    "geom:latitude":29.468026,
+    "geom:longitude":-96.355251,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378251: name \"Eldridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378251"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378251: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378251"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378251: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378251"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081455 (Colorado).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081455 (Colorado), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Eldridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102081455,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1378251
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5620fb912076ead97a8beb8e6e2ffb5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081455,
+            "locality_id":9895004082,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004082,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Eldridge",
+    "wof:parent_id":102081455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.35525124094555,
+    29.468026204614375,
+    -96.35525124094555,
+    29.468026204614375
+],
+  "geometry": {"coordinates":[-96.35525124094555,29.468026204614375],"type":"Point"}
+}

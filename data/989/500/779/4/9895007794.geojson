@@ -1,0 +1,82 @@
+{
+  "id": 9895007794,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.51584554766207,34.232227059909924,-118.51584554766207,34.232227059909924",
+    "geom:latitude":34.232227,
+    "geom:longitude":-118.515846,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2745592: name \"Sherwood Forest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2745592"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2745592: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2745592"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2745592: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2745592"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923517 (Los Angeles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923517 (Los Angeles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sherwood Forest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923517,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2745592
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d2d0f2f393d365b028c5dc269e1b6a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":9895007794,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007794,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Sherwood Forest",
+    "wof:parent_id":85923517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.51584554766207,
+    34.232227059909924,
+    -118.51584554766207,
+    34.232227059909924
+],
+  "geometry": {"coordinates":[-118.51584554766207,34.232227059909924],"type":"Point"}
+}

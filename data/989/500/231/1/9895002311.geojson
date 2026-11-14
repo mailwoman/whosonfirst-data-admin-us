@@ -1,0 +1,82 @@
+{
+  "id": 9895002311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.05486002275285,40.022903118149145,-74.05486002275285,40.022903118149145",
+    "geom:latitude":40.022903,
+    "geom:longitude":-74.05486,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 880734: name \"South Mantoloking Beach\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/880734"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 880734: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/880734"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 880734: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/880734"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404477835 (Brick Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404477835 (Brick Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South Mantoloking Beach"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102081485,
+        102191575,
+        404477835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":880734
+    },
+    "wof:country":"US",
+    "wof:geomhash":"473a1cb22947040f7e1aacd53f260e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477835,
+            "locality_id":9895002311,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895002311,
+    "wof:lastmodified":1794681129,
+    "wof:name":"South Mantoloking Beach",
+    "wof:parent_id":404477835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.05486002275285,
+    40.022903118149145,
+    -74.05486002275285,
+    40.022903118149145
+],
+  "geometry": {"coordinates":[-74.05486002275285,40.022903118149145],"type":"Point"}
+}

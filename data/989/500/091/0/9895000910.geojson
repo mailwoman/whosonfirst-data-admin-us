@@ -1,0 +1,80 @@
+{
+  "id": 9895000910,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.34089166640366,37.223620413438226,-107.34089166640366,37.223620413438226",
+    "geom:latitude":37.22362,
+    "geom:longitude":-107.340892,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 184445: name \"Piedra\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/184445"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 184445: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/184445"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 184445: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/184445"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086131 (Archuleta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086131 (Archuleta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Piedra"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102086131,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":184445
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7bf61d0c5e06327585e65bb208839b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086131,
+            "locality_id":9895000910,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000910,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Piedra",
+    "wof:parent_id":102086131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.34089166640366,
+    37.223620413438226,
+    -107.34089166640366,
+    37.223620413438226
+],
+  "geometry": {"coordinates":[-107.34089166640366,37.223620413438226],"type":"Point"}
+}

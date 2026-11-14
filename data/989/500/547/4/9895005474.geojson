@@ -1,0 +1,82 @@
+{
+  "id": 9895005474,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.9327273481645,40.78772953671299,-111.9327273481645,40.78772953671299",
+    "geom:latitude":40.78773,
+    "geom:longitude":-111.932727,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454223: name \"Oakley Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454223"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454223: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454223"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454223: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454223"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728075 (Salt Lake City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728075 (Salt Lake City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oakley Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728075,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1454223
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc0d9d0c3419f148a126df2ca0e7b38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":9895005474,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005474,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Oakley Park",
+    "wof:parent_id":101728075,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.9327273481645,
+    40.78772953671299,
+    -111.9327273481645,
+    40.78772953671299
+],
+  "geometry": {"coordinates":[-111.9327273481645,40.78772953671299],"type":"Point"}
+}

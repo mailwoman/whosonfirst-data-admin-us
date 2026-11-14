@@ -1,0 +1,82 @@
+{
+  "id": 9895002819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.82197897941622,36.01514278641518,-79.82197897941622,36.01514278641518",
+    "geom:latitude":36.015143,
+    "geom:longitude":-79.821979,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004997: name \"Shannon Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004997"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004997: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004997"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004997: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004997"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980391 (Greensboro).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980391 (Greensboro), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shannon Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980391,
+        102080985,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1004997
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e48ea8bbd63799e414dcba60a775558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080985,
+            "locality_id":85980391,
+            "neighbourhood_id":9895002819,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002819,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Shannon Hills",
+    "wof:parent_id":85980391,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.82197897941622,
+    36.01514278641518,
+    -79.82197897941622,
+    36.01514278641518
+],
+  "geometry": {"coordinates":[-79.82197897941622,36.01514278641518],"type":"Point"}
+}

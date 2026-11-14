@@ -1,0 +1,82 @@
+{
+  "id": 9895005953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.23258467775244,33.963075346635904,-118.23258467775244,33.963075346635904",
+    "geom:latitude":33.963075,
+    "geom:longitude":-118.232585,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660635: name \"Firestone Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660635"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660635: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660635"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660635: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660635"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85928335 (Florence-Graham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85928335 (Florence-Graham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Firestone Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85928335,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1660635
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e2bd2436eb1ca2219d8b72161de68c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85928335,
+            "neighbourhood_id":9895005953,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005953,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Firestone Park",
+    "wof:parent_id":85928335,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.23258467775244,
+    33.963075346635904,
+    -118.23258467775244,
+    33.963075346635904
+],
+  "geometry": {"coordinates":[-118.23258467775244,33.963075346635904],"type":"Point"}
+}

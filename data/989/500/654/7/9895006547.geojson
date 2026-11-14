@@ -1,0 +1,82 @@
+{
+  "id": 9895006547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.17532226430352,33.52919815551991,-117.17532226430352,33.52919815551991",
+    "geom:latitude":33.529198,
+    "geom:longitude":-117.175322,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701423: name \"Linda Rose\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701423"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701423: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701423"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701423: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701423"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923375 (Murrieta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923375 (Murrieta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Linda Rose"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923375,
+        102086221,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1701423
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7fcd8defc4b2050d06a4bfea0934f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923375,
+            "neighbourhood_id":9895006547,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006547,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Linda Rose",
+    "wof:parent_id":85923375,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.17532226430352,
+    33.52919815551991,
+    -117.17532226430352,
+    33.52919815551991
+],
+  "geometry": {"coordinates":[-117.17532226430352,33.52919815551991],"type":"Point"}
+}

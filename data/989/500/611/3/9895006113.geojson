@@ -1,0 +1,82 @@
+{
+  "id": 9895006113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.16407853139518,31.564069064088777,-84.16407853139518,31.564069064088777",
+    "geom:latitude":31.564069,
+    "geom:longitude":-84.164079,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671075: name \"Dixieland\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671075"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671075: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671075"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671075: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671075"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85935991 (Albany).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85935991 (Albany), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dixieland"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85935991,
+        102084427,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671075
+    },
+    "wof:country":"US",
+    "wof:geomhash":"72d3bb1a2f8db6d1d2ed7f23dc5bafc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":9895006113,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006113,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Dixieland",
+    "wof:parent_id":85935991,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.16407853139518,
+    31.564069064088777,
+    -84.16407853139518,
+    31.564069064088777
+],
+  "geometry": {"coordinates":[-84.16407853139518,31.564069064088777],"type":"Point"}
+}

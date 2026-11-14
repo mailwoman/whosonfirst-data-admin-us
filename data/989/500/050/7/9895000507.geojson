@@ -1,0 +1,82 @@
+{
+  "id": 9895000507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.07639410251811,30.8196364688574,-88.07639410251811,30.8196364688574",
+    "geom:latitude":30.819636,
+    "geom:longitude":-88.076394,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143659: name \"Pine Wood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143659"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143659: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143659"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143659: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143659"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913735 (Saraland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913735 (Saraland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pine Wood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913735,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143659
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e2b93602b994da847547e00f00126bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":85913735,
+            "neighbourhood_id":9895000507,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000507,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Pine Wood",
+    "wof:parent_id":85913735,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.07639410251811,
+    30.8196364688574,
+    -88.07639410251811,
+    30.8196364688574
+],
+  "geometry": {"coordinates":[-88.07639410251811,30.8196364688574],"type":"Point"}
+}

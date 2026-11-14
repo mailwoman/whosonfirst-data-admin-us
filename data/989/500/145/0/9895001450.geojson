@@ -1,0 +1,82 @@
+{
+  "id": 9895001450,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.77584827744911,40.594489073603704,-86.77584827744911,40.594489073603704",
+    "geom:latitude":40.594489,
+    "geom:longitude":-86.775848,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 444002: name \"Springboro\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/444002"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 444002: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/444002"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 444002: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/444002"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404500493 (Prairie Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404500493 (Prairie Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Springboro"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102087133,
+        102191575,
+        404500493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":444002
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f20c15bfdc173e10870cd751b773fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087133,
+            "localadmin_id":404500493,
+            "locality_id":9895001450,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895001450,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Springboro",
+    "wof:parent_id":404500493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.77584827744911,
+    40.594489073603704,
+    -86.77584827744911,
+    40.594489073603704
+],
+  "geometry": {"coordinates":[-86.77584827744911,40.594489073603704],"type":"Point"}
+}

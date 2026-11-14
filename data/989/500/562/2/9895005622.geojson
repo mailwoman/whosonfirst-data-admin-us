@@ -1,0 +1,80 @@
+{
+  "id": 9895005622,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.42643882632021,47.69959503772795,-119.42643882632021,47.69959503772795",
+    "geom:latitude":47.699595,
+    "geom:longitude":-119.426439,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511287: name \"Saint Andrews\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511287"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511287: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511287"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511287: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511287"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085361 (Douglas).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085361 (Douglas), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Andrews"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102085361,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1511287
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9113b6f0c5c185b73f04ee990ec61df3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085361,
+            "locality_id":9895005622,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005622,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Saint Andrews",
+    "wof:parent_id":102085361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.42643882632021,
+    47.69959503772795,
+    -119.42643882632021,
+    47.69959503772795
+],
+  "geometry": {"coordinates":[-119.42643882632021,47.69959503772795],"type":"Point"}
+}

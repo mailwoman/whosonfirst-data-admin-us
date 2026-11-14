@@ -1,0 +1,80 @@
+{
+  "id": 9895000747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.601401795931,33.316789421156344,-87.601401795931,33.316789421156344",
+    "geom:latitude":33.316789,
+    "geom:longitude":-87.601402,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148387: name \"North Valley Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148387"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148387: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148387"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148387: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148387"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North Valley Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148387
+    },
+    "wof:country":"US",
+    "wof:geomhash":"35152dddeaff99ccc20c9afc9df1a202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000747,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000747,
+    "wof:lastmodified":1794681123,
+    "wof:name":"North Valley Acres",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.601401795931,
+    33.316789421156344,
+    -87.601401795931,
+    33.316789421156344
+],
+  "geometry": {"coordinates":[-87.601401795931,33.316789421156344],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895004468,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.81438930775373,40.66800903271584,-111.81438930775373,40.66800903271584",
+    "geom:latitude":40.668009,
+    "geom:longitude":-111.814389,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451881: name \"Callister\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451881"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451881: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451881"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451881: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451881"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728049 (Holladay).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728049 (Holladay), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Callister"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728049,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451881
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af0e06084a877f1c53e5563d1de46ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":9895004468,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004468,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Callister",
+    "wof:parent_id":101728049,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.81438930775373,
+    40.66800903271584,
+    -111.81438930775373,
+    40.66800903271584
+],
+  "geometry": {"coordinates":[-111.81438930775373,40.66800903271584],"type":"Point"}
+}

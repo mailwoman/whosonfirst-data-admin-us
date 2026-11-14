@@ -1,0 +1,82 @@
+{
+  "id": 9895006500,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.94999731515897,33.39094976203441,-86.94999731515897,33.39094976203441",
+    "geom:latitude":33.39095,
+    "geom:longitude":-86.949997,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700100: name \"Longbrook Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700100"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700100: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700100"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700100: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700100"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914885 (Bessemer).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914885 (Bessemer), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Longbrook Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914885,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700100
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4df17a28dfea54bc878c42957c5d2675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914885,
+            "neighbourhood_id":9895006500,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006500,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Longbrook Estates",
+    "wof:parent_id":85914885,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.94999731515897,
+    33.39094976203441,
+    -86.94999731515897,
+    33.39094976203441
+],
+  "geometry": {"coordinates":[-86.94999731515897,33.39094976203441],"type":"Point"}
+}

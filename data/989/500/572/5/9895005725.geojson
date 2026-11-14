@@ -1,0 +1,82 @@
+{
+  "id": 9895005725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.78284644744278,30.257144689649625,-89.78284644744278,30.257144689649625",
+    "geom:latitude":30.257145,
+    "geom:longitude":-89.782846,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628839: name \"Abney Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628839"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628839: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628839"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628839: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628839"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948031 (Slidell).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948031 (Slidell), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Abney Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948031,
+        102082453,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1628839
+    },
+    "wof:country":"US",
+    "wof:geomhash":"957102f223a35bd87fd621ea4d8c54ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":9895005725,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895005725,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Abney Estates",
+    "wof:parent_id":85948031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.78284644744278,
+    30.257144689649625,
+    -89.78284644744278,
+    30.257144689649625
+],
+  "geometry": {"coordinates":[-89.78284644744278,30.257144689649625],"type":"Point"}
+}

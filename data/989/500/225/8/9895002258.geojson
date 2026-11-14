@@ -1,0 +1,82 @@
+{
+  "id": 9895002258,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.0342667971098,36.791449209291926,-90.0342667971098,36.791449209291926",
+    "geom:latitude":36.791449,
+    "geom:longitude":-90.034267,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 741296: name \"Stoddard\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/741296"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 741296: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/741296"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 741296: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/741296"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404517907 (Liberty Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404517907 (Liberty Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stoddard"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102085279,
+        102191575,
+        404517907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":741296
+    },
+    "wof:country":"US",
+    "wof:geomhash":"069b7612861e02c41dedeac2dcd59093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085279,
+            "localadmin_id":404517907,
+            "locality_id":9895002258,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002258,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Stoddard",
+    "wof:parent_id":404517907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.0342667971098,
+    36.791449209291926,
+    -90.0342667971098,
+    36.791449209291926
+],
+  "geometry": {"coordinates":[-90.0342667971098,36.791449209291926],"type":"Point"}
+}

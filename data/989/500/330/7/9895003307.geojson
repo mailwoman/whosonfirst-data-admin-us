@@ -1,0 +1,84 @@
+{
+  "id": 9895003307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.89144097519879,40.31007764868781,-79.89144097519879,40.31007764868781",
+    "geom:latitude":40.310078,
+    "geom:longitude":-79.891441,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1191528: name \"Wilson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1191528"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1191528: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1191528"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1191528: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1191528"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101718753 (Clairton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101718753 (Clairton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wilson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101718753,
+        102080887,
+        102191575,
+        404484873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1191528
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4780b13fa17f8f547370340a251cec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080887,
+            "localadmin_id":404484873,
+            "locality_id":101718753,
+            "neighbourhood_id":9895003307,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003307,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Wilson",
+    "wof:parent_id":101718753,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.89144097519879,
+    40.31007764868781,
+    -79.89144097519879,
+    40.31007764868781
+],
+  "geometry": {"coordinates":[-79.89144097519879,40.31007764868781],"type":"Point"}
+}

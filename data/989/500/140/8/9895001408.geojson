@@ -1,0 +1,82 @@
+{
+  "id": 9895001408,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.87649341820874,38.860332000252704,-89.87649341820874,38.860332000252704",
+    "geom:latitude":38.860332,
+    "geom:longitude":-89.876493,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 422934: name \"Maple\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/422934"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 422934: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/422934"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 422934: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/422934"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404496721 (Hamel Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404496721 (Hamel Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Maple"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102082849,
+        102191575,
+        404496721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":422934
+    },
+    "wof:country":"US",
+    "wof:geomhash":"760579df4b61c402b7c868418d89bea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082849,
+            "localadmin_id":404496721,
+            "locality_id":9895001408,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001408,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Maple",
+    "wof:parent_id":404496721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.87649341820874,
+    38.860332000252704,
+    -89.87649341820874,
+    38.860332000252704
+],
+  "geometry": {"coordinates":[-89.87649341820874,38.860332000252704],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.18924745831653,33.80557763174752,-118.18924745831653,33.80557763174752",
+    "geom:latitude":33.805578,
+    "geom:longitude":-118.189247,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670047: name \"Willowville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670047"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670047: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670047"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670047: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670047"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923525 (Long Beach).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923525 (Long Beach), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Willowville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923525,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1670047
+    },
+    "wof:country":"US",
+    "wof:geomhash":"672505cb85147b87615a30c02d5dcff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923525,
+            "neighbourhood_id":9895006093,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006093,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Willowville",
+    "wof:parent_id":85923525,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.18924745831653,
+    33.80557763174752,
+    -118.18924745831653,
+    33.80557763174752
+],
+  "geometry": {"coordinates":[-118.18924745831653,33.80557763174752],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.92173640802525,33.73918883896773,-117.92173640802525,33.73918883896773",
+    "geom:latitude":33.739189,
+    "geom:longitude":-117.921736,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765480: name \"Kona Kai Mobile Home Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765480"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765480: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765480"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765480: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765480"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923049 (Santa Ana).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923049 (Santa Ana), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kona Kai Mobile Home Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923049,
+        102080847,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1765480
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae4cb6c9da8fbcc6900358597e94c026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923049,
+            "neighbourhood_id":9895006877,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006877,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Kona Kai Mobile Home Park",
+    "wof:parent_id":85923049,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.92173640802525,
+    33.73918883896773,
+    -117.92173640802525,
+    33.73918883896773
+],
+  "geometry": {"coordinates":[-117.92173640802525,33.73918883896773],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895005663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.48123735262429,38.775651283441704,-81.48123735262429,38.775651283441704",
+    "geom:latitude":38.775651,
+    "geom:longitude":-81.481237,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1549628: name \"Clarence\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1549628"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1549628: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1549628"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1549628: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1549628"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083399 (Roane).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083399 (Roane), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Clarence"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        102083399,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1549628
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e35fb0a39730d986595139d24216e0e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":9895005663,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895005663,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Clarence",
+    "wof:parent_id":102083399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.48123735262429,
+    38.775651283441704,
+    -81.48123735262429,
+    38.775651283441704
+],
+  "geometry": {"coordinates":[-81.48123735262429,38.775651283441704],"type":"Point"}
+}

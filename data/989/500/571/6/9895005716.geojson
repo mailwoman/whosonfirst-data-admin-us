@@ -1,0 +1,82 @@
+{
+  "id": 9895005716,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.91590917318413,44.14001562962818,-85.91590917318413,44.14001562962818",
+    "geom:latitude":44.140016,
+    "geom:longitude":-85.915909,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1620328: name \"Irons\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1620328"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1620328: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1620328"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1620328: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1620328"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404507957 (Eden Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404507957 (Eden Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Irons"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688599,
+        102083055,
+        102191575,
+        404507957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1620328
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ada3de8d427d4d439342bbade2a4c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083055,
+            "localadmin_id":404507957,
+            "locality_id":9895005716,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":9895005716,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Irons",
+    "wof:parent_id":404507957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.91590917318413,
+    44.14001562962818,
+    -85.91590917318413,
+    44.14001562962818
+],
+  "geometry": {"coordinates":[-85.91590917318413,44.14001562962818],"type":"Point"}
+}

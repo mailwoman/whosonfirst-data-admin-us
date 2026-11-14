@@ -1,0 +1,80 @@
+{
+  "id": 9895006830,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.53832447032319,39.19816712711185,-77.53832447032319,39.19816712711185",
+    "geom:latitude":39.198167,
+    "geom:longitude":-77.538324,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1749559: name \"Goresville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1749559"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1749559: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1749559"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1749559: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1749559"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084951 (Loudoun).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084951 (Loudoun), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Goresville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102084951,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1749559
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b49062de25ffc49cc39898ef8be8e247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":9895006830,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006830,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Goresville",
+    "wof:parent_id":102084951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.53832447032319,
+    39.19816712711185,
+    -77.53832447032319,
+    39.19816712711185
+],
+  "geometry": {"coordinates":[-77.53832447032319,39.19816712711185],"type":"Point"}
+}

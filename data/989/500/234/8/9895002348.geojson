@@ -1,0 +1,82 @@
+{
+  "id": 9895002348,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.80588305492341,36.2311331052233,-106.80588305492341,36.2311331052233",
+    "geom:latitude":36.231133,
+    "geom:longitude":-106.805883,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 933969: name \"Capulin\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/933969"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 933969: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/933969"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 933969: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/933969"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85976941 (Gallina).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85976941 (Gallina), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Capulin"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        85976941,
+        102081563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":933969
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d825d3d7d640f67af10149623bf7de85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081563,
+            "locality_id":85976941,
+            "neighbourhood_id":9895002348,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002348,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Capulin",
+    "wof:parent_id":85976941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.80588305492341,
+    36.2311331052233,
+    -106.80588305492341,
+    36.2311331052233
+],
+  "geometry": {"coordinates":[-106.80588305492341,36.2311331052233],"type":"Point"}
+}

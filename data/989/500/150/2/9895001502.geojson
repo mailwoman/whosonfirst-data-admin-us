@@ -1,0 +1,82 @@
+{
+  "id": 9895001502,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.83080311249387,39.21389808773259,-94.83080311249387,39.21389808773259",
+    "geom:latitude":39.213898,
+    "geom:longitude":-94.830803,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 484860: name \"Highland\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/484860"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 484860: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/484860"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 484860: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/484860"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404504457 (Delaware Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404504457 (Delaware Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Highland"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688555,
+        102083429,
+        102191575,
+        404504457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":484860
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ff9f43b485136d79c7336343b02e731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083429,
+            "localadmin_id":404504457,
+            "locality_id":9895001502,
+            "region_id":85688555
+        }
+    ],
+    "wof:id":9895001502,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Highland",
+    "wof:parent_id":404504457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.83080311249387,
+    39.21389808773259,
+    -94.83080311249387,
+    39.21389808773259
+],
+  "geometry": {"coordinates":[-94.83080311249387,39.21389808773259],"type":"Point"}
+}

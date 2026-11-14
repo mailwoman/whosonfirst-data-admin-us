@@ -1,0 +1,82 @@
+{
+  "id": 9895006630,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.50996263373709,38.95150931610413,-76.50996263373709,38.95150931610413",
+    "geom:latitude":38.951509,
+    "geom:longitude":-76.509963,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1709981: name \"Wetheridge Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1709981"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1709981: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1709981"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1709981: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1709981"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949233 (Annapolis).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949233 (Annapolis), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wetheridge Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949233,
+        102083469,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1709981
+    },
+    "wof:country":"US",
+    "wof:geomhash":"335ef7c5818827138dcab6c61750901e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949233,
+            "neighbourhood_id":9895006630,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006630,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Wetheridge Estates",
+    "wof:parent_id":85949233,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.50996263373709,
+    38.95150931610413,
+    -76.50996263373709,
+    38.95150931610413
+],
+  "geometry": {"coordinates":[-76.50996263373709,38.95150931610413],"type":"Point"}
+}

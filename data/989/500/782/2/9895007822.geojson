@@ -1,0 +1,80 @@
+{
+  "id": 9895007822,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.03006883050391,35.346769947975936,-119.03006883050391,35.346769947975936",
+    "geom:latitude":35.34677,
+    "geom:longitude":-119.030069,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804180: name \"Benton Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804180"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804180: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804180"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804180: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804180"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081727 (Kern).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081727 (Kern), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Benton Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102081727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804180
+    },
+    "wof:country":"US",
+    "wof:geomhash":"88d40fd746828f61a8c4e7c9709aeb55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081727,
+            "locality_id":9895007822,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007822,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Benton Park",
+    "wof:parent_id":102081727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.03006883050391,
+    35.346769947975936,
+    -119.03006883050391,
+    35.346769947975936
+],
+  "geometry": {"coordinates":[-119.03006883050391,35.346769947975936],"type":"Point"}
+}

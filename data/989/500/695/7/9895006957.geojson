@@ -1,0 +1,80 @@
+{
+  "id": 9895006957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.3213720613137,37.434666822898784,-122.3213720613137,37.434666822898784",
+    "geom:latitude":37.434667,
+    "geom:longitude":-122.321372,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1786192: name \"Redwood Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1786192"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1786192: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1786192"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1786192: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1786192"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085387 (San Mateo).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085387 (San Mateo), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Redwood Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102085387,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1786192
+    },
+    "wof:country":"US",
+    "wof:geomhash":"679b9a58892445f95a982f01d05e8f04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":9895006957,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006957,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Redwood Park",
+    "wof:parent_id":102085387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.3213720613137,
+    37.434666822898784,
+    -122.3213720613137,
+    37.434666822898784
+],
+  "geometry": {"coordinates":[-122.3213720613137,37.434666822898784],"type":"Point"}
+}

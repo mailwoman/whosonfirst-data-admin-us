@@ -1,0 +1,84 @@
+{
+  "id": 9895003369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.14462266930757,40.02234227991984,-75.14462266930757,40.02234227991984",
+    "geom:latitude":40.022342,
+    "geom:longitude":-75.144623,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1202621: name \"Wyoming\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1202621"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1202621: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1202621"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1202621: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1202621"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101718083 (Philadelphia).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101718083 (Philadelphia), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wyoming"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101718083,
+        102081353,
+        102191575,
+        404483701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1202621
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49af4bec2b0f7b4778840de0c063901b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "neighbourhood_id":9895003369,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003369,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Wyoming",
+    "wof:parent_id":101718083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.14462266930757,
+    40.02234227991984,
+    -75.14462266930757,
+    40.02234227991984
+],
+  "geometry": {"coordinates":[-75.14462266930757,40.02234227991984],"type":"Point"}
+}

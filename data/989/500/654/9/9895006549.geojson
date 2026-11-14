@@ -1,0 +1,82 @@
+{
+  "id": 9895006549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.35665082311914,37.92715176239416,-122.35665082311914,37.92715176239416",
+    "geom:latitude":37.927152,
+    "geom:longitude":-122.356651,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701573: name \"Nystrom Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701573"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701573: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701573"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701573: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701573"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922131 (Richmond).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922131 (Richmond), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Nystrom Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922131,
+        102086225,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1701573
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0d6f00ce228cfc644d2a1ae728d4020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922131,
+            "neighbourhood_id":9895006549,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006549,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Nystrom Village",
+    "wof:parent_id":85922131,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.35665082311914,
+    37.92715176239416,
+    -122.35665082311914,
+    37.92715176239416
+],
+  "geometry": {"coordinates":[-122.35665082311914,37.92715176239416],"type":"Point"}
+}

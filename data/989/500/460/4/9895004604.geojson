@@ -1,0 +1,82 @@
+{
+  "id": 9895004604,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.91467002697416,40.66078642435057,-111.91467002697416,40.66078642435057",
+    "geom:latitude":40.660786,
+    "geom:longitude":-111.91467,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452404: name \"Misty Meadows\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452404"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452404: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452404"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452404: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452404"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728069 (Murray).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728069 (Murray), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Misty Meadows"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728069,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1452404
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d1a7fd1c8582abd7f31f362955ef9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":9895004604,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004604,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Misty Meadows",
+    "wof:parent_id":101728069,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.91467002697416,
+    40.66078642435057,
+    -111.91467002697416,
+    40.66078642435057
+],
+  "geometry": {"coordinates":[-111.91467002697416,40.66078642435057],"type":"Point"}
+}

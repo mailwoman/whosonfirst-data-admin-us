@@ -1,0 +1,80 @@
+{
+  "id": 9895003439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.26037283532554,34.657368444304765,-81.26037283532554,34.657368444304765",
+    "geom:latitude":34.657368,
+    "geom:longitude":-81.260373,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1230725: name \"Mountain Lakes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1230725"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1230725: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1230725"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1230725: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1230725"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085717 (Chester).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085717 (Chester), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mountain Lakes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1230725
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4388445c4785ca8d318a75356abbe4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085717,
+            "locality_id":9895003439,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003439,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Mountain Lakes",
+    "wof:parent_id":102085717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.26037283532554,
+    34.657368444304765,
+    -81.26037283532554,
+    34.657368444304765
+],
+  "geometry": {"coordinates":[-81.26037283532554,34.657368444304765],"type":"Point"}
+}

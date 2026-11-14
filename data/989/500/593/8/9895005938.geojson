@@ -1,0 +1,82 @@
+{
+  "id": 9895005938,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.81566221105284,34.400835260737324,-118.81566221105284,34.400835260737324",
+    "geom:latitude":34.400835,
+    "geom:longitude":-118.815662,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660388: name \"Buckhorn\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660388"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660388: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660388"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660388: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660388"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85927661 (Piru).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85927661 (Piru), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Buckhorn"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85927661,
+        102086933,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1660388
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9491ffa5687b9a0bb27f904f64253301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086933,
+            "locality_id":85927661,
+            "neighbourhood_id":9895005938,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005938,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Buckhorn",
+    "wof:parent_id":85927661,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.81566221105284,
+    34.400835260737324,
+    -118.81566221105284,
+    34.400835260737324
+],
+  "geometry": {"coordinates":[-118.81566221105284,34.400835260737324],"type":"Point"}
+}

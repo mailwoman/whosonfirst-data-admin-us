@@ -1,0 +1,82 @@
+{
+  "id": 9895001299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.9777141090875,32.51459174636015,-84.9777141090875,32.51459174636015",
+    "geom:latitude":32.514592,
+    "geom:longitude":-84.977714,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357416: name \"Maridale Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357416"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357416: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357416"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357416: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357416"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936243 (Columbus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936243 (Columbus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Maridale Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936243,
+        102084429,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357416
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4723ad9de8a5c80a2c02e05d3126ce0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":9895001299,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001299,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Maridale Estates",
+    "wof:parent_id":85936243,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.9777141090875,
+    32.51459174636015,
+    -84.9777141090875,
+    32.51459174636015
+],
+  "geometry": {"coordinates":[-84.9777141090875,32.51459174636015],"type":"Point"}
+}

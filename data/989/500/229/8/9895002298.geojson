@@ -1,0 +1,82 @@
+{
+  "id": 9895002298,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.84116445021063,42.88732157992964,-70.84116445021063,42.88732157992964",
+    "geom:latitude":42.887322,
+    "geom:longitude":-70.841164,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 871243: name \"Walton Landing\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/871243"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 871243: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/871243"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 871243: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/871243"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404476787 (Seabrook).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404476787 (Seabrook), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Walton Landing"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688689,
+        102086507,
+        102191575,
+        404476787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":871243
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d95abf4ebbb81d8e6484e19530273a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476787,
+            "locality_id":9895002298,
+            "region_id":85688689
+        }
+    ],
+    "wof:id":9895002298,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Walton Landing",
+    "wof:parent_id":404476787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.84116445021063,
+    42.88732157992964,
+    -70.84116445021063,
+    42.88732157992964
+],
+  "geometry": {"coordinates":[-70.84116445021063,42.88732157992964],"type":"Point"}
+}

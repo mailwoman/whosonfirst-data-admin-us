@@ -1,0 +1,80 @@
+{
+  "id": 9895000538,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.24386971935478,33.4898349092531,-86.24386971935478,33.4898349092531",
+    "geom:latitude":33.489835,
+    "geom:longitude":-86.24387,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144878: name \"Kyser Leonard Lakefront Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144878"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144878: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144878"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144878: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144878"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085517 (Talladega).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085517 (Talladega), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kyser Leonard Lakefront Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085517,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":144878
+    },
+    "wof:country":"US",
+    "wof:geomhash":"05dcf851d7f58d6351d14cf4f1a4d803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085517,
+            "locality_id":9895000538,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000538,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Kyser Leonard Lakefront Estates",
+    "wof:parent_id":102085517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.24386971935478,
+    33.4898349092531,
+    -86.24386971935478,
+    33.4898349092531
+],
+  "geometry": {"coordinates":[-86.24386971935478,33.4898349092531],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.78056012347231,35.99145770225584,-86.78056012347231,35.99145770225584",
+    "geom:latitude":35.991458,
+    "geom:longitude":-86.78056,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312971: name \"Twin Springs Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312971"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312971: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312971"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312971: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312971"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723097 (Brentwood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723097 (Brentwood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Twin Springs Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723097,
+        102086337,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312971
+    },
+    "wof:country":"US",
+    "wof:geomhash":"13dae26a8ecc308f9f0b030629d79474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723097,
+            "neighbourhood_id":9895003993,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003993,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Twin Springs Estates",
+    "wof:parent_id":101723097,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.78056012347231,
+    35.99145770225584,
+    -86.78056012347231,
+    35.99145770225584
+],
+  "geometry": {"coordinates":[-86.78056012347231,35.99145770225584],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006996,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.75034036893899,38.49644409177155,-88.75034036893899,38.49644409177155",
+    "geom:latitude":38.496444,
+    "geom:longitude":-88.75034,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1821408: name \"Hickory Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1821408"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1821408: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1821408"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1821408: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1821408"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404496739 (Romine Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404496739 (Romine Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hickory Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102081653,
+        102191575,
+        404496739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1821408
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fede2efab7ed924f2774fe8c59f05afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081653,
+            "localadmin_id":404496739,
+            "locality_id":9895006996,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895006996,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Hickory Hill",
+    "wof:parent_id":404496739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.75034036893899,
+    38.49644409177155,
+    -88.75034036893899,
+    38.49644409177155
+],
+  "geometry": {"coordinates":[-88.75034036893899,38.49644409177155],"type":"Point"}
+}

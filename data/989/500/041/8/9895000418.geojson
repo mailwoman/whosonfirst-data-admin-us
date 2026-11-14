@@ -1,0 +1,82 @@
+{
+  "id": 9895000418,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.41553231018973,32.35347796043794,-86.41553231018973,32.35347796043794",
+    "geom:latitude":32.353478,
+    "geom:longitude":-86.415532,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142472: name \"Country Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142472"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142472: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142472"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142472: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142472"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Country Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142472
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c14a870ba26346700a509008ed4c9073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000418,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000418,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Country Estates",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.41553231018973,
+    32.35347796043794,
+    -86.41553231018973,
+    32.35347796043794
+],
+  "geometry": {"coordinates":[-86.41553231018973,32.35347796043794],"type":"Point"}
+}

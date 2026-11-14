@@ -1,0 +1,80 @@
+{
+  "id": 9895001346,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-155.5046173149221,19.136956697978047,-155.5046173149221,19.136956697978047",
+    "geom:latitude":19.136957,
+    "geom:longitude":-155.504617,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 363564: name \"Punalu\u02bbu\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/363564"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 363564: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/363564"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 363564: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/363564"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085433 (Hawaii).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085433 (Hawaii), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Punalu\u02bbu"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688671,
+        102085433,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":363564
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb9a99af5d4bd54025cda5cbafbc150f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":9895001346,
+            "region_id":85688671
+        }
+    ],
+    "wof:id":9895001346,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Punalu\u02bbu",
+    "wof:parent_id":102085433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.5046173149221,
+    19.136956697978047,
+    -155.5046173149221,
+    19.136956697978047
+],
+  "geometry": {"coordinates":[-155.5046173149221,19.136956697978047],"type":"Point"}
+}

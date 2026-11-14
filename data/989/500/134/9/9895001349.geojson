@@ -1,0 +1,80 @@
+{
+  "id": 9895001349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.78434923442482,47.22768688544046,-116.78434923442482,47.22768688544046",
+    "geom:latitude":47.227687,
+    "geom:longitude":-116.784349,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 377359: name \"Benewah\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/377359"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 377359: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/377359"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 377359: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/377359"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086089 (Benewah).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086089 (Benewah), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Benewah"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688657,
+        102086089,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":377359
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28f86ff27b6a197f8544f84a657bb69a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086089,
+            "locality_id":9895001349,
+            "region_id":85688657
+        }
+    ],
+    "wof:id":9895001349,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Benewah",
+    "wof:parent_id":102086089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.78434923442482,
+    47.22768688544046,
+    -116.78434923442482,
+    47.22768688544046
+],
+  "geometry": {"coordinates":[-116.78434923442482,47.22768688544046],"type":"Point"}
+}

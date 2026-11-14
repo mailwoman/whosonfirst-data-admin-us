@@ -1,0 +1,82 @@
+{
+  "id": 9895000788,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.58890128330664,33.19095859547384,-87.58890128330664,33.19095859547384",
+    "geom:latitude":33.190959,
+    "geom:longitude":-87.588901,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148717: name \"Washington Square\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148717"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148717: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148717"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148717: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148717"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914453 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914453 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Washington Square"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914453,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148717
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1037aa9f97181c88c9c16fbb8f7b18f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85914453,
+            "neighbourhood_id":9895000788,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000788,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Washington Square",
+    "wof:parent_id":85914453,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.58890128330664,
+    33.19095859547384,
+    -87.58890128330664,
+    33.19095859547384
+],
+  "geometry": {"coordinates":[-87.58890128330664,33.19095859547384],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895001579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.98930395591388,32.53042598654691,-91.98930395591388,32.53042598654691",
+    "geom:latitude":32.530426,
+    "geom:longitude":-91.989304,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 548450: name \"Love Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/548450"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 548450: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/548450"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 548450: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/548450"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081027 (Ouachita).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081027 (Ouachita), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Love Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        102081027,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":548450
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b614c012ee1af4e2f9ef036ec14e0797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":9895001579,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001579,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Love Estates",
+    "wof:parent_id":102081027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.98930395591388,
+    32.53042598654691,
+    -91.98930395591388,
+    32.53042598654691
+],
+  "geometry": {"coordinates":[-91.98930395591388,32.53042598654691],"type":"Point"}
+}

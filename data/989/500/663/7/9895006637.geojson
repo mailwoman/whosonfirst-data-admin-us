@@ -1,0 +1,82 @@
+{
+  "id": 9895006637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.32387763509348,39.70982733627813,-77.32387763509348,39.70982733627813",
+    "geom:latitude":39.709827,
+    "geom:longitude":-77.323878,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711233: name \"Northgate\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711233"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711233: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711233"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711233: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711233"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949387 (Emmitsburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949387 (Emmitsburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Northgate"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949387,
+        102081593,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1711233
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0903ae0cb47c8a021a6c135735746a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949387,
+            "neighbourhood_id":9895006637,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006637,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Northgate",
+    "wof:parent_id":85949387,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.32387763509348,
+    39.70982733627813,
+    -77.32387763509348,
+    39.70982733627813
+],
+  "geometry": {"coordinates":[-77.32387763509348,39.70982733627813],"type":"Point"}
+}

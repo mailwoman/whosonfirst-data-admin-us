@@ -1,0 +1,82 @@
+{
+  "id": 9895003301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.61116154185191,41.03729359913459,-79.61116154185191,41.03729359913459",
+    "geom:latitude":41.037294,
+    "geom:longitude":-79.611162,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1190234: name \"Upper Hillville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1190234"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1190234: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1190234"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1190234: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1190234"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486779 (Toby Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486779 (Toby Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Upper Hillville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081389,
+        102191575,
+        404486779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1190234
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4126613568b85c87d70ca0b9daf4015a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081389,
+            "localadmin_id":404486779,
+            "locality_id":9895003301,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003301,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Upper Hillville",
+    "wof:parent_id":404486779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.61116154185191,
+    41.03729359913459,
+    -79.61116154185191,
+    41.03729359913459
+],
+  "geometry": {"coordinates":[-79.61116154185191,41.03729359913459],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001858,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.52301703409093,38.89262180319532,-76.52301703409093,38.89262180319532",
+    "geom:latitude":38.892622,
+    "geom:longitude":-76.523017,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590295: name \"Germantown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590295"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590295: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590295"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590295: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590295"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949729 (Mayo).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949729 (Mayo), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Germantown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949729,
+        102083469,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":590295
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be4395d1f2aacf56c27f81b9a90503a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949729,
+            "neighbourhood_id":9895001858,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001858,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Germantown",
+    "wof:parent_id":85949729,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.52301703409093,
+    38.89262180319532,
+    -76.52301703409093,
+    38.89262180319532
+],
+  "geometry": {"coordinates":[-76.52301703409093,38.89262180319532],"type":"Point"}
+}

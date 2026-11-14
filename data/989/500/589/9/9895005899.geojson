@@ -1,0 +1,82 @@
+{
+  "id": 9895005899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.16329364232949,38.76407312052035,-121.16329364232949,38.76407312052035",
+    "geom:latitude":38.764073,
+    "geom:longitude":-121.163294,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1658746: name \"Hidden Valley\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1658746"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1658746: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1658746"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1658746: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1658746"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85924205 (Granite Bay).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85924205 (Granite Bay), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hidden Valley"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85924205,
+        102080863,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1658746
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e212cee6d5a90310d7cf2af6f0dc4c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080863,
+            "locality_id":85924205,
+            "neighbourhood_id":9895005899,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005899,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Hidden Valley",
+    "wof:parent_id":85924205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.16329364232949,
+    38.76407312052035,
+    -121.16329364232949,
+    38.76407312052035
+],
+  "geometry": {"coordinates":[-121.16329364232949,38.76407312052035],"type":"Point"}
+}

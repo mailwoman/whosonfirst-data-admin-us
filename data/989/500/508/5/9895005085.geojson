@@ -1,0 +1,82 @@
+{
+  "id": 9895005085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.04717714495399,41.320503586831,-112.04717714495399,41.320503586831",
+    "geom:latitude":41.320504,
+    "geom:longitude":-112.047177,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453583: name \"Stevens Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453583"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453583: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453583"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453583: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453583"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728027 (Plain City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728027 (Plain City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stevens Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728027,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453583
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cff6c8252d4837e10a87fa5a81c19de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728027,
+            "neighbourhood_id":9895005085,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005085,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Stevens Estates",
+    "wof:parent_id":101728027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.04717714495399,
+    41.320503586831,
+    -112.04717714495399,
+    41.320503586831
+],
+  "geometry": {"coordinates":[-112.04717714495399,41.320503586831],"type":"Point"}
+}

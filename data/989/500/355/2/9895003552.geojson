@@ -1,0 +1,82 @@
+{
+  "id": 9895003552,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.17342833317451,33.037121025222085,-80.17342833317451,33.037121025222085",
+    "geom:latitude":33.037121,
+    "geom:longitude":-80.173428,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241166: name \"Palmetto Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241166"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241166: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241166"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241166: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241166"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720753 (Summerville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720753 (Summerville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Palmetto Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720753,
+        102085409,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1241166
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ad741b8ade5d35c8e95f251f9d02512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085409,
+            "locality_id":101720753,
+            "neighbourhood_id":9895003552,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003552,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Palmetto Park",
+    "wof:parent_id":101720753,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.17342833317451,
+    33.037121025222085,
+    -80.17342833317451,
+    33.037121025222085
+],
+  "geometry": {"coordinates":[-80.17342833317451,33.037121025222085],"type":"Point"}
+}

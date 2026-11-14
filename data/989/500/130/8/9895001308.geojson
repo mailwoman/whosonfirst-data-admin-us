@@ -1,0 +1,82 @@
+{
+  "id": 9895001308,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.90354608566982,32.48792564320612,-84.90354608566982,32.48792564320612",
+    "geom:latitude":32.487926,
+    "geom:longitude":-84.903546,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357454: name \"Regency Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357454"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357454: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357454"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357454: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357454"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936243 (Columbus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936243 (Columbus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Regency Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936243,
+        102084429,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357454
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e62f389704bb4f1cb13aff7d5b85b272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":9895001308,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001308,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Regency Park",
+    "wof:parent_id":85936243,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.90354608566982,
+    32.48792564320612,
+    -84.90354608566982,
+    32.48792564320612
+],
+  "geometry": {"coordinates":[-84.90354608566982,32.48792564320612],"type":"Point"}
+}

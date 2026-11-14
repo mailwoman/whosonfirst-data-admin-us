@@ -1,0 +1,84 @@
+{
+  "id": 9895007148,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.0803206490503,41.45223830641303,-97.0803206490503,41.45223830641303",
+    "geom:latitude":41.452238,
+    "geom:longitude":-97.080321,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1881164: name \"Sunset Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1881164"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1881164: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1881164"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1881164: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1881164"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85973775 (Schuyler).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85973775 (Schuyler), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunset Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688563,
+        85973775,
+        102082247,
+        102191575,
+        404519765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1881164
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed79c2a8a3da4dc42d66ad9ab52c5c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082247,
+            "localadmin_id":404519765,
+            "locality_id":85973775,
+            "neighbourhood_id":9895007148,
+            "region_id":85688563
+        }
+    ],
+    "wof:id":9895007148,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Sunset Acres",
+    "wof:parent_id":85973775,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.0803206490503,
+    41.45223830641303,
+    -97.0803206490503,
+    41.45223830641303
+],
+  "geometry": {"coordinates":[-97.0803206490503,41.45223830641303],"type":"Point"}
+}

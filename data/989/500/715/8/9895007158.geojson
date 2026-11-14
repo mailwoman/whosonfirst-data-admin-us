@@ -1,0 +1,82 @@
+{
+  "id": 9895007158,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-157.86412220241544,21.32018062266385,-157.86412220241544,21.32018062266385",
+    "geom:latitude":21.320181,
+    "geom:longitude":-157.864122,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1904849: name \"Mayor Wright Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1904849"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1904849: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1904849"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1904849: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1904849"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937601 (Honolulu).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937601 (Honolulu), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mayor Wright Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688671,
+        85937601,
+        102085417,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1904849
+    },
+    "wof:country":"US",
+    "wof:geomhash":"99f935134be9f7674f223b240f4b418f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":9895007158,
+            "region_id":85688671
+        }
+    ],
+    "wof:id":9895007158,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Mayor Wright Homes",
+    "wof:parent_id":85937601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.86412220241544,
+    21.32018062266385,
+    -157.86412220241544,
+    21.32018062266385
+],
+  "geometry": {"coordinates":[-157.86412220241544,21.32018062266385],"type":"Point"}
+}

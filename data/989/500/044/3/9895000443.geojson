@@ -1,0 +1,82 @@
+{
+  "id": 9895000443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.22274915741862,32.37847777277486,-86.22274915741862,32.37847777277486",
+    "geom:latitude":32.378478,
+    "geom:longitude":-86.222749,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142741: name \"Mountain View Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142741"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142741: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142741"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142741: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142741"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mountain View Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142741
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ea3e78bb4100f6e8d205624bf97b2d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000443,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000443,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Mountain View Estates",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.22274915741862,
+    32.37847777277486,
+    -86.22274915741862,
+    32.37847777277486
+],
+  "geometry": {"coordinates":[-86.22274915741862,32.37847777277486],"type":"Point"}
+}

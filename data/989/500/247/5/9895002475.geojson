@@ -1,0 +1,82 @@
+{
+  "id": 9895002475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.69340539008986,35.10209795982705,-80.69340539008986,35.10209795982705",
+    "geom:latitude":35.102098,
+    "geom:longitude":-80.693405,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001321: name \"Matthews Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001321"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001321: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001321"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001321: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001321"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981339 (Matthews).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981339 (Matthews), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Matthews Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981339,
+        102080981,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1001321
+    },
+    "wof:country":"US",
+    "wof:geomhash":"633c79e43a7241c4c70523e6a385cdd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981339,
+            "neighbourhood_id":9895002475,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002475,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Matthews Park",
+    "wof:parent_id":85981339,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.69340539008986,
+    35.10209795982705,
+    -80.69340539008986,
+    35.10209795982705
+],
+  "geometry": {"coordinates":[-80.69340539008986,35.10209795982705],"type":"Point"}
+}

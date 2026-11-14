@@ -1,0 +1,82 @@
+{
+  "id": 9895001465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.3413705498262,38.15812794571567,-86.3413705498262,38.15812794571567",
+    "geom:latitude":38.158128,
+    "geom:longitude":-86.341371,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 449842: name \"Schooner Point Landing\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/449842"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 449842: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/449842"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 449842: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/449842"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404501269 (Ohio Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404501269 (Ohio Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Schooner Point Landing"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102086387,
+        102191575,
+        404501269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":449842
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c4492388e5035283a64a63a994feb72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086387,
+            "localadmin_id":404501269,
+            "locality_id":9895001465,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895001465,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Schooner Point Landing",
+    "wof:parent_id":404501269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.3413705498262,
+    38.15812794571567,
+    -86.3413705498262,
+    38.15812794571567
+],
+  "geometry": {"coordinates":[-86.3413705498262,38.15812794571567],"type":"Point"}
+}

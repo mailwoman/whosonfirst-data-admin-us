@@ -1,0 +1,80 @@
+{
+  "id": 9895005625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.51119393649448,46.930409574899244,-120.51119393649448,46.930409574899244",
+    "geom:latitude":46.93041,
+    "geom:longitude":-120.511194,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511370: name \"Thrall\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511370"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511370: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511370"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511370: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511370"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084259 (Kittitas).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084259 (Kittitas), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Thrall"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102084259,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1511370
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7e3460eda3006133321b878a4796592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084259,
+            "locality_id":9895005625,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005625,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Thrall",
+    "wof:parent_id":102084259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.51119393649448,
+    46.930409574899244,
+    -120.51119393649448,
+    46.930409574899244
+],
+  "geometry": {"coordinates":[-120.51119393649448,46.930409574899244],"type":"Point"}
+}

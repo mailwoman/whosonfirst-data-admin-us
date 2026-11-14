@@ -1,0 +1,82 @@
+{
+  "id": 9895007756,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.50160341602049,28.00220518442369,-82.50160341602049,28.00220518442369",
+    "geom:latitude":28.002205,
+    "geom:longitude":-82.501603,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2485341: name \"Tropical Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2485341"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2485341: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2485341"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2485341: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2485341"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933833 (Egypt Lake-Leto).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933833 (Egypt Lake-Leto), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tropical Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933833,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2485341
+    },
+    "wof:country":"US",
+    "wof:geomhash":"087e4cff51bb32e6ac04814ec024c63c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85933833,
+            "neighbourhood_id":9895007756,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007756,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Tropical Gardens",
+    "wof:parent_id":85933833,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.50160341602049,
+    28.00220518442369,
+    -82.50160341602049,
+    28.00220518442369
+],
+  "geometry": {"coordinates":[-82.50160341602049,28.00220518442369],"type":"Point"}
+}

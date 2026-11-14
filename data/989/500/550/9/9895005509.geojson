@@ -1,0 +1,82 @@
+{
+  "id": 9895005509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.56261513089933,44.59367183271707,-72.56261513089933,44.59367183271707",
+    "geom:latitude":44.593672,
+    "geom:longitude":-72.562615,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1456918: name \"Cleveland Corners\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1456918"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1456918: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1456918"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1456918: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1456918"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404527153 (Hyde Park).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404527153 (Hyde Park), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cleveland Corners"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688763,
+        102080785,
+        102191575,
+        404527153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1456918
+    },
+    "wof:country":"US",
+    "wof:geomhash":"100d99f3339dc64dfcc037775d4aba5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080785,
+            "localadmin_id":404527153,
+            "locality_id":9895005509,
+            "region_id":85688763
+        }
+    ],
+    "wof:id":9895005509,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Cleveland Corners",
+    "wof:parent_id":404527153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.56261513089933,
+    44.59367183271707,
+    -72.56261513089933,
+    44.59367183271707
+],
+  "geometry": {"coordinates":[-72.56261513089933,44.59367183271707],"type":"Point"}
+}

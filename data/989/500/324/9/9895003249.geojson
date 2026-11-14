@@ -1,0 +1,82 @@
+{
+  "id": 9895003249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.6346332704277,40.745103303610406,-75.6346332704277,40.745103303610406",
+    "geom:latitude":40.745103,
+    "geom:longitude":-75.634633,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1174214: name \"Emerald\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1174214"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1174214: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1174214"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1174214: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1174214"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404483447 (Washington Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404483447 (Washington Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Emerald"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081327,
+        102191575,
+        404483447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1174214
+    },
+    "wof:country":"US",
+    "wof:geomhash":"65947cf5e94cb3d95cf6f274ca2b010c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081327,
+            "localadmin_id":404483447,
+            "locality_id":9895003249,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003249,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Emerald",
+    "wof:parent_id":404483447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.6346332704277,
+    40.745103303610406,
+    -75.6346332704277,
+    40.745103303610406
+],
+  "geometry": {"coordinates":[-75.6346332704277,40.745103303610406],"type":"Point"}
+}

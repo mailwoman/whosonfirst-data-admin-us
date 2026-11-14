@@ -1,0 +1,84 @@
+{
+  "id": 9895003310,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.00302553861444,41.25953094858257,-77.00302553861444,41.25953094858257",
+    "geom:latitude":41.259531,
+    "geom:longitude":-77.003026,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1192534: name \"Grampian Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1192534"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1192534: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1192534"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1192534: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1192534"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101716809 (Williamsport).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101716809 (Williamsport), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Grampian Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101716809,
+        102081317,
+        102191575,
+        404485355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1192534
+    },
+    "wof:country":"US",
+    "wof:geomhash":"76915a1a7ea96e0e9dc47d5dcb2731ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081317,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
+            "neighbourhood_id":9895003310,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003310,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Grampian Hills",
+    "wof:parent_id":101716809,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.00302553861444,
+    41.25953094858257,
+    -77.00302553861444,
+    41.25953094858257
+],
+  "geometry": {"coordinates":[-77.00302553861444,41.25953094858257],"type":"Point"}
+}

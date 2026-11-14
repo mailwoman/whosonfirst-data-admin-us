@@ -1,0 +1,84 @@
+{
+  "id": 9895007019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.08094441085242,42.225306929983944,-89.08094441085242,42.225306929983944",
+    "geom:latitude":42.225307,
+    "geom:longitude":-89.080944,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1829309: name \"Franklin Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1829309"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1829309: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1829309"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1829309: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1829309"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85939829 (Rockford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85939829 (Rockford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Franklin Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85939829,
+        102080827,
+        102191575,
+        404499349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1829309
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fab1ca5d7c854697c9af940e2d40bc63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080827,
+            "localadmin_id":404499349,
+            "locality_id":85939829,
+            "neighbourhood_id":9895007019,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007019,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Franklin Gardens",
+    "wof:parent_id":85939829,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.08094441085242,
+    42.225306929983944,
+    -89.08094441085242,
+    42.225306929983944
+],
+  "geometry": {"coordinates":[-89.08094441085242,42.225306929983944],"type":"Point"}
+}

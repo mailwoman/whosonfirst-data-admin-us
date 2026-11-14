@@ -1,0 +1,80 @@
+{
+  "id": 9895003691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.42206969252868,34.91706815680361,-82.42206969252868,34.91706815680361",
+    "geom:latitude":34.917068,
+    "geom:longitude":-82.42207,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1245339: name \"Starsdale Manor\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1245339"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1245339: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1245339"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1245339: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1245339"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085747 (Greenville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085747 (Greenville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Starsdale Manor"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085747,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1245339
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c13dd8ca76ef0d19637871656d66e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085747,
+            "locality_id":9895003691,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003691,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Starsdale Manor",
+    "wof:parent_id":102085747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.42206969252868,
+    34.91706815680361,
+    -82.42206969252868,
+    34.91706815680361
+],
+  "geometry": {"coordinates":[-82.42206969252868,34.91706815680361],"type":"Point"}
+}

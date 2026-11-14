@@ -1,0 +1,80 @@
+{
+  "id": 9895007149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.46718233139954,31.845175111828908,-95.46718233139954,31.845175111828908",
+    "geom:latitude":31.845175,
+    "geom:longitude":-95.467182,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1889579: name \"Flint Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1889579"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1889579: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1889579"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1889579: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1889579"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087281 (Anderson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087281 (Anderson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Flint Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102087281,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1889579
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bdb1162e547ccff77057ab0f93fed32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087281,
+            "locality_id":9895007149,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007149,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Flint Hill",
+    "wof:parent_id":102087281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.46718233139954,
+    31.845175111828908,
+    -95.46718233139954,
+    31.845175111828908
+],
+  "geometry": {"coordinates":[-95.46718233139954,31.845175111828908],"type":"Point"}
+}

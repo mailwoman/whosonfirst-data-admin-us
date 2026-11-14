@@ -1,0 +1,82 @@
+{
+  "id": 9895000810,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.12109071360653,33.99927052138685,-86.12109071360653,33.99927052138685",
+    "geom:latitude":33.999271,
+    "geom:longitude":-86.121091,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 149075: name \"Lester\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/149075"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 149075: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/149075"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 149075: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/149075"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914355 (Attalla).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914355 (Attalla), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lester"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914355,
+        102085545,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":149075
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0193c54e42c75da6f2bde3b9fbeefcbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085545,
+            "locality_id":85914355,
+            "neighbourhood_id":9895000810,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000810,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Lester",
+    "wof:parent_id":85914355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.12109071360653,
+    33.99927052138685,
+    -86.12109071360653,
+    33.99927052138685
+],
+  "geometry": {"coordinates":[-86.12109071360653,33.99927052138685],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003726,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.94287021068962,34.07043772782714,-80.94287021068962,34.07043772782714",
+    "geom:latitude":34.070438,
+    "geom:longitude":-80.94287,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249427: name \"Windsor Lake Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249427"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249427: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249427"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249427: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249427"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721309 (Dentsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721309 (Dentsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Windsor Lake Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721309,
+        102085405,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1249427
+    },
+    "wof:country":"US",
+    "wof:geomhash":"daa33210eb2be4796db8b1c169b679e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101721309,
+            "neighbourhood_id":9895003726,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003726,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Windsor Lake Park",
+    "wof:parent_id":101721309,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.94287021068962,
+    34.07043772782714,
+    -80.94287021068962,
+    34.07043772782714
+],
+  "geometry": {"coordinates":[-80.94287021068962,34.07043772782714],"type":"Point"}
+}

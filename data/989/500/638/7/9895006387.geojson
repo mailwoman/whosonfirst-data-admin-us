@@ -1,0 +1,82 @@
+{
+  "id": 9895006387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.15400247452332,31.96160675068254,-81.15400247452332,31.96160675068254",
+    "geom:latitude":31.961607,
+    "geom:longitude":-81.154002,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1694454: name \"Berkshire Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1694454"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1694454: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1694454"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1694454: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1694454"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936939 (Savannah).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936939 (Savannah), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Berkshire Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936939,
+        102082337,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1694454
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e9603740b3a19b629f422a9e35b2fb29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":9895006387,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006387,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Berkshire Woods",
+    "wof:parent_id":85936939,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.15400247452332,
+    31.96160675068254,
+    -81.15400247452332,
+    31.96160675068254
+],
+  "geometry": {"coordinates":[-81.15400247452332,31.96160675068254],"type":"Point"}
+}

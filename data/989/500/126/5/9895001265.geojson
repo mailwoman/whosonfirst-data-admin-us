@@ -1,0 +1,82 @@
+{
+  "id": 9895001265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.93604639513242,32.46959313820713,-84.93604639513242,32.46959313820713",
+    "geom:latitude":32.469593,
+    "geom:longitude":-84.936046,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357277: name \"Carriage Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357277"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357277: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357277"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357277: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357277"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936243 (Columbus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936243 (Columbus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Carriage Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936243,
+        102084429,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357277
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2e539cf60bec9ab63902705180344b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":9895001265,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001265,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Carriage Estates",
+    "wof:parent_id":85936243,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.93604639513242,
+    32.46959313820713,
+    -84.93604639513242,
+    32.46959313820713
+],
+  "geometry": {"coordinates":[-84.93604639513242,32.46959313820713],"type":"Point"}
+}

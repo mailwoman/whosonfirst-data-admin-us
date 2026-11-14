@@ -1,0 +1,82 @@
+{
+  "id": 9895006888,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.92062540132625,33.65391382921882,-117.92062540132625,33.65391382921882",
+    "geom:latitude":33.653914,
+    "geom:longitude":-117.920625,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765618: name \"Tradewinds Trailer Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765618"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765618: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765618"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765618: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765618"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923161 (Costa Mesa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923161 (Costa Mesa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tradewinds Trailer Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923161,
+        102080847,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1765618
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2b313f491a14a17f995f9cf73617b9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923161,
+            "neighbourhood_id":9895006888,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006888,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Tradewinds Trailer Village",
+    "wof:parent_id":85923161,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.92062540132625,
+    33.65391382921882,
+    -117.92062540132625,
+    33.65391382921882
+],
+  "geometry": {"coordinates":[-117.92062540132625,33.65391382921882],"type":"Point"}
+}

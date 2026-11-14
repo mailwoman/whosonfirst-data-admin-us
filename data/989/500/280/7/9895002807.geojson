@@ -1,0 +1,82 @@
+{
+  "id": 9895002807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.87169424359715,35.074337518574325,-78.87169424359715,35.074337518574325",
+    "geom:latitude":35.074338,
+    "geom:longitude":-78.871694,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004959: name \"Fairview Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004959"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004959: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004959"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004959: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004959"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981411 (Fayetteville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981411 (Fayetteville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fairview Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981411,
+        102080897,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1004959
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b945350fbfce87641c368428a767da00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080897,
+            "locality_id":85981411,
+            "neighbourhood_id":9895002807,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002807,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Fairview Park",
+    "wof:parent_id":85981411,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.87169424359715,
+    35.074337518574325,
+    -78.87169424359715,
+    35.074337518574325
+],
+  "geometry": {"coordinates":[-78.87169424359715,35.074337518574325],"type":"Point"}
+}

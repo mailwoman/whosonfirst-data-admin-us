@@ -1,0 +1,82 @@
+{
+  "id": 9895001077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.1008797647033,26.1898105937578,-80.1008797647033,26.1898105937578",
+    "geom:latitude":26.189811,
+    "geom:longitude":-80.10088,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 291136: name \"Silver Shores\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/291136"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 291136: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/291136"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 291136: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/291136"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85932377 (Lauderdale-by-the-Sea).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85932377 (Lauderdale-by-the-Sea), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Silver Shores"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85932377,
+        102084727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":291136
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef3a2536c0f5ce3c9df52636e08516d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932377,
+            "neighbourhood_id":9895001077,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001077,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Silver Shores",
+    "wof:parent_id":85932377,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.1008797647033,
+    26.1898105937578,
+    -80.1008797647033,
+    26.1898105937578
+],
+  "geometry": {"coordinates":[-80.1008797647033,26.1898105937578],"type":"Point"}
+}

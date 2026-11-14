@@ -1,0 +1,82 @@
+{
+  "id": 9895006394,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.99705892873901,31.98188806068172,-80.99705892873901,31.98188806068172",
+    "geom:latitude":31.981888,
+    "geom:longitude":-80.997059,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1694716: name \"Wilmington\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1694716"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1694716: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1694716"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1694716: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1694716"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937331 (Wilmington Island).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937331 (Wilmington Island), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wilmington"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85937331,
+        102082337,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1694716
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c697ec88f0bd4de51676e6f664c0a8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85937331,
+            "neighbourhood_id":9895006394,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006394,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Wilmington",
+    "wof:parent_id":85937331,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.99705892873901,
+    31.98188806068172,
+    -80.99705892873901,
+    31.98188806068172
+],
+  "geometry": {"coordinates":[-80.99705892873901,31.98188806068172],"type":"Point"}
+}

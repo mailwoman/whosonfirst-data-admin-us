@@ -1,0 +1,82 @@
+{
+  "id": 9895003869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.28806750513036,36.546721289758416,-87.28806750513036,36.546721289758416",
+    "geom:latitude":36.546721,
+    "geom:longitude":-87.288068,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311563: name \"Swan Lake Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311563"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311563: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311563"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311563: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311563"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722759 (Clarksville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722759 (Clarksville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Swan Lake Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722759,
+        102086353,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1311563
+    },
+    "wof:country":"US",
+    "wof:geomhash":"96d581dbbc5d55c12588a757ea49bbde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":9895003869,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003869,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Swan Lake Village",
+    "wof:parent_id":101722759,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.28806750513036,
+    36.546721289758416,
+    -87.28806750513036,
+    36.546721289758416
+],
+  "geometry": {"coordinates":[-87.28806750513036,36.546721289758416],"type":"Point"}
+}

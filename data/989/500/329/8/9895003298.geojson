@@ -1,0 +1,82 @@
+{
+  "id": 9895003298,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.73438644770931,39.89539473286227,-75.73438644770931,39.89539473286227",
+    "geom:latitude":39.895395,
+    "geom:longitude":-75.734386,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1190189: name \"Unionville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1190189"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1190189: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1190189"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1190189: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1190189"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404482915 (East Marlborough Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404482915 (East Marlborough Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Unionville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081275,
+        102191575,
+        404482915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1190189
+    },
+    "wof:country":"US",
+    "wof:geomhash":"754c4b41cc9b10e710e8e11ee4bc0e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081275,
+            "localadmin_id":404482915,
+            "locality_id":9895003298,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003298,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Unionville",
+    "wof:parent_id":404482915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.73438644770931,
+    39.89539473286227,
+    -75.73438644770931,
+    39.89539473286227
+],
+  "geometry": {"coordinates":[-75.73438644770931,39.89539473286227],"type":"Point"}
+}

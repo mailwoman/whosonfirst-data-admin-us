@@ -1,0 +1,82 @@
+{
+  "id": 9895001427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.19525238407809,40.2981065015625,-85.19525238407809,40.2981065015625",
+    "geom:latitude":40.298107,
+    "geom:longitude":-85.195252,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 434310: name \"Fairview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/434310"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 434310: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/434310"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 434310: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/434310"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404501701 (Green Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404501701 (Green Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fairview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102086449,
+        102191575,
+        404501701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":434310
+    },
+    "wof:country":"US",
+    "wof:geomhash":"445649ad2519b3cfd3729969be38ad01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086449,
+            "localadmin_id":404501701,
+            "locality_id":9895001427,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895001427,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Fairview",
+    "wof:parent_id":404501701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.19525238407809,
+    40.2981065015625,
+    -85.19525238407809,
+    40.2981065015625
+],
+  "geometry": {"coordinates":[-85.19525238407809,40.2981065015625],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895001038,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.16020312328138,39.08685682566189,-120.16020312328138,39.08685682566189",
+    "geom:latitude":39.086857,
+    "geom:longitude":-120.160203,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 261434: name \"Homewood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/261434"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 261434: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/261434"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 261434: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/261434"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080863 (Placer).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080863 (Placer), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Homewood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102080863,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":261434
+    },
+    "wof:country":"US",
+    "wof:geomhash":"43ef0047b3d7fffce2aef11ad2adc5e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080863,
+            "locality_id":9895001038,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001038,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Homewood",
+    "wof:parent_id":102080863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.16020312328138,
+    39.08685682566189,
+    -120.16020312328138,
+    39.08685682566189
+],
+  "geometry": {"coordinates":[-120.16020312328138,39.08685682566189],"type":"Point"}
+}

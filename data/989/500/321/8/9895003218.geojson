@@ -1,0 +1,80 @@
+{
+  "id": 9895003218,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.66122006484305,45.45068006274795,-122.66122006484305,45.45068006274795",
+    "geom:latitude":45.45068,
+    "geom:longitude":-122.66122,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1136687: name \"Riverdale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1136687"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1136687: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1136687"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1136687: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1136687"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081631 (Multnomah).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081631 (Multnomah), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Riverdale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688513,
+        102081631,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1136687
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4399622b08288482afd3307c88debce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":9895003218,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":9895003218,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Riverdale",
+    "wof:parent_id":102081631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.66122006484305,
+    45.45068006274795,
+    -122.66122006484305,
+    45.45068006274795
+],
+  "geometry": {"coordinates":[-122.66122006484305,45.45068006274795],"type":"Point"}
+}

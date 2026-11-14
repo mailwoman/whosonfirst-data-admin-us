@@ -1,0 +1,80 @@
+{
+  "id": 9895002343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.70888378884896,33.45063994148058,-105.70888378884896,33.45063994148058",
+    "geom:latitude":33.45064,
+    "geom:longitude":-105.708884,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 923566: name \"Bonito\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/923566"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 923566: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/923566"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 923566: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/923566"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081577 (Lincoln).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081577 (Lincoln), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bonito"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081577,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":923566
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6aa8c39fc3a9048aedce752847988dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081577,
+            "locality_id":9895002343,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002343,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Bonito",
+    "wof:parent_id":102081577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.70888378884896,
+    33.45063994148058,
+    -105.70888378884896,
+    33.45063994148058
+],
+  "geometry": {"coordinates":[-105.70888378884896,33.45063994148058],"type":"Point"}
+}

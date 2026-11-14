@@ -1,0 +1,84 @@
+{
+  "id": 9895003339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.940026952863,39.92008881236461,-78.940026952863,39.92008881236461",
+    "geom:latitude":39.920089,
+    "geom:longitude":-78.940027,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197674: name \"East End\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197674"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197674: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197674"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197674: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197674"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101717963 (Berlin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101717963 (Berlin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "East End"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101717963,
+        102081361,
+        102191575,
+        404484009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1197674
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3aa1671606c15315b7cb6e2cdf9af0a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081361,
+            "localadmin_id":404484009,
+            "locality_id":101717963,
+            "neighbourhood_id":9895003339,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003339,
+    "wof:lastmodified":1794681133,
+    "wof:name":"East End",
+    "wof:parent_id":101717963,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.940026952863,
+    39.92008881236461,
+    -78.940026952863,
+    39.92008881236461
+],
+  "geometry": {"coordinates":[-78.940026952863,39.92008881236461],"type":"Point"}
+}

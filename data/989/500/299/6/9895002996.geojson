@@ -1,0 +1,82 @@
+{
+  "id": 9895002996,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.71812790166791,35.1729296740423,-80.71812790166791,35.1729296740423",
+    "geom:latitude":35.17293,
+    "geom:longitude":-80.718128,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005643: name \"Deerhurst\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005643"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005643: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005643"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005643: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005643"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981333 (Charlotte).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981333 (Charlotte), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Deerhurst"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981333,
+        102080981,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005643
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51094ca212275153f1895caef681cf1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":9895002996,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002996,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Deerhurst",
+    "wof:parent_id":85981333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.71812790166791,
+    35.1729296740423,
+    -80.71812790166791,
+    35.1729296740423
+],
+  "geometry": {"coordinates":[-80.71812790166791,35.1729296740423],"type":"Point"}
+}

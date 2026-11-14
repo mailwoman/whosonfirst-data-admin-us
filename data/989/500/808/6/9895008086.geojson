@@ -1,0 +1,82 @@
+{
+  "id": 9895008086,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.16475499340726,41.63955694453837,-85.16475499340726,41.63955694453837",
+    "geom:latitude":41.639557,
+    "geom:longitude":-85.164755,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830292: name \"Otter Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830292"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830292: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830292"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830292: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830292"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404500339 (Jackson Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404500339 (Jackson Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Otter Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102086479,
+        102191575,
+        404500339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2830292
+    },
+    "wof:country":"US",
+    "wof:geomhash":"53b9cb34e06569650ba7b86efb506d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086479,
+            "localadmin_id":404500339,
+            "locality_id":9895008086,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895008086,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Otter Lake",
+    "wof:parent_id":404500339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.16475499340726,
+    41.63955694453837,
+    -85.16475499340726,
+    41.63955694453837
+],
+  "geometry": {"coordinates":[-85.16475499340726,41.63955694453837],"type":"Point"}
+}

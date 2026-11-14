@@ -1,0 +1,82 @@
+{
+  "id": 9895005320,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.93856388402511,41.04383876460409,-111.93856388402511,41.04383876460409",
+    "geom:latitude":41.043839,
+    "geom:longitude":-111.938564,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453986: name \"Fairfield Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453986"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453986: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453986"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453986: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453986"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727899 (Kaysville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727899 (Kaysville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fairfield Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727899,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453986
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c51aa61a82ebfa9a0acdc579ca7bb0c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727899,
+            "neighbourhood_id":9895005320,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005320,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Fairfield Estates",
+    "wof:parent_id":101727899,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.93856388402511,
+    41.04383876460409,
+    -111.93856388402511,
+    41.04383876460409
+],
+  "geometry": {"coordinates":[-111.93856388402511,41.04383876460409],"type":"Point"}
+}

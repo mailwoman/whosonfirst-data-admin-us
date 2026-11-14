@@ -1,0 +1,82 @@
+{
+  "id": 9895001453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.24666170212245,39.198111846207155,-86.24666170212245,39.198111846207155",
+    "geom:latitude":39.198112,
+    "geom:longitude":-86.246662,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 444828: name \"Town Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/444828"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 444828: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/444828"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 444828: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/444828"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404501127 (Washington Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404501127 (Washington Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Town Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102086383,
+        102191575,
+        404501127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":444828
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81db859882196056e7a1ce4b5f21b0f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086383,
+            "localadmin_id":404501127,
+            "locality_id":9895001453,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895001453,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Town Hill",
+    "wof:parent_id":404501127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.24666170212245,
+    39.198111846207155,
+    -86.24666170212245,
+    39.198111846207155
+],
+  "geometry": {"coordinates":[-86.24666170212245,39.198111846207155],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895006239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.01991598550462,33.544286103825534,-84.01991598550462,33.544286103825534",
+    "geom:latitude":33.544286,
+    "geom:longitude":-84.019916,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673628: name \"West Forest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673628"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673628: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673628"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673628: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673628"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082963 (Newton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082963 (Newton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "West Forest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102082963,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1673628
+    },
+    "wof:country":"US",
+    "wof:geomhash":"310eed2ad7741aaf5fb43c4a05fccefa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082963,
+            "locality_id":9895006239,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006239,
+    "wof:lastmodified":1794681140,
+    "wof:name":"West Forest",
+    "wof:parent_id":102082963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.01991598550462,
+    33.544286103825534,
+    -84.01991598550462,
+    33.544286103825534
+],
+  "geometry": {"coordinates":[-84.01991598550462,33.544286103825534],"type":"Point"}
+}

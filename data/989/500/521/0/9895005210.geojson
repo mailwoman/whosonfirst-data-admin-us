@@ -1,0 +1,82 @@
+{
+  "id": 9895005210,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.87522654525584,40.85661814943039,-111.87522654525584,40.85661814943039",
+    "geom:latitude":40.856618,
+    "geom:longitude":-111.875227,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453867: name \"Star Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453867"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453867: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453867"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453867: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453867"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727881 (Bountiful).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727881 (Bountiful), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Star Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727881,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453867
+    },
+    "wof:country":"US",
+    "wof:geomhash":"717b726545465f6c3a5ecb40648ee3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":9895005210,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005210,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Star Heights",
+    "wof:parent_id":101727881,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.87522654525584,
+    40.85661814943039,
+    -111.87522654525584,
+    40.85661814943039
+],
+  "geometry": {"coordinates":[-111.87522654525584,40.85661814943039],"type":"Point"}
+}

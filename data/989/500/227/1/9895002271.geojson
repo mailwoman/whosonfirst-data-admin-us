@@ -1,0 +1,84 @@
+{
+  "id": 9895002271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.58596573376818,37.86672448263511,-90.58596573376818,37.86672448263511",
+    "geom:latitude":37.866724,
+    "geom:longitude":-90.585966,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 757869: name \"Huntington\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/757869"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 757869: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/757869"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 757869: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/757869"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85970667 (Leadwood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85970667 (Leadwood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Huntington"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        85970667,
+        102085297,
+        102191575,
+        404517197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":757869
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7fb73c13917541e465a16e5624dd6cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085297,
+            "localadmin_id":404517197,
+            "locality_id":85970667,
+            "neighbourhood_id":9895002271,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002271,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Huntington",
+    "wof:parent_id":85970667,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.58596573376818,
+    37.86672448263511,
+    -90.58596573376818,
+    37.86672448263511
+],
+  "geometry": {"coordinates":[-90.58596573376818,37.86672448263511],"type":"Point"}
+}

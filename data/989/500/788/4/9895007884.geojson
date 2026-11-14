@@ -1,0 +1,80 @@
+{
+  "id": 9895007884,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.56346744838034,35.76892829765635,-94.56346744838034,35.76892829765635",
+    "geom:latitude":35.768928,
+    "geom:longitude":-94.563467,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805326: name \"Honey Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805326"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805326: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805326"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805326: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805326"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083285 (Adair).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083285 (Adair), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Honey Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688585,
+        102083285,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805326
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7ab488bcb9523c59699c30242092ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083285,
+            "locality_id":9895007884,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":9895007884,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Honey Hill",
+    "wof:parent_id":102083285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.56346744838034,
+    35.76892829765635,
+    -94.56346744838034,
+    35.76892829765635
+],
+  "geometry": {"coordinates":[-94.56346744838034,35.76892829765635],"type":"Point"}
+}

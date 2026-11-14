@@ -1,0 +1,82 @@
+{
+  "id": 9895001325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.01539809551186,33.42292264900136,-82.01539809551186,33.42292264900136",
+    "geom:latitude":33.422923,
+    "geom:longitude":-82.015398,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357827: name \"Butler Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357827"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357827: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357827"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357827: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357827"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936989 (Augusta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936989 (Augusta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Butler Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936989,
+        102082951,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357827
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e052a6c84c3214f92f82a1f24edd6602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":9895001325,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001325,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Butler Estates",
+    "wof:parent_id":85936989,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.01539809551186,
+    33.42292264900136,
+    -82.01539809551186,
+    33.42292264900136
+],
+  "geometry": {"coordinates":[-82.01539809551186,33.42292264900136],"type":"Point"}
+}

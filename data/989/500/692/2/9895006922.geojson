@@ -1,0 +1,84 @@
+{
+  "id": 9895006922,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.67033997149498,41.972261967679835,-87.67033997149498,41.972261967679835",
+    "geom:latitude":41.972262,
+    "geom:longitude":-87.67034,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1772754: name \"Winnemac\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1772754"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1772754: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1772754"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1772754: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1772754"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940195 (Chicago).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940195 (Chicago), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Winnemac"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940195,
+        102084317,
+        102191575,
+        404496273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1772754
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d593d9a7a4954d6e31321536e7120df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":9895006922,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895006922,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Winnemac",
+    "wof:parent_id":85940195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.67033997149498,
+    41.972261967679835,
+    -87.67033997149498,
+    41.972261967679835
+],
+  "geometry": {"coordinates":[-87.67033997149498,41.972261967679835],"type":"Point"}
+}

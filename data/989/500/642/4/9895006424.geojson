@@ -1,0 +1,82 @@
+{
+  "id": 9895006424,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.89553629827807,39.66705444455452,-76.89553629827807,39.66705444455452",
+    "geom:latitude":39.667054,
+    "geom:longitude":-76.895536,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695511: name \"Pleasant Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695511"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695511: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695511"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695511: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695511"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949365 (Manchester).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949365 (Manchester), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pleasant Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949365,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695511
+    },
+    "wof:country":"US",
+    "wof:geomhash":"159ea77de2044434b5691f5fd79a7afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949365,
+            "neighbourhood_id":9895006424,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006424,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Pleasant Acres",
+    "wof:parent_id":85949365,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.89553629827807,
+    39.66705444455452,
+    -76.89553629827807,
+    39.66705444455452
+],
+  "geometry": {"coordinates":[-76.89553629827807,39.66705444455452],"type":"Point"}
+}

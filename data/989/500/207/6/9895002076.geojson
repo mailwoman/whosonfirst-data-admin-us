@@ -1,0 +1,82 @@
+{
+  "id": 9895002076,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.75450377192168,34.265390770481865,-88.75450377192168,34.265390770481865",
+    "geom:latitude":34.265391,
+    "geom:longitude":-88.754504,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684604: name \"Tracewood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684604"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684604: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684604"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684604: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684604"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969769 (Tupelo).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969769 (Tupelo), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tracewood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969769,
+        102083171,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":684604
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6e4bab300a94bb84194e98277b5f01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":9895002076,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002076,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Tracewood",
+    "wof:parent_id":85969769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.75450377192168,
+    34.265390770481865,
+    -88.75450377192168,
+    34.265390770481865
+],
+  "geometry": {"coordinates":[-88.75450377192168,34.265390770481865],"type":"Point"}
+}

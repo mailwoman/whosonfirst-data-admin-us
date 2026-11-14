@@ -1,0 +1,80 @@
+{
+  "id": 9895000974,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.51797917501763,39.8015095225288,-75.51797917501763,39.8015095225288",
+    "geom:latitude":39.80151,
+    "geom:longitude":-75.517979,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215863: name \"Heatherbrooke\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215863"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215863: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215863"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215863: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215863"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083891 (New Castle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083891 (New Castle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Heatherbrooke"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        102083891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":215863
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f259964764cf5d54c0d62c3948bb3ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":9895000974,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000974,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Heatherbrooke",
+    "wof:parent_id":102083891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.51797917501763,
+    39.8015095225288,
+    -75.51797917501763,
+    39.8015095225288
+],
+  "geometry": {"coordinates":[-75.51797917501763,39.8015095225288],"type":"Point"}
+}

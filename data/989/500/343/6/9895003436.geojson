@@ -1,0 +1,82 @@
+{
+  "id": 9895003436,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.67426847993968,35.06291201558222,-81.67426847993968,35.06291201558222",
+    "geom:latitude":35.062912,
+    "geom:longitude":-81.674268,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228678: name \"Wood Haven Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228678"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228678: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228678"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228678: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228678"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720717 (Gaffney).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720717 (Gaffney), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wood Haven Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720717,
+        102085403,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1228678
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d20a22f94217b1bcbb8faacffd1ecbec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085403,
+            "locality_id":101720717,
+            "neighbourhood_id":9895003436,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003436,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Wood Haven Park",
+    "wof:parent_id":101720717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.67426847993968,
+    35.06291201558222,
+    -81.67426847993968,
+    35.06291201558222
+],
+  "geometry": {"coordinates":[-81.67426847993968,35.06291201558222],"type":"Point"}
+}

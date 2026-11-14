@@ -1,0 +1,82 @@
+{
+  "id": 9895001363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.0901125708885,38.77422257350844,-90.0901125708885,38.77422257350844",
+    "geom:latitude":38.774223,
+    "geom:longitude":-90.090113,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 404914: name \"Brooks\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/404914"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 404914: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/404914"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 404914: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/404914"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404499481 (Chouteau Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404499481 (Chouteau Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brooks"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102082849,
+        102191575,
+        404499481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":404914
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5c7d68ee9c442ad13a513c04ad5fc7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082849,
+            "localadmin_id":404499481,
+            "locality_id":9895001363,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001363,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Brooks",
+    "wof:parent_id":404499481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.0901125708885,
+    38.77422257350844,
+    -90.0901125708885,
+    38.77422257350844
+],
+  "geometry": {"coordinates":[-90.0901125708885,38.77422257350844],"type":"Point"}
+}

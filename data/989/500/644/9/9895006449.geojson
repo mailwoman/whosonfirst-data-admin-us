@@ -1,0 +1,80 @@
+{
+  "id": 9895006449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.85859108346716,39.59677773224508,-76.85859108346716,39.59677773224508",
+    "geom:latitude":39.596778,
+    "geom:longitude":-76.858591,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695994: name \"Singer Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695994"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695994: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695994"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695994: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695994"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082717 (Carroll).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082717 (Carroll), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Singer Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695994
+    },
+    "wof:country":"US",
+    "wof:geomhash":"65d4bc2cb454193f47f8e44e16b4c2a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":9895006449,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006449,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Singer Heights",
+    "wof:parent_id":102082717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.85859108346716,
+    39.59677773224508,
+    -76.85859108346716,
+    39.59677773224508
+],
+  "geometry": {"coordinates":[-76.85859108346716,39.59677773224508],"type":"Point"}
+}

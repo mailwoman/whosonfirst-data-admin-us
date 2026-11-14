@@ -1,0 +1,82 @@
+{
+  "id": 9895001648,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.13789002359535,30.473806690541192,-91.13789002359535,30.473806690541192",
+    "geom:latitude":30.473807,
+    "geom:longitude":-91.13789,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558952: name \"Dougherty Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558952"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558952: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558952"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558952: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558952"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948205 (Baton Rouge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948205 (Baton Rouge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dougherty Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948205,
+        102087229,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":558952
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f1a416ba43b7b5d3394a9fe0064e6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":9895001648,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001648,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Dougherty Place",
+    "wof:parent_id":85948205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.13789002359535,
+    30.473806690541192,
+    -91.13789002359535,
+    30.473806690541192
+],
+  "geometry": {"coordinates":[-91.13789002359535,30.473806690541192],"type":"Point"}
+}

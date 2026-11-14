@@ -1,0 +1,84 @@
+{
+  "id": 9895006999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.63672173920402,41.754208531804224,-87.63672173920402,41.754208531804224",
+    "geom:latitude":41.754209,
+    "geom:longitude":-87.636722,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1825828: name \"Auburn Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1825828"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1825828: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1825828"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1825828: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1825828"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940195 (Chicago).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940195 (Chicago), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Auburn Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940195,
+        102084317,
+        102191575,
+        404496273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1825828
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2cfc37cfba1505dbbb267f0c77bc5647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":9895006999,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895006999,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Auburn Park",
+    "wof:parent_id":85940195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.63672173920402,
+    41.754208531804224,
+    -87.63672173920402,
+    41.754208531804224
+],
+  "geometry": {"coordinates":[-87.63672173920402,41.754208531804224],"type":"Point"}
+}

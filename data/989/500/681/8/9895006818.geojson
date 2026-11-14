@@ -1,0 +1,82 @@
+{
+  "id": 9895006818,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.7873541175966,38.37704599168872,-81.7873541175966,38.37704599168872",
+    "geom:latitude":38.377046,
+    "geom:longitude":-81.787354,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1741843: name \"Baker Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1741843"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1741843: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1741843"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1741843: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1741843"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101732173 (Jefferson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101732173 (Jefferson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Baker Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        101732173,
+        102083335,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1741843
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e7acdcf47a6cbf4dbc7783fd8da543b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101732173,
+            "neighbourhood_id":9895006818,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895006818,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Baker Park",
+    "wof:parent_id":101732173,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.7873541175966,
+    38.37704599168872,
+    -81.7873541175966,
+    38.37704599168872
+],
+  "geometry": {"coordinates":[-81.7873541175966,38.37704599168872],"type":"Point"}
+}

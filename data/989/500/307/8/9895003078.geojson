@@ -1,0 +1,80 @@
+{
+  "id": 9895003078,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.88938702832434,34.79655652361312,-76.88938702832434,34.79655652361312",
+    "geom:latitude":34.796557,
+    "geom:longitude":-76.889387,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017480: name \"Bay Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017480"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017480: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017480"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017480: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017480"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080875 (Carteret).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080875 (Carteret), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bay Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080875,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1017480
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2cc1c3b81bdf9a45277c20a990c6112d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080875,
+            "locality_id":9895003078,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003078,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Bay Woods",
+    "wof:parent_id":102080875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.88938702832434,
+    34.79655652361312,
+    -76.88938702832434,
+    34.79655652361312
+],
+  "geometry": {"coordinates":[-76.88938702832434,34.79655652361312],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895004678,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.95578131905238,40.536065506888924,-111.95578131905238,40.536065506888924",
+    "geom:latitude":40.536066,
+    "geom:longitude":-111.955781,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452761: name \"Lane Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452761"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452761: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452761"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452761: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452761"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728073 (Riverton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728073 (Riverton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lane Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728073,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1452761
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db13c1b741797cc21134c8e8a31aa73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728073,
+            "neighbourhood_id":9895004678,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004678,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Lane Village",
+    "wof:parent_id":101728073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.95578131905238,
+    40.536065506888924,
+    -111.95578131905238,
+    40.536065506888924
+],
+  "geometry": {"coordinates":[-111.95578131905238,40.536065506888924],"type":"Point"}
+}

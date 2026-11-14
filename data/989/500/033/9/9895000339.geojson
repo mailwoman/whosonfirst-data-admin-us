@@ -1,0 +1,82 @@
+{
+  "id": 9895000339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.63191188326921,34.163157874935266,-85.63191188326921,34.163157874935266",
+    "geom:latitude":34.163158,
+    "geom:longitude":-85.631912,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136954: name \"Northwood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136954"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136954: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136954"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136954: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136954"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85899579 (Centre).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85899579 (Centre), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Northwood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85899579,
+        102085467,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":136954
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ab50950e16edc7450622ebf25be65fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085467,
+            "locality_id":85899579,
+            "neighbourhood_id":9895000339,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000339,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Northwood Estates",
+    "wof:parent_id":85899579,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.63191188326921,
+    34.163157874935266,
+    -85.63191188326921,
+    34.163157874935266
+],
+  "geometry": {"coordinates":[-85.63191188326921,34.163157874935266],"type":"Point"}
+}

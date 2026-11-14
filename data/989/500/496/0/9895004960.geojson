@@ -1,0 +1,82 @@
+{
+  "id": 9895004960,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.94495281551349,41.2591164869534,-111.94495281551349,41.2591164869534",
+    "geom:latitude":41.259116,
+    "geom:longitude":-111.944953,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453368: name \"Sheridan Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453368"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453368: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453368"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453368: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453368"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728033 (Ogden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728033 (Ogden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sheridan Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728033,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453368
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31f9eb5d19e69b06d15fd01c4f5730f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":9895004960,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004960,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Sheridan Heights",
+    "wof:parent_id":101728033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.94495281551349,
+    41.2591164869534,
+    -111.94495281551349,
+    41.2591164869534
+],
+  "geometry": {"coordinates":[-111.94495281551349,41.2591164869534],"type":"Point"}
+}

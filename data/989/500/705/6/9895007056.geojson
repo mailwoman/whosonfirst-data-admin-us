@@ -1,0 +1,82 @@
+{
+  "id": 9895007056,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.2653345598018,34.524445764685304,-117.2653345598018,34.524445764685304",
+    "geom:latitude":34.524446,
+    "geom:longitude":-117.265335,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1841573: name \"Desert Knolls\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1841573"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1841573: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1841573"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1841573: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1841573"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923871 (Apple Valley).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923871 (Apple Valley), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Desert Knolls"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923871,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1841573
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49b8a0093a95423530cea8edbbbbe12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85923871,
+            "neighbourhood_id":9895007056,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007056,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Desert Knolls",
+    "wof:parent_id":85923871,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.2653345598018,
+    34.524445764685304,
+    -117.2653345598018,
+    34.524445764685304
+],
+  "geometry": {"coordinates":[-117.2653345598018,34.524445764685304],"type":"Point"}
+}

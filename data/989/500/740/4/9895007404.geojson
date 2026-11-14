@@ -1,0 +1,80 @@
+{
+  "id": 9895007404,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.74667674103816,39.64056202246958,-104.74667674103816,39.64056202246958",
+    "geom:latitude":39.640562,
+    "geom:longitude":-104.746677,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354584: name \"Spring Creek Meadows\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354584"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354584: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354584"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354584: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354584"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086877 (Arapahoe).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086877 (Arapahoe), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Spring Creek Meadows"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102086877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354584
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7db9cf6324e3ca318964aba391f78695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086877,
+            "locality_id":9895007404,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007404,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Spring Creek Meadows",
+    "wof:parent_id":102086877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.74667674103816,
+    39.64056202246958,
+    -104.74667674103816,
+    39.64056202246958
+],
+  "geometry": {"coordinates":[-104.74667674103816,39.64056202246958],"type":"Point"}
+}

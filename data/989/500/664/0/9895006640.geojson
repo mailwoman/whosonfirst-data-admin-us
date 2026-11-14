@@ -1,0 +1,82 @@
+{
+  "id": 9895006640,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.40526675424445,39.612606514090224,-77.40526675424445,39.612606514090224",
+    "geom:latitude":39.612607,
+    "geom:longitude":-77.405267,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711402: name \"Gateway\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711402"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711402: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711402"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711402: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711402"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949373 (Thurmont).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949373 (Thurmont), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gateway"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949373,
+        102081593,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1711402
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4bf6df07c6dd11e5b68973750bf0f7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "neighbourhood_id":9895006640,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006640,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Gateway",
+    "wof:parent_id":85949373,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.40526675424445,
+    39.612606514090224,
+    -77.40526675424445,
+    39.612606514090224
+],
+  "geometry": {"coordinates":[-77.40526675424445,39.612606514090224],"type":"Point"}
+}

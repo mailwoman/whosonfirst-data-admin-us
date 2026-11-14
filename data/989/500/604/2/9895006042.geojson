@@ -1,0 +1,80 @@
+{
+  "id": 9895006042,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.88977057453671,35.42497308834033,-116.88977057453671,35.42497308834033",
+    "geom:latitude":35.424973,
+    "geom:longitude":-116.889771,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1666893: name \"Mars\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1666893"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1666893: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1666893"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1666893: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1666893"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085395 (San Bernardino).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085395 (San Bernardino), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mars"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1666893
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b4306e6f8f21cea3c810ef51bf0d2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":9895006042,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006042,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Mars",
+    "wof:parent_id":102085395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.88977057453671,
+    35.42497308834033,
+    -116.88977057453671,
+    35.42497308834033
+],
+  "geometry": {"coordinates":[-116.88977057453671,35.42497308834033],"type":"Point"}
+}

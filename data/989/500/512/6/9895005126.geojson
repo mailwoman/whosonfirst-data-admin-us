@@ -1,0 +1,82 @@
+{
+  "id": 9895005126,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.86967185401896,40.92717315711979,-111.86967185401896,40.92717315711979",
+    "geom:latitude":40.927173,
+    "geom:longitude":-111.869672,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453704: name \"Rockwood Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453704"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453704: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453704"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453704: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453704"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727879 (Centerville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727879 (Centerville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rockwood Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727879,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453704
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d66e9a939c22ed5ae958c5d03d3448d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":9895005126,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005126,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Rockwood Gardens",
+    "wof:parent_id":101727879,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.86967185401896,
+    40.92717315711979,
+    -111.86967185401896,
+    40.92717315711979
+],
+  "geometry": {"coordinates":[-111.86967185401896,40.92717315711979],"type":"Point"}
+}

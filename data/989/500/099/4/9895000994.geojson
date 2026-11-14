@@ -1,0 +1,82 @@
+{
+  "id": 9895000994,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.23742379900257,37.96076331959371,-120.23742379900257,37.96076331959371",
+    "geom:latitude":37.960763,
+    "geom:longitude":-120.237424,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 236634: name \"Tuolumne\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/236634"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 236634: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/236634"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 236634: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/236634"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85925443 (Tuolumne City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85925443 (Tuolumne City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tuolumne"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85925443,
+        102086939,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":236634
+    },
+    "wof:country":"US",
+    "wof:geomhash":"baead8e99a7c9cf2bd133f7d9f5d53ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086939,
+            "locality_id":85925443,
+            "neighbourhood_id":9895000994,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895000994,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Tuolumne",
+    "wof:parent_id":85925443,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.23742379900257,
+    37.96076331959371,
+    -120.23742379900257,
+    37.96076331959371
+],
+  "geometry": {"coordinates":[-120.23742379900257,37.96076331959371],"type":"Point"}
+}

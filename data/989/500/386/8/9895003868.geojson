@@ -1,0 +1,82 @@
+{
+  "id": 9895003868,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.31917931470943,36.54866588872462,-87.31917931470943,36.54866588872462",
+    "geom:latitude":36.548666,
+    "geom:longitude":-87.319179,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311560: name \"Springs Inn Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311560"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311560: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311560"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311560: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311560"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722759 (Clarksville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722759 (Clarksville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Springs Inn Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722759,
+        102086353,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1311560
+    },
+    "wof:country":"US",
+    "wof:geomhash":"038f0b740b6894d1d1c42e2d5f30b7bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":9895003868,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003868,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Springs Inn Estates",
+    "wof:parent_id":101722759,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.31917931470943,
+    36.54866588872462,
+    -87.31917931470943,
+    36.54866588872462
+],
+  "geometry": {"coordinates":[-87.31917931470943,36.54866588872462],"type":"Point"}
+}

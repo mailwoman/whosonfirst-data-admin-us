@@ -1,0 +1,80 @@
+{
+  "id": 9895000288,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.85047947265025,35.94258496462367,-93.85047947265025,35.94258496462367",
+    "geom:latitude":35.942585,
+    "geom:longitude":-93.850479,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 70469: name \"Asher\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/70469"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 70469: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/70469"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 70469: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/70469"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082533 (Madison).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082533 (Madison), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Asher"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        102082533,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":70469
+    },
+    "wof:country":"US",
+    "wof:geomhash":"698e2bba341185d3b3c9937535561d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082533,
+            "locality_id":9895000288,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000288,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Asher",
+    "wof:parent_id":102082533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.85047947265025,
+    35.94258496462367,
+    -93.85047947265025,
+    35.94258496462367
+],
+  "geometry": {"coordinates":[-93.85047947265025,35.94258496462367],"type":"Point"}
+}

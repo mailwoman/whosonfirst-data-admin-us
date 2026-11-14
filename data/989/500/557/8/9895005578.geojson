@@ -1,0 +1,80 @@
+{
+  "id": 9895005578,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.99707519459429,37.0826180239144,-81.99707519459429,37.0826180239144",
+    "geom:latitude":37.082618,
+    "geom:longitude":-81.997075,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1497572: name \"Russell\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1497572"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1497572: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1497572"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1497572: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1497572"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084923 (Russell).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084923 (Russell), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Russell"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102084923,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1497572
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3b77d732fc22350a738676369fafa00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084923,
+            "locality_id":9895005578,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005578,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Russell",
+    "wof:parent_id":102084923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.99707519459429,
+    37.0826180239144,
+    -81.99707519459429,
+    37.0826180239144
+],
+  "geometry": {"coordinates":[-81.99707519459429,37.0826180239144],"type":"Point"}
+}

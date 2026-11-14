@@ -1,0 +1,82 @@
+{
+  "id": 9895006678,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.66499352800136,39.50066318177585,-77.66499352800136,39.50066318177585",
+    "geom:latitude":39.500663,
+    "geom:longitude":-77.664994,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1714058: name \"Crestview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1714058"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1714058: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1714058"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1714058: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1714058"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949171 (Boonsboro).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949171 (Boonsboro), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Crestview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949171,
+        102082189,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1714058
+    },
+    "wof:country":"US",
+    "wof:geomhash":"affed96d884e5606bed392c54c4437e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949171,
+            "neighbourhood_id":9895006678,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006678,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Crestview",
+    "wof:parent_id":85949171,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.66499352800136,
+    39.50066318177585,
+    -77.66499352800136,
+    39.50066318177585
+],
+  "geometry": {"coordinates":[-77.66499352800136,39.50066318177585],"type":"Point"}
+}

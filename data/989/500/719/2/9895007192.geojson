@@ -1,0 +1,80 @@
+{
+  "id": 9895007192,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.1461118459067,32.93485245761388,-87.1461118459067,32.93485245761388",
+    "geom:latitude":32.934852,
+    "geom:longitude":-87.146112,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1959583: name \"Zulu\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1959583"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1959583: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1959583"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1959583: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1959583"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085501 (Bibb).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085501 (Bibb), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Zulu"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085501,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1959583
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ca7313f40027ab565fe0fae62aa339c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085501,
+            "locality_id":9895007192,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895007192,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Zulu",
+    "wof:parent_id":102085501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.1461118459067,
+    32.93485245761388,
+    -87.1461118459067,
+    32.93485245761388
+],
+  "geometry": {"coordinates":[-87.1461118459067,32.93485245761388],"type":"Point"}
+}

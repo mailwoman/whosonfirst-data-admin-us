@@ -1,0 +1,82 @@
+{
+  "id": 9895003205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.63760846204764,45.454291365062545,-122.63760846204764,45.454291365062545",
+    "geom:latitude":45.454291,
+    "geom:longitude":-122.637608,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1135949: name \"Kellogg Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1135949"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1135949: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1135949"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1135949: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1135949"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101715883 (Milwaukie).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101715883 (Milwaukie), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kellogg Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688513,
+        101715883,
+        102082213,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1135949
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9dab283011f1e117dfe30a7717be2327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082213,
+            "locality_id":101715883,
+            "neighbourhood_id":9895003205,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":9895003205,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Kellogg Park",
+    "wof:parent_id":101715883,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.63760846204764,
+    45.454291365062545,
+    -122.63760846204764,
+    45.454291365062545
+],
+  "geometry": {"coordinates":[-122.63760846204764,45.454291365062545],"type":"Point"}
+}

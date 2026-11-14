@@ -1,0 +1,82 @@
+{
+  "id": 9895002226,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.54590724648126,31.632115692761673,-89.54590724648126,31.632115692761673",
+    "geom:latitude":31.632116,
+    "geom:longitude":-89.545907,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 710740: name \"Vennie Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/710740"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 710740: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/710740"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 710740: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/710740"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85970131 (Collins).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85970131 (Collins), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Vennie Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85970131,
+        102083789,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":710740
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63d11e7bdf872b90799cd4011bd56690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083789,
+            "locality_id":85970131,
+            "neighbourhood_id":9895002226,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002226,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Vennie Park",
+    "wof:parent_id":85970131,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.54590724648126,
+    31.632115692761673,
+    -89.54590724648126,
+    31.632115692761673
+],
+  "geometry": {"coordinates":[-89.54590724648126,31.632115692761673],"type":"Point"}
+}

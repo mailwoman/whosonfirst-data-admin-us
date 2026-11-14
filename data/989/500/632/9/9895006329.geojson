@@ -1,0 +1,80 @@
+{
+  "id": 9895006329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.71216159632138,33.74539202169106,-84.71216159632138,33.74539202169106",
+    "geom:latitude":33.745392,
+    "geom:longitude":-84.712162,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686527: name \"Shawnee Lake Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686527"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686527: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686527"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686527: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686527"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084441 (Douglas).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084441 (Douglas), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shawnee Lake Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102084441,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1686527
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d2f4d9e131349f764db1f289fd81d802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084441,
+            "locality_id":9895006329,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006329,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Shawnee Lake Estates",
+    "wof:parent_id":102084441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.71216159632138,
+    33.74539202169106,
+    -84.71216159632138,
+    33.74539202169106
+],
+  "geometry": {"coordinates":[-84.71216159632138,33.74539202169106],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.16359678155332,39.65427433203571,-77.16359678155332,39.65427433203571",
+    "geom:latitude":39.654274,
+    "geom:longitude":-77.163597,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695326: name \"Cloverberry\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695326"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695326: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695326"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695326: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695326"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949357 (Taneytown).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949357 (Taneytown), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cloverberry"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949357,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695326
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67c20e9877d57e09114078483fb448b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949357,
+            "neighbourhood_id":9895006409,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006409,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Cloverberry",
+    "wof:parent_id":85949357,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.16359678155332,
+    39.65427433203571,
+    -77.16359678155332,
+    39.65427433203571
+],
+  "geometry": {"coordinates":[-77.16359678155332,39.65427433203571],"type":"Point"}
+}

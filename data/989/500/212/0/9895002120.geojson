@@ -1,0 +1,82 @@
+{
+  "id": 9895002120,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.13814803854913,32.220987495262555,-90.13814803854913,32.220987495262555",
+    "geom:latitude":32.220987,
+    "geom:longitude":-90.138148,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687084: name \"Richland Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687084"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687084: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687084"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687084: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687084"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969941 (Richland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969941 (Richland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Richland Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969941,
+        102084869,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":687084
+    },
+    "wof:country":"US",
+    "wof:geomhash":"02d58b03d6a6384a7e78a917543d9e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969941,
+            "neighbourhood_id":9895002120,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002120,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Richland Estates",
+    "wof:parent_id":85969941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.13814803854913,
+    32.220987495262555,
+    -90.13814803854913,
+    32.220987495262555
+],
+  "geometry": {"coordinates":[-90.13814803854913,32.220987495262555],"type":"Point"}
+}

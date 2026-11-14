@@ -1,0 +1,80 @@
+{
+  "id": 9895007858,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.76893083497336,37.76258059819067,-75.76893083497336,37.76258059819067",
+    "geom:latitude":37.762581,
+    "geom:longitude":-75.768931,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804620: name \"Schooner Bay\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804620"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804620: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804620"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804620: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804620"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081415 (Accomack).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081415 (Accomack), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Schooner Bay"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102081415,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804620
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e58c9746364f254aea8dd43f724367c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081415,
+            "locality_id":9895007858,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895007858,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Schooner Bay",
+    "wof:parent_id":102081415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.76893083497336,
+    37.76258059819067,
+    -75.76893083497336,
+    37.76258059819067
+],
+  "geometry": {"coordinates":[-75.76893083497336,37.76258059819067],"type":"Point"}
+}

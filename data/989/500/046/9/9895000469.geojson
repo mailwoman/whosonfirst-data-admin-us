@@ -1,0 +1,82 @@
+{
+  "id": 9895000469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.36969759729587,32.346811660325756,-86.36969759729587,32.346811660325756",
+    "geom:latitude":32.346812,
+    "geom:longitude":-86.369698,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142947: name \"Westview Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142947"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142947: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142947"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142947: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142947"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westview Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142947
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d63db44f14b4743cf34c13e7e4e43d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000469,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000469,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Westview Gardens",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.36969759729587,
+    32.346811660325756,
+    -86.36969759729587,
+    32.346811660325756
+],
+  "geometry": {"coordinates":[-86.36969759729587,32.346811660325756],"type":"Point"}
+}

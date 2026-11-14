@@ -1,0 +1,82 @@
+{
+  "id": 9895002364,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.84556388218265,43.15386168803085,-74.84556388218265,43.15386168803085",
+    "geom:latitude":43.153862,
+    "geom:longitude":-74.845564,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 948409: name \"Diamond Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/948409"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 948409: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/948409"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 948409: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/948409"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404521899 (Salisbury).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404521899 (Salisbury), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Diamond Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102081877,
+        102191575,
+        404521899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":948409
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aee26eab81b4af9ee9b7798edd466a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081877,
+            "localadmin_id":404521899,
+            "locality_id":9895002364,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002364,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Diamond Hill",
+    "wof:parent_id":404521899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.84556388218265,
+    43.15386168803085,
+    -74.84556388218265,
+    43.15386168803085
+],
+  "geometry": {"coordinates":[-74.84556388218265,43.15386168803085],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001002,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.35866977473997,34.50638965734317,-117.35866977473997,34.50638965734317",
+    "geom:latitude":34.50639,
+    "geom:longitude":-117.35867,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 246299: name \"Mountain View\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/246299"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 246299: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/246299"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 246299: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/246299"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85928695 (Mountain View Acres).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85928695 (Mountain View Acres), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mountain View"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85928695,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":246299
+    },
+    "wof:country":"US",
+    "wof:geomhash":"99cf235fc03f4622911ac172a3294b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85928695,
+            "neighbourhood_id":9895001002,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001002,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Mountain View",
+    "wof:parent_id":85928695,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.35866977473997,
+    34.50638965734317,
+    -117.35866977473997,
+    34.50638965734317
+],
+  "geometry": {"coordinates":[-117.35866977473997,34.50638965734317],"type":"Point"}
+}

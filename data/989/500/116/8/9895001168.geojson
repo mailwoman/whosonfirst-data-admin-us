@@ -1,0 +1,80 @@
+{
+  "id": 9895001168,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.24467754817823,33.730668098306815,-85.24467754817823,33.730668098306815",
+    "geom:latitude":33.730668,
+    "geom:longitude":-85.244678,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 333391: name \"West Crossing\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/333391"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 333391: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/333391"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 333391: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/333391"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082945 (Haralson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082945 (Haralson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "West Crossing"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102082945,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":333391
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d0813f0adfb55b1943607169220e9eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082945,
+            "locality_id":9895001168,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001168,
+    "wof:lastmodified":1794681124,
+    "wof:name":"West Crossing",
+    "wof:parent_id":102082945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.24467754817823,
+    33.730668098306815,
+    -85.24467754817823,
+    33.730668098306815
+],
+  "geometry": {"coordinates":[-85.24467754817823,33.730668098306815],"type":"Point"}
+}

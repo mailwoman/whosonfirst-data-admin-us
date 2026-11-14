@@ -1,0 +1,82 @@
+{
+  "id": 9895000552,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.66475639582849,34.757039615755275,-87.66475639582849,34.757039615755275",
+    "geom:latitude":34.75704,
+    "geom:longitude":-87.664756,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146262: name \"Washington Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146262"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146262: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146262"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146262: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146262"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85897481 (Muscle Shoals).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85897481 (Muscle Shoals), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Washington Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85897481,
+        102085625,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146262
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ac6def7afe94943d4c601e1090de34d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085625,
+            "locality_id":85897481,
+            "neighbourhood_id":9895000552,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000552,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Washington Park",
+    "wof:parent_id":85897481,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.66475639582849,
+    34.757039615755275,
+    -87.66475639582849,
+    34.757039615755275
+],
+  "geometry": {"coordinates":[-87.66475639582849,34.757039615755275],"type":"Point"}
+}

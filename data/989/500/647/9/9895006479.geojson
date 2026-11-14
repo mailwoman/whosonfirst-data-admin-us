@@ -1,0 +1,82 @@
+{
+  "id": 9895006479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.16773306164221,39.52928524445125,-76.16773306164221,39.52928524445125",
+    "geom:latitude":39.529285,
+    "geom:longitude":-76.167733,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698610: name \"Windemere Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698610"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698610: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698610"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698610: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698610"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949283 (Aberdeen).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949283 (Aberdeen), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Windemere Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949283,
+        102082727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1698610
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3616b9380ecdf2a14a8f451e3a1015d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949283,
+            "neighbourhood_id":9895006479,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006479,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Windemere Estates",
+    "wof:parent_id":85949283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.16773306164221,
+    39.52928524445125,
+    -76.16773306164221,
+    39.52928524445125
+],
+  "geometry": {"coordinates":[-76.16773306164221,39.52928524445125],"type":"Point"}
+}

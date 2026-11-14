@@ -1,0 +1,82 @@
+{
+  "id": 9895008037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.42201966002911,45.51109788711682,-98.42201966002911,45.51109788711682",
+    "geom:latitude":45.511098,
+    "geom:longitude":-98.42202,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807096: name \"Prairiewood Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807096"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807096: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807096"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807096: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807096"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404489539 (Prairiewood Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404489539 (Prairiewood Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Prairiewood Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688693,
+        102086843,
+        102191575,
+        404489539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807096
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f97d94685870155aea4535f18b45b4b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086843,
+            "localadmin_id":404489539,
+            "locality_id":9895008037,
+            "region_id":85688693
+        }
+    ],
+    "wof:id":9895008037,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Prairiewood Village",
+    "wof:parent_id":404489539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.42201966002911,
+    45.51109788711682,
+    -98.42201966002911,
+    45.51109788711682
+],
+  "geometry": {"coordinates":[-98.42201966002911,45.51109788711682],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895006723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.84994989137058,38.75268524337226,-120.84994989137058,38.75268524337226",
+    "geom:latitude":38.752685,
+    "geom:longitude":-120.84995,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733837: name \"Gold Trail Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733837"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733837: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733837"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733837: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733837"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086953 (El Dorado).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086953 (El Dorado), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gold Trail Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102086953,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1733837
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f20070465183c820ccb0c7cc3a41ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086953,
+            "locality_id":9895006723,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006723,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Gold Trail Park",
+    "wof:parent_id":102086953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.84994989137058,
+    38.75268524337226,
+    -120.84994989137058,
+    38.75268524337226
+],
+  "geometry": {"coordinates":[-120.84994989137058,38.75268524337226],"type":"Point"}
+}

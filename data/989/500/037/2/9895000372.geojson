@@ -1,0 +1,82 @@
+{
+  "id": 9895000372,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.49245406245659,32.62986205294782,-85.49245406245659,32.62986205294782",
+    "geom:latitude":32.629862,
+    "geom:longitude":-85.492454,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138192: name \"Head Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138192"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138192: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138192"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138192: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138192"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913825 (Auburn).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913825 (Auburn), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Head Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913825,
+        102085751,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":138192
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d436772103c1791727aff5a8c06069c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085751,
+            "locality_id":85913825,
+            "neighbourhood_id":9895000372,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000372,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Head Estates",
+    "wof:parent_id":85913825,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.49245406245659,
+    32.62986205294782,
+    -85.49245406245659,
+    32.62986205294782
+],
+  "geometry": {"coordinates":[-85.49245406245659,32.62986205294782],"type":"Point"}
+}

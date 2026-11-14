@@ -1,0 +1,80 @@
+{
+  "id": 9895001776,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.87274981693572,38.45540910167356,-76.87274981693572,38.45540910167356",
+    "geom:latitude":38.455409,
+    "geom:longitude":-76.87275,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 584207: name \"Dyson Bridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/584207"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 584207: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/584207"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 584207: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/584207"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081211 (Charles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081211 (Charles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dyson Bridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102081211,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":584207
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a938de7b72cc0169704ff1813474c1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":9895001776,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001776,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Dyson Bridge",
+    "wof:parent_id":102081211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.87274981693572,
+    38.45540910167356,
+    -76.87274981693572,
+    38.45540910167356
+],
+  "geometry": {"coordinates":[-76.87274981693572,38.45540910167356],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895005084,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.03189893906318,41.303282085679186,-112.03189893906318,41.303282085679186",
+    "geom:latitude":41.303282,
+    "geom:longitude":-112.031899,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453580: name \"Randall Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453580"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453580: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453580"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453580: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453580"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728043 (Farr West).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728043 (Farr West), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Randall Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728043,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453580
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d2ae2f8b2e2c8f7ad0a99f403b39a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728043,
+            "neighbourhood_id":9895005084,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005084,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Randall Acres",
+    "wof:parent_id":101728043,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.03189893906318,
+    41.303282085679186,
+    -112.03189893906318,
+    41.303282085679186
+],
+  "geometry": {"coordinates":[-112.03189893906318,41.303282085679186],"type":"Point"}
+}

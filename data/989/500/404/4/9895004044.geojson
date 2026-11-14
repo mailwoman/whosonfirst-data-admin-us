@@ -1,0 +1,80 @@
+{
+  "id": 9895004044,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.86667723024021,29.69856469891284,-97.86667723024021,29.69856469891284",
+    "geom:latitude":29.698565,
+    "geom:longitude":-97.866677,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1349610: name \"Weinert\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1349610"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1349610: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1349610"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1349610: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1349610"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086771 (Guadalupe).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086771 (Guadalupe), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Weinert"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102086771,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1349610
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7818c7391d3ed1f581b3936b8787aabf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086771,
+            "locality_id":9895004044,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004044,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Weinert",
+    "wof:parent_id":102086771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.86667723024021,
+    29.69856469891284,
+    -97.86667723024021,
+    29.69856469891284
+],
+  "geometry": {"coordinates":[-97.86667723024021,29.69856469891284],"type":"Point"}
+}

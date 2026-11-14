@@ -1,0 +1,82 @@
+{
+  "id": 9895003277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.69630411127578,41.08148206606952,-75.69630411127578,41.08148206606952",
+    "geom:latitude":41.081482,
+    "geom:longitude":-75.696304,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1184153: name \"Pocono Mountain Lake Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1184153"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1184153: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1184153"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1184153: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1184153"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404485617 (Kidder Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404485617 (Kidder Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pocono Mountain Lake Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081331,
+        102191575,
+        404485617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1184153
+    },
+    "wof:country":"US",
+    "wof:geomhash":"885ab54eee35b8b3a1b18a269daafd10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081331,
+            "localadmin_id":404485617,
+            "locality_id":9895003277,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003277,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Pocono Mountain Lake Estates",
+    "wof:parent_id":404485617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.69630411127578,
+    41.08148206606952,
+    -75.69630411127578,
+    41.08148206606952
+],
+  "geometry": {"coordinates":[-75.69630411127578,41.08148206606952],"type":"Point"}
+}

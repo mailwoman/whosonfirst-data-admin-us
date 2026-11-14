@@ -1,0 +1,82 @@
+{
+  "id": 9895003628,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.9470963350646,34.70538459179118,-82.9470963350646,34.70538459179118",
+    "geom:latitude":34.705385,
+    "geom:longitude":-82.947096,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243049: name \"Loran Point\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243049"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243049: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243049"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243049: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243049"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720951 (Seneca).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720951 (Seneca), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Loran Point"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720951,
+        102085427,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1243049
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e1ba5a68e99c97bd869103418d609f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085427,
+            "locality_id":101720951,
+            "neighbourhood_id":9895003628,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003628,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Loran Point",
+    "wof:parent_id":101720951,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.9470963350646,
+    34.70538459179118,
+    -82.9470963350646,
+    34.70538459179118
+],
+  "geometry": {"coordinates":[-82.9470963350646,34.70538459179118],"type":"Point"}
+}

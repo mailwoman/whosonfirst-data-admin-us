@@ -1,0 +1,82 @@
+{
+  "id": 9895003388,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.07461676697666,40.34400294577155,-75.07461676697666,40.34400294577155",
+    "geom:latitude":40.344003,
+    "geom:longitude":-75.074617,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204145: name \"Mechanicsville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204145"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204145: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204145"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204145: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204145"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404484803 (Buckingham Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404484803 (Buckingham Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mechanicsville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080987,
+        102191575,
+        404484803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1204145
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e33b4fcae85dfe9009686f77963e4c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080987,
+            "localadmin_id":404484803,
+            "locality_id":9895003388,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003388,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Mechanicsville",
+    "wof:parent_id":404484803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.07461676697666,
+    40.34400294577155,
+    -75.07461676697666,
+    40.34400294577155
+],
+  "geometry": {"coordinates":[-75.07461676697666,40.34400294577155],"type":"Point"}
+}

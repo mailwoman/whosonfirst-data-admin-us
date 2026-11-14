@@ -1,0 +1,82 @@
+{
+  "id": 9895002995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.7339615071528,35.18209597594675,-80.7339615071528,35.18209597594675",
+    "geom:latitude":35.182096,
+    "geom:longitude":-80.733962,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005640: name \"Idelwile Brooke\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005640"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005640: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005640"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005640: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005640"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981333 (Charlotte).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981333 (Charlotte), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Idelwile Brooke"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981333,
+        102080981,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005640
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e8a7101fba5e7c111d1f4d60d9d268fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":9895002995,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002995,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Idelwile Brooke",
+    "wof:parent_id":85981333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.7339615071528,
+    35.18209597594675,
+    -80.7339615071528,
+    35.18209597594675
+],
+  "geometry": {"coordinates":[-80.7339615071528,35.18209597594675],"type":"Point"}
+}

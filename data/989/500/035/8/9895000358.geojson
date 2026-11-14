@@ -1,0 +1,82 @@
+{
+  "id": 9895000358,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.88246648697105,32.900130796865554,-85.88246648697105,32.900130796865554",
+    "geom:latitude":32.900131,
+    "geom:longitude":-85.882466,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137465: name \"Lake Hill Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137465"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137465: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137465"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137465: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137465"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913363 (Alexander City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913363 (Alexander City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lake Hill Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913363,
+        102085567,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":137465
+    },
+    "wof:country":"US",
+    "wof:geomhash":"45ce2a686f3ce5f8438660690b69f51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085567,
+            "locality_id":85913363,
+            "neighbourhood_id":9895000358,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000358,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Lake Hill Estates",
+    "wof:parent_id":85913363,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.88246648697105,
+    32.900130796865554,
+    -85.88246648697105,
+    32.900130796865554
+],
+  "geometry": {"coordinates":[-85.88246648697105,32.900130796865554],"type":"Point"}
+}

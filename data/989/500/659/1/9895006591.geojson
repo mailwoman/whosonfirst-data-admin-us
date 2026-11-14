@@ -1,0 +1,82 @@
+{
+  "id": 9895006591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.94198488767901,37.25792264168886,-79.94198488767901,37.25792264168886",
+    "geom:latitude":37.257923,
+    "geom:longitude":-79.941985,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1707187: name \"Pleasant Valley\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1707187"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1707187: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1707187"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1707187: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1707187"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728747 (Roanoke).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728747 (Roanoke), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pleasant Valley"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728747,
+        102086697,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1707187
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f75945018fd2fd1830d896d88222f21a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "neighbourhood_id":9895006591,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006591,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Pleasant Valley",
+    "wof:parent_id":101728747,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.94198488767901,
+    37.25792264168886,
+    -79.94198488767901,
+    37.25792264168886
+],
+  "geometry": {"coordinates":[-79.94198488767901,37.25792264168886],"type":"Point"}
+}

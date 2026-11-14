@@ -1,0 +1,80 @@
+{
+  "id": 9895001826,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.58492691477903,38.44595754618067,-75.58492691477903,38.44595754618067",
+    "geom:latitude":38.445958,
+    "geom:longitude":-75.584927,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 588995: name \"Foxwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/588995"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 588995: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/588995"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 588995: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/588995"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082715 (Wicomico).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082715 (Wicomico), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Foxwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082715,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":588995
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0473cd947c73b8eb2de0bb81c28a1a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":9895001826,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001826,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Foxwood",
+    "wof:parent_id":102082715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.58492691477903,
+    38.44595754618067,
+    -75.58492691477903,
+    38.44595754618067
+],
+  "geometry": {"coordinates":[-75.58492691477903,38.44595754618067],"type":"Point"}
+}

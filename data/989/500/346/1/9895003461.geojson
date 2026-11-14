@@ -1,0 +1,82 @@
+{
+  "id": 9895003461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.67624944666129,34.54289106733658,-82.67624944666129,34.54289106733658",
+    "geom:latitude":34.542891,
+    "geom:longitude":-82.676249,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233501: name \"Spring Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233501"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233501: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233501"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233501: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233501"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720807 (Anderson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720807 (Anderson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Spring Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720807,
+        102085401,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1233501
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ae3010272b19489a4e5cf7d80f69f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085401,
+            "locality_id":101720807,
+            "neighbourhood_id":9895003461,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003461,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Spring Park",
+    "wof:parent_id":101720807,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.67624944666129,
+    34.54289106733658,
+    -82.67624944666129,
+    34.54289106733658
+],
+  "geometry": {"coordinates":[-82.67624944666129,34.54289106733658],"type":"Point"}
+}

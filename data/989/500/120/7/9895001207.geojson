@@ -1,0 +1,82 @@
+{
+  "id": 9895001207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.75549671549614,33.87566654728153,-84.75549671549614,33.87566654728153",
+    "geom:latitude":33.875667,
+    "geom:longitude":-84.755497,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349826: name \"Devonshire\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349826"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349826: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349826"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349826: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349826"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936337 (Hiram).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936337 (Hiram), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Devonshire"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936337,
+        102084665,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":349826
+    },
+    "wof:country":"US",
+    "wof:geomhash":"122fb79b4c0bf5b7dd1c01ab24257b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936337,
+            "neighbourhood_id":9895001207,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001207,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Devonshire",
+    "wof:parent_id":85936337,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.75549671549614,
+    33.87566654728153,
+    -84.75549671549614,
+    33.87566654728153
+],
+  "geometry": {"coordinates":[-84.75549671549614,33.87566654728153],"type":"Point"}
+}

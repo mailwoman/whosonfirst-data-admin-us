@@ -1,0 +1,82 @@
+{
+  "id": 9895004854,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.95217510690443,41.18939447975331,-111.95217510690443,41.18939447975331",
+    "geom:latitude":41.189394,
+    "geom:longitude":-111.952175,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453175: name \"Country Hills Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453175"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453175: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453175"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453175: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453175"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728033 (Ogden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728033 (Ogden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Country Hills Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728033,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453175
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0fa6d940f89e2a6d0fa0bfe94bd5ded6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":9895004854,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004854,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Country Hills Addition",
+    "wof:parent_id":101728033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.95217510690443,
+    41.18939447975331,
+    -111.95217510690443,
+    41.18939447975331
+],
+  "geometry": {"coordinates":[-111.95217510690443,41.18939447975331],"type":"Point"}
+}

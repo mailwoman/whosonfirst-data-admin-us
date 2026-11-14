@@ -1,0 +1,82 @@
+{
+  "id": 9895007095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-132.63640784091845,55.55667120039876,-132.63640784091845,55.55667120039876",
+    "geom:latitude":55.556671,
+    "geom:longitude":-132.636408,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1866952: name \"Hollis\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1866952"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1866952: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1866952"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1866952: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1866952"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85917107 (Hollis).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85917107 (Hollis), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hollis"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85917107,
+        102191575,
+        1108960991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1866952
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ba0c76d9ba77e3b6637a61d64bba92c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":1108960991,
+            "locality_id":85917107,
+            "neighbourhood_id":9895007095,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895007095,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Hollis",
+    "wof:parent_id":85917107,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -132.63640784091845,
+    55.55667120039876,
+    -132.63640784091845,
+    55.55667120039876
+],
+  "geometry": {"coordinates":[-132.63640784091845,55.55667120039876],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006240,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.1179120022741,36.626504325896704,-82.1179120022741,36.626504325896704",
+    "geom:latitude":36.626504,
+    "geom:longitude":-82.117912,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673813: name \"Hossan Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673813"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673813: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673813"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673813: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673813"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728659 (Bristol).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728659 (Bristol), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hossan Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728659,
+        102084925,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1673813
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b039e1be1e551a45b185ae7e1ca94730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084925,
+            "locality_id":101728659,
+            "neighbourhood_id":9895006240,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006240,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Hossan Heights",
+    "wof:parent_id":101728659,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.1179120022741,
+    36.626504325896704,
+    -82.1179120022741,
+    36.626504325896704
+],
+  "geometry": {"coordinates":[-82.1179120022741,36.626504325896704],"type":"Point"}
+}

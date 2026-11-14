@@ -1,0 +1,82 @@
+{
+  "id": 9895006170,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.39093341008589,31.15940416009801,-81.39093341008589,31.15940416009801",
+    "geom:latitude":31.159404,
+    "geom:longitude":-81.390933,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671536: name \"Island Retreat\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671536"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671536: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671536"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671536: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671536"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937357 (St. Simons).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937357 (St. Simons), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Island Retreat"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85937357,
+        102081695,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671536
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec91170c8f2f1f6acd7d628551cfb13f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937357,
+            "neighbourhood_id":9895006170,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006170,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Island Retreat",
+    "wof:parent_id":85937357,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.39093341008589,
+    31.15940416009801,
+    -81.39093341008589,
+    31.15940416009801
+],
+  "geometry": {"coordinates":[-81.39093341008589,31.15940416009801],"type":"Point"}
+}

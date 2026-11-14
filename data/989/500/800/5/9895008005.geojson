@@ -1,0 +1,82 @@
+{
+  "id": 9895008005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.08199927938412,36.73477979917449,-108.08199927938412,36.73477979917449",
+    "geom:latitude":36.73478,
+    "geom:longitude":-108.081999,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806750: name \"Crouch Mesa\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806750"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806750: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806750"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806750: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806750"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85977185 (Lee Acres).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85977185 (Lee Acres), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Crouch Mesa"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        85977185,
+        102081171,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806750
+    },
+    "wof:country":"US",
+    "wof:geomhash":"59fdd5a45fd152df62e89f251bd9aad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081171,
+            "locality_id":85977185,
+            "neighbourhood_id":9895008005,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895008005,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Crouch Mesa",
+    "wof:parent_id":85977185,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.08199927938412,
+    36.73477979917449,
+    -108.08199927938412,
+    36.73477979917449
+],
+  "geometry": {"coordinates":[-108.08199927938412,36.73477979917449],"type":"Point"}
+}

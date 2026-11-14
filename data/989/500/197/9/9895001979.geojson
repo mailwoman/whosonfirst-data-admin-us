@@ -1,0 +1,84 @@
+{
+  "id": 9895001979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.19533293516369,42.36121646941981,-71.19533293516369,42.36121646941981",
+    "geom:latitude":42.361216,
+    "geom:longitude":-71.195333,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 617179: name \"Newton Corner\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/617179"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 617179: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/617179"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 617179: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/617179"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950341 (Newton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950341 (Newton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Newton Corner"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688645,
+        85950341,
+        102084643,
+        102191575,
+        404476411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":617179
+    },
+    "wof:country":"US",
+    "wof:geomhash":"644d6b29b9141d844f140922d772e3b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "neighbourhood_id":9895001979,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":9895001979,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Newton Corner",
+    "wof:parent_id":85950341,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.19533293516369,
+    42.36121646941981,
+    -71.19533293516369,
+    42.36121646941981
+],
+  "geometry": {"coordinates":[-71.19533293516369,42.36121646941981],"type":"Point"}
+}

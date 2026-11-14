@@ -1,0 +1,82 @@
+{
+  "id": 9895007512,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.153065757711,39.838617521485205,-105.153065757711,39.838617521485205",
+    "geom:latitude":39.838618,
+    "geom:longitude":-105.153066,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354933: name \"Cameo Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354933"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354933: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354933"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354933: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354933"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929333 (Arvada).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929333 (Arvada), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cameo Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929333,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354933
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f431acb28f0b435280456d5ed20f849e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":85929333,
+            "neighbourhood_id":9895007512,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007512,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Cameo Estates",
+    "wof:parent_id":85929333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.153065757711,
+    39.838617521485205,
+    -105.153065757711,
+    39.838617521485205
+],
+  "geometry": {"coordinates":[-105.153065757711,39.838617521485205],"type":"Point"}
+}

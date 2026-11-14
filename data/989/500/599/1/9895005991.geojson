@@ -1,0 +1,82 @@
+{
+  "id": 9895005991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.17251729093812,33.561975813682544,-116.17251729093812,33.561975813682544",
+    "geom:latitude":33.561976,
+    "geom:longitude":-116.172517,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661147: name \"One Hundred Palms\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661147"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661147: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661147"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661147: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661147"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85928221 (Oasis).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85928221 (Oasis), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "One Hundred Palms"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85928221,
+        102086221,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661147
+    },
+    "wof:country":"US",
+    "wof:geomhash":"486c6eb10610f2f9ac8d680b99d6f51b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85928221,
+            "neighbourhood_id":9895005991,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005991,
+    "wof:lastmodified":1794681139,
+    "wof:name":"One Hundred Palms",
+    "wof:parent_id":85928221,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.17251729093812,
+    33.561975813682544,
+    -116.17251729093812,
+    33.561975813682544
+],
+  "geometry": {"coordinates":[-116.17251729093812,33.561975813682544],"type":"Point"}
+}

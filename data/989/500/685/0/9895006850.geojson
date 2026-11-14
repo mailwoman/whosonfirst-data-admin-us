@@ -1,0 +1,82 @@
+{
+  "id": 9895006850,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.93007020018861,33.63030342651051,-117.93007020018861,33.63030342651051",
+    "geom:latitude":33.630303,
+    "geom:longitude":-117.93007,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765283: name \"Harbor Mobile Home Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765283"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765283: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765283"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765283: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765283"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923075 (Newport Beach).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923075 (Newport Beach), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Harbor Mobile Home Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923075,
+        102080847,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1765283
+    },
+    "wof:country":"US",
+    "wof:geomhash":"53fe47e5aa990db428ddf061570a158e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923075,
+            "neighbourhood_id":9895006850,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006850,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Harbor Mobile Home Park",
+    "wof:parent_id":85923075,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.93007020018861,
+    33.63030342651051,
+    -117.93007020018861,
+    33.63030342651051
+],
+  "geometry": {"coordinates":[-117.93007020018861,33.63030342651051],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.52552186229316,39.33622629243048,-76.52552186229316,39.33622629243048",
+    "geom:latitude":39.336226,
+    "geom:longitude":-76.525522,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 592189: name \"Holland Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/592189"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 592189: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/592189"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 592189: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/592189"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950221 (Rosedale).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950221 (Rosedale), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Holland Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85950221,
+        102082193,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":592189
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2096a7064193d1aa20d527f28224d05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950221,
+            "neighbourhood_id":9895001879,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001879,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Holland Hills",
+    "wof:parent_id":85950221,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.52552186229316,
+    39.33622629243048,
+    -76.52552186229316,
+    39.33622629243048
+],
+  "geometry": {"coordinates":[-76.52552186229316,39.33622629243048],"type":"Point"}
+}

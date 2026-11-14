@@ -1,0 +1,82 @@
+{
+  "id": 9895001251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.58594859696198,31.86049381433578,-81.58594859696198,31.86049381433578",
+    "geom:latitude":31.860494,
+    "geom:longitude":-81.585949,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357102: name \"Martin Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357102"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357102: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357102"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357102: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357102"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936767 (Hinesville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936767 (Hinesville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Martin Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936767,
+        102082901,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357102
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c65a617174b83cbd5e2f2a156bbc204c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082901,
+            "locality_id":85936767,
+            "neighbourhood_id":9895001251,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001251,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Martin Woods",
+    "wof:parent_id":85936767,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.58594859696198,
+    31.86049381433578,
+    -81.58594859696198,
+    31.86049381433578
+],
+  "geometry": {"coordinates":[-81.58594859696198,31.86049381433578],"type":"Point"}
+}

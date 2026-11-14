@@ -1,0 +1,80 @@
+{
+  "id": 9895002546,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.12418277188367,36.08348062627387,-79.12418277188367,36.08348062627387",
+    "geom:latitude":36.083481,
+    "geom:longitude":-79.124183,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002496: name \"Orange Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002496"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002496: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002496"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002496: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002496"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087647 (Orange).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087647 (Orange), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Orange Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087647,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1002496
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d2c7cff97c80be54e63f6a378a400de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087647,
+            "locality_id":9895002546,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002546,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Orange Heights",
+    "wof:parent_id":102087647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.12418277188367,
+    36.08348062627387,
+    -79.12418277188367,
+    36.08348062627387
+],
+  "geometry": {"coordinates":[-79.12418277188367,36.08348062627387],"type":"Point"}
+}

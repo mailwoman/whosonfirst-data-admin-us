@@ -1,0 +1,82 @@
+{
+  "id": 9895003738,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.8720325330239,32.80462678272927,-79.8720325330239,32.80462678272927",
+    "geom:latitude":32.804627,
+    "geom:longitude":-79.872033,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1252798: name \"Creekside Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1252798"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1252798: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1252798"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1252798: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1252798"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720773 (Mount Pleasant).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720773 (Mount Pleasant), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Creekside Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720773,
+        102085591,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1252798
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4870b3241493a550ae18776b07ed8e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085591,
+            "locality_id":101720773,
+            "neighbourhood_id":9895003738,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003738,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Creekside Park",
+    "wof:parent_id":101720773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.8720325330239,
+    32.80462678272927,
+    -79.8720325330239,
+    32.80462678272927
+],
+  "geometry": {"coordinates":[-79.8720325330239,32.80462678272927],"type":"Point"}
+}

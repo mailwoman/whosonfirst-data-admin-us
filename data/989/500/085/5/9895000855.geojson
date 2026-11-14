@@ -1,0 +1,82 @@
+{
+  "id": 9895000855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.5527889720541,33.15262608851104,-87.5527889720541,33.15262608851104",
+    "geom:latitude":33.152626,
+    "geom:longitude":-87.552789,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157843: name \"Mimosa Highlands\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157843"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157843: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157843"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157843: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157843"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914453 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914453 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mimosa Highlands"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914453,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":157843
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5b351b36e9111f9ea495aa712264a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85914453,
+            "neighbourhood_id":9895000855,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000855,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Mimosa Highlands",
+    "wof:parent_id":85914453,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.5527889720541,
+    33.15262608851104,
+    -87.5527889720541,
+    33.15262608851104
+],
+  "geometry": {"coordinates":[-87.5527889720541,33.15262608851104],"type":"Point"}
+}

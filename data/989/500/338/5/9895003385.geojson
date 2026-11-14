@@ -1,0 +1,82 @@
+{
+  "id": 9895003385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.97253602988278,40.85646109196427,-78.97253602988278,40.85646109196427",
+    "geom:latitude":40.856461,
+    "geom:longitude":-78.972536,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204046: name \"Locust\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204046"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204046: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204046"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204046: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204046"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404483473 (Canoe Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404483473 (Canoe Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Locust"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081387,
+        102191575,
+        404483473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1204046
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e7d18cf7f142656719545064f8de0e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081387,
+            "localadmin_id":404483473,
+            "locality_id":9895003385,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003385,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Locust",
+    "wof:parent_id":404483473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.97253602988278,
+    40.85646109196427,
+    -78.97253602988278,
+    40.85646109196427
+],
+  "geometry": {"coordinates":[-78.97253602988278,40.85646109196427],"type":"Point"}
+}

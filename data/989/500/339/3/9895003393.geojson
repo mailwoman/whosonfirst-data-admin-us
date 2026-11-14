@@ -1,0 +1,82 @@
+{
+  "id": 9895003393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.85281231299344,41.14451465187294,-78.85281231299344,41.14451465187294",
+    "geom:latitude":41.144515,
+    "geom:longitude":-78.852812,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204673: name \"Smithtown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204673"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204673: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204673"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204673: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204673"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486731 (Washington Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486731 (Washington Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Smithtown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102083883,
+        102191575,
+        404486731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1204673
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7e1aea7bf6815c560845c6bfac3f9bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083883,
+            "localadmin_id":404486731,
+            "locality_id":9895003393,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003393,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Smithtown",
+    "wof:parent_id":404486731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.85281231299344,
+    41.14451465187294,
+    -78.85281231299344,
+    41.14451465187294
+],
+  "geometry": {"coordinates":[-78.85281231299344,41.14451465187294],"type":"Point"}
+}

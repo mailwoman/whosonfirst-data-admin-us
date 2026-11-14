@@ -1,0 +1,82 @@
+{
+  "id": 9895002362,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.56872806136529,43.11813962952903,-73.56872806136529,43.11813962952903",
+    "geom:latitude":43.11814,
+    "geom:longitude":-73.568728,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 946785: name \"Clarks Mills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/946785"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 946785: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/946785"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 946785: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/946785"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404523311 (Greenwich).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404523311 (Greenwich), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Clarks Mills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102083153,
+        102191575,
+        404523311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":946785
+    },
+    "wof:country":"US",
+    "wof:geomhash":"45dcb94980645372e0377b3d6417bf32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083153,
+            "localadmin_id":404523311,
+            "locality_id":9895002362,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002362,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Clarks Mills",
+    "wof:parent_id":404523311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.56872806136529,
+    43.11813962952903,
+    -73.56872806136529,
+    43.11813962952903
+],
+  "geometry": {"coordinates":[-73.56872806136529,43.11813962952903],"type":"Point"}
+}

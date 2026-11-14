@@ -1,0 +1,80 @@
+{
+  "id": 9895001135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.93542725815144,33.292372688238764,-82.93542725815144,33.292372688238764",
+    "geom:latitude":33.292373,
+    "geom:longitude":-82.935427,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 331847: name \"Granite Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/331847"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 331847: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/331847"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 331847: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/331847"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084421 (Hancock).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084421 (Hancock), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Granite Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102084421,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":331847
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8fbe31e530fdf3f9977dcf6b48934d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084421,
+            "locality_id":9895001135,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001135,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Granite Hill",
+    "wof:parent_id":102084421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.93542725815144,
+    33.292372688238764,
+    -82.93542725815144,
+    33.292372688238764
+],
+  "geometry": {"coordinates":[-82.93542725815144,33.292372688238764],"type":"Point"}
+}

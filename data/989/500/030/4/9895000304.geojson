@@ -1,0 +1,80 @@
+{
+  "id": 9895000304,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.11540798465434,33.80005434075693,-87.11540798465434,33.80005434075693",
+    "geom:latitude":33.800054,
+    "geom:longitude":-87.115408,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 113205: name \"Argo\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/113205"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 113205: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/113205"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 113205: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/113205"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085523 (Walker).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085523 (Walker), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Argo"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085523,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":113205
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b68c968bdd5f9a121482d82fd8b125f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085523,
+            "locality_id":9895000304,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000304,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Argo",
+    "wof:parent_id":102085523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.11540798465434,
+    33.80005434075693,
+    -87.11540798465434,
+    33.80005434075693
+],
+  "geometry": {"coordinates":[-87.11540798465434,33.80005434075693],"type":"Point"}
+}

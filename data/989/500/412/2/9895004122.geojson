@@ -1,0 +1,82 @@
+{
+  "id": 9895004122,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.80667422664102,32.78306133706493,-96.80667422664102,32.78306133706493",
+    "geom:latitude":32.783061,
+    "geom:longitude":-96.806674,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380944: name \"Dallas\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380944"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380944: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380944"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380944: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380944"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101724385 (Dallas).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101724385 (Dallas), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dallas"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        101724385,
+        102080647,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1380944
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e41b69b50e52747ed9128e99e8778781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080647,
+            "locality_id":101724385,
+            "neighbourhood_id":9895004122,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004122,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Dallas",
+    "wof:parent_id":101724385,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.80667422664102,
+    32.78306133706493,
+    -96.80667422664102,
+    32.78306133706493
+],
+  "geometry": {"coordinates":[-96.80667422664102,32.78306133706493],"type":"Point"}
+}

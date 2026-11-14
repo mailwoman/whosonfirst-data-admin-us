@@ -1,0 +1,82 @@
+{
+  "id": 9895002260,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.71825701455384,39.9903156415007,-92.71825701455384,39.9903156415007",
+    "geom:latitude":39.990316,
+    "geom:longitude":-92.718257,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 741346: name \"Walnut\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/741346"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 741346: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/741346"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 741346: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/741346"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404517637 (Easley Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404517637 (Easley Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Walnut"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102086189,
+        102191575,
+        404517637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":741346
+    },
+    "wof:country":"US",
+    "wof:geomhash":"46a618707e63294f4a41bb30824d05df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086189,
+            "localadmin_id":404517637,
+            "locality_id":9895002260,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002260,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Walnut",
+    "wof:parent_id":404517637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.71825701455384,
+    39.9903156415007,
+    -92.71825701455384,
+    39.9903156415007
+],
+  "geometry": {"coordinates":[-92.71825701455384,39.9903156415007],"type":"Point"}
+}

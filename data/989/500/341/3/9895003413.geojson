@@ -1,0 +1,80 @@
+{
+  "id": 9895003413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.62982256517003,35.027079809385135,-81.62982256517003,35.027079809385135",
+    "geom:latitude":35.02708,
+    "geom:longitude":-81.629823,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228464: name \"Brookwood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228464"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228464: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228464"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228464: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228464"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085403 (Cherokee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085403 (Cherokee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brookwood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085403,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1228464
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a94b757c311fc4f2e456dfb3720c1eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085403,
+            "locality_id":9895003413,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003413,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Brookwood Estates",
+    "wof:parent_id":102085403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.62982256517003,
+    35.027079809385135,
+    -81.62982256517003,
+    35.027079809385135
+],
+  "geometry": {"coordinates":[-81.62982256517003,35.027079809385135],"type":"Point"}
+}

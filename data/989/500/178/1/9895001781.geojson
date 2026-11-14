@@ -1,0 +1,80 @@
+{
+  "id": 9895001781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.53353549662546,38.40012473852977,-75.53353549662546,38.40012473852977",
+    "geom:latitude":38.400125,
+    "geom:longitude":-75.533535,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 584402: name \"Five Points\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/584402"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 584402: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/584402"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 584402: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/584402"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082715 (Wicomico).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082715 (Wicomico), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Five Points"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082715,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":584402
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da189aef142f8ac26a7e7bc09d43e629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":9895001781,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001781,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Five Points",
+    "wof:parent_id":102082715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.53353549662546,
+    38.40012473852977,
+    -75.53353549662546,
+    38.40012473852977
+],
+  "geometry": {"coordinates":[-75.53353549662546,38.40012473852977],"type":"Point"}
+}

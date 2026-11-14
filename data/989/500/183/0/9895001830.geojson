@@ -1,0 +1,82 @@
+{
+  "id": 9895001830,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.07217383365622,39.5631763549978,-76.07217383365622,39.5631763549978",
+    "geom:latitude":39.563176,
+    "geom:longitude":-76.072174,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589173: name \"Concord\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589173"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589173: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589173"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589173: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589173"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949403 (Perryville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949403 (Perryville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Concord"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949403,
+        102082183,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":589173
+    },
+    "wof:country":"US",
+    "wof:geomhash":"044bad83a594416ff9757e3212887468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "locality_id":85949403,
+            "neighbourhood_id":9895001830,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001830,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Concord",
+    "wof:parent_id":85949403,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.07217383365622,
+    39.5631763549978,
+    -76.07217383365622,
+    39.5631763549978
+],
+  "geometry": {"coordinates":[-76.07217383365622,39.5631763549978],"type":"Point"}
+}

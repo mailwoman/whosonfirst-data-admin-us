@@ -1,0 +1,82 @@
+{
+  "id": 9895005289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.97217579576973,41.08133876659777,-111.97217579576973,41.08133876659777",
+    "geom:latitude":41.081339,
+    "geom:longitude":-111.972176,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453954: name \"Robins Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453954"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453954: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453954"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453954: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453954"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727897 (Layton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727897 (Layton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Robins Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727897,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453954
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dacf262f820617b97df55a5ffe1e78ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":9895005289,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005289,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Robins Park",
+    "wof:parent_id":101727897,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.97217579576973,
+    41.08133876659777,
+    -111.97217579576973,
+    41.08133876659777
+],
+  "geometry": {"coordinates":[-111.97217579576973,41.08133876659777],"type":"Point"}
+}

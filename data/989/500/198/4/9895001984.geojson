@@ -1,0 +1,82 @@
+{
+  "id": 9895001984,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.80197342288253,44.054749578220395,-84.80197342288253,44.054749578220395",
+    "geom:latitude":44.05475,
+    "geom:longitude":-84.801973,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 619880: name \"Airport Forest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/619880"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 619880: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/619880"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 619880: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/619880"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404507219 (Hayes Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404507219 (Hayes Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Airport Forest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688599,
+        102083753,
+        102191575,
+        404507219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":619880
+    },
+    "wof:country":"US",
+    "wof:geomhash":"190813b63bd6b008f3259b5a95370b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083753,
+            "localadmin_id":404507219,
+            "locality_id":9895001984,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":9895001984,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Airport Forest",
+    "wof:parent_id":404507219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.80197342288253,
+    44.054749578220395,
+    -84.80197342288253,
+    44.054749578220395
+],
+  "geometry": {"coordinates":[-84.80197342288253,44.054749578220395],"type":"Point"}
+}

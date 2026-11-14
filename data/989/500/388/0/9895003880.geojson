@@ -1,0 +1,80 @@
+{
+  "id": 9895003880,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.36378764553908,36.21065358983027,-83.36378764553908,36.21065358983027",
+    "geom:latitude":36.210654,
+    "geom:longitude":-83.363788,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311633: name \"Emerald Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311633"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311633: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311633"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311633: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311633"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086447 (Hamblen).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086447 (Hamblen), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Emerald Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086447,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1311633
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc7b680a7930ed409ae8a7615c0065d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":9895003880,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003880,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Emerald Acres",
+    "wof:parent_id":102086447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.36378764553908,
+    36.21065358983027,
+    -83.36378764553908,
+    36.21065358983027
+],
+  "geometry": {"coordinates":[-83.36378764553908,36.21065358983027],"type":"Point"}
+}

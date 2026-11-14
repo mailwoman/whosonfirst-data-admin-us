@@ -1,0 +1,82 @@
+{
+  "id": 9895007092,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.93080288973222,37.32105804144876,-121.93080288973222,37.32105804144876",
+    "geom:latitude":37.321058,
+    "geom:longitude":-121.930803,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1853404: name \"Parkmoor\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1853404"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1853404: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1853404"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1853404: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1853404"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85925501 (Burbank).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85925501 (Burbank), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Parkmoor"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85925501,
+        102081673,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1853404
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6296f964029c8acbc462f21283683b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925501,
+            "neighbourhood_id":9895007092,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007092,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Parkmoor",
+    "wof:parent_id":85925501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.93080288973222,
+    37.32105804144876,
+    -121.93080288973222,
+    37.32105804144876
+],
+  "geometry": {"coordinates":[-121.93080288973222,37.32105804144876],"type":"Point"}
+}

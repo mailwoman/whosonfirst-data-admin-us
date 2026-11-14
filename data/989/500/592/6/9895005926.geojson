@@ -1,0 +1,82 @@
+{
+  "id": 9895005926,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.43691136536208,38.60490988634024,-121.43691136536208,38.60490988634024",
+    "geom:latitude":38.60491,
+    "geom:longitude":-121.436911,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659934: name \"Swanston\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659934"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659934: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659934"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659934: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659934"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922845 (Sacramento).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922845 (Sacramento), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Swanston"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922845,
+        102082889,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1659934
+    },
+    "wof:country":"US",
+    "wof:geomhash":"091a39a4ed473a086f9adb4a3330d189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082889,
+            "locality_id":85922845,
+            "neighbourhood_id":9895005926,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005926,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Swanston",
+    "wof:parent_id":85922845,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.43691136536208,
+    38.60490988634024,
+    -121.43691136536208,
+    38.60490988634024
+],
+  "geometry": {"coordinates":[-121.43691136536208,38.60490988634024],"type":"Point"}
+}

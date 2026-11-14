@@ -1,0 +1,82 @@
+{
+  "id": 9895002305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.60571237810431,39.685403931503174,-74.60571237810431,39.685403931503174",
+    "geom:latitude":39.685404,
+    "geom:longitude":-74.605712,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 878513: name \"Mount\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/878513"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 878513: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/878513"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 878513: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/878513"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404477969 (Washington Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404477969 (Washington Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mount"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102087415,
+        102191575,
+        404477969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":878513
+    },
+    "wof:country":"US",
+    "wof:geomhash":"883afa9d1b268b17eddb8c05b6731587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087415,
+            "localadmin_id":404477969,
+            "locality_id":9895002305,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895002305,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Mount",
+    "wof:parent_id":404477969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.60571237810431,
+    39.685403931503174,
+    -74.60571237810431,
+    39.685403931503174
+],
+  "geometry": {"coordinates":[-74.60571237810431,39.685403931503174],"type":"Point"}
+}

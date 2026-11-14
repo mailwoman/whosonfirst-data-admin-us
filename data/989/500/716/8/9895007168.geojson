@@ -1,0 +1,82 @@
+{
+  "id": 9895007168,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.89567251048122,44.1414574402134,-72.89567251048122,44.1414574402134",
+    "geom:latitude":44.141457,
+    "geom:longitude":-72.895673,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1919220: name \"Sugarbush Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1919220"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1919220: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1919220"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1919220: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1919220"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404527313 (Warren).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404527313 (Warren), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sugarbush Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688763,
+        102080779,
+        102191575,
+        404527313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1919220
+    },
+    "wof:country":"US",
+    "wof:geomhash":"143e6220a29b32aff1c5b79bd03f46a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080779,
+            "localadmin_id":404527313,
+            "locality_id":9895007168,
+            "region_id":85688763
+        }
+    ],
+    "wof:id":9895007168,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Sugarbush Village",
+    "wof:parent_id":404527313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.89567251048122,
+    44.1414574402134,
+    -72.89567251048122,
+    44.1414574402134
+],
+  "geometry": {"coordinates":[-72.89567251048122,44.1414574402134],"type":"Point"}
+}

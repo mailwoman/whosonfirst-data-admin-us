@@ -1,0 +1,80 @@
+{
+  "id": 9895001067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.97730995955484,27.839199557107573,-81.97730995955484,27.839199557107573",
+    "geom:latitude":27.8392,
+    "geom:longitude":-81.97731,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 287991: name \"Oak Terrace\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/287991"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 287991: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/287991"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 287991: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/287991"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085843 (Polk).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085843 (Polk), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oak Terrace"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102085843,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":287991
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f89013f15499744402ed83cd9a00c350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085843,
+            "locality_id":9895001067,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001067,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Oak Terrace",
+    "wof:parent_id":102085843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.97730995955484,
+    27.839199557107573,
+    -81.97730995955484,
+    27.839199557107573
+],
+  "geometry": {"coordinates":[-81.97730995955484,27.839199557107573],"type":"Point"}
+}

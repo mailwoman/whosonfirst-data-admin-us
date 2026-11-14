@@ -1,0 +1,82 @@
+{
+  "id": 9895003037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.93007607023989,35.26403628588122,-80.93007607023989,35.26403628588122",
+    "geom:latitude":35.264036,
+    "geom:longitude":-80.930076,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005871: name \"Woodford Green\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005871"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005871: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005871"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005871: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005871"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981333 (Charlotte).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981333 (Charlotte), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodford Green"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981333,
+        102080981,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005871
+    },
+    "wof:country":"US",
+    "wof:geomhash":"130ccb0dc8293ea44e09995a4134c942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":9895003037,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003037,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Woodford Green",
+    "wof:parent_id":85981333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.93007607023989,
+    35.26403628588122,
+    -80.93007607023989,
+    35.26403628588122
+],
+  "geometry": {"coordinates":[-80.93007607023989,35.26403628588122],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003046,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.75923961864925,35.26542729230242,-80.75923961864925,35.26542729230242",
+    "geom:latitude":35.265427,
+    "geom:longitude":-80.75924,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005896: name \"Evergreen Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005896"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005896: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005896"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005896: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005896"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981333 (Charlotte).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981333 (Charlotte), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Evergreen Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981333,
+        102080981,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005896
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e0712fd4bb302194d6c34b32fd7a4588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":9895003046,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003046,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Evergreen Park",
+    "wof:parent_id":85981333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.75923961864925,
+    35.26542729230242,
+    -80.75923961864925,
+    35.26542729230242
+],
+  "geometry": {"coordinates":[-80.75923961864925,35.26542729230242],"type":"Point"}
+}

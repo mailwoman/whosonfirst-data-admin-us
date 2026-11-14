@@ -1,0 +1,82 @@
+{
+  "id": 9895006993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.36425368372576,42.055867142736375,-88.36425368372576,42.055867142736375",
+    "geom:latitude":42.055867,
+    "geom:longitude":-88.364254,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1816302: name \"Highland Haven\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1816302"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1816302: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1816302"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1816302: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1816302"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404498225 (Elgin Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404498225 (Elgin Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Highland Haven"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102086925,
+        102191575,
+        404498225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1816302
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f470758dd2bc023b406e72ea3535aef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498225,
+            "locality_id":9895006993,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895006993,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Highland Haven",
+    "wof:parent_id":404498225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.36425368372576,
+    42.055867142736375,
+    -88.36425368372576,
+    42.055867142736375
+],
+  "geometry": {"coordinates":[-88.36425368372576,42.055867142736375],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.5427145582009,33.95455277242551,-84.5427145582009,33.95455277242551",
+    "geom:latitude":33.954553,
+    "geom:longitude":-84.542715,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686157: name \"Fort Hill Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686157"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686157: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686157"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686157: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686157"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936135 (Marietta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936135 (Marietta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fort Hill Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936135,
+        102082313,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1686157
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1062c61ab595ec2b310ba454dd1d10b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":9895006321,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006321,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Fort Hill Homes",
+    "wof:parent_id":85936135,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.5427145582009,
+    33.95455277242551,
+    -84.5427145582009,
+    33.95455277242551
+],
+  "geometry": {"coordinates":[-84.5427145582009,33.95455277242551],"type":"Point"}
+}

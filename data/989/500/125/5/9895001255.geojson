@@ -1,0 +1,82 @@
+{
+  "id": 9895001255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.89382348280587,32.46598193814949,-84.89382348280587,32.46598193814949",
+    "geom:latitude":32.465982,
+    "geom:longitude":-84.893823,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357232: name \"Amber Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357232"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357232: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357232"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357232: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357232"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936243 (Columbus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936243 (Columbus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Amber Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936243,
+        102084429,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357232
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc33432b83bef58ef35c3613e743f4e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":9895001255,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001255,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Amber Acres",
+    "wof:parent_id":85936243,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.89382348280587,
+    32.46598193814949,
+    -84.89382348280587,
+    32.46598193814949
+],
+  "geometry": {"coordinates":[-84.89382348280587,32.46598193814949],"type":"Point"}
+}

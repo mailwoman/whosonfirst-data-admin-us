@@ -1,0 +1,82 @@
+{
+  "id": 9895000392,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.86610618941404,33.35150625642779,-86.86610618941404,33.35150625642779",
+    "geom:latitude":33.351506,
+    "geom:longitude":-86.866106,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 140342: name \"Timbercrest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/140342"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 140342: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/140342"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 140342: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/140342"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914475 (Hoover).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914475 (Hoover), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Timbercrest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914475,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":140342
+    },
+    "wof:country":"US",
+    "wof:geomhash":"febe110f74eeabacb5a6d877485d0bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914475,
+            "neighbourhood_id":9895000392,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000392,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Timbercrest",
+    "wof:parent_id":85914475,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.86610618941404,
+    33.35150625642779,
+    -86.86610618941404,
+    33.35150625642779
+],
+  "geometry": {"coordinates":[-86.86610618941404,33.35150625642779],"type":"Point"}
+}

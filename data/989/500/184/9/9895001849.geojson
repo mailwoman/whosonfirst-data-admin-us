@@ -1,0 +1,82 @@
+{
+  "id": 9895001849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.56996495275959,38.96123091589157,-76.56996495275959,38.96123091589157",
+    "geom:latitude":38.961231,
+    "geom:longitude":-76.569965,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589889: name \"Cape Saint John\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589889"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589889: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589889"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589889: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589889"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949735 (Parole).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949735 (Parole), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cape Saint John"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949735,
+        102083469,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":589889
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63cba4950718efd767a760fedf7f271a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949735,
+            "neighbourhood_id":9895001849,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001849,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Cape Saint John",
+    "wof:parent_id":85949735,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.56996495275959,
+    38.96123091589157,
+    -76.56996495275959,
+    38.96123091589157
+],
+  "geometry": {"coordinates":[-76.56996495275959,38.96123091589157],"type":"Point"}
+}

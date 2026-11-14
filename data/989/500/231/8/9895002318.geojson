@@ -1,0 +1,82 @@
+{
+  "id": 9895002318,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.00597222187254,40.261509067530056,-74.00597222187254,40.261509067530056",
+    "geom:latitude":40.261509,
+    "geom:longitude":-74.005972,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 882453: name \"Elberon Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/882453"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 882453: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/882453"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 882453: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/882453"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404478379 (Ocean Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404478379 (Ocean Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Elberon Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102085049,
+        102191575,
+        404478379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":882453
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c9c415a3e9dbceb1eb1b219fdb854acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478379,
+            "locality_id":9895002318,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895002318,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Elberon Park",
+    "wof:parent_id":404478379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00597222187254,
+    40.261509067530056,
+    -74.00597222187254,
+    40.261509067530056
+],
+  "geometry": {"coordinates":[-74.00597222187254,40.261509067530056],"type":"Point"}
+}

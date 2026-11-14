@@ -1,0 +1,82 @@
+{
+  "id": 9895001412,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.23535994016162,42.00281284097928,-88.23535994016162,42.00281284097928",
+    "geom:latitude":42.002813,
+    "geom:longitude":-88.23536,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 423195: name \"Spaulding\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/423195"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 423195: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/423195"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 423195: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/423195"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404497623 (Hanover Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404497623 (Hanover Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Spaulding"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102084317,
+        102191575,
+        404497623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":423195
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b65070b097130a86b72954cf8a568d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497623,
+            "locality_id":9895001412,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001412,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Spaulding",
+    "wof:parent_id":404497623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.23535994016162,
+    42.00281284097928,
+    -88.23535994016162,
+    42.00281284097928
+],
+  "geometry": {"coordinates":[-88.23535994016162,42.00281284097928],"type":"Point"}
+}

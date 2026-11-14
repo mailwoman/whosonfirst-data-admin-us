@@ -1,0 +1,80 @@
+{
+  "id": 9895003157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.04039332932199,35.785408254220535,-82.04039332932199,35.785408254220535",
+    "geom:latitude":35.785408,
+    "geom:longitude":-82.040393,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1023314: name \"Woodlawn\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1023314"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1023314: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1023314"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1023314: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1023314"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087903 (McDowell).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087903 (McDowell), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodlawn"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087903,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1023314
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d4b10b4409825a84d7a9006092c931e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087903,
+            "locality_id":9895003157,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003157,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Woodlawn",
+    "wof:parent_id":102087903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.04039332932199,
+    35.785408254220535,
+    -82.04039332932199,
+    35.785408254220535
+],
+  "geometry": {"coordinates":[-82.04039332932199,35.785408254220535],"type":"Point"}
+}

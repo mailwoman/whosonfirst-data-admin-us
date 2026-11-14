@@ -1,0 +1,82 @@
+{
+  "id": 9895006437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.00665062795976,39.58344242350042,-77.00665062795976,39.58344242350042",
+    "geom:latitude":39.583442,
+    "geom:longitude":-77.006651,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695829: name \"Marbeth Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695829"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695829: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695829"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695829: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695829"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949353 (Westminster).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949353 (Westminster), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Marbeth Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949353,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695829
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f62b41f70d11a7011ea1652ca71a6bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "neighbourhood_id":9895006437,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006437,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Marbeth Hill",
+    "wof:parent_id":85949353,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.00665062795976,
+    39.58344242350042,
+    -77.00665062795976,
+    39.58344242350042
+],
+  "geometry": {"coordinates":[-77.00665062795976,39.58344242350042],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895005582,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.93072424346579,36.62343309228815,-82.93072424346579,36.62343309228815",
+    "geom:latitude":36.623433,
+    "geom:longitude":-82.930724,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1498101: name \"Jennings Store\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1498101"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1498101: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1498101"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1498101: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1498101"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083821 (Scott).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083821 (Scott), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jennings Store"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102083821,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1498101
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3705b18ca7ff5ab57b415676c89cde2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083821,
+            "locality_id":9895005582,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005582,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Jennings Store",
+    "wof:parent_id":102083821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.93072424346579,
+    36.62343309228815,
+    -82.93072424346579,
+    36.62343309228815
+],
+  "geometry": {"coordinates":[-82.93072424346579,36.62343309228815],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895005556,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.33693188632697,38.87400876917177,-77.33693188632697,38.87400876917177",
+    "geom:latitude":38.874009,
+    "geom:longitude":-77.336932,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1495162: name \"Waples Mill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1495162"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1495162: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1495162"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1495162: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1495162"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101729779 (Oakton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101729779 (Oakton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Waples Mill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101729779,
+        102084863,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1495162
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a07271abe9cbdabaa1d829383b577d27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729779,
+            "neighbourhood_id":9895005556,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005556,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Waples Mill",
+    "wof:parent_id":101729779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.33693188632697,
+    38.87400876917177,
+    -77.33693188632697,
+    38.87400876917177
+],
+  "geometry": {"coordinates":[-77.33693188632697,38.87400876917177],"type":"Point"}
+}

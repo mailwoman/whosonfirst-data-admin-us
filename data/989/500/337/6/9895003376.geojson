@@ -1,0 +1,82 @@
+{
+  "id": 9895003376,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.9677297285211,40.01316644765235,-75.9677297285211,40.01316644765235",
+    "geom:latitude":40.013166,
+    "geom:longitude":-75.96773,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1203306: name \"Cole Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1203306"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1203306: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1203306"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1203306: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1203306"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404485433 (Salisbury Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404485433 (Salisbury Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cole Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081377,
+        102191575,
+        404485433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1203306
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e4b347865fff3c331846776c52d5ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081377,
+            "localadmin_id":404485433,
+            "locality_id":9895003376,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003376,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Cole Hill",
+    "wof:parent_id":404485433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.9677297285211,
+    40.01316644765235,
+    -75.9677297285211,
+    40.01316644765235
+],
+  "geometry": {"coordinates":[-75.9677297285211,40.01316644765235],"type":"Point"}
+}

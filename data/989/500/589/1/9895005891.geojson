@@ -1,0 +1,80 @@
+{
+  "id": 9895005891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-123.42558006679468,39.409058194396714,-123.42558006679468,39.409058194396714",
+    "geom:latitude":39.409058,
+    "geom:longitude":-123.42558,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1658355: name \"Crowley\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1658355"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1658355: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1658355"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1658355: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1658355"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082885 (Mendocino).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082885 (Mendocino), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Crowley"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102082885,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1658355
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3a562f69244f90ce354681972deddcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082885,
+            "locality_id":9895005891,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005891,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Crowley",
+    "wof:parent_id":102082885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.42558006679468,
+    39.409058194396714,
+    -123.42558006679468,
+    39.409058194396714
+],
+  "geometry": {"coordinates":[-123.42558006679468,39.409058194396714],"type":"Point"}
+}

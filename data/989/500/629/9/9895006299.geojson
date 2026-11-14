@@ -1,0 +1,82 @@
+{
+  "id": 9895006299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.37165122680499,37.93354046084205,-122.37165122680499,37.93354046084205",
+    "geom:latitude":37.93354,
+    "geom:longitude":-122.371651,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682736: name \"Atchison Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682736"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682736: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682736"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682736: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682736"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922131 (Richmond).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922131 (Richmond), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Atchison Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922131,
+        102086225,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1682736
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55fb53601bcb673bcb508f4f5377e7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922131,
+            "neighbourhood_id":9895006299,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006299,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Atchison Village",
+    "wof:parent_id":85922131,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.37165122680499,
+    37.93354046084205,
+    -122.37165122680499,
+    37.93354046084205
+],
+  "geometry": {"coordinates":[-122.37165122680499,37.93354046084205],"type":"Point"}
+}

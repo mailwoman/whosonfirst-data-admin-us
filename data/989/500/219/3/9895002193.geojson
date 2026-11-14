@@ -1,0 +1,82 @@
+{
+  "id": 9895002193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.23342846450524,32.22793179283146,-90.23342846450524,32.22793179283146",
+    "geom:latitude":32.227932,
+    "geom:longitude":-90.233428,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688661: name \"Warren Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688661"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688661: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688661"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688661: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688661"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969693 (Jackson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969693 (Jackson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Warren Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969693,
+        102081407,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":688661
+    },
+    "wof:country":"US",
+    "wof:geomhash":"07fc4ea331f6fed1d8e5e8e178da991e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":9895002193,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002193,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Warren Place",
+    "wof:parent_id":85969693,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.23342846450524,
+    32.22793179283146,
+    -90.23342846450524,
+    32.22793179283146
+],
+  "geometry": {"coordinates":[-90.23342846450524,32.22793179283146],"type":"Point"}
+}

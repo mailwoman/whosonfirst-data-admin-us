@@ -1,0 +1,82 @@
+{
+  "id": 9895006956,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.48832140655021,37.620774326203986,-122.48832140655021,37.620774326203986",
+    "geom:latitude":37.620774,
+    "geom:longitude":-122.488321,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1785802: name \"Fairway Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1785802"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1785802: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1785802"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1785802: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1785802"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922495 (Pacifica).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922495 (Pacifica), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fairway Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922495,
+        102085387,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1785802
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68b22e1ab04679dbe16a2b4fb4b2de4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922495,
+            "neighbourhood_id":9895006956,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006956,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Fairway Park",
+    "wof:parent_id":85922495,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.48832140655021,
+    37.620774326203986,
+    -122.48832140655021,
+    37.620774326203986
+],
+  "geometry": {"coordinates":[-122.48832140655021,37.620774326203986],"type":"Point"}
+}

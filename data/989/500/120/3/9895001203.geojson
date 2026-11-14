@@ -1,0 +1,82 @@
+{
+  "id": 9895001203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.35346561658854,31.772146169408487,-82.35346561658854,31.772146169408487",
+    "geom:latitude":31.772146,
+    "geom:longitude":-82.353466,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349207: name \"Speer Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349207"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349207: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349207"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349207: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349207"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937113 (Baxley).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937113 (Baxley), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Speer Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85937113,
+        102081679,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":349207
+    },
+    "wof:country":"US",
+    "wof:geomhash":"50f3067d12b2caaa7168a99efccf1a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081679,
+            "locality_id":85937113,
+            "neighbourhood_id":9895001203,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001203,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Speer Homes",
+    "wof:parent_id":85937113,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.35346561658854,
+    31.772146169408487,
+    -82.35346561658854,
+    31.772146169408487
+],
+  "geometry": {"coordinates":[-82.35346561658854,31.772146169408487],"type":"Point"}
+}

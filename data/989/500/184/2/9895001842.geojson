@@ -1,0 +1,82 @@
+{
+  "id": 9895001842,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.05078363520103,39.69428428146494,-76.05078363520103,39.69428428146494",
+    "geom:latitude":39.694284,
+    "geom:longitude":-76.050784,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589522: name \"Sunrise Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589522"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589522: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589522"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589522: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589522"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949401 (Rising Sun).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949401 (Rising Sun), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunrise Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949401,
+        102082183,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":589522
+    },
+    "wof:country":"US",
+    "wof:geomhash":"afa5c640ad2d9852bdc55509c4ce4393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "locality_id":85949401,
+            "neighbourhood_id":9895001842,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001842,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Sunrise Estates",
+    "wof:parent_id":85949401,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.05078363520103,
+    39.69428428146494,
+    -76.05078363520103,
+    39.69428428146494
+],
+  "geometry": {"coordinates":[-76.05078363520103,39.69428428146494],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000344,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.18525015638788,32.5756945162724,-86.18525015638788,32.5756945162724",
+    "geom:latitude":32.575695,
+    "geom:longitude":-86.18525,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137161: name \"Cherokee Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137161"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137161: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137161"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137161: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137161"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085631 (Elmore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085631 (Elmore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cherokee Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085631,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":137161
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5794cb9d5fe480b9716c69d2af7bcd0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085631,
+            "locality_id":9895000344,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000344,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Cherokee Estates",
+    "wof:parent_id":102085631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.18525015638788,
+    32.5756945162724,
+    -86.18525015638788,
+    32.5756945162724
+],
+  "geometry": {"coordinates":[-86.18525015638788,32.5756945162724],"type":"Point"}
+}

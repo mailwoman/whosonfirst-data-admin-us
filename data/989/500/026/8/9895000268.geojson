@@ -1,0 +1,82 @@
+{
+  "id": 9895000268,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.7726722293274,35.16759017111088,-92.7726722293274,35.16759017111088",
+    "geom:latitude":35.16759,
+    "geom:longitude":-92.772672,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 66186: name \"Country Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/66186"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 66186: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/66186"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 66186: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/66186"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85920189 (Morrilton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85920189 (Morrilton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Country Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        85920189,
+        102083217,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":66186
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c49acae0d579fb18357d8e0330241d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083217,
+            "locality_id":85920189,
+            "neighbourhood_id":9895000268,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000268,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Country Estates",
+    "wof:parent_id":85920189,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.7726722293274,
+    35.16759017111088,
+    -92.7726722293274,
+    35.16759017111088
+],
+  "geometry": {"coordinates":[-92.7726722293274,35.16759017111088],"type":"Point"}
+}

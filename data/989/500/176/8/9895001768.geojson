@@ -1,0 +1,80 @@
+{
+  "id": 9895001768,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.69298513094837,38.13179667732926,-75.69298513094837,38.13179667732926",
+    "geom:latitude":38.131797,
+    "geom:longitude":-75.692985,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 583570: name \"Camp Somerset\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/583570"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 583570: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/583570"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 583570: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/583570"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082187 (Somerset).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082187 (Somerset), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Camp Somerset"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082187,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":583570
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95177ac6f3b0d3678bf401655483eb74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082187,
+            "locality_id":9895001768,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001768,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Camp Somerset",
+    "wof:parent_id":102082187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.69298513094837,
+    38.13179667732926,
+    -75.69298513094837,
+    38.13179667732926
+],
+  "geometry": {"coordinates":[-75.69298513094837,38.13179667732926],"type":"Point"}
+}

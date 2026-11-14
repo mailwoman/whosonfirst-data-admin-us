@@ -1,0 +1,82 @@
+{
+  "id": 9895007871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.70348840602895,28.379707821231637,-80.70348840602895,28.379707821231637",
+    "geom:latitude":28.379708,
+    "geom:longitude":-80.703488,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805195: name \"Tropical Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805195"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805195: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805195"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805195: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805195"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85935061 (Merritt Island).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85935061 (Merritt Island), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tropical Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85935061,
+        102084721,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805195
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6164caa939dcdb124c3099d0756b197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084721,
+            "locality_id":85935061,
+            "neighbourhood_id":9895007871,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007871,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Tropical Park",
+    "wof:parent_id":85935061,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.70348840602895,
+    28.379707821231637,
+    -80.70348840602895,
+    28.379707821231637
+],
+  "geometry": {"coordinates":[-80.70348840602895,28.379707821231637],"type":"Point"}
+}

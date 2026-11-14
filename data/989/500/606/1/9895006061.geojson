@@ -1,0 +1,82 @@
+{
+  "id": 9895006061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.06629485143968,38.41789875844144,-75.06629485143968,38.41789875844144",
+    "geom:latitude":38.417899,
+    "geom:longitude":-75.066295,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668734: name \"Caine Keys\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668734"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668734: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668734"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668734: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668734"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949245 (Ocean City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949245 (Ocean City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Caine Keys"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949245,
+        102081599,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1668734
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9ef354b319cfbfdae86ba5319113db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "neighbourhood_id":9895006061,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006061,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Caine Keys",
+    "wof:parent_id":85949245,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.06629485143968,
+    38.41789875844144,
+    -75.06629485143968,
+    38.41789875844144
+],
+  "geometry": {"coordinates":[-75.06629485143968,38.41789875844144],"type":"Point"}
+}

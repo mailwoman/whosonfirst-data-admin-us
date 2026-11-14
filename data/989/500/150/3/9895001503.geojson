@@ -1,0 +1,82 @@
+{
+  "id": 9895001503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.62221000154985,38.985008003685984,-95.62221000154985,38.985008003685984",
+    "geom:latitude":38.985008,
+    "geom:longitude":-95.62221,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 484944: name \"Lindbloom Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/484944"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 484944: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/484944"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 484944: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/484944"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404504947 (Monmouth Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404504947 (Monmouth Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lindbloom Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688555,
+        102084175,
+        102191575,
+        404504947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":484944
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c01e246dfc8930fba8ac554bd4339916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404504947,
+            "locality_id":9895001503,
+            "region_id":85688555
+        }
+    ],
+    "wof:id":9895001503,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Lindbloom Park",
+    "wof:parent_id":404504947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.62221000154985,
+    38.985008003685984,
+    -95.62221000154985,
+    38.985008003685984
+],
+  "geometry": {"coordinates":[-95.62221000154985,38.985008003685984],"type":"Point"}
+}

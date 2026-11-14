@@ -1,0 +1,82 @@
+{
+  "id": 9895006872,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.90395820507177,33.743633240553905,-117.90395820507177,33.743633240553905",
+    "geom:latitude":33.743633,
+    "geom:longitude":-117.903958,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765463: name \"Fairview Mobile Home Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765463"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765463: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765463"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765463: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765463"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923049 (Santa Ana).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923049 (Santa Ana), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fairview Mobile Home Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923049,
+        102080847,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1765463
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47c084f654c0d3e4b02f87b12b28738b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923049,
+            "neighbourhood_id":9895006872,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006872,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Fairview Mobile Home Estates",
+    "wof:parent_id":85923049,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.90395820507177,
+    33.743633240553905,
+    -117.90395820507177,
+    33.743633240553905
+],
+  "geometry": {"coordinates":[-117.90395820507177,33.743633240553905],"type":"Point"}
+}

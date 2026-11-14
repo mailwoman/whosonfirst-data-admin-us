@@ -1,0 +1,82 @@
+{
+  "id": 9895001217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.76678147498316,32.42129643490709,-81.76678147498316,32.42129643490709",
+    "geom:latitude":32.421296,
+    "geom:longitude":-81.766781,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 350489: name \"Woodlawn Terrace\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/350489"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 350489: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/350489"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 350489: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/350489"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85935999 (Statesboro).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85935999 (Statesboro), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodlawn Terrace"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85935999,
+        102084405,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":350489
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f9fec5d8143d2b436cd9b74d0fa42866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":9895001217,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001217,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Woodlawn Terrace",
+    "wof:parent_id":85935999,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.76678147498316,
+    32.42129643490709,
+    -81.76678147498316,
+    32.42129643490709
+],
+  "geometry": {"coordinates":[-81.76678147498316,32.42129643490709],"type":"Point"}
+}

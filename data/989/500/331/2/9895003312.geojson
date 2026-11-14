@@ -1,0 +1,82 @@
+{
+  "id": 9895003312,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.58852105536616,40.738992504412366,-75.58852105536616,40.738992504412366",
+    "geom:latitude":40.738993,
+    "geom:longitude":-75.588521,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1195958: name \"Walnutport Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1195958"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1195958: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1195958"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1195958: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1195958"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486359 (Lehigh Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486359 (Lehigh Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Walnutport Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081395,
+        102191575,
+        404486359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1195958
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed4eeaf23e3b23e76fa15c8481381d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081395,
+            "localadmin_id":404486359,
+            "locality_id":9895003312,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003312,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Walnutport Acres",
+    "wof:parent_id":404486359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.58852105536616,
+    40.738992504412366,
+    -75.58852105536616,
+    40.738992504412366
+],
+  "geometry": {"coordinates":[-75.58852105536616,40.738992504412366],"type":"Point"}
+}

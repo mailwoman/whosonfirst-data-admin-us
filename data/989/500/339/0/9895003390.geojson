@@ -1,0 +1,82 @@
+{
+  "id": 9895003390,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.58328264123836,41.76230546122392,-76.58328264123836,41.76230546122392",
+    "geom:latitude":41.762305,
+    "geom:longitude":-76.583283,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204234: name \"Mountain Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204234"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204234: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204234"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204234: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204234"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404482717 (Burlington Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404482717 (Burlington Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mountain Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081319,
+        102191575,
+        404482717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1204234
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d285d957861daed6ebfc3c508a066564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081319,
+            "localadmin_id":404482717,
+            "locality_id":9895003390,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003390,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Mountain Lake",
+    "wof:parent_id":404482717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.58328264123836,
+    41.76230546122392,
+    -76.58328264123836,
+    41.76230546122392
+],
+  "geometry": {"coordinates":[-76.58328264123836,41.76230546122392],"type":"Point"}
+}

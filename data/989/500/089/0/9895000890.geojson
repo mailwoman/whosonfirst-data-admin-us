@@ -1,0 +1,80 @@
+{
+  "id": 9895000890,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.10116900768655,39.05916188050495,-107.10116900768655,39.05916188050495",
+    "geom:latitude":39.059162,
+    "geom:longitude":-107.101169,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 175564: name \"Crystal\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/175564"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 175564: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/175564"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 175564: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/175564"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083377 (Gunnison).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083377 (Gunnison), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Crystal"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102083377,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":175564
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f7af880346cb976e39d32867e6a1922f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083377,
+            "locality_id":9895000890,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000890,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Crystal",
+    "wof:parent_id":102083377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.10116900768655,
+    39.05916188050495,
+    -107.10116900768655,
+    39.05916188050495
+],
+  "geometry": {"coordinates":[-107.10116900768655,39.05916188050495],"type":"Point"}
+}

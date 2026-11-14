@@ -1,0 +1,84 @@
+{
+  "id": 9895006758,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.56116321715132,41.74809833539025,-87.56116321715132,41.74809833539025",
+    "geom:latitude":41.748098,
+    "geom:longitude":-87.561163,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1737437: name \"Cheltenham\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1737437"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1737437: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1737437"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1737437: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1737437"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940195 (Chicago).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940195 (Chicago), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cheltenham"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940195,
+        102084317,
+        102191575,
+        404496273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1737437
+    },
+    "wof:country":"US",
+    "wof:geomhash":"990c31fb8ff6a3240c3d18d9947f1431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":9895006758,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895006758,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Cheltenham",
+    "wof:parent_id":85940195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.56116321715132,
+    41.74809833539025,
+    -87.56116321715132,
+    41.74809833539025
+],
+  "geometry": {"coordinates":[-87.56116321715132,41.74809833539025],"type":"Point"}
+}

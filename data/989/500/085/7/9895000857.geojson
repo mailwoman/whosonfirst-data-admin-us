@@ -1,0 +1,80 @@
+{
+  "id": 9895000857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.47500904835611,33.119293384173794,-87.47500904835611,33.119293384173794",
+    "geom:latitude":33.119293,
+    "geom:longitude":-87.475009,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157851: name \"Monticello Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157851"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157851: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157851"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157851: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157851"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Monticello Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":157851
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8a141eb76b8b3d9f281571286e4e2a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000857,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000857,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Monticello Estates",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.47500904835611,
+    33.119293384173794,
+    -87.47500904835611,
+    33.119293384173794
+],
+  "geometry": {"coordinates":[-87.47500904835611,33.119293384173794],"type":"Point"}
+}

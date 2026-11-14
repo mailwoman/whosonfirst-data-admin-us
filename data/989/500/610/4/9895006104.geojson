@@ -1,0 +1,82 @@
+{
+  "id": 9895006104,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.08602130944708,31.568791967465497,-84.08602130944708,31.568791967465497",
+    "geom:latitude":31.568792,
+    "geom:longitude":-84.086021,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671049: name \"Brierwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671049"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671049: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671049"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671049: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671049"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85935991 (Albany).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85935991 (Albany), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brierwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85935991,
+        102084427,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671049
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4f5398204d485757019f796231e5e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":9895006104,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006104,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Brierwood",
+    "wof:parent_id":85935991,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.08602130944708,
+    31.568791967465497,
+    -84.08602130944708,
+    31.568791967465497
+],
+  "geometry": {"coordinates":[-84.08602130944708,31.568791967465497],"type":"Point"}
+}

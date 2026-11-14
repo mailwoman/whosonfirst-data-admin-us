@@ -1,0 +1,82 @@
+{
+  "id": 9895003338,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.354676892877,40.65509705918567,-76.354676892877,40.65509705918567",
+    "geom:latitude":40.655097,
+    "geom:longitude":-76.354677,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197663: name \"Swatara\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197663"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197663: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197663"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197663: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197663"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404488151 (Reilly Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404488151 (Reilly Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Swatara"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081271,
+        102191575,
+        404488151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1197663
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dad5bc9a7006b4506ec7a6ae7898f0f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081271,
+            "localadmin_id":404488151,
+            "locality_id":9895003338,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003338,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Swatara",
+    "wof:parent_id":404488151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.354676892877,
+    40.65509705918567,
+    -76.354676892877,
+    40.65509705918567
+],
+  "geometry": {"coordinates":[-76.354676892877,40.65509705918567],"type":"Point"}
+}

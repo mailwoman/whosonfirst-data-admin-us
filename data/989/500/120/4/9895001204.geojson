@@ -1,0 +1,80 @@
+{
+  "id": 9895001204,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.83466583706863,33.85650004034322,-84.83466583706863,33.85650004034322",
+    "geom:latitude":33.8565,
+    "geom:longitude":-84.834666,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349797: name \"Campground School Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349797"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349797: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349797"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349797: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349797"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084665 (Paulding).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084665 (Paulding), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Campground School Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102084665,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":349797
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c1abc5e5181037e59193b11157af9f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":9895001204,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001204,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Campground School Estates",
+    "wof:parent_id":102084665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.83466583706863,
+    33.85650004034322,
+    -84.83466583706863,
+    33.85650004034322
+],
+  "geometry": {"coordinates":[-84.83466583706863,33.85650004034322],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895003780,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.03491382360198,35.900087997826574,-84.03491382360198,35.900087997826574",
+    "geom:latitude":35.900088,
+    "geom:longitude":-84.034914,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1275041: name \"Woodland Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1275041"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1275041: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1275041"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1275041: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1275041"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086455 (Knox).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086455 (Knox), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodland Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086455,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1275041
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a4a557d984deda83208ea99c772fd03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":9895003780,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003780,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Woodland Acres",
+    "wof:parent_id":102086455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.03491382360198,
+    35.900087997826574,
+    -84.03491382360198,
+    35.900087997826574
+],
+  "geometry": {"coordinates":[-84.03491382360198,35.900087997826574],"type":"Point"}
+}

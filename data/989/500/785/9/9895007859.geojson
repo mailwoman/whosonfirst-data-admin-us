@@ -1,0 +1,84 @@
+{
+  "id": 9895007859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.30222557180728,43.18320451108455,-83.30222557180728,43.18320451108455",
+    "geom:latitude":43.183205,
+    "geom:longitude":-83.302226,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804668: name \"Barnes Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804668"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804668: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804668"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804668: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804668"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85952393 (Barnes Lake-Millers Lake).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85952393 (Barnes Lake-Millers Lake), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Barnes Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688599,
+        85952393,
+        102083637,
+        102191575,
+        404508059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804668
+    },
+    "wof:country":"US",
+    "wof:geomhash":"607f48e5809ed3968c2224b4e8952100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083637,
+            "localadmin_id":404508059,
+            "locality_id":85952393,
+            "neighbourhood_id":9895007859,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":9895007859,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Barnes Lake",
+    "wof:parent_id":85952393,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.30222557180728,
+    43.18320451108455,
+    -83.30222557180728,
+    43.18320451108455
+],
+  "geometry": {"coordinates":[-83.30222557180728,43.18320451108455],"type":"Point"}
+}

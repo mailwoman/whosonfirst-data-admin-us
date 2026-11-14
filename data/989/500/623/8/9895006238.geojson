@@ -1,0 +1,82 @@
+{
+  "id": 9895006238,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.8762986460246,33.57623241613988,-83.8762986460246,33.57623241613988",
+    "geom:latitude":33.576232,
+    "geom:longitude":-83.876299,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673626: name \"Twin Oaks\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673626"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673626: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673626"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673626: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673626"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936971 (Covington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936971 (Covington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Twin Oaks"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936971,
+        102082963,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1673626
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c0086206f4cf4493dabd4eaa790f1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082963,
+            "locality_id":85936971,
+            "neighbourhood_id":9895006238,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006238,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Twin Oaks",
+    "wof:parent_id":85936971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.8762986460246,
+    33.57623241613988,
+    -83.8762986460246,
+    33.57623241613988
+],
+  "geometry": {"coordinates":[-83.8762986460246,33.57623241613988],"type":"Point"}
+}

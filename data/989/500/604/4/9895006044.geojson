@@ -1,0 +1,80 @@
+{
+  "id": 9895006044,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.4961382484477,33.56892149729957,-116.4961382484477,33.56892149729957",
+    "geom:latitude":33.568921,
+    "geom:longitude":-116.496138,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1667805: name \"Spring Crest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1667805"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1667805: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1667805"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1667805: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1667805"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086221 (Riverside).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086221 (Riverside), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Spring Crest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102086221,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1667805
+    },
+    "wof:country":"US",
+    "wof:geomhash":"05299ef2a11fc04624e6099f57ca3eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":9895006044,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006044,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Spring Crest",
+    "wof:parent_id":102086221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.4961382484477,
+    33.56892149729957,
+    -116.4961382484477,
+    33.56892149729957
+],
+  "geometry": {"coordinates":[-116.4961382484477,33.56892149729957],"type":"Point"}
+}

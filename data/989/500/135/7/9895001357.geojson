@@ -1,0 +1,82 @@
+{
+  "id": 9895001357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.39357904114021,44.66687359047044,-111.39357904114021,44.66687359047044",
+    "geom:latitude":44.666874,
+    "geom:longitude":-111.393579,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 397840: name \"Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/397840"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 397840: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/397840"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 397840: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/397840"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937763 (Island Park).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937763 (Island Park), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688657,
+        85937763,
+        102085125,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":397840
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bac0eca96867391d3966f34ff18748d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085125,
+            "locality_id":85937763,
+            "neighbourhood_id":9895001357,
+            "region_id":85688657
+        }
+    ],
+    "wof:id":9895001357,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Lake",
+    "wof:parent_id":85937763,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.39357904114021,
+    44.66687359047044,
+    -111.39357904114021,
+    44.66687359047044
+],
+  "geometry": {"coordinates":[-111.39357904114021,44.66687359047044],"type":"Point"}
+}

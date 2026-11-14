@@ -1,0 +1,82 @@
+{
+  "id": 9895005830,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.22958273227307,36.55427810624833,-82.22958273227307,36.55427810624833",
+    "geom:latitude":36.554278,
+    "geom:longitude":-82.229583,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640560: name \"Sunnybrook Number Two\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640560"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640560: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640560"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640560: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640560"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722903 (Bristol).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722903 (Bristol), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunnybrook Number Two"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722903,
+        102086471,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1640560
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0404cbde580fbad9310e4bf93c2ac61f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":9895005830,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895005830,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Sunnybrook Number Two",
+    "wof:parent_id":101722903,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.22958273227307,
+    36.55427810624833,
+    -82.22958273227307,
+    36.55427810624833
+],
+  "geometry": {"coordinates":[-82.22958273227307,36.55427810624833],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003662,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.07754074304398,33.823787636694725,-79.07754074304398,33.823787636694725",
+    "geom:latitude":33.823788,
+    "geom:longitude":-79.077541,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243928: name \"Quattlebaum Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243928"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243928: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243928"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243928: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243928"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720671 (Conway).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720671 (Conway), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Quattlebaum Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720671,
+        102085687,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1243928
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3add0e56c265cdad490de2fa85ffff17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085687,
+            "locality_id":101720671,
+            "neighbourhood_id":9895003662,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003662,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Quattlebaum Acres",
+    "wof:parent_id":101720671,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.07754074304398,
+    33.823787636694725,
+    -79.07754074304398,
+    33.823787636694725
+],
+  "geometry": {"coordinates":[-79.07754074304398,33.823787636694725],"type":"Point"}
+}

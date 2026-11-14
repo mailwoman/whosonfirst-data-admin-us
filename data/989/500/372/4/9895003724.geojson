@@ -1,0 +1,82 @@
+{
+  "id": 9895003724,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.01537223025947,34.023772514817594,-81.01537223025947,34.023772514817594",
+    "geom:latitude":34.023773,
+    "geom:longitude":-81.015372,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249342: name \"Saxton Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249342"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249342: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249342"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249342: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249342"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720793 (Columbia).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720793 (Columbia), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saxton Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720793,
+        102085405,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1249342
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce30cf1f6e8b4eab4c3cacab21d3a4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":9895003724,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003724,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Saxton Homes",
+    "wof:parent_id":101720793,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.01537223025947,
+    34.023772514817594,
+    -81.01537223025947,
+    34.023772514817594
+],
+  "geometry": {"coordinates":[-81.01537223025947,34.023772514817594],"type":"Point"}
+}

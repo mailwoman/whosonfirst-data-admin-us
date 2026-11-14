@@ -1,0 +1,84 @@
+{
+  "id": 9895008110,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.44240130492949,41.33409839674872,-73.44240130492949,41.33409839674872",
+    "geom:latitude":41.334098,
+    "geom:longitude":-73.442401,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2833182: name \"Long Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2833182"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2833182: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2833182"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2833182: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2833182"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85930805 (Danbury).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85930805 (Danbury), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Long Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688629,
+        85930805,
+        102084283,
+        102191575,
+        404495941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2833182
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f73866f3c9293e1f917e6785f45f161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":9895008110,
+            "region_id":85688629
+        }
+    ],
+    "wof:id":9895008110,
+    "wof:lastmodified":1794681146,
+    "wof:name":"Long Ridge",
+    "wof:parent_id":85930805,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.44240130492949,
+    41.33409839674872,
+    -73.44240130492949,
+    41.33409839674872
+],
+  "geometry": {"coordinates":[-73.44240130492949,41.33409839674872],"type":"Point"}
+}

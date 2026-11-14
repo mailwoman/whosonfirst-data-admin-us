@@ -1,0 +1,82 @@
+{
+  "id": 9895000588,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.5902765985563,34.87120658331976,-86.5902765985563,34.87120658331976",
+    "geom:latitude":34.871207,
+    "geom:longitude":-86.590277,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146810: name \"Colonial Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146810"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146810: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146810"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146810: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146810"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85915391 (Meridianville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85915391 (Meridianville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Colonial Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85915391,
+        102085487,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146810
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a27fc9f537b58c5d95454d65312890c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085487,
+            "locality_id":85915391,
+            "neighbourhood_id":9895000588,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000588,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Colonial Gardens",
+    "wof:parent_id":85915391,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.5902765985563,
+    34.87120658331976,
+    -86.5902765985563,
+    34.87120658331976
+],
+  "geometry": {"coordinates":[-86.5902765985563,34.87120658331976],"type":"Point"}
+}

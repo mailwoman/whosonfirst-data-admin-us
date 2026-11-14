@@ -1,0 +1,80 @@
+{
+  "id": 9895000848,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.11829680844416,31.996823393488736,-86.11829680844416,31.996823393488736",
+    "geom:latitude":31.996823,
+    "geom:longitude":-86.118297,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 156904: name \"Pisgah\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/156904"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 156904: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/156904"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 156904: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/156904"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085733 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085733 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pisgah"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":156904
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e31caafc07fffda9735041dc8affa003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":9895000848,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000848,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Pisgah",
+    "wof:parent_id":102085733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.11829680844416,
+    31.996823393488736,
+    -86.11829680844416,
+    31.996823393488736
+],
+  "geometry": {"coordinates":[-86.11829680844416,31.996823393488736],"type":"Point"}
+}

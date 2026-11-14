@@ -1,0 +1,82 @@
+{
+  "id": 9895001439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.61691156671996,38.53562515132418,-85.61691156671996,38.53562515132418",
+    "geom:latitude":38.535625,
+    "geom:longitude":-85.616912,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 440084: name \"New Market\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/440084"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 440084: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/440084"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 440084: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/440084"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404500187 (Oregon Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404500187 (Oregon Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "New Market"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102086421,
+        102191575,
+        404500187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":440084
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a372cfffe6798da33a583318f5f9ef1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086421,
+            "localadmin_id":404500187,
+            "locality_id":9895001439,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895001439,
+    "wof:lastmodified":1794681125,
+    "wof:name":"New Market",
+    "wof:parent_id":404500187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.61691156671996,
+    38.53562515132418,
+    -85.61691156671996,
+    38.53562515132418
+],
+  "geometry": {"coordinates":[-85.61691156671996,38.53562515132418],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895002056,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.34173507467167,31.306291830352475,-89.34173507467167,31.306291830352475",
+    "geom:latitude":31.306292,
+    "geom:longitude":-89.341735,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 683947: name \"Regency Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/683947"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 683947: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/683947"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 683947: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/683947"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969939 (Hattiesburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969939 (Hattiesburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Regency Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969939,
+        102086673,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":683947
+    },
+    "wof:country":"US",
+    "wof:geomhash":"311aeb98d491453e5bfa0c61a5cf9c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":9895002056,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002056,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Regency Estates",
+    "wof:parent_id":85969939,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.34173507467167,
+    31.306291830352475,
+    -89.34173507467167,
+    31.306291830352475
+],
+  "geometry": {"coordinates":[-89.34173507467167,31.306291830352475],"type":"Point"}
+}

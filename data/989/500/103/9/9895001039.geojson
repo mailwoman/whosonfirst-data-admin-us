@@ -1,0 +1,80 @@
+{
+  "id": 9895001039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.94162748284423,39.35851098788911,-120.94162748284423,39.35851098788911",
+    "geom:latitude":39.358511,
+    "geom:longitude":-120.941627,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 262283: name \"Lake City\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/262283"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 262283: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/262283"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 262283: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/262283"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085391 (Nevada).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085391 (Nevada), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lake City"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102085391,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":262283
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19dcc1fb803cfe02c41570a6d0c111a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085391,
+            "locality_id":9895001039,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001039,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Lake City",
+    "wof:parent_id":102085391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.94162748284423,
+    39.35851098788911,
+    -120.94162748284423,
+    39.35851098788911
+],
+  "geometry": {"coordinates":[-120.94162748284423,39.35851098788911],"type":"Point"}
+}

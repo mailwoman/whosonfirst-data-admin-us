@@ -1,0 +1,80 @@
+{
+  "id": 9895000521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.21167553340398,30.66186322962886,-88.21167553340398,30.66186322962886",
+    "geom:latitude":30.661863,
+    "geom:longitude":-88.211676,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143811: name \"Smithfield\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143811"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143811: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143811"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143811: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143811"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085585 (Mobile).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085585 (Mobile), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Smithfield"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143811
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0bfc8278e28437001c3e2fbc16f309ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":9895000521,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000521,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Smithfield",
+    "wof:parent_id":102085585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.21167553340398,
+    30.66186322962886,
+    -88.21167553340398,
+    30.66186322962886
+],
+  "geometry": {"coordinates":[-88.21167553340398,30.66186322962886],"type":"Point"}
+}

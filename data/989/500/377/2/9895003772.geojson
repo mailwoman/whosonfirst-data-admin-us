@@ -1,0 +1,82 @@
+{
+  "id": 9895003772,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.7395669615378,43.88111066792022,-99.7395669615378,43.88111066792022",
+    "geom:latitude":43.881111,
+    "geom:longitude":-99.739567,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1265286: name \"Lyman\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1265286"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1265286: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1265286"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1265286: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1265286"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404490389 (Rex Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404490389 (Rex Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lyman"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688693,
+        102086041,
+        102191575,
+        404490389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1265286
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8339e7736d588a1eb1e5c48ed2e28bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086041,
+            "localadmin_id":404490389,
+            "locality_id":9895003772,
+            "region_id":85688693
+        }
+    ],
+    "wof:id":9895003772,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Lyman",
+    "wof:parent_id":404490389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.7395669615378,
+    43.88111066792022,
+    -99.7395669615378,
+    43.88111066792022
+],
+  "geometry": {"coordinates":[-99.7395669615378,43.88111066792022],"type":"Point"}
+}

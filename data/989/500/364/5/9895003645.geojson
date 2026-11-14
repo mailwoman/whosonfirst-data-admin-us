@@ -1,0 +1,82 @@
+{
+  "id": 9895003645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.57680143247158,34.80901172830577,-82.57680143247158,34.80901172830577",
+    "geom:latitude":34.809012,
+    "geom:longitude":-82.576801,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243410: name \"Kingsberry\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243410"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243410: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243410"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243410: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243410"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720813 (Easley).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720813 (Easley), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kingsberry"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720813,
+        102085671,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1243410
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3bdc226bc2f10d582b980c466a08e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085671,
+            "locality_id":101720813,
+            "neighbourhood_id":9895003645,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003645,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Kingsberry",
+    "wof:parent_id":101720813,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.57680143247158,
+    34.80901172830577,
+    -82.57680143247158,
+    34.80901172830577
+],
+  "geometry": {"coordinates":[-82.57680143247158,34.80901172830577],"type":"Point"}
+}

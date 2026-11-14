@@ -1,0 +1,82 @@
+{
+  "id": 9895006303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.28576877400783,39.32518863590177,-120.28576877400783,39.32518863590177",
+    "geom:latitude":39.325189,
+    "geom:longitude":-120.285769,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682876: name \"Donner Lake Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682876"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682876: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682876"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682876: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682876"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921971 (Truckee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921971 (Truckee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Donner Lake Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85921971,
+        102085391,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1682876
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2169cc48966d8469ef50fa419be0b1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085391,
+            "locality_id":85921971,
+            "neighbourhood_id":9895006303,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006303,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Donner Lake Village",
+    "wof:parent_id":85921971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.28576877400783,
+    39.32518863590177,
+    -120.28576877400783,
+    39.32518863590177
+],
+  "geometry": {"coordinates":[-120.28576877400783,39.32518863590177],"type":"Point"}
+}

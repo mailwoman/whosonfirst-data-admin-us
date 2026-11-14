@@ -1,0 +1,80 @@
+{
+  "id": 9895003524,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.9303957735234,33.494587367592224,-81.9303957735234,33.494587367592224",
+    "geom:latitude":33.494587,
+    "geom:longitude":-81.930396,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1236439: name \"Monticello Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1236439"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1236439: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1236439"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1236439: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1236439"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085721 (Aiken).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085721 (Aiken), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Monticello Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085721,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1236439
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47a7f5315bd1130d19fe553b2df128ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085721,
+            "locality_id":9895003524,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003524,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Monticello Estates",
+    "wof:parent_id":102085721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.9303957735234,
+    33.494587367592224,
+    -81.9303957735234,
+    33.494587367592224
+],
+  "geometry": {"coordinates":[-81.9303957735234,33.494587367592224],"type":"Point"}
+}

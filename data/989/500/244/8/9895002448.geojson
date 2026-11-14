@@ -1,0 +1,80 @@
+{
+  "id": 9895002448,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.21777900664028,34.296008669979166,-78.21777900664028,34.296008669979166",
+    "geom:latitude":34.296009,
+    "geom:longitude":-78.217779,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 984873: name \"Evergreen\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/984873"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 984873: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/984873"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 984873: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/984873"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087707 (Columbus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087707 (Columbus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Evergreen"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087707,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":984873
+    },
+    "wof:country":"US",
+    "wof:geomhash":"849985b6cfea9f5b8e7712b958f90e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087707,
+            "locality_id":9895002448,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002448,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Evergreen",
+    "wof:parent_id":102087707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.21777900664028,
+    34.296008669979166,
+    -78.21777900664028,
+    34.296008669979166
+],
+  "geometry": {"coordinates":[-78.21777900664028,34.296008669979166],"type":"Point"}
+}

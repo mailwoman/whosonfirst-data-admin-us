@@ -1,0 +1,82 @@
+{
+  "id": 9895003833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.68008500990402,35.539254484635514,-89.68008500990402,35.539254484635514",
+    "geom:latitude":35.539254,
+    "geom:longitude":-89.680085,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1310765: name \"Green Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1310765"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1310765: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1310765"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1310765: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1310765"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723145 (Covington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723145 (Covington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Green Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723145,
+        102086277,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1310765
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf4ac11075d1457d73ceca88e88b04d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":9895003833,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003833,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Green Hills",
+    "wof:parent_id":101723145,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.68008500990402,
+    35.539254484635514,
+    -89.68008500990402,
+    35.539254484635514
+],
+  "geometry": {"coordinates":[-89.68008500990402,35.539254484635514],"type":"Point"}
+}

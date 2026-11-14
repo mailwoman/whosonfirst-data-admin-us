@@ -1,0 +1,82 @@
+{
+  "id": 9895005638,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.60098371582441,47.52121278255655,-122.60098371582441,47.52121278255655",
+    "geom:latitude":47.521213,
+    "geom:longitude":-122.600984,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1514142: name \"Conifer Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1514142"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1514142: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1514142"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1514142: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1514142"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101731245 (Parkwood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101731245 (Parkwood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Conifer Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        101731245,
+        102081243,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1514142
+    },
+    "wof:country":"US",
+    "wof:geomhash":"39ea23eeacc0f9a4f4e85a0f2f2b4d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731245,
+            "neighbourhood_id":9895005638,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005638,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Conifer Park",
+    "wof:parent_id":101731245,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.60098371582441,
+    47.52121278255655,
+    -122.60098371582441,
+    47.52121278255655
+],
+  "geometry": {"coordinates":[-122.60098371582441,47.52121278255655],"type":"Point"}
+}

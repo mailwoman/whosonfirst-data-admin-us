@@ -1,0 +1,82 @@
+{
+  "id": 9895008041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.35238249989222,45.701244995198486,-97.35238249989222,45.701244995198486",
+    "geom:latitude":45.701245,
+    "geom:longitude":-97.352382,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807113: name \"Clear Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807113"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807113: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807113"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807113: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807113"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404490467 (Lake Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404490467 (Lake Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Clear Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688693,
+        102086785,
+        102191575,
+        404490467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807113
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c76341d7157c8c2f81e2b04d45a0beb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086785,
+            "localadmin_id":404490467,
+            "locality_id":9895008041,
+            "region_id":85688693
+        }
+    ],
+    "wof:id":9895008041,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Clear Lake",
+    "wof:parent_id":404490467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.35238249989222,
+    45.701244995198486,
+    -97.35238249989222,
+    45.701244995198486
+],
+  "geometry": {"coordinates":[-97.35238249989222,45.701244995198486],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.29049679243738,40.960650120362246,-76.29049679243738,40.960650120362246",
+    "geom:latitude":40.96065,
+    "geom:longitude":-76.290497,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1203428: name \"Dogtown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1203428"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1203428: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1203428"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1203428: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1203428"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404485289 (Beaver Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404485289 (Beaver Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dogtown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080973,
+        102191575,
+        404485289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1203428
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00d2f107855ffbf2397c016c7be846e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080973,
+            "localadmin_id":404485289,
+            "locality_id":9895003377,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003377,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Dogtown",
+    "wof:parent_id":404485289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.29049679243738,
+    40.960650120362246,
+    -76.29049679243738,
+    40.960650120362246
+],
+  "geometry": {"coordinates":[-76.29049679243738,40.960650120362246],"type":"Point"}
+}

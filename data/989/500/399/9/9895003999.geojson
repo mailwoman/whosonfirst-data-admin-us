@@ -1,0 +1,82 @@
+{
+  "id": 9895003999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.52916514851712,35.94757070461237,-86.52916514851712,35.94757070461237",
+    "geom:latitude":35.947571,
+    "geom:longitude":-86.529165,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313179: name \"Tarrytown Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313179"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313179: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313179"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313179: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313179"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723109 (Smyrna).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723109 (Smyrna), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tarrytown Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723109,
+        102086355,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1313179
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58cf20608231e0a4517d5465a90c30df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":9895003999,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003999,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Tarrytown Estates",
+    "wof:parent_id":101723109,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.52916514851712,
+    35.94757070461237,
+    -86.52916514851712,
+    35.94757070461237
+],
+  "geometry": {"coordinates":[-86.52916514851712,35.94757070461237],"type":"Point"}
+}

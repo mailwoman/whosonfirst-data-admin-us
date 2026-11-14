@@ -1,0 +1,82 @@
+{
+  "id": 9895003915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.13140062338555,35.98923628632773,-87.13140062338555,35.98923628632773",
+    "geom:latitude":35.989236,
+    "geom:longitude":-87.131401,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312498: name \"Hallview Meadows\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312498"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312498: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312498"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312498: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312498"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723095 (Fairview).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723095 (Fairview), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hallview Meadows"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723095,
+        102086337,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312498
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f8d105762eff158891cf7717420dece4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723095,
+            "neighbourhood_id":9895003915,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003915,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Hallview Meadows",
+    "wof:parent_id":101723095,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.13140062338555,
+    35.98923628632773,
+    -87.13140062338555,
+    35.98923628632773
+],
+  "geometry": {"coordinates":[-87.13140062338555,35.98923628632773],"type":"Point"}
+}

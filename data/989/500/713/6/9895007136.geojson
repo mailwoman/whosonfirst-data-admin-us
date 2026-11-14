@@ -1,0 +1,82 @@
+{
+  "id": 9895007136,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.5901824598639,35.107202927062716,-120.5901824598639,35.107202927062716",
+    "geom:latitude":35.107203,
+    "geom:longitude":-120.590182,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1872508: name \"Grande Mobile Manor Mobile Home Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1872508"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1872508: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1872508"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1872508: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1872508"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85925465 (Oceano).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85925465 (Oceano), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Grande Mobile Manor Mobile Home Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85925465,
+        102085385,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1872508
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d18fbd08c2cfb545def6fb27f06c947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085385,
+            "locality_id":85925465,
+            "neighbourhood_id":9895007136,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007136,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Grande Mobile Manor Mobile Home Park",
+    "wof:parent_id":85925465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.5901824598639,
+    35.107202927062716,
+    -120.5901824598639,
+    35.107202927062716
+],
+  "geometry": {"coordinates":[-120.5901824598639,35.107202927062716],"type":"Point"}
+}

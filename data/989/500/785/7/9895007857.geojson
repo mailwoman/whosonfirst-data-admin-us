@@ -1,0 +1,80 @@
+{
+  "id": 9895007857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.42802910044533,39.66018657782415,-105.42802910044533,39.66018657782415",
+    "geom:latitude":39.660187,
+    "geom:longitude":-105.428029,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804567: name \"Upper Witter Gulch\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804567"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804567: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804567"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804567: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804567"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085243 (Clear Creek).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085243 (Clear Creek), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Upper Witter Gulch"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102085243,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804567
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e7da4cae0e2b103ce8f0ee140438971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085243,
+            "locality_id":9895007857,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007857,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Upper Witter Gulch",
+    "wof:parent_id":102085243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.42802910044533,
+    39.66018657782415,
+    -105.42802910044533,
+    39.66018657782415
+],
+  "geometry": {"coordinates":[-105.42802910044533,39.66018657782415],"type":"Point"}
+}

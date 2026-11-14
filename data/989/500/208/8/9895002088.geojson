@@ -1,0 +1,82 @@
+{
+  "id": 9895002088,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.09036893659585,32.430148640603484,-90.09036893659585,32.430148640603484",
+    "geom:latitude":32.430149,
+    "geom:longitude":-90.090369,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686135: name \"Tidewater\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686135"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686135: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686135"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686135: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686135"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969903 (Madison).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969903 (Madison), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tidewater"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969903,
+        102085905,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":686135
+    },
+    "wof:country":"US",
+    "wof:geomhash":"628e145120fa55b74256e2f24ca509b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":9895002088,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002088,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Tidewater",
+    "wof:parent_id":85969903,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.09036893659585,
+    32.430148640603484,
+    -90.09036893659585,
+    32.430148640603484
+],
+  "geometry": {"coordinates":[-90.09036893659585,32.430148640603484],"type":"Point"}
+}

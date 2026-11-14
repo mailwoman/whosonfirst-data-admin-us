@@ -1,0 +1,80 @@
+{
+  "id": 9895001600,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.25650344974297,30.343809858755762,-91.25650344974297,30.343809858755762",
+    "geom:latitude":30.34381,
+    "geom:longitude":-91.256503,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 551080: name \"Saint Delphine\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/551080"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 551080: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/551080"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 551080: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/551080"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086695 (West Baton Rouge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086695 (West Baton Rouge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Delphine"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        102086695,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":551080
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e600a2c7b4afefa0f1b8095fd356fb97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086695,
+            "locality_id":9895001600,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001600,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Saint Delphine",
+    "wof:parent_id":102086695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.25650344974297,
+    30.343809858755762,
+    -91.25650344974297,
+    30.343809858755762
+],
+  "geometry": {"coordinates":[-91.25650344974297,30.343809858755762],"type":"Point"}
+}

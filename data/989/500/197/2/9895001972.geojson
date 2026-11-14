@@ -1,0 +1,82 @@
+{
+  "id": 9895001972,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.09115425614388,41.573723121552725,-71.09115425614388,41.573723121552725",
+    "geom:latitude":41.573723,
+    "geom:longitude":-71.091154,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 613193: name \"Central Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/613193"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 613193: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/613193"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 613193: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/613193"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404476149 (Westport).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404476149 (Westport), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Central Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688645,
+        102084407,
+        102191575,
+        404476149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":613193
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e8e1330c4d156fee9bdef2f55d3e9b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476149,
+            "locality_id":9895001972,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":9895001972,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Central Village",
+    "wof:parent_id":404476149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.09115425614388,
+    41.573723121552725,
+    -71.09115425614388,
+    41.573723121552725
+],
+  "geometry": {"coordinates":[-71.09115425614388,41.573723121552725],"type":"Point"}
+}

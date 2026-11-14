@@ -1,0 +1,82 @@
+{
+  "id": 9895007154,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-147.7166927114044,64.8250017756236,-147.7166927114044,64.8250017756236",
+    "geom:latitude":64.825002,
+    "geom:longitude":-147.716693,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1893644: name \"Bjerrmark\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1893644"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1893644: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1893644"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1893644: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1893644"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85915635 (Fairbanks).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85915635 (Fairbanks), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bjerrmark"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85915635,
+        102081397,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1893644
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f7b6eaeea56abd4f2a48860ec669f60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":9895007154,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895007154,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Bjerrmark",
+    "wof:parent_id":85915635,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -147.7166927114044,
+    64.8250017756236,
+    -147.7166927114044,
+    64.8250017756236
+],
+  "geometry": {"coordinates":[-147.7166927114044,64.8250017756236],"type":"Point"}
+}

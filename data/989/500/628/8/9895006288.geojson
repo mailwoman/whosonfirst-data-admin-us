@@ -1,0 +1,82 @@
+{
+  "id": 9895006288,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.97414245374685,38.53429531448728,-76.97414245374685,38.53429531448728",
+    "geom:latitude":38.534295,
+    "geom:longitude":-76.974142,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676742: name \"Kent Square\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676742"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676742: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676742"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676742: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676742"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949349 (La Plata).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949349 (La Plata), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kent Square"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949349,
+        102081211,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1676742
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1da42f4240e7b35cfee6fa3b0d76731c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949349,
+            "neighbourhood_id":9895006288,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006288,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Kent Square",
+    "wof:parent_id":85949349,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.97414245374685,
+    38.53429531448728,
+    -76.97414245374685,
+    38.53429531448728
+],
+  "geometry": {"coordinates":[-76.97414245374685,38.53429531448728],"type":"Point"}
+}

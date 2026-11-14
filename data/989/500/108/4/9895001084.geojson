@@ -1,0 +1,82 @@
+{
+  "id": 9895001084,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.56648923564225,28.039745191270793,-82.56648923564225,28.039745191270793",
+    "geom:latitude":28.039745,
+    "geom:longitude":-82.566489,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 294943: name \"Tarpon\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/294943"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 294943: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/294943"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 294943: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/294943"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933679 (Citrus Park).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933679 (Citrus Park), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tarpon"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933679,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":294943
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6878c9ea9d537aa2ae6e7b5626a172fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85933679,
+            "neighbourhood_id":9895001084,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001084,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Tarpon",
+    "wof:parent_id":85933679,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.56648923564225,
+    28.039745191270793,
+    -82.56648923564225,
+    28.039745191270793
+],
+  "geometry": {"coordinates":[-82.56648923564225,28.039745191270793],"type":"Point"}
+}

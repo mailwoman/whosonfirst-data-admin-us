@@ -1,0 +1,82 @@
+{
+  "id": 9895000536,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.10108798556553,33.596776737846305,-86.10108798556553,33.596776737846305",
+    "geom:latitude":33.596777,
+    "geom:longitude":-86.101088,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144800: name \"Echo Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144800"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144800: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144800"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144800: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144800"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914143 (Lincoln).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914143 (Lincoln), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Echo Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914143,
+        102085517,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":144800
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e0e813317c459b54ba76ec220446efc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085517,
+            "locality_id":85914143,
+            "neighbourhood_id":9895000536,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000536,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Echo Hills",
+    "wof:parent_id":85914143,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.10108798556553,
+    33.596776737846305,
+    -86.10108798556553,
+    33.596776737846305
+],
+  "geometry": {"coordinates":[-86.10108798556553,33.596776737846305],"type":"Point"}
+}

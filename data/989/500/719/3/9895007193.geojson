@@ -1,0 +1,82 @@
+{
+  "id": 9895007193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.29887180118718,37.80826605608066,-122.29887180118718,37.80826605608066",
+    "geom:latitude":37.808266,
+    "geom:longitude":-122.298872,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1961950: name \"Campbell Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1961950"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1961950: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1961950"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1961950: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1961950"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921881 (Oakland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921881 (Oakland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Campbell Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85921881,
+        102086959,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1961950
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d694c33f7431646c5c825bc3e85e6d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "neighbourhood_id":9895007193,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007193,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Campbell Village",
+    "wof:parent_id":85921881,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.29887180118718,
+    37.80826605608066,
+    -122.29887180118718,
+    37.80826605608066
+],
+  "geometry": {"coordinates":[-122.29887180118718,37.80826605608066],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.40699460830808,36.064771805448885,-97.40699460830808,36.064771805448885",
+    "geom:latitude":36.064772,
+    "geom:longitude":-97.406995,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1095701: name \"Mulhall\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1095701"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1095701: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1095701"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1095701: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1095701"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101714225 (Mulhall).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101714225 (Mulhall), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mulhall"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688585,
+        101714225,
+        102082537,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1095701
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2bc9fc7203727d35307372391f2cff32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082537,
+            "locality_id":101714225,
+            "neighbourhood_id":9895003183,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":9895003183,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Mulhall",
+    "wof:parent_id":101714225,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.40699460830808,
+    36.064771805448885,
+    -97.40699460830808,
+    36.064771805448885
+],
+  "geometry": {"coordinates":[-97.40699460830808,36.064771805448885],"type":"Point"}
+}

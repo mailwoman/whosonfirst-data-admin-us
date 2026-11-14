@@ -1,0 +1,80 @@
+{
+  "id": 9895002332,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.76052976068715,34.933956078576465,-103.76052976068715,34.933956078576465",
+    "geom:latitude":34.933956,
+    "geom:longitude":-103.76053,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 899861: name \"Quay\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/899861"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 899861: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/899861"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 899861: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/899861"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081191 (Quay).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081191 (Quay), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Quay"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081191,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":899861
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b1e0f726836f3dc16115870b4b3209c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081191,
+            "locality_id":9895002332,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002332,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Quay",
+    "wof:parent_id":102081191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.76052976068715,
+    34.933956078576465,
+    -103.76052976068715,
+    34.933956078576465
+],
+  "geometry": {"coordinates":[-103.76052976068715,34.933956078576465],"type":"Point"}
+}

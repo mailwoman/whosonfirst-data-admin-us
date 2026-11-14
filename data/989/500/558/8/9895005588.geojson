@@ -1,0 +1,80 @@
+{
+  "id": 9895005588,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.2784781688333,36.92816778051839,-82.2784781688333,36.92816778051839",
+    "geom:latitude":36.928168,
+    "geom:longitude":-82.278478,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1499517: name \"Hamlin\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1499517"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1499517: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1499517"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1499517: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1499517"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084923 (Russell).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084923 (Russell), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hamlin"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102084923,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1499517
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b61029ee9997b2238d647c255ade8aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084923,
+            "locality_id":9895005588,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005588,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Hamlin",
+    "wof:parent_id":102084923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.2784781688333,
+    36.92816778051839,
+    -82.2784781688333,
+    36.92816778051839
+],
+  "geometry": {"coordinates":[-82.2784781688333,36.92816778051839],"type":"Point"}
+}

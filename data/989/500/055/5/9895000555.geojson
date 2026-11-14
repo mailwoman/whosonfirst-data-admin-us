@@ -1,0 +1,82 @@
+{
+  "id": 9895000555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.81082687169395,33.317618251363655,-86.81082687169395,33.317618251363655",
+    "geom:latitude":33.317618,
+    "geom:longitude":-86.810827,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146390: name \"Chandalar South\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146390"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146390: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146390"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146390: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146390"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914501 (Pelham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914501 (Pelham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Chandalar South"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914501,
+        102085499,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146390
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79f6c500c0e5b0964b55bb72f65d4c69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085499,
+            "locality_id":85914501,
+            "neighbourhood_id":9895000555,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000555,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Chandalar South",
+    "wof:parent_id":85914501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.81082687169395,
+    33.317618251363655,
+    -86.81082687169395,
+    33.317618251363655
+],
+  "geometry": {"coordinates":[-86.81082687169395,33.317618251363655],"type":"Point"}
+}

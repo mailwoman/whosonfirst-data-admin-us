@@ -1,0 +1,82 @@
+{
+  "id": 9895000796,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.46417554748932,33.15707009283338,-87.46417554748932,33.15707009283338",
+    "geom:latitude":33.15707,
+    "geom:longitude":-87.464176,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148763: name \"Woodland Forest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148763"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148763: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148763"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148763: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148763"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914453 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914453 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodland Forest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914453,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148763
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b19d9f9b5ab58d139eed1efc89be7b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85914453,
+            "neighbourhood_id":9895000796,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000796,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Woodland Forest",
+    "wof:parent_id":85914453,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.46417554748932,
+    33.15707009283338,
+    -87.46417554748932,
+    33.15707009283338
+],
+  "geometry": {"coordinates":[-87.46417554748932,33.15707009283338],"type":"Point"}
+}

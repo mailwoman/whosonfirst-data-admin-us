@@ -1,0 +1,82 @@
+{
+  "id": 9895006452,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.97775920582801,39.376500483845206,-76.97775920582801,39.376500483845206",
+    "geom:latitude":39.3765,
+    "geom:longitude":-76.977759,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1696155: name \"Hawk Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1696155"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1696155: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1696155"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1696155: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1696155"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949359 (Sykesville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949359 (Sykesville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hawk Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949359,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1696155
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab8314a02998f3a9b9fc1cf801bf7841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949359,
+            "neighbourhood_id":9895006452,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006452,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Hawk Ridge",
+    "wof:parent_id":85949359,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.97775920582801,
+    39.376500483845206,
+    -76.97775920582801,
+    39.376500483845206
+],
+  "geometry": {"coordinates":[-76.97775920582801,39.376500483845206],"type":"Point"}
+}

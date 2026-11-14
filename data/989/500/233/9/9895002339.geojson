@@ -1,0 +1,80 @@
+{
+  "id": 9895002339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.85366176610955,36.231689602107,-106.85366176610955,36.231689602107",
+    "geom:latitude":36.23169,
+    "geom:longitude":-106.853662,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 906451: name \"Gallina Plaza\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/906451"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 906451: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/906451"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 906451: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/906451"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081563 (Rio Arriba).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081563 (Rio Arriba), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gallina Plaza"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":906451
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3954c81f669936222668d58792eaa0e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081563,
+            "locality_id":9895002339,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002339,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Gallina Plaza",
+    "wof:parent_id":102081563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.85366176610955,
+    36.231689602107,
+    -106.85366176610955,
+    36.231689602107
+],
+  "geometry": {"coordinates":[-106.85366176610955,36.231689602107],"type":"Point"}
+}

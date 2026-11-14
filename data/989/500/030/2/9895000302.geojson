@@ -1,0 +1,80 @@
+{
+  "id": 9895000302,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.96881723368497,36.331191329793704,-93.96881723368497,36.331191329793704",
+    "geom:latitude":36.331191,
+    "geom:longitude":-93.968817,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 81373: name \"Copper Mine\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/81373"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 81373: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/81373"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 81373: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/81373"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083255 (Benton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083255 (Benton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Copper Mine"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        102083255,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":81373
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c22f1ec34e61c3dd6ebe5789c5859027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083255,
+            "locality_id":9895000302,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000302,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Copper Mine",
+    "wof:parent_id":102083255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.96881723368497,
+    36.331191329793704,
+    -93.96881723368497,
+    36.331191329793704
+],
+  "geometry": {"coordinates":[-93.96881723368497,36.331191329793704],"type":"Point"}
+}

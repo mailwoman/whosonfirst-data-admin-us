@@ -1,0 +1,82 @@
+{
+  "id": 9895000911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.89137540059195,39.86915874368417,-104.89137540059195,39.86915874368417",
+    "geom:latitude":39.869159,
+    "geom:longitude":-104.891375,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 184698: name \"Rolla\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/184698"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 184698: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/184698"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 184698: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/184698"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929341 (Commerce City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929341 (Commerce City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rolla"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929341,
+        102084053,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":184698
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52ca1d6483f898559558e068c106c4b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084053,
+            "locality_id":85929341,
+            "neighbourhood_id":9895000911,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000911,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Rolla",
+    "wof:parent_id":85929341,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.89137540059195,
+    39.86915874368417,
+    -104.89137540059195,
+    39.86915874368417
+],
+  "geometry": {"coordinates":[-104.89137540059195,39.86915874368417],"type":"Point"}
+}

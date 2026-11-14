@@ -1,0 +1,82 @@
+{
+  "id": 9895006491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.97555583397471,33.602056505282725,-86.97555583397471,33.602056505282725",
+    "geom:latitude":33.602057,
+    "geom:longitude":-86.975556,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700059: name \"Longview Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700059"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700059: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700059"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700059: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700059"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914889 (Adamsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914889 (Adamsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Longview Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914889,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700059
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f40c009b7cf730be61c367088043fd69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914889,
+            "neighbourhood_id":9895006491,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006491,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Longview Estates",
+    "wof:parent_id":85914889,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.97555583397471,
+    33.602056505282725,
+    -86.97555583397471,
+    33.602056505282725
+],
+  "geometry": {"coordinates":[-86.97555583397471,33.602056505282725],"type":"Point"}
+}

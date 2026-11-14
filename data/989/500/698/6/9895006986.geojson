@@ -1,0 +1,84 @@
+{
+  "id": 9895006986,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.06618297334478,41.83448192183563,-88.06618297334478,41.83448192183563",
+    "geom:latitude":41.834482,
+    "geom:longitude":-88.066183,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1807930: name \"Arboretum Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1807930"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1807930: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1807930"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1807930: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1807930"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940159 (Glen Ellyn).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940159 (Glen Ellyn), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Arboretum Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940159,
+        102081257,
+        102191575,
+        404497653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1807930
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fdaa24971cde754c2850b9e686e1cb3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497653,
+            "locality_id":85940159,
+            "neighbourhood_id":9895006986,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895006986,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Arboretum Estates",
+    "wof:parent_id":85940159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.06618297334478,
+    41.83448192183563,
+    -88.06618297334478,
+    41.83448192183563
+],
+  "geometry": {"coordinates":[-88.06618297334478,41.83448192183563],"type":"Point"}
+}

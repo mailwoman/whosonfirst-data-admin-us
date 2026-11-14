@@ -1,0 +1,82 @@
+{
+  "id": 9895004161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-166.53668475745667,53.8736109163519,-166.53668475745667,53.8736109163519",
+    "geom:latitude":53.873611,
+    "geom:longitude":-166.536685,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1419424: name \"Unalaska\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1419424"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1419424: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1419424"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1419424: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1419424"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85916059 (Unalaska).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85916059 (Unalaska), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Unalaska"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85916059,
+        102080627,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1419424
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70ccac3b5d3124ee6b986ae42cca2d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080627,
+            "locality_id":85916059,
+            "neighbourhood_id":9895004161,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004161,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Unalaska",
+    "wof:parent_id":85916059,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -166.53668475745667,
+    53.8736109163519,
+    -166.53668475745667,
+    53.8736109163519
+],
+  "geometry": {"coordinates":[-166.53668475745667,53.8736109163519],"type":"Point"}
+}

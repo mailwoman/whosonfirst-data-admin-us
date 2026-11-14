@@ -1,0 +1,82 @@
+{
+  "id": 9895001566,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.0620219132892,30.033262831510616,-90.0620219132892,30.033262831510616",
+    "geom:latitude":30.033263,
+    "geom:longitude":-90.062022,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 543590: name \"Pontchartrain Beach\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/543590"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 543590: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/543590"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 543590: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/543590"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948111 (New Orleans).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948111 (New Orleans), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pontchartrain Beach"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948111,
+        102086693,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":543590
+    },
+    "wof:country":"US",
+    "wof:geomhash":"faaecf8d6ac3dcc251c83105e4f172bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":9895001566,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001566,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Pontchartrain Beach",
+    "wof:parent_id":85948111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.0620219132892,
+    30.033262831510616,
+    -90.0620219132892,
+    30.033262831510616
+],
+  "geometry": {"coordinates":[-90.0620219132892,30.033262831510616],"type":"Point"}
+}

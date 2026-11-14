@@ -1,0 +1,82 @@
+{
+  "id": 9895001448,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.76167775988063,39.27699683584161,-86.76167775988063,39.27699683584161",
+    "geom:latitude":39.276997,
+    "geom:longitude":-86.761678,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 443879: name \"Southport\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/443879"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 443879: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/443879"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 443879: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/443879"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404500361 (Washington Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404500361 (Washington Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Southport"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102087015,
+        102191575,
+        404500361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":443879
+    },
+    "wof:country":"US",
+    "wof:geomhash":"87c65cc62f4ef139c067a026c74a4da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087015,
+            "localadmin_id":404500361,
+            "locality_id":9895001448,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895001448,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Southport",
+    "wof:parent_id":404500361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.76167775988063,
+    39.27699683584161,
+    -86.76167775988063,
+    39.27699683584161
+],
+  "geometry": {"coordinates":[-86.76167775988063,39.27699683584161],"type":"Point"}
+}

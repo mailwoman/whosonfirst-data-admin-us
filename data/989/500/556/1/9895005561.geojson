@@ -1,0 +1,82 @@
+{
+  "id": 9895005561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.22160642341619,36.81015548260492,-76.22160642341619,36.81015548260492",
+    "geom:latitude":36.810155,
+    "geom:longitude":-76.221606,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1495741: name \"Indian River Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1495741"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1495741: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1495741"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1495741: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1495741"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728797 (Chesapeake).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728797 (Chesapeake), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Indian River Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728797,
+        102087265,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1495741
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d57d2f892febf3aaf784dd2902a346d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "neighbourhood_id":9895005561,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005561,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Indian River Park",
+    "wof:parent_id":101728797,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.22160642341619,
+    36.81015548260492,
+    -76.22160642341619,
+    36.81015548260492
+],
+  "geometry": {"coordinates":[-76.22160642341619,36.81015548260492],"type":"Point"}
+}

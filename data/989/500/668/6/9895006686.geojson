@@ -1,0 +1,82 @@
+{
+  "id": 9895006686,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.9246988687935,39.03845051824362,-76.9246988687935,39.03845051824362",
+    "geom:latitude":39.038451,
+    "geom:longitude":-76.924699,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1714368: name \"Eleven Cedars\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1714368"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1714368: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1714368"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1714368: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1714368"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949921 (Beltsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949921 (Beltsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Eleven Cedars"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949921,
+        102082191,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1714368
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a6b2f4ae0a0bf16c290f8627ad9fd3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949921,
+            "neighbourhood_id":9895006686,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006686,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Eleven Cedars",
+    "wof:parent_id":85949921,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.9246988687935,
+    39.03845051824362,
+    -76.9246988687935,
+    39.03845051824362
+],
+  "geometry": {"coordinates":[-76.9246988687935,39.03845051824362],"type":"Point"}
+}

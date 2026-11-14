@@ -1,0 +1,82 @@
+{
+  "id": 9895002236,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.37962423038127,37.88921269367871,-92.37962423038127,37.88921269367871",
+    "geom:latitude":37.889213,
+    "geom:longitude":-92.379624,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 725763: name \"Saint John\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/725763"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 725763: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/725763"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 725763: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/725763"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404517751 (Liberty Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404517751 (Liberty Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint John"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102086161,
+        102191575,
+        404517751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":725763
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb20192e62badbfc49e4b25d2dff15a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086161,
+            "localadmin_id":404517751,
+            "locality_id":9895002236,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002236,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Saint John",
+    "wof:parent_id":404517751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.37962423038127,
+    37.88921269367871,
+    -92.37962423038127,
+    37.88921269367871
+],
+  "geometry": {"coordinates":[-92.37962423038127,37.88921269367871],"type":"Point"}
+}

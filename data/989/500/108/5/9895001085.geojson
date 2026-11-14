@@ -1,0 +1,82 @@
+{
+  "id": 9895001085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.38704080071277,28.531944815633448,-82.38704080071277,28.531944815633448",
+    "geom:latitude":28.531945,
+    "geom:longitude":-82.387041,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 294948: name \"Tooke Lake Junction\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/294948"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 294948: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/294948"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 294948: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/294948"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85935463 (South Brooksville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85935463 (South Brooksville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tooke Lake Junction"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85935463,
+        102085827,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":294948
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce0b60989da4c10c93010a13dda644d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085827,
+            "locality_id":85935463,
+            "neighbourhood_id":9895001085,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001085,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Tooke Lake Junction",
+    "wof:parent_id":85935463,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.38704080071277,
+    28.531944815633448,
+    -82.38704080071277,
+    28.531944815633448
+],
+  "geometry": {"coordinates":[-82.38704080071277,28.531944815633448],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895002122,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.99869990876181,32.38153873352916,-89.99869990876181,32.38153873352916",
+    "geom:latitude":32.381539,
+    "geom:longitude":-89.9987,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687095: name \"Sunrise Point\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687095"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687095: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687095"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687095: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687095"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084869 (Rankin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084869 (Rankin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunrise Point"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102084869,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":687095
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ee9469d993c2587540e1a2bc6217a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":9895002122,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002122,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Sunrise Point",
+    "wof:parent_id":102084869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.99869990876181,
+    32.38153873352916,
+    -89.99869990876181,
+    32.38153873352916
+],
+  "geometry": {"coordinates":[-89.99869990876181,32.38153873352916],"type":"Point"}
+}

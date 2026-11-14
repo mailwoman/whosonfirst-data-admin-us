@@ -1,0 +1,82 @@
+{
+  "id": 9895003994,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.41444150929641,35.85896099153316,-86.41444150929641,35.85896099153316",
+    "geom:latitude":35.858961,
+    "geom:longitude":-86.414442,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313019: name \"Battleground Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313019"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313019: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313019"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313019: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313019"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723111 (Murfreesboro).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723111 (Murfreesboro), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Battleground Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723111,
+        102086355,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1313019
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a3e93d1a721ba073b508b89a9575833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":9895003994,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003994,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Battleground Estates",
+    "wof:parent_id":101723111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.41444150929641,
+    35.85896099153316,
+    -86.41444150929641,
+    35.85896099153316
+],
+  "geometry": {"coordinates":[-86.41444150929641,35.85896099153316],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.75582626257895,33.42289197561794,-86.75582626257895,33.42289197561794",
+    "geom:latitude":33.422892,
+    "geom:longitude":-86.755826,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 154358: name \"Hickory Ridge Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/154358"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 154358: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/154358"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 154358: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/154358"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914483 (Vestavia Hills).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914483 (Vestavia Hills), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hickory Ridge Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914483,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":154358
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bda21535fc6203591927d460a09a581f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914483,
+            "neighbourhood_id":9895000819,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000819,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Hickory Ridge Estates",
+    "wof:parent_id":85914483,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.75582626257895,
+    33.42289197561794,
+    -86.75582626257895,
+    33.42289197561794
+],
+  "geometry": {"coordinates":[-86.75582626257895,33.42289197561794],"type":"Point"}
+}

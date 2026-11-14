@@ -1,0 +1,82 @@
+{
+  "id": 9895002295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.23201251455184,43.46869937555662,-71.23201251455184,43.46869937555662",
+    "geom:latitude":43.468699,
+    "geom:longitude":-71.232013,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 865227: name \"Alton Bay\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/865227"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 865227: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/865227"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 865227: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/865227"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404476811 (Alton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404476811 (Alton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Alton Bay"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688689,
+        102086503,
+        102191575,
+        404476811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":865227
+    },
+    "wof:country":"US",
+    "wof:geomhash":"387748db8a940dfdea3d9707a747a3d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086503,
+            "localadmin_id":404476811,
+            "locality_id":9895002295,
+            "region_id":85688689
+        }
+    ],
+    "wof:id":9895002295,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Alton Bay",
+    "wof:parent_id":404476811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.23201251455184,
+    43.46869937555662,
+    -71.23201251455184,
+    43.46869937555662
+],
+  "geometry": {"coordinates":[-71.23201251455184,43.46869937555662],"type":"Point"}
+}

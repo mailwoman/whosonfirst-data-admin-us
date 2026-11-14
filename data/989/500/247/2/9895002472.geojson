@@ -1,0 +1,80 @@
+{
+  "id": 9895002472,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.69979430001867,35.24487219120435,-80.69979430001867,35.24487219120435",
+    "geom:latitude":35.244872,
+    "geom:longitude":-80.699794,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001288: name \"Holiday Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001288"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001288: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001288"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001288: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001288"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080981 (Mecklenburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080981 (Mecklenburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Holiday Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080981,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1001288
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ff1e4171764df8f598b0dfe5fcc2e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":9895002472,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002472,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Holiday Park",
+    "wof:parent_id":102080981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.69979430001867,
+    35.24487219120435,
+    -80.69979430001867,
+    35.24487219120435
+],
+  "geometry": {"coordinates":[-80.69979430001867,35.24487219120435],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003346,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.68991517349919,40.518714557226836,-75.68991517349919,40.518714557226836",
+    "geom:latitude":40.518715,
+    "geom:longitude":-75.689915,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1199256: name \"Oreville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1199256"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1199256: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1199256"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1199256: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1199256"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404484515 (Longswamp Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404484515 (Longswamp Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oreville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080991,
+        102191575,
+        404484515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1199256
+    },
+    "wof:country":"US",
+    "wof:geomhash":"967e5435b0ac92242e05ebecfd496063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080991,
+            "localadmin_id":404484515,
+            "locality_id":9895003346,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003346,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Oreville",
+    "wof:parent_id":404484515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.68991517349919,
+    40.518714557226836,
+    -75.68991517349919,
+    40.518714557226836
+],
+  "geometry": {"coordinates":[-75.68991517349919,40.518714557226836],"type":"Point"}
+}

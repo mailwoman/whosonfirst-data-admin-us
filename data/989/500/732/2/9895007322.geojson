@@ -1,0 +1,82 @@
+{
+  "id": 9895007322,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.11362123035366,39.67833970228244,-105.11362123035366,39.67833970228244",
+    "geom:latitude":39.67834,
+    "geom:longitude":-105.113621,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2120004: name \"Carmody Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2120004"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2120004: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2120004"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2120004: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2120004"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929751 (Lakewood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929751 (Lakewood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Carmody Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929751,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2120004
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c92ecacdd5b8038ae1dae3a0734f648a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":85929751,
+            "neighbourhood_id":9895007322,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007322,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Carmody Estates",
+    "wof:parent_id":85929751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.11362123035366,
+    39.67833970228244,
+    -105.11362123035366,
+    39.67833970228244
+],
+  "geometry": {"coordinates":[-105.11362123035366,39.67833970228244],"type":"Point"}
+}

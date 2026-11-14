@@ -1,0 +1,80 @@
+{
+  "id": 9895002460,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.24648613777615,36.55513304529756,-81.24648613777615,36.55513304529756",
+    "geom:latitude":36.555133,
+    "geom:longitude":-81.246486,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 996337: name \"Turkey Knob\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/996337"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 996337: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/996337"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 996337: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/996337"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087713 (Alleghany).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087713 (Alleghany), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Turkey Knob"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087713,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":996337
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad72d38fcad19988535bfbbb43190fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087713,
+            "locality_id":9895002460,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002460,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Turkey Knob",
+    "wof:parent_id":102087713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.24648613777615,
+    36.55513304529756,
+    -81.24648613777615,
+    36.55513304529756
+],
+  "geometry": {"coordinates":[-81.24648613777615,36.55513304529756],"type":"Point"}
+}

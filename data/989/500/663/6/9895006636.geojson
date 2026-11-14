@@ -1,0 +1,82 @@
+{
+  "id": 9895006636,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.40026695415524,39.62927281743403,-77.40026695415524,39.62927281743403",
+    "geom:latitude":39.629273,
+    "geom:longitude":-77.400267,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711196: name \"Colonial Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711196"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711196: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711196"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711196: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711196"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949373 (Thurmont).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949373 (Thurmont), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Colonial Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949373,
+        102081593,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1711196
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c3f95adaf449e6fcc6aed528c3c156f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "neighbourhood_id":9895006636,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006636,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Colonial Heights",
+    "wof:parent_id":85949373,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.40026695415524,
+    39.62927281743403,
+    -77.40026695415524,
+    39.62927281743403
+],
+  "geometry": {"coordinates":[-77.40026695415524,39.62927281743403],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000674,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.61112429998026,33.35845542951257,-87.61112429998026,33.35845542951257",
+    "geom:latitude":33.358455,
+    "geom:longitude":-87.611124,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148024: name \"Cove Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148024"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148024: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148024"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148024: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148024"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cove Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148024
+    },
+    "wof:country":"US",
+    "wof:geomhash":"01a89bb80e5ebb031b32f8969d22b5cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000674,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000674,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Cove Park",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.61112429998026,
+    33.35845542951257,
+    -87.61112429998026,
+    33.35845542951257
+],
+  "geometry": {"coordinates":[-87.61112429998026,33.35845542951257],"type":"Point"}
+}

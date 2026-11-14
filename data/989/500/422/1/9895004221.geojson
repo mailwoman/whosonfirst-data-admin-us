@@ -1,0 +1,82 @@
+{
+  "id": 9895004221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.03606551759042,41.14106106779156,-112.03606551759042,41.14106106779156",
+    "geom:latitude":41.141061,
+    "geom:longitude":-112.036066,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451433: name \"Apple Valley Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451433"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451433: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451433"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451433: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451433"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727893 (Sunset).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727893 (Sunset), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Apple Valley Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727893,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451433
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f1860c3044a9bbd21b88488b29d82d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727893,
+            "neighbourhood_id":9895004221,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004221,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Apple Valley Estates",
+    "wof:parent_id":101727893,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.03606551759042,
+    41.14106106779156,
+    -112.03606551759042,
+    41.14106106779156
+],
+  "geometry": {"coordinates":[-112.03606551759042,41.14106106779156],"type":"Point"}
+}

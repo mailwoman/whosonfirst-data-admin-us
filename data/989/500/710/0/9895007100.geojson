@@ -1,0 +1,82 @@
+{
+  "id": 9895007100,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.2536598270956,32.85560757263826,-117.2536598270956,32.85560757263826",
+    "geom:latitude":32.855608,
+    "geom:longitude":-117.25366,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1869249: name \"La Jolla Shores\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1869249"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1869249: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1869249"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1869249: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1869249"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922227 (San Diego).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922227 (San Diego), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "La Jolla Shores"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922227,
+        102083569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1869249
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ed184049625d4607a56d1badef7eba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":9895007100,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007100,
+    "wof:lastmodified":1794681142,
+    "wof:name":"La Jolla Shores",
+    "wof:parent_id":85922227,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.2536598270956,
+    32.85560757263826,
+    -117.2536598270956,
+    32.85560757263826
+],
+  "geometry": {"coordinates":[-117.2536598270956,32.85560757263826],"type":"Point"}
+}

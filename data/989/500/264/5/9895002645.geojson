@@ -1,0 +1,82 @@
+{
+  "id": 9895002645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.55274755282704,35.27655940702028,-77.55274755282704,35.27655940702028",
+    "geom:latitude":35.276559,
+    "geom:longitude":-77.552748,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002640: name \"Centennial Arms\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002640"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002640: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002640"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002640: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002640"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980759 (Kinston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980759 (Kinston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Centennial Arms"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980759,
+        102080971,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1002640
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6bdce00bebab3b213b4acc5dbe125bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080971,
+            "locality_id":85980759,
+            "neighbourhood_id":9895002645,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002645,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Centennial Arms",
+    "wof:parent_id":85980759,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.55274755282704,
+    35.27655940702028,
+    -77.55274755282704,
+    35.27655940702028
+],
+  "geometry": {"coordinates":[-77.55274755282704,35.27655940702028],"type":"Point"}
+}

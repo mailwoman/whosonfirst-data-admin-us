@@ -1,0 +1,80 @@
+{
+  "id": 9895000918,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.149990133689,38.7477723700408,-105.149990133689,38.7477723700408",
+    "geom:latitude":38.747772,
+    "geom:longitude":-105.14999,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 191289: name \"Stratton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/191289"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 191289: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/191289"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 191289: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/191289"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085249 (Teller).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085249 (Teller), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stratton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102085249,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":191289
+    },
+    "wof:country":"US",
+    "wof:geomhash":"776de992b91dac5acf4a5e37a1021e25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085249,
+            "locality_id":9895000918,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000918,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Stratton",
+    "wof:parent_id":102085249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.149990133689,
+    38.7477723700408,
+    -105.149990133689,
+    38.7477723700408
+],
+  "geometry": {"coordinates":[-105.149990133689,38.7477723700408],"type":"Point"}
+}

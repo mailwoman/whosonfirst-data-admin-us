@@ -1,0 +1,80 @@
+{
+  "id": 9895000297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.2865084046363,33.20568115111025,-91.2865084046363,33.20568115111025",
+    "geom:latitude":33.205681,
+    "geom:longitude":-91.286508,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 76604: name \"Chicot\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/76604"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 76604: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/76604"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 76604: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/76604"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082043 (Chicot).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082043 (Chicot), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Chicot"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        102082043,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":76604
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e6c320ccc06e2788b854cf9aa0c3091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082043,
+            "locality_id":9895000297,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000297,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Chicot",
+    "wof:parent_id":102082043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.2865084046363,
+    33.20568115111025,
+    -91.2865084046363,
+    33.20568115111025
+],
+  "geometry": {"coordinates":[-91.2865084046363,33.20568115111025],"type":"Point"}
+}

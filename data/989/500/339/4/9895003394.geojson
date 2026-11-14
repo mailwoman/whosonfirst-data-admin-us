@@ -1,0 +1,82 @@
+{
+  "id": 9895003394,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.18612416367533,41.95146293167507,-78.18612416367533,41.95146293167507",
+    "geom:latitude":41.951463,
+    "geom:longitude":-78.186124,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204776: name \"Sunnyside\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204776"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204776: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204776"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204776: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204776"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404488249 (Sharon Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404488249 (Sharon Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunnyside"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081299,
+        102191575,
+        404488249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1204776
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29a4e7f8f4e6b7c72dd7371d8c3fbd3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081299,
+            "localadmin_id":404488249,
+            "locality_id":9895003394,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003394,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Sunnyside",
+    "wof:parent_id":404488249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.18612416367533,
+    41.95146293167507,
+    -78.18612416367533,
+    41.95146293167507
+],
+  "geometry": {"coordinates":[-78.18612416367533,41.95146293167507],"type":"Point"}
+}

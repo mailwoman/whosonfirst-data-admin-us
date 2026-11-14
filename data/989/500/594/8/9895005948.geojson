@@ -1,0 +1,82 @@
+{
+  "id": 9895005948,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.30008487961695,33.845021129913334,-118.30008487961695,33.845021129913334",
+    "geom:latitude":33.845021,
+    "geom:longitude":-118.300085,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660556: name \"Dolanco Junction\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660556"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660556: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660556"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660556: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660556"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923517 (Los Angeles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923517 (Los Angeles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dolanco Junction"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923517,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1660556
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c67e9ba0c4171b6d9a0bc0a9a0d0d453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":9895005948,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005948,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Dolanco Junction",
+    "wof:parent_id":85923517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.30008487961695,
+    33.845021129913334,
+    -118.30008487961695,
+    33.845021129913334
+],
+  "geometry": {"coordinates":[-118.30008487961695,33.845021129913334],"type":"Point"}
+}

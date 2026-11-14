@@ -1,0 +1,82 @@
+{
+  "id": 9895008084,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.49380034697207,41.174817792623855,-86.49380034697207,41.174817792623855",
+    "geom:latitude":41.174818,
+    "geom:longitude":-86.4938,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830285: name \"Hartz Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830285"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830285: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830285"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830285: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830285"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404500335 (North Bend Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404500335 (North Bend Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hartz Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102087209,
+        102191575,
+        404500335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2830285
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf769d09eea9ec89d1d0564b8aafacab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404500335,
+            "locality_id":9895008084,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895008084,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Hartz Lake",
+    "wof:parent_id":404500335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.49380034697207,
+    41.174817792623855,
+    -86.49380034697207,
+    41.174817792623855
+],
+  "geometry": {"coordinates":[-86.49380034697207,41.174817792623855],"type":"Point"}
+}

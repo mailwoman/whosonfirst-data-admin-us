@@ -1,0 +1,82 @@
+{
+  "id": 9895006703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.41092674977344,39.107878593626005,-80.41092674977344,39.107878593626005",
+    "geom:latitude":39.107879,
+    "geom:longitude":-80.410927,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1728573: name \"Hall Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1728573"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1728573: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1728573"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1728573: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1728573"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101731405 (Jane Lew).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101731405 (Jane Lew), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hall Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        101731405,
+        102083339,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1728573
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5163ef470b6099eb2417d9c78f2cf6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731405,
+            "neighbourhood_id":9895006703,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895006703,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Hall Addition",
+    "wof:parent_id":101731405,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.41092674977344,
+    39.107878593626005,
+    -80.41092674977344,
+    39.107878593626005
+],
+  "geometry": {"coordinates":[-80.41092674977344,39.107878593626005],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895005352,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.93884158831374,41.073283167875395,-111.93884158831374,41.073283167875395",
+    "geom:latitude":41.073283,
+    "geom:longitude":-111.938842,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454023: name \"Roueche Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454023"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454023: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454023"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454023: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454023"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727897 (Layton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727897 (Layton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Roueche Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727897,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1454023
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a46a0f7562011b04de87a27cf7d81ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":9895005352,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005352,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Roueche Hills",
+    "wof:parent_id":101727897,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.93884158831374,
+    41.073283167875395,
+    -111.93884158831374,
+    41.073283167875395
+],
+  "geometry": {"coordinates":[-111.93884158831374,41.073283167875395],"type":"Point"}
+}

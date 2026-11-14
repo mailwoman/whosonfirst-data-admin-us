@@ -1,0 +1,82 @@
+{
+  "id": 9895006480,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.11550874711678,39.552064050810166,-76.11550874711678,39.552064050810166",
+    "geom:latitude":39.552064,
+    "geom:longitude":-76.115509,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698627: name \"Bayview Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698627"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698627: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698627"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698627: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698627"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949279 (Havre de Grace).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949279 (Havre de Grace), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bayview Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949279,
+        102082727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1698627
+    },
+    "wof:country":"US",
+    "wof:geomhash":"907aac649b477b55e94df4866932baeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949279,
+            "neighbourhood_id":9895006480,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006480,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Bayview Estates",
+    "wof:parent_id":85949279,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.11550874711678,
+    39.552064050810166,
+    -76.11550874711678,
+    39.552064050810166
+],
+  "geometry": {"coordinates":[-76.11550874711678,39.552064050810166],"type":"Point"}
+}

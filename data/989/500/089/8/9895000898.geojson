@@ -1,0 +1,80 @@
+{
+  "id": 9895000898,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.83664990682094,40.0277679694098,-104.83664990682094,40.0277679694098",
+    "geom:latitude":40.027768,
+    "geom:longitude":-104.83665,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 180850: name \"Wattenberg\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/180850"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 180850: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/180850"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 180850: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/180850"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086117 (Weld).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086117 (Weld), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wattenberg"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102086117,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":180850
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed503501fba75ac08b316e4943f4e4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086117,
+            "locality_id":9895000898,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000898,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Wattenberg",
+    "wof:parent_id":102086117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.83664990682094,
+    40.0277679694098,
+    -104.83664990682094,
+    40.0277679694098
+],
+  "geometry": {"coordinates":[-104.83664990682094,40.0277679694098],"type":"Point"}
+}

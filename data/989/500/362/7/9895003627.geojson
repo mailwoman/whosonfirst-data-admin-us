@@ -1,0 +1,80 @@
+{
+  "id": 9895003627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.92848422872784,34.68844108887656,-82.92848422872784,34.68844108887656",
+    "geom:latitude":34.688441,
+    "geom:longitude":-82.928484,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242920: name \"Bishop Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242920"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242920: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242920"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242920: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242920"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085427 (Oconee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085427 (Oconee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bishop Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085427,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1242920
+    },
+    "wof:country":"US",
+    "wof:geomhash":"106e38dbff68552ab7a22bfd6b7f1c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085427,
+            "locality_id":9895003627,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003627,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Bishop Heights",
+    "wof:parent_id":102085427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.92848422872784,
+    34.68844108887656,
+    -82.92848422872784,
+    34.68844108887656
+],
+  "geometry": {"coordinates":[-82.92848422872784,34.68844108887656],"type":"Point"}
+}

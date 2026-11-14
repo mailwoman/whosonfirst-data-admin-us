@@ -1,0 +1,80 @@
+{
+  "id": 9895006279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.66079635459178,38.5042971193315,-76.66079635459178,38.5042971193315",
+    "geom:latitude":38.504297,
+    "geom:longitude":-76.660796,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676277: name \"Patuxent View\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676277"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676277: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676277"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676277: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676277"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084241 (Calvert).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084241 (Calvert), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Patuxent View"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102084241,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1676277
+    },
+    "wof:country":"US",
+    "wof:geomhash":"57238b443ff17164f4f265cc342a7a47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":9895006279,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006279,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Patuxent View",
+    "wof:parent_id":102084241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.66079635459178,
+    38.5042971193315,
+    -76.66079635459178,
+    38.5042971193315
+],
+  "geometry": {"coordinates":[-76.66079635459178,38.5042971193315],"type":"Point"}
+}

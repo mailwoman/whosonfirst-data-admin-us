@@ -1,0 +1,82 @@
+{
+  "id": 9895008043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.48880864850238,40.72371956420492,-111.48880864850238,40.72371956420492",
+    "geom:latitude":40.72372,
+    "geom:longitude":-111.488809,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807120: name \"East Basin\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807120"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807120: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807120"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807120: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807120"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728097 (Silver Summit).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728097 (Silver Summit), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "East Basin"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728097,
+        102083555,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807120
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6b4a8bc7eaa87661ded054dc7743044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083555,
+            "locality_id":101728097,
+            "neighbourhood_id":9895008043,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895008043,
+    "wof:lastmodified":1794681145,
+    "wof:name":"East Basin",
+    "wof:parent_id":101728097,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.48880864850238,
+    40.72371956420492,
+    -111.48880864850238,
+    40.72371956420492
+],
+  "geometry": {"coordinates":[-111.48880864850238,40.72371956420492],"type":"Point"}
+}

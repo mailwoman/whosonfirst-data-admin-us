@@ -1,0 +1,82 @@
+{
+  "id": 9895003980,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.78889352307186,35.95923609577755,-86.78889352307186,35.95923609577755",
+    "geom:latitude":35.959236,
+    "geom:longitude":-86.788894,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312925: name \"Crockett Springs\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312925"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312925: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312925"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312925: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312925"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723097 (Brentwood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723097 (Brentwood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Crockett Springs"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723097,
+        102086337,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312925
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc216f881d74dcdeefbcadefb426d8c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723097,
+            "neighbourhood_id":9895003980,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003980,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Crockett Springs",
+    "wof:parent_id":101723097,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.78889352307186,
+    35.95923609577755,
+    -86.78889352307186,
+    35.95923609577755
+],
+  "geometry": {"coordinates":[-86.78889352307186,35.95923609577755],"type":"Point"}
+}

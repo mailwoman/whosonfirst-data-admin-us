@@ -1,0 +1,82 @@
+{
+  "id": 9895007649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.5334034231421,27.95000517034528,-82.5334034231421,27.95000517034528",
+    "geom:latitude":27.950005,
+    "geom:longitude":-82.533403,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2483328: name \"Gray Terrace\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2483328"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2483328: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2483328"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2483328: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2483328"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931789 (Tampa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931789 (Tampa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gray Terrace"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85931789,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2483328
+    },
+    "wof:country":"US",
+    "wof:geomhash":"545ea304d3dbc1a4796c1032b1c1419a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85931789,
+            "neighbourhood_id":9895007649,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007649,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Gray Terrace",
+    "wof:parent_id":85931789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.5334034231421,
+    27.95000517034528,
+    -82.5334034231421,
+    27.95000517034528
+],
+  "geometry": {"coordinates":[-82.5334034231421,27.95000517034528],"type":"Point"}
+}

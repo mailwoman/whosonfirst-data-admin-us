@@ -1,0 +1,80 @@
+{
+  "id": 9895006322,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.62882718979569,34.06899479362609,-84.62882718979569,34.06899479362609",
+    "geom:latitude":34.068995,
+    "geom:longitude":-84.628827,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686322: name \"Baker Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686322"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686322: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686322"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686322: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686322"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082313 (Cobb).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082313 (Cobb), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Baker Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102082313,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1686322
+    },
+    "wof:country":"US",
+    "wof:geomhash":"212eca788156187e6ea5ce0996584f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":9895006322,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006322,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Baker Ridge",
+    "wof:parent_id":102082313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.62882718979569,
+    34.06899479362609,
+    -84.62882718979569,
+    34.06899479362609
+],
+  "geometry": {"coordinates":[-84.62882718979569,34.06899479362609],"type":"Point"}
+}

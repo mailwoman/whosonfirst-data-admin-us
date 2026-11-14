@@ -1,0 +1,82 @@
+{
+  "id": 9895001769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.50968252915003,38.8695668990966,-76.50968252915003,38.8695668990966",
+    "geom:latitude":38.869567,
+    "geom:longitude":-76.509683,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 583573: name \"Camp Wabanna\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/583573"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 583573: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/583573"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 583573: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/583573"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949729 (Mayo).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949729 (Mayo), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Camp Wabanna"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949729,
+        102083469,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":583573
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a392216421c2d1e641bae6ee76d76763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949729,
+            "neighbourhood_id":9895001769,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001769,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Camp Wabanna",
+    "wof:parent_id":85949729,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.50968252915003,
+    38.8695668990966,
+    -76.50968252915003,
+    38.8695668990966
+],
+  "geometry": {"coordinates":[-76.50968252915003,38.8695668990966],"type":"Point"}
+}

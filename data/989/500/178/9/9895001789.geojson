@@ -1,0 +1,80 @@
+{
+  "id": 9895001789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.21084401085025,39.68009999620923,-78.21084401085025,39.68009999620923",
+    "geom:latitude":39.6801,
+    "geom:longitude":-78.210844,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 585553: name \"Loner Siding\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/585553"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 585553: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/585553"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 585553: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/585553"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082189 (Washington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082189 (Washington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Loner Siding"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082189,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":585553
+    },
+    "wof:country":"US",
+    "wof:geomhash":"300e1a90f0ad8b8087612eb9d283a206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":9895001789,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001789,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Loner Siding",
+    "wof:parent_id":102082189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.21084401085025,
+    39.68009999620923,
+    -78.21084401085025,
+    39.68009999620923
+],
+  "geometry": {"coordinates":[-78.21084401085025,39.68009999620923],"type":"Point"}
+}

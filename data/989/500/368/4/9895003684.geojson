@@ -1,0 +1,82 @@
+{
+  "id": 9895003684,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.35647263076154,33.94183021973087,-80.35647263076154,33.94183021973087",
+    "geom:latitude":33.94183,
+    "geom:longitude":-80.356473,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1244713: name \"Summers Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1244713"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1244713: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1244713"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1244713: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1244713"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720973 (Sumter).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720973 (Sumter), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Summers Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720973,
+        102085745,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1244713
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c269dd0e7f85335d8f7165578ce1ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085745,
+            "locality_id":101720973,
+            "neighbourhood_id":9895003684,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003684,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Summers Homes",
+    "wof:parent_id":101720973,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.35647263076154,
+    33.94183021973087,
+    -80.35647263076154,
+    33.94183021973087
+],
+  "geometry": {"coordinates":[-80.35647263076154,33.94183021973087],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.18157893663525,31.569068864636765,-84.18157893663525,31.569068864636765",
+    "geom:latitude":31.569069,
+    "geom:longitude":-84.181579,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671059: name \"Cherokee Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671059"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671059: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671059"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671059: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671059"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85935991 (Albany).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85935991 (Albany), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cherokee Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85935991,
+        102084427,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671059
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba191c2526124423349e3340a56ed883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":9895006107,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006107,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Cherokee Heights",
+    "wof:parent_id":85935991,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.18157893663525,
+    31.569068864636765,
+    -84.18157893663525,
+    31.569068864636765
+],
+  "geometry": {"coordinates":[-84.18157893663525,31.569068864636765],"type":"Point"}
+}

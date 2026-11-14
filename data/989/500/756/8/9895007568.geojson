@@ -1,0 +1,82 @@
+{
+  "id": 9895007568,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.13890693470495,29.5525051617516,-95.13890693470495,29.5525051617516",
+    "geom:latitude":29.552505,
+    "geom:longitude":-95.138907,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2471809: name \"Pipers Meadow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2471809"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2471809: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2471809"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2471809: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2471809"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101725629 (Houston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101725629 (Houston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pipers Meadow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        101725629,
+        102081111,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2471809
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8efbfe8e77fad7346a473a7651685787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081111,
+            "locality_id":101725629,
+            "neighbourhood_id":9895007568,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007568,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Pipers Meadow",
+    "wof:parent_id":101725629,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.13890693470495,
+    29.5525051617516,
+    -95.13890693470495,
+    29.5525051617516
+],
+  "geometry": {"coordinates":[-95.13890693470495,29.5525051617516],"type":"Point"}
+}

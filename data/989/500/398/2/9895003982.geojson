@@ -1,0 +1,82 @@
+{
+  "id": 9895003982,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.84750563631013,35.89701537964949,-86.84750563631013,35.89701537964949",
+    "geom:latitude":35.897015,
+    "geom:longitude":-86.847506,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312935: name \"Gardner Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312935"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312935: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312935"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312935: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312935"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723093 (Franklin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723093 (Franklin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gardner Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723093,
+        102086337,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312935
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca18fa3cd9ea24347c0f6353b5fffe14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723093,
+            "neighbourhood_id":9895003982,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003982,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Gardner Estates",
+    "wof:parent_id":101723093,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.84750563631013,
+    35.89701537964949,
+    -86.84750563631013,
+    35.89701537964949
+],
+  "geometry": {"coordinates":[-86.84750563631013,35.89701537964949],"type":"Point"}
+}

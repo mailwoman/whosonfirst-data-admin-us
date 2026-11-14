@@ -1,0 +1,80 @@
+{
+  "id": 9895001791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.11886920182296,38.58429351782774,-77.11886920182296,38.58429351782774",
+    "geom:latitude":38.584294,
+    "geom:longitude":-77.118869,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 585730: name \"Mason Springs\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/585730"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 585730: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/585730"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 585730: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/585730"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081211 (Charles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081211 (Charles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mason Springs"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102081211,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":585730
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f03a88a4d3a1c24363eea41cc6e2234f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":9895001791,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001791,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Mason Springs",
+    "wof:parent_id":102081211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.11886920182296,
+    38.58429351782774,
+    -77.11886920182296,
+    38.58429351782774
+],
+  "geometry": {"coordinates":[-77.11886920182296,38.58429351782774],"type":"Point"}
+}

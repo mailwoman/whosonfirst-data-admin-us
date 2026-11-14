@@ -1,0 +1,82 @@
+{
+  "id": 9895002335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.68082817991883,33.398697334382845,-105.68082817991883,33.398697334382845",
+    "geom:latitude":33.398697,
+    "geom:longitude":-105.680828,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 903117: name \"Alto\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/903117"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 903117: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/903117"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 903117: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/903117"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85976601 (Ruidoso).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85976601 (Ruidoso), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Alto"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        85976601,
+        102081577,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":903117
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0fabaaff74f325c63f493c09ba253a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081577,
+            "locality_id":85976601,
+            "neighbourhood_id":9895002335,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002335,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Alto",
+    "wof:parent_id":85976601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.68082817991883,
+    33.398697334382845,
+    -105.68082817991883,
+    33.398697334382845
+],
+  "geometry": {"coordinates":[-105.68082817991883,33.398697334382845],"type":"Point"}
+}

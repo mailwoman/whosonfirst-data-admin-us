@@ -1,0 +1,82 @@
+{
+  "id": 9895007567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.11220692575937,29.5076051534456,-95.11220692575937,29.5076051534456",
+    "geom:latitude":29.507605,
+    "geom:longitude":-95.112207,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2471767: name \"Clear Creek Crossing\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2471767"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2471767: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2471767"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2471767: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2471767"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101724271 (League City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101724271 (League City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Clear Creek Crossing"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        101724271,
+        102085003,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2471767
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a74ff807d2b10c9a8acda0b66db33e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085003,
+            "locality_id":101724271,
+            "neighbourhood_id":9895007567,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007567,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Clear Creek Crossing",
+    "wof:parent_id":101724271,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.11220692575937,
+    29.5076051534456,
+    -95.11220692575937,
+    29.5076051534456
+],
+  "geometry": {"coordinates":[-95.11220692575937,29.5076051534456],"type":"Point"}
+}

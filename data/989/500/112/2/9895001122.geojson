@@ -1,0 +1,82 @@
+{
+  "id": 9895001122,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.44604441963564,33.75594643367282,-84.44604441963564,33.75594643367282",
+    "geom:latitude":33.755946,
+    "geom:longitude":-84.446044,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 331104: name \"Battle Hill Haven\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/331104"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 331104: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/331104"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 331104: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/331104"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936429 (Atlanta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936429 (Atlanta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Battle Hill Haven"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936429,
+        102083603,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":331104
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f8c1409ce739750e5b1cf60798884b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":9895001122,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001122,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Battle Hill Haven",
+    "wof:parent_id":85936429,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.44604441963564,
+    33.75594643367282,
+    -84.44604441963564,
+    33.75594643367282
+],
+  "geometry": {"coordinates":[-84.44604441963564,33.75594643367282],"type":"Point"}
+}

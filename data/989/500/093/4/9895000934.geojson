@@ -1,0 +1,82 @@
+{
+  "id": 9895000934,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.99899529356294,41.853160812206426,-72.99899529356294,41.853160812206426",
+    "geom:latitude":41.853161,
+    "geom:longitude":-72.998995,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 212578: name \"Town Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/212578"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 212578: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/212578"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 212578: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/212578"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404496029 (New Hartford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404496029 (New Hartford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Town Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688629,
+        102085375,
+        102191575,
+        404496029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":212578
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3554039591398d147d7d8bfcfb408f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496029,
+            "locality_id":9895000934,
+            "region_id":85688629
+        }
+    ],
+    "wof:id":9895000934,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Town Hill",
+    "wof:parent_id":404496029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.99899529356294,
+    41.853160812206426,
+    -72.99899529356294,
+    41.853160812206426
+],
+  "geometry": {"coordinates":[-72.99899529356294,41.853160812206426],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895005152,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.87439344766132,40.872173550891745,-111.87439344766132,40.872173550891745",
+    "geom:latitude":40.872174,
+    "geom:longitude":-111.874393,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453757: name \"Orchard Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453757"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453757: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453757"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453757: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453757"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727881 (Bountiful).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727881 (Bountiful), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Orchard Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727881,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453757
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f6fda3d248a48451bd33882fb2281ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":9895005152,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005152,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Orchard Park",
+    "wof:parent_id":101727881,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.87439344766132,
+    40.872173550891745,
+    -111.87439344766132,
+    40.872173550891745
+],
+  "geometry": {"coordinates":[-111.87439344766132,40.872173550891745],"type":"Point"}
+}

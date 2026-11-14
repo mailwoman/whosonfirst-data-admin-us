@@ -1,0 +1,82 @@
+{
+  "id": 9895001109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.32479239967047,28.74888909435234,-81.32479239967047,28.74888909435234",
+    "geom:latitude":28.748889,
+    "geom:longitude":-81.324792,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 301344: name \"Lake View\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/301344"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 301344: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/301344"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 301344: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/301344"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85932139 (Lake Mary).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85932139 (Lake Mary), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lake View"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85932139,
+        102085775,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":301344
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed747ab2eaf1e29b4c958e78b17ce9a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085775,
+            "locality_id":85932139,
+            "neighbourhood_id":9895001109,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001109,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Lake View",
+    "wof:parent_id":85932139,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.32479239967047,
+    28.74888909435234,
+    -81.32479239967047,
+    28.74888909435234
+],
+  "geometry": {"coordinates":[-81.32479239967047,28.74888909435234],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895008092,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.85300795361479,40.84300719125448,-95.85300795361479,40.84300719125448",
+    "geom:latitude":40.843007,
+    "geom:longitude":-95.853008,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830957: name \"Lake Waconda\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830957"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830957: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830957"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830957: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830957"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404519605 (Liberty).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404519605 (Liberty), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lake Waconda"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688563,
+        102082791,
+        102191575,
+        404519605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2830957
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c9e958307e1c4b130931e16e6abf9742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082791,
+            "localadmin_id":404519605,
+            "locality_id":9895008092,
+            "region_id":85688563
+        }
+    ],
+    "wof:id":9895008092,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Lake Waconda",
+    "wof:parent_id":404519605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.85300795361479,
+    40.84300719125448,
+    -95.85300795361479,
+    40.84300719125448
+],
+  "geometry": {"coordinates":[-95.85300795361479,40.84300719125448],"type":"Point"}
+}

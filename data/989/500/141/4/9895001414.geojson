@@ -1,0 +1,82 @@
+{
+  "id": 9895001414,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.36704630076443,40.28754898153978,-89.36704630076443,40.28754898153978",
+    "geom:latitude":40.287549,
+    "geom:longitude":-89.367046,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 423263: name \"Union\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/423263"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 423263: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/423263"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 423263: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/423263"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404498029 (Eminence Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404498029 (Eminence Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Union"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102082843,
+        102191575,
+        404498029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":423263
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee67d50e4f7f421c3f4cf91e03e03e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082843,
+            "localadmin_id":404498029,
+            "locality_id":9895001414,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001414,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Union",
+    "wof:parent_id":404498029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.36704630076443,
+    40.28754898153978,
+    -89.36704630076443,
+    40.28754898153978
+],
+  "geometry": {"coordinates":[-89.36704630076443,40.28754898153978],"type":"Point"}
+}

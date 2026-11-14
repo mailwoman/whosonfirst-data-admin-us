@@ -1,0 +1,80 @@
+{
+  "id": 9895000891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.76511161001109,37.58943987243158,-108.76511161001109,37.58943987243158",
+    "geom:latitude":37.58944,
+    "geom:longitude":-108.765112,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 176857: name \"Pleasant View\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/176857"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 176857: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/176857"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 176857: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/176857"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084099 (Montezuma).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084099 (Montezuma), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pleasant View"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102084099,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":176857
+    },
+    "wof:country":"US",
+    "wof:geomhash":"06c666e457202af296c742c7a75a70b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084099,
+            "locality_id":9895000891,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000891,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Pleasant View",
+    "wof:parent_id":102084099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.76511161001109,
+    37.58943987243158,
+    -108.76511161001109,
+    37.58943987243158
+],
+  "geometry": {"coordinates":[-108.76511161001109,37.58943987243158],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006256,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.40060841834904,37.12069259487702,-80.40060841834904,37.12069259487702",
+    "geom:latitude":37.120693,
+    "geom:longitude":-80.400608,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674558: name \"Franklin Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674558"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674558: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674558"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674558: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674558"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728703 (Christiansburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728703 (Christiansburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Franklin Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728703,
+        102087271,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1674558
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c7c0b69dc360497839913f28a37a2efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087271,
+            "locality_id":101728703,
+            "neighbourhood_id":9895006256,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006256,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Franklin Park",
+    "wof:parent_id":101728703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.40060841834904,
+    37.12069259487702,
+    -80.40060841834904,
+    37.12069259487702
+],
+  "geometry": {"coordinates":[-80.40060841834904,37.12069259487702],"type":"Point"}
+}

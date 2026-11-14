@@ -1,0 +1,82 @@
+{
+  "id": 9895000261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.97236018455311,33.11929520641464,-91.97236018455311,33.11929520641464",
+    "geom:latitude":33.119295,
+    "geom:longitude":-91.97236,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 62431: name \"Oakhurst Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/62431"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 62431: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/62431"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 62431: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/62431"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85920157 (Crossett).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85920157 (Crossett), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oakhurst Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        85920157,
+        102083885,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":62431
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36631d55b1ad740f6cd8ed9baa76029b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083885,
+            "locality_id":85920157,
+            "neighbourhood_id":9895000261,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000261,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Oakhurst Addition",
+    "wof:parent_id":85920157,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.97236018455311,
+    33.11929520641464,
+    -91.97236018455311,
+    33.11929520641464
+],
+  "geometry": {"coordinates":[-91.97236018455311,33.11929520641464],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895006234,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.81796292643295,33.52845670751887,-83.81796292643295,33.52845670751887",
+    "geom:latitude":33.528457,
+    "geom:longitude":-83.817963,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673509: name \"Jamestown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673509"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673509: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673509"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673509: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673509"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082963 (Newton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082963 (Newton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jamestown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102082963,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1673509
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cace802d68e9ea2399b60e9d5c89b0b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082963,
+            "locality_id":9895006234,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006234,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Jamestown",
+    "wof:parent_id":102082963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.81796292643295,
+    33.52845670751887,
+    -83.81796292643295,
+    33.52845670751887
+],
+  "geometry": {"coordinates":[-83.81796292643295,33.52845670751887],"type":"Point"}
+}

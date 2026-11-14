@@ -1,0 +1,80 @@
+{
+  "id": 9895000324,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.77304896712367,33.4170589736197,-86.77304896712367,33.4170589736197",
+    "geom:latitude":33.417059,
+    "geom:longitude":-86.773049,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 125875: name \"Rocky Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/125875"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 125875: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/125875"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 125875: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/125875"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085481 (Jefferson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085481 (Jefferson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rocky Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":125875
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc5c552a189601c888d781aa20ade1fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":9895000324,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000324,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Rocky Ridge",
+    "wof:parent_id":102085481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.77304896712367,
+    33.4170589736197,
+    -86.77304896712367,
+    33.4170589736197
+],
+  "geometry": {"coordinates":[-86.77304896712367,33.4170589736197],"type":"Point"}
+}

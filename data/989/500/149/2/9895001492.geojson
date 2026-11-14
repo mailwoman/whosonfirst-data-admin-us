@@ -1,0 +1,82 @@
+{
+  "id": 9895001492,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.39140779518456,37.160354995090984,-97.39140779518456,37.160354995090984",
+    "geom:latitude":37.160355,
+    "geom:longitude":-97.391408,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 470318: name \"Rome\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/470318"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 470318: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/470318"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 470318: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/470318"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404505237 (Jackson Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404505237 (Jackson Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rome"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688555,
+        102085325,
+        102191575,
+        404505237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":470318
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2b2ae0ae6af4cfa6e39e91ac7de4244c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085325,
+            "localadmin_id":404505237,
+            "locality_id":9895001492,
+            "region_id":85688555
+        }
+    ],
+    "wof:id":9895001492,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Rome",
+    "wof:parent_id":404505237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.39140779518456,
+    37.160354995090984,
+    -97.39140779518456,
+    37.160354995090984
+],
+  "geometry": {"coordinates":[-97.39140779518456,37.160354995090984],"type":"Point"}
+}

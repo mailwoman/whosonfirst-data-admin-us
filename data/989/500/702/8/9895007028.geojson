@@ -1,0 +1,84 @@
+{
+  "id": 9895007028,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.0842778118351,42.22447352939544,-89.0842778118351,42.22447352939544",
+    "geom:latitude":42.224474,
+    "geom:longitude":-89.084278,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1829380: name \"Ravinia Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1829380"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1829380: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1829380"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1829380: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1829380"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85939829 (Rockford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85939829 (Rockford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ravinia Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85939829,
+        102080827,
+        102191575,
+        404499349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1829380
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0cf335cf98ea741d256fe90e81868af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080827,
+            "localadmin_id":404499349,
+            "locality_id":85939829,
+            "neighbourhood_id":9895007028,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007028,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Ravinia Park",
+    "wof:parent_id":85939829,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.0842778118351,
+    42.22447352939544,
+    -89.0842778118351,
+    42.22447352939544
+],
+  "geometry": {"coordinates":[-89.0842778118351,42.22447352939544],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9895006902,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.60366683773279,41.82420824559502,-87.60366683773279,41.82420824559502",
+    "geom:latitude":41.824208,
+    "geom:longitude":-87.603667,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1772665: name \"Victor A Olander Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1772665"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1772665: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1772665"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1772665: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1772665"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940195 (Chicago).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940195 (Chicago), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Victor A Olander Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940195,
+        102084317,
+        102191575,
+        404496273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1772665
+    },
+    "wof:country":"US",
+    "wof:geomhash":"904ddee292e5f90cb26d1fc87e50d66b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":9895006902,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895006902,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Victor A Olander Homes",
+    "wof:parent_id":85940195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.60366683773279,
+    41.82420824559502,
+    -87.60366683773279,
+    41.82420824559502
+],
+  "geometry": {"coordinates":[-87.60366683773279,41.82420824559502],"type":"Point"}
+}

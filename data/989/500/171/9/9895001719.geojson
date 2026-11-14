@@ -1,0 +1,82 @@
+{
+  "id": 9895001719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.0039973872404,30.469362194524756,-91.0039973872404,30.469362194524756",
+    "geom:latitude":30.469362,
+    "geom:longitude":-91.003997,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559231: name \"Stevendale Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559231"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559231: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559231"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559231: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559231"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948205 (Baton Rouge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948205 (Baton Rouge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stevendale Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948205,
+        102087229,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":559231
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ebaf65fe1bcd4cb24aed624009f8fcea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":9895001719,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001719,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Stevendale Park",
+    "wof:parent_id":85948205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.0039973872404,
+    30.469362194524756,
+    -91.0039973872404,
+    30.469362194524756
+],
+  "geometry": {"coordinates":[-91.0039973872404,30.469362194524756],"type":"Point"}
+}

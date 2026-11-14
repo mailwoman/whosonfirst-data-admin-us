@@ -1,0 +1,82 @@
+{
+  "id": 9895004163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.6330714889338,51.847776646910496,-176.6330714889338,51.847776646910496",
+    "geom:latitude":51.847777,
+    "geom:longitude":-176.633071,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1419745: name \"Hospital Valley\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1419745"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1419745: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1419745"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1419745: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1419745"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85916055 (Adak).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85916055 (Adak), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hospital Valley"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85916055,
+        102080627,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1419745
+    },
+    "wof:country":"US",
+    "wof:geomhash":"34f6706d464b0adbc61cc28ab2fa3d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080627,
+            "locality_id":85916055,
+            "neighbourhood_id":9895004163,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004163,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Hospital Valley",
+    "wof:parent_id":85916055,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.6330714889338,
+    51.847776646910496,
+    -176.6330714889338,
+    51.847776646910496
+],
+  "geometry": {"coordinates":[-176.6330714889338,51.847776646910496],"type":"Point"}
+}

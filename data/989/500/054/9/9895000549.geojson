@@ -1,0 +1,82 @@
+{
+  "id": 9895000549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.64308948931632,34.748706514981876,-87.64308948931632,34.748706514981876",
+    "geom:latitude":34.748707,
+    "geom:longitude":-87.643089,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146245: name \"Jackson Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146245"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146245: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146245"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146245: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146245"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85897481 (Muscle Shoals).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85897481 (Muscle Shoals), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jackson Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85897481,
+        102085625,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146245
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c854d8aea6d5e29ec2aca576066f3de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085625,
+            "locality_id":85897481,
+            "neighbourhood_id":9895000549,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000549,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Jackson Heights",
+    "wof:parent_id":85897481,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.64308948931632,
+    34.748706514981876,
+    -87.64308948931632,
+    34.748706514981876
+],
+  "geometry": {"coordinates":[-87.64308948931632,34.748706514981876],"type":"Point"}
+}

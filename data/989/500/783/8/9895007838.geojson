@@ -1,0 +1,80 @@
+{
+  "id": 9895007838,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.7212534144228,46.07004657482657,-108.7212534144228,46.07004657482657",
+    "geom:latitude":46.070047,
+    "geom:longitude":-108.721253,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804322: name \"Mountain View Colony\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804322"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804322: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804322"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804322: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804322"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085087 (Yellowstone).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085087 (Yellowstone), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mountain View Colony"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        102085087,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804322
+    },
+    "wof:country":"US",
+    "wof:geomhash":"01da90da872ce17ab6a5fc522e1a00e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":9895007838,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895007838,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Mountain View Colony",
+    "wof:parent_id":102085087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.7212534144228,
+    46.07004657482657,
+    -108.7212534144228,
+    46.07004657482657
+],
+  "geometry": {"coordinates":[-108.7212534144228,46.07004657482657],"type":"Point"}
+}

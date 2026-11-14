@@ -1,0 +1,80 @@
+{
+  "id": 9895003185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.03472871298807,35.507609777087005,-96.03472871298807,35.507609777087005",
+    "geom:latitude":35.50761,
+    "geom:longitude":-96.034729,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1099875: name \"Wilson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1099875"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1099875: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1099875"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1099875: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1099875"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083977 (Okmulgee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083977 (Okmulgee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wilson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688585,
+        102083977,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1099875
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b81d2078c3a8d12878d0f3c2e7a074cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083977,
+            "locality_id":9895003185,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":9895003185,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Wilson",
+    "wof:parent_id":102083977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.03472871298807,
+    35.507609777087005,
+    -96.03472871298807,
+    35.507609777087005
+],
+  "geometry": {"coordinates":[-96.03472871298807,35.507609777087005],"type":"Point"}
+}

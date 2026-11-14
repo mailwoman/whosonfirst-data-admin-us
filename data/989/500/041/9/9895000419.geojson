@@ -1,0 +1,80 @@
+{
+  "id": 9895000419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.2180250493918,32.24820384460343,-86.2180250493918,32.24820384460343",
+    "geom:latitude":32.248204,
+    "geom:longitude":-86.218025,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142494: name \"Doral Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142494"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142494: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142494"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142494: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142494"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085733 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085733 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Doral Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142494
+    },
+    "wof:country":"US",
+    "wof:geomhash":"775b101dff6f8ff5e8b7e119a337a243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":9895000419,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000419,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Doral Estates",
+    "wof:parent_id":102085733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.2180250493918,
+    32.24820384460343,
+    -86.2180250493918,
+    32.24820384460343
+],
+  "geometry": {"coordinates":[-86.2180250493918,32.24820384460343],"type":"Point"}
+}

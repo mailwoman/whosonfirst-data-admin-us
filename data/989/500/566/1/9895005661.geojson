@@ -1,0 +1,80 @@
+{
+  "id": 9895005661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.97146881162273,39.06177570294909,-79.97146881162273,39.06177570294909",
+    "geom:latitude":39.061776,
+    "geom:longitude":-79.971469,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1548584: name \"Valley Bend\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1548584"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1548584: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1548584"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1548584: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1548584"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082593 (Barbour).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082593 (Barbour), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Valley Bend"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        102082593,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1548584
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b78426e783da4b034d5b178b8bb36ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":9895005661,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895005661,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Valley Bend",
+    "wof:parent_id":102082593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.97146881162273,
+    39.06177570294909,
+    -79.97146881162273,
+    39.06177570294909
+],
+  "geometry": {"coordinates":[-79.97146881162273,39.06177570294909],"type":"Point"}
+}

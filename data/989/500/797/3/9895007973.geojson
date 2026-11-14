@@ -1,0 +1,82 @@
+{
+  "id": 9895007973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.56657504679485,38.091596025174624,-90.56657504679485,38.091596025174624",
+    "geom:latitude":38.091596,
+    "geom:longitude":-90.566575,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806409: name \"Summer Set\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806409"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806409: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806409"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806409: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806409"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404518227 (Valle Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404518227 (Valle Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Summer Set"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102080787,
+        102191575,
+        404518227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806409
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cab3efd6aecbc3b72150d5ae3e8c0f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518227,
+            "locality_id":9895007973,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895007973,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Summer Set",
+    "wof:parent_id":404518227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.56657504679485,
+    38.091596025174624,
+    -90.56657504679485,
+    38.091596025174624
+],
+  "geometry": {"coordinates":[-90.56657504679485,38.091596025174624],"type":"Point"}
+}

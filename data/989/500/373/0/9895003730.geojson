@@ -1,0 +1,82 @@
+{
+  "id": 9895003730,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.6275996678298,35.09541252460829,-81.6275996678298,35.09541252460829",
+    "geom:latitude":35.095413,
+    "geom:longitude":-81.6276,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1252637: name \"Rosehill Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1252637"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1252637: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1252637"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1252637: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1252637"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721275 (East Gaffney).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721275 (East Gaffney), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rosehill Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721275,
+        102085403,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1252637
+    },
+    "wof:country":"US",
+    "wof:geomhash":"987fa32b15b15853dad7691260809e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085403,
+            "locality_id":101721275,
+            "neighbourhood_id":9895003730,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003730,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Rosehill Park",
+    "wof:parent_id":101721275,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.6275996678298,
+    35.09541252460829,
+    -81.6275996678298,
+    35.09541252460829
+],
+  "geometry": {"coordinates":[-81.6275996678298,35.09541252460829],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895001236,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.56045460694888,34.58982624447673,-83.56045460694888,34.58982624447673",
+    "geom:latitude":34.589826,
+    "geom:longitude":-83.560455,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 356130: name \"Habersham\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/356130"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 356130: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/356130"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 356130: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/356130"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084699 (Habersham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084699 (Habersham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Habersham"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102084699,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":356130
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c79dc0aa954defab580d8de3f978d816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084699,
+            "locality_id":9895001236,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001236,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Habersham",
+    "wof:parent_id":102084699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.56045460694888,
+    34.58982624447673,
+    -83.56045460694888,
+    34.58982624447673
+],
+  "geometry": {"coordinates":[-83.56045460694888,34.58982624447673],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895007134,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.60462756097373,35.096925125658956,-120.60462756097373,35.096925125658956",
+    "geom:latitude":35.096925,
+    "geom:longitude":-120.604628,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1872501: name \"Cienega Seabreeze Mobile Home Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1872501"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1872501: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1872501"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1872501: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1872501"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85925465 (Oceano).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85925465 (Oceano), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cienega Seabreeze Mobile Home Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85925465,
+        102085385,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1872501
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cdbbff2b79a46ca99ecd0afc3535d201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085385,
+            "locality_id":85925465,
+            "neighbourhood_id":9895007134,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007134,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Cienega Seabreeze Mobile Home Park",
+    "wof:parent_id":85925465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.60462756097373,
+    35.096925125658956,
+    -120.60462756097373,
+    35.096925125658956
+],
+  "geometry": {"coordinates":[-120.60462756097373,35.096925125658956],"type":"Point"}
+}

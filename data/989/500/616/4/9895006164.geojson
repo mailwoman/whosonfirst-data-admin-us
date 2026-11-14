@@ -1,0 +1,82 @@
+{
+  "id": 9895006164,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.57593444677087,30.745241658675184,-81.57593444677087,30.745241658675184",
+    "geom:latitude":30.745242,
+    "geom:longitude":-81.575934,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671416: name \"Riverview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671416"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671416: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671416"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671416: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671416"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937041 (St. Marys).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937041 (St. Marys), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Riverview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85937041,
+        102081693,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671416
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a0ec678741f5bd44acfd228b4c9311c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937041,
+            "neighbourhood_id":9895006164,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006164,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Riverview",
+    "wof:parent_id":85937041,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.57593444677087,
+    30.745241658675184,
+    -81.57593444677087,
+    30.745241658675184
+],
+  "geometry": {"coordinates":[-81.57593444677087,30.745241658675184],"type":"Point"}
+}

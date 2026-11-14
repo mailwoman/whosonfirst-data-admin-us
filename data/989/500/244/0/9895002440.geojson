@@ -1,0 +1,82 @@
+{
+  "id": 9895002440,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.63184368340649,44.13479177349855,-74.63184368340649,44.13479177349855",
+    "geom:latitude":44.134792,
+    "geom:longitude":-74.631844,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 976456: name \"Horseshoe\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/976456"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 976456: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/976456"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 976456: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/976456"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404521583 (Piercefield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404521583 (Piercefield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Horseshoe"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102082379,
+        102191575,
+        404521583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":976456
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3c1b4d46bed0caee8fffc8d2d690750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082379,
+            "localadmin_id":404521583,
+            "locality_id":9895002440,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002440,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Horseshoe",
+    "wof:parent_id":404521583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.63184368340649,
+    44.13479177349855,
+    -74.63184368340649,
+    44.13479177349855
+],
+  "geometry": {"coordinates":[-74.63184368340649,44.13479177349855],"type":"Point"}
+}

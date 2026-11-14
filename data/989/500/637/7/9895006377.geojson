@@ -1,0 +1,80 @@
+{
+  "id": 9895006377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.97935649167451,33.887056678347136,-83.97935649167451,33.887056678347136",
+    "geom:latitude":33.887057,
+    "geom:longitude":-83.979356,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688423: name \"Waterton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688423"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688423: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688423"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688423: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688423"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082967 (Gwinnett).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082967 (Gwinnett), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Waterton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102082967,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1688423
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4bf38e69af82e3d1c8768808e49d76a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":9895006377,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006377,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Waterton",
+    "wof:parent_id":102082967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.97935649167451,
+    33.887056678347136,
+    -83.97935649167451,
+    33.887056678347136
+],
+  "geometry": {"coordinates":[-83.97935649167451,33.887056678347136],"type":"Point"}
+}

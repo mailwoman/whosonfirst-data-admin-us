@@ -1,0 +1,80 @@
+{
+  "id": 9895003139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.26209696298805,35.32843951115458,-83.26209696298805,35.32843951115458",
+    "geom:latitude":35.32844,
+    "geom:longitude":-83.262097,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1020555: name \"Greens Creek\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1020555"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1020555: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1020555"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1020555: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1020555"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087875 (Jackson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087875 (Jackson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Greens Creek"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087875,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1020555
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fccdb644c5d8de49c91680934df4a1b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087875,
+            "locality_id":9895003139,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003139,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Greens Creek",
+    "wof:parent_id":102087875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.26209696298805,
+    35.32843951115458,
+    -83.26209696298805,
+    35.32843951115458
+],
+  "geometry": {"coordinates":[-83.26209696298805,35.32843951115458],"type":"Point"}
+}

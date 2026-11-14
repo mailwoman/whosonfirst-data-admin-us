@@ -1,0 +1,80 @@
+{
+  "id": 9895000850,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.93224275322925,32.688194776071825,-87.93224275322925,32.688194776071825",
+    "geom:latitude":32.688195,
+    "geom:longitude":-87.932243,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157152: name \"Thornhill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157152"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157152: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157152"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157152: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157152"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085657 (Greene).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085657 (Greene), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Thornhill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085657,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":157152
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ade9e741ea8096ae3b1de1a26073125d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085657,
+            "locality_id":9895000850,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000850,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Thornhill",
+    "wof:parent_id":102085657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.93224275322925,
+    32.688194776071825,
+    -87.93224275322925,
+    32.688194776071825
+],
+  "geometry": {"coordinates":[-87.93224275322925,32.688194776071825],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.59834609744031,33.35984423041146,-87.59834609744031,33.35984423041146",
+    "geom:latitude":33.359844,
+    "geom:longitude":-87.598346,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148753: name \"Willow Point\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148753"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148753: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148753"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148753: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148753"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Willow Point"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148753
+    },
+    "wof:country":"US",
+    "wof:geomhash":"254d17f5dc293e0959a36c2b57120b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000793,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000793,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Willow Point",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.59834609744031,
+    33.35984423041146,
+    -87.59834609744031,
+    33.35984423041146
+],
+  "geometry": {"coordinates":[-87.59834609744031,33.35984423041146],"type":"Point"}
+}

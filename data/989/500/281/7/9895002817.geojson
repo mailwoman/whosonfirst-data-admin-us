@@ -1,0 +1,82 @@
+{
+  "id": 9895002817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.80420077556442,36.050142694576174,-79.80420077556442,36.050142694576174",
+    "geom:latitude":36.050143,
+    "geom:longitude":-79.804201,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004987: name \"Smith Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004987"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004987: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004987"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004987: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004987"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980391 (Greensboro).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980391 (Greensboro), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Smith Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980391,
+        102080985,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1004987
+    },
+    "wof:country":"US",
+    "wof:geomhash":"35209d8568fcecb17de9054d009d4501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080985,
+            "locality_id":85980391,
+            "neighbourhood_id":9895002817,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002817,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Smith Homes",
+    "wof:parent_id":85980391,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.80420077556442,
+    36.050142694576174,
+    -79.80420077556442,
+    36.050142694576174
+],
+  "geometry": {"coordinates":[-79.80420077556442,36.050142694576174],"type":"Point"}
+}

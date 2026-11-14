@@ -1,0 +1,82 @@
+{
+  "id": 9895006602,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.6071913851702,39.29400388083256,-76.6071913851702,39.29400388083256",
+    "geom:latitude":39.294004,
+    "geom:longitude":-76.607191,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1707722: name \"Old Town\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1707722"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1707722: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1707722"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1707722: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1707722"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949461 (Baltimore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949461 (Baltimore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Old Town"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949461,
+        102081589,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1707722
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a2b25bf129df5c7c8bb011e9c9b9c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "neighbourhood_id":9895006602,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006602,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Old Town",
+    "wof:parent_id":85949461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.6071913851702,
+    39.29400388083256,
+    -76.6071913851702,
+    39.29400388083256
+],
+  "geometry": {"coordinates":[-76.6071913851702,39.29400388083256],"type":"Point"}
+}

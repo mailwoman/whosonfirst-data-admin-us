@@ -1,0 +1,82 @@
+{
+  "id": 9895002291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.32739395087718,38.80047306338848,-119.32739395087718,38.80047306338848",
+    "geom:latitude":38.800473,
+    "geom:longitude":-119.327394,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 845667: name \"Smith\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/845667"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 845667: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/845667"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 845667: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/845667"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85974859 (Smith Valley).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85974859 (Smith Valley), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Smith"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688531,
+        85974859,
+        102081531,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":845667
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a1fecd39e6d2157890cfb469eba7a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081531,
+            "locality_id":85974859,
+            "neighbourhood_id":9895002291,
+            "region_id":85688531
+        }
+    ],
+    "wof:id":9895002291,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Smith",
+    "wof:parent_id":85974859,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.32739395087718,
+    38.80047306338848,
+    -119.32739395087718,
+    38.80047306338848
+],
+  "geometry": {"coordinates":[-119.32739395087718,38.80047306338848],"type":"Point"}
+}

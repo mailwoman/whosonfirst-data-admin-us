@@ -1,0 +1,80 @@
+{
+  "id": 9895005513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.46856241920898,37.16543024879369,-76.46856241920898,37.16543024879369",
+    "geom:latitude":37.16543,
+    "geom:longitude":-76.468562,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1467331: name \"Grafton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1467331"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1467331: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1467331"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1467331: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1467331"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086731 (York).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086731 (York), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Grafton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102086731,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1467331
+    },
+    "wof:country":"US",
+    "wof:geomhash":"14920f6d3c626c62f30c4d150a126613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086731,
+            "locality_id":9895005513,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005513,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Grafton",
+    "wof:parent_id":102086731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.46856241920898,
+    37.16543024879369,
+    -76.46856241920898,
+    37.16543024879369
+],
+  "geometry": {"coordinates":[-76.46856241920898,37.16543024879369],"type":"Point"}
+}

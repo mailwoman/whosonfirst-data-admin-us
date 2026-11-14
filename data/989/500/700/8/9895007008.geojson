@@ -1,0 +1,84 @@
+{
+  "id": 9895007008,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.82395741870157,41.99864956311411,-87.82395741870157,41.99864956311411",
+    "geom:latitude":41.99865,
+    "geom:longitude":-87.823957,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1826237: name \"Edison\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1826237"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1826237: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1826237"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1826237: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1826237"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940743 (Park Ridge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940743 (Park Ridge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Edison"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940743,
+        102084317,
+        102191575,
+        404497631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1826237
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df9f05cf42ccc799a0193db5ebe01267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497631,
+            "locality_id":85940743,
+            "neighbourhood_id":9895007008,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007008,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Edison",
+    "wof:parent_id":85940743,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.82395741870157,
+    41.99864956311411,
+    -87.82395741870157,
+    41.99864956311411
+],
+  "geometry": {"coordinates":[-87.82395741870157,41.99864956311411],"type":"Point"}
+}

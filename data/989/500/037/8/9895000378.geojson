@@ -1,0 +1,82 @@
+{
+  "id": 9895000378,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.41272933916908,32.619584953847436,-85.41272933916908,32.619584953847436",
+    "geom:latitude":32.619585,
+    "geom:longitude":-85.412729,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138252: name \"Orr Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138252"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138252: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138252"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138252: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138252"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913815 (Opelika).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913815 (Opelika), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Orr Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913815,
+        102085751,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":138252
+    },
+    "wof:country":"US",
+    "wof:geomhash":"54be78e2bb206570d63176fe166d878d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085751,
+            "locality_id":85913815,
+            "neighbourhood_id":9895000378,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000378,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Orr Estates",
+    "wof:parent_id":85913815,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.41272933916908,
+    32.619584953847436,
+    -85.41272933916908,
+    32.619584953847436
+],
+  "geometry": {"coordinates":[-85.41272933916908,32.619584953847436],"type":"Point"}
+}

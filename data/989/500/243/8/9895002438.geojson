@@ -1,0 +1,84 @@
+{
+  "id": 9895002438,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.31897212546761,41.047052078935444,-72.31897212546761,41.047052078935444",
+    "geom:latitude":41.047052,
+    "geom:longitude":-72.318972,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 973875: name \"South Ferry Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/973875"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 973875: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/973875"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 973875: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/973875"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85979923 (Shelter Island).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85979923 (Shelter Island), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South Ferry Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        85979923,
+        102082395,
+        102191575,
+        404522665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":973875
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5647c34d057851cd66318929dd6e928d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082395,
+            "localadmin_id":404522665,
+            "locality_id":85979923,
+            "neighbourhood_id":9895002438,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002438,
+    "wof:lastmodified":1794681130,
+    "wof:name":"South Ferry Hills",
+    "wof:parent_id":85979923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.31897212546761,
+    41.047052078935444,
+    -72.31897212546761,
+    41.047052078935444
+],
+  "geometry": {"coordinates":[-72.31897212546761,41.047052078935444],"type":"Point"}
+}

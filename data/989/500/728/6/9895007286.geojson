@@ -1,0 +1,82 @@
+{
+  "id": 9895007286,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.79167674835315,39.617506416167735,-104.79167674835315,39.617506416167735",
+    "geom:latitude":39.617506,
+    "geom:longitude":-104.791677,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2088575: name \"Piney Creek\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2088575"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2088575: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2088575"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2088575: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2088575"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929851 (Centennial).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929851 (Centennial), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Piney Creek"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929851,
+        102086877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2088575
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1078e4f69e317251cee56ad5487fa5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086877,
+            "locality_id":85929851,
+            "neighbourhood_id":9895007286,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007286,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Piney Creek",
+    "wof:parent_id":85929851,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.79167674835315,
+    39.617506416167735,
+    -104.79167674835315,
+    39.617506416167735
+],
+  "geometry": {"coordinates":[-104.79167674835315,39.617506416167735],"type":"Point"}
+}

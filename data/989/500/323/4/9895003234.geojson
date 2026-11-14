@@ -1,0 +1,82 @@
+{
+  "id": 9895003234,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.27892809435366,40.43257629817722,-79.27892809435366,40.43257629817722",
+    "geom:latitude":40.432576,
+    "geom:longitude":-79.278928,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1168589: name \"Bairdstown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1168589"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1168589: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1168589"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1168589: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1168589"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404487421 (Derry Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404487421 (Derry Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bairdstown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081383,
+        102191575,
+        404487421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1168589
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ba847599d4fde6dfd6bcc7bf4e6f91a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081383,
+            "localadmin_id":404487421,
+            "locality_id":9895003234,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003234,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Bairdstown",
+    "wof:parent_id":404487421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.27892809435366,
+    40.43257629817722,
+    -79.27892809435366,
+    40.43257629817722
+],
+  "geometry": {"coordinates":[-79.27892809435366,40.43257629817722],"type":"Point"}
+}

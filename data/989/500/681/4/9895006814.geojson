@@ -1,0 +1,82 @@
+{
+  "id": 9895006814,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.3537347149563,38.79370679275712,-81.3537347149563,38.79370679275712",
+    "geom:latitude":38.793707,
+    "geom:longitude":-81.353735,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740908: name \"Holswade Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740908"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740908: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740908"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740908: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740908"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101731535 (Spencer).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101731535 (Spencer), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Holswade Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        101731535,
+        102083399,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1740908
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2effb139badfe8d23e2a9ca23c9ebaea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":9895006814,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895006814,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Holswade Addition",
+    "wof:parent_id":101731535,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.3537347149563,
+    38.79370679275712,
+    -81.3537347149563,
+    38.79370679275712
+],
+  "geometry": {"coordinates":[-81.3537347149563,38.79370679275712],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.01265091053504,34.964538467754565,-92.01265091053504,34.964538467754565",
+    "geom:latitude":34.964538,
+    "geom:longitude":-92.012651,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 61254: name \"The Meadows Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/61254"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 61254: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/61254"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 61254: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/61254"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921127 (Cabot).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921127 (Cabot), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "The Meadows Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        85921127,
+        102082027,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":61254
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0898774b45295b8a61e7cbfb99875225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082027,
+            "locality_id":85921127,
+            "neighbourhood_id":9895000247,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000247,
+    "wof:lastmodified":1794681121,
+    "wof:name":"The Meadows Addition",
+    "wof:parent_id":85921127,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.01265091053504,
+    34.964538467754565,
+    -92.01265091053504,
+    34.964538467754565
+],
+  "geometry": {"coordinates":[-92.01265091053504,34.964538467754565],"type":"Point"}
+}

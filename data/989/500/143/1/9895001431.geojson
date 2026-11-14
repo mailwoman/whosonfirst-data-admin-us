@@ -1,0 +1,82 @@
+{
+  "id": 9895001431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.78498324371627,40.12310334030255,-85.78498324371627,40.12310334030255",
+    "geom:latitude":40.123103,
+    "geom:longitude":-85.784983,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 435636: name \"Hamilton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/435636"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 435636: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/435636"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 435636: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/435636"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404502017 (Jackson Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404502017 (Jackson Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hamilton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102086407,
+        102191575,
+        404502017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":435636
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c2a208d6e32c06001814d495a4b347a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086407,
+            "localadmin_id":404502017,
+            "locality_id":9895001431,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895001431,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Hamilton",
+    "wof:parent_id":404502017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.78498324371627,
+    40.12310334030255,
+    -85.78498324371627,
+    40.12310334030255
+],
+  "geometry": {"coordinates":[-85.78498324371627,40.12310334030255],"type":"Point"}
+}

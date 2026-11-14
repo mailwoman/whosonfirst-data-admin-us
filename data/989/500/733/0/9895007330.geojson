@@ -1,0 +1,80 @@
+{
+  "id": 9895007330,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.0569545500172,39.96056204495463,-105.0569545500172,39.96056204495463",
+    "geom:latitude":39.960562,
+    "geom:longitude":-105.056955,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2120655: name \"Pony Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2120655"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2120655: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2120655"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2120655: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2120655"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085251 (Boulder).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085251 (Boulder), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pony Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102085251,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2120655
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e85fa10a576da289896881923a392a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085251,
+            "locality_id":9895007330,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007330,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Pony Estates",
+    "wof:parent_id":102085251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.0569545500172,
+    39.96056204495463,
+    -105.0569545500172,
+    39.96056204495463
+],
+  "geometry": {"coordinates":[-105.0569545500172,39.96056204495463],"type":"Point"}
+}

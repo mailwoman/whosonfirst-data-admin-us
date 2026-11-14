@@ -1,0 +1,82 @@
+{
+  "id": 9895002239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.11328592093278,39.223347731033506,-94.11328592093278,39.223347731033506",
+    "geom:latitude":39.223348,
+    "geom:longitude":-94.113286,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 730045: name \"Albany\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/730045"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 730045: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/730045"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 730045: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/730045"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404517929 (Orrick Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404517929 (Orrick Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Albany"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102086185,
+        102191575,
+        404517929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":730045
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d2b2b7dad66203e4275c557ccfecab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086185,
+            "localadmin_id":404517929,
+            "locality_id":9895002239,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002239,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Albany",
+    "wof:parent_id":404517929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.11328592093278,
+    39.223347731033506,
+    -94.11328592093278,
+    39.223347731033506
+],
+  "geometry": {"coordinates":[-94.11328592093278,39.223347731033506],"type":"Point"}
+}

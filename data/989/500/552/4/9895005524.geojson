@@ -1,0 +1,80 @@
+{
+  "id": 9895005524,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.46662015825845,37.88847429993625,-76.46662015825845,37.88847429993625",
+    "geom:latitude":37.888474,
+    "geom:longitude":-76.46662,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1477881: name \"Williams Corner\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1477881"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1477881: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1477881"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1477881: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1477881"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084919 (Northumberland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084919 (Northumberland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Williams Corner"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102084919,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1477881
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1adab17034f10de4a0d0be6f09b9b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "locality_id":9895005524,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005524,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Williams Corner",
+    "wof:parent_id":102084919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.46662015825845,
+    37.88847429993625,
+    -76.46662015825845,
+    37.88847429993625
+],
+  "geometry": {"coordinates":[-76.46662015825845,37.88847429993625],"type":"Point"}
+}

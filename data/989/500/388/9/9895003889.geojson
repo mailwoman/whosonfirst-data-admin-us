@@ -1,0 +1,82 @@
+{
+  "id": 9895003889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.3248977353432,36.226487695059596,-83.3248977353432,36.226487695059596",
+    "geom:latitude":36.226488,
+    "geom:longitude":-83.324898,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311729: name \"Wildwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311729"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311729: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311729"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311729: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311729"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722571 (Morristown).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722571 (Morristown), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wildwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722571,
+        102086447,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1311729
+    },
+    "wof:country":"US",
+    "wof:geomhash":"579b725d17acf4f3129dfe3024778474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":9895003889,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003889,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Wildwood",
+    "wof:parent_id":101722571,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.3248977353432,
+    36.226487695059596,
+    -83.3248977353432,
+    36.226487695059596
+],
+  "geometry": {"coordinates":[-83.3248977353432,36.226487695059596],"type":"Point"}
+}

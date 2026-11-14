@@ -1,0 +1,82 @@
+{
+  "id": 9895007980,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.14498987083851,41.574015772641765,-88.14498987083851,41.574015772641765",
+    "geom:latitude":41.574016,
+    "geom:longitude":-88.14499,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806566: name \"Sunnyland\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806566"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806566: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806566"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806566: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806566"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404499219 (Plainfield Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404499219 (Plainfield Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunnyland"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102080845,
+        102191575,
+        404499219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806566
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fbec2c82194d2aa87d92bcd40d2b9db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499219,
+            "locality_id":9895007980,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007980,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Sunnyland",
+    "wof:parent_id":404499219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.14498987083851,
+    41.574015772641765,
+    -88.14498987083851,
+    41.574015772641765
+],
+  "geometry": {"coordinates":[-88.14498987083851,41.574015772641765],"type":"Point"}
+}

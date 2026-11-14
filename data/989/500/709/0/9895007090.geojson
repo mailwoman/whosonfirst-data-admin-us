@@ -1,0 +1,82 @@
+{
+  "id": 9895007090,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.75292538209284,35.03224750526517,-110.75292538209284,35.03224750526517",
+    "geom:latitude":35.032248,
+    "geom:longitude":-110.752925,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1853161: name \"LeChee\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1853161"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1853161: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1853161"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1853161: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1853161"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85918609 (Winslow West).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85918609 (Winslow West), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "LeChee"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688719,
+        85918609,
+        102081137,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1853161
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4781ba405aa7a377939721f2d8793926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081137,
+            "locality_id":85918609,
+            "neighbourhood_id":9895007090,
+            "region_id":85688719
+        }
+    ],
+    "wof:id":9895007090,
+    "wof:lastmodified":1794681142,
+    "wof:name":"LeChee",
+    "wof:parent_id":85918609,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.75292538209284,
+    35.03224750526517,
+    -110.75292538209284,
+    35.03224750526517
+],
+  "geometry": {"coordinates":[-110.75292538209284,35.03224750526517],"type":"Point"}
+}

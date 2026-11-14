@@ -1,0 +1,82 @@
+{
+  "id": 9895007719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.24230333843026,27.91730517017335,-82.24230333843026,27.91730517017335",
+    "geom:latitude":27.917305,
+    "geom:longitude":-82.242303,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484647: name \"Wellington\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484647"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484647: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484647"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484647: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484647"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933725 (Valrico).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933725 (Valrico), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wellington"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933725,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2484647
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f5a68741fd6a4fd9e4e1210457dfb71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85933725,
+            "neighbourhood_id":9895007719,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007719,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Wellington",
+    "wof:parent_id":85933725,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.24230333843026,
+    27.91730517017335,
+    -82.24230333843026,
+    27.91730517017335
+],
+  "geometry": {"coordinates":[-82.24230333843026,27.91730517017335],"type":"Point"}
+}

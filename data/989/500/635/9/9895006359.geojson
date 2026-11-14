@@ -1,0 +1,82 @@
+{
+  "id": 9895006359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.55771043258106,33.3862340504859,-84.55771043258106,33.3862340504859",
+    "geom:latitude":33.386234,
+    "geom:longitude":-84.55771,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687884: name \"Peachtree Walk\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687884"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687884: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687884"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687884: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687884"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936021 (Peachtree City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936021 (Peachtree City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Peachtree Walk"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936021,
+        102081687,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1687884
+    },
+    "wof:country":"US",
+    "wof:geomhash":"864afcf65fc0eff6d2786150fc9f77bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936021,
+            "neighbourhood_id":9895006359,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006359,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Peachtree Walk",
+    "wof:parent_id":85936021,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.55771043258106,
+    33.3862340504859,
+    -84.55771043258106,
+    33.3862340504859
+],
+  "geometry": {"coordinates":[-84.55771043258106,33.3862340504859],"type":"Point"}
+}

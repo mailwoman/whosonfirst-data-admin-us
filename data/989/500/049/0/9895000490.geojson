@@ -1,0 +1,80 @@
+{
+  "id": 9895000490,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.25362124270184,30.63630842274155,-88.25362124270184,30.63630842274155",
+    "geom:latitude":30.636308,
+    "geom:longitude":-88.253621,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143291: name \"Dawes Point\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143291"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143291: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143291"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143291: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143291"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085585 (Mobile).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085585 (Mobile), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dawes Point"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143291
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e10176a16e293ed8398a38f523f1ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":9895000490,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000490,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Dawes Point",
+    "wof:parent_id":102085585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.25362124270184,
+    30.63630842274155,
+    -88.25362124270184,
+    30.63630842274155
+],
+  "geometry": {"coordinates":[-88.25362124270184,30.63630842274155],"type":"Point"}
+}

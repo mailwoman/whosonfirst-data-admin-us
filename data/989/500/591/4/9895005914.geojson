@@ -1,0 +1,82 @@
+{
+  "id": 9895005914,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.5497147694851,38.06881475855905,-122.5497147694851,38.06881475855905",
+    "geom:latitude":38.068815,
+    "geom:longitude":-122.549715,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659454: name \"Rafael Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659454"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659454: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659454"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659454: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659454"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922017 (Novato).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922017 (Novato), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rafael Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922017,
+        102084353,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1659454
+    },
+    "wof:country":"US",
+    "wof:geomhash":"610f35b722f180df2a2a685f8ef62707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922017,
+            "neighbourhood_id":9895005914,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005914,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Rafael Village",
+    "wof:parent_id":85922017,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.5497147694851,
+    38.06881475855905,
+    -122.5497147694851,
+    38.06881475855905
+],
+  "geometry": {"coordinates":[-122.5497147694851,38.06881475855905],"type":"Point"}
+}

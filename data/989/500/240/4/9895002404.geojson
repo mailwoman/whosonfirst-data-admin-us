@@ -1,0 +1,82 @@
+{
+  "id": 9895002404,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.16771809031971,44.177279919415064,-76.16771809031971,44.177279919415064",
+    "geom:latitude":44.17728,
+    "geom:longitude":-76.167718,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 963803: name \"Saint Lawrence\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/963803"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 963803: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/963803"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 963803: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/963803"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404521917 (Cape Vincent).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404521917 (Cape Vincent), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Lawrence"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102082357,
+        102191575,
+        404521917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":963803
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16c7daaea2fd84a2e612101c6c152664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082357,
+            "localadmin_id":404521917,
+            "locality_id":9895002404,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002404,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Saint Lawrence",
+    "wof:parent_id":404521917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.16771809031971,
+    44.177279919415064,
+    -76.16771809031971,
+    44.177279919415064
+],
+  "geometry": {"coordinates":[-76.16771809031971,44.177279919415064],"type":"Point"}
+}

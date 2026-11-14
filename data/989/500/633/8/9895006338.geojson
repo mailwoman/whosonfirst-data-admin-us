@@ -1,0 +1,80 @@
+{
+  "id": 9895006338,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.82240647352857,34.39288349277006,-83.82240647352857,34.39288349277006",
+    "geom:latitude":34.392883,
+    "geom:longitude":-83.822406,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686738: name \"Heather Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686738"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686738: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686738"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686738: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686738"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083629 (Hall).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083629 (Hall), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Heather Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102083629,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1686738
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be0a58781b3600708777a82eda42f187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":9895006338,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006338,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Heather Heights",
+    "wof:parent_id":102083629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.82240647352857,
+    34.39288349277006,
+    -83.82240647352857,
+    34.39288349277006
+],
+  "geometry": {"coordinates":[-83.82240647352857,34.39288349277006],"type":"Point"}
+}

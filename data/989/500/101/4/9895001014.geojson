@@ -1,0 +1,80 @@
+{
+  "id": 9895001014,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.70861098499913,38.00437264164792,-122.70861098499913,38.00437264164792",
+    "geom:latitude":38.004373,
+    "geom:longitude":-122.708611,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252791: name \"Shafter\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252791"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252791: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252791"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252791: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252791"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084353 (Marin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084353 (Marin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shafter"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102084353,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":252791
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de2b14bfd8edc8758898499113e2517a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":9895001014,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001014,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Shafter",
+    "wof:parent_id":102084353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.70861098499913,
+    38.00437264164792,
+    -122.70861098499913,
+    38.00437264164792
+],
+  "geometry": {"coordinates":[-122.70861098499913,38.00437264164792],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895004086,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.62968773158676,32.868739604273955,-95.62968773158676,32.868739604273955",
+    "geom:latitude":32.86874,
+    "geom:longitude":-95.629688,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378398: name \"Gunter\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378398"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378398: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378398"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378398: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378398"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081127 (Wood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081127 (Wood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gunter"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102081127,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1378398
+    },
+    "wof:country":"US",
+    "wof:geomhash":"56e8b8c0100f2da4335aae5bd7214ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081127,
+            "locality_id":9895004086,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004086,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Gunter",
+    "wof:parent_id":102081127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.62968773158676,
+    32.868739604273955,
+    -95.62968773158676,
+    32.868739604273955
+],
+  "geometry": {"coordinates":[-95.62968773158676,32.868739604273955],"type":"Point"}
+}

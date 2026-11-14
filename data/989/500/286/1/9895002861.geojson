@@ -1,0 +1,82 @@
+{
+  "id": 9895002861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.13536528452887,36.21319467823499,-81.13536528452887,36.21319467823499",
+    "geom:latitude":36.213195,
+    "geom:longitude":-81.135365,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005217: name \"Brookwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005217"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005217: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005217"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005217: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005217"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981601 (Mulberry).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981601 (Mulberry), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brookwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981601,
+        102087899,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005217
+    },
+    "wof:country":"US",
+    "wof:geomhash":"46fca6db41b3f4358cc8922aed6eb790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087899,
+            "locality_id":85981601,
+            "neighbourhood_id":9895002861,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002861,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Brookwood",
+    "wof:parent_id":85981601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.13536528452887,
+    36.21319467823499,
+    -81.13536528452887,
+    36.21319467823499
+],
+  "geometry": {"coordinates":[-81.13536528452887,36.21319467823499],"type":"Point"}
+}

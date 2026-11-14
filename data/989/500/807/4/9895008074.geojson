@@ -1,0 +1,82 @@
+{
+  "id": 9895008074,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.18820023635733,40.96164677118006,-86.18820023635733,40.96164677118006",
+    "geom:latitude":40.961647,
+    "geom:longitude":-86.1882,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830269: name \"Nyona Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830269"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830269: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830269"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830269: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830269"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404500723 (Liberty Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404500723 (Liberty Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Nyona Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102087055,
+        102191575,
+        404500723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2830269
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e66ce1d775fd01b6ae57613877f41839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087055,
+            "localadmin_id":404500723,
+            "locality_id":9895008074,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895008074,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Nyona Lake",
+    "wof:parent_id":404500723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.18820023635733,
+    40.96164677118006,
+    -86.18820023635733,
+    40.96164677118006
+],
+  "geometry": {"coordinates":[-86.18820023635733,40.96164677118006],"type":"Point"}
+}

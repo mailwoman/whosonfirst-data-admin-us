@@ -1,0 +1,82 @@
+{
+  "id": 9895000997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.89306769262548,33.606393725270244,-117.89306769262548,33.606393725270244",
+    "geom:latitude":33.606394,
+    "geom:longitude":-117.893068,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 238910: name \"Balboa Island\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/238910"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 238910: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/238910"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 238910: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/238910"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923075 (Newport Beach).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923075 (Newport Beach), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Balboa Island"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923075,
+        102080847,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":238910
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6665f86f05988170c13e7bccd21ec096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923075,
+            "neighbourhood_id":9895000997,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895000997,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Balboa Island",
+    "wof:parent_id":85923075,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.89306769262548,
+    33.606393725270244,
+    -117.89306769262548,
+    33.606393725270244
+],
+  "geometry": {"coordinates":[-117.89306769262548,33.606393725270244],"type":"Point"}
+}

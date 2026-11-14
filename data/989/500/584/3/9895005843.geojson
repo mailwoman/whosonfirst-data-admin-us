@@ -1,0 +1,82 @@
+{
+  "id": 9895005843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.92176084949226,35.12009669158909,-89.92176084949226,35.12009669158909",
+    "geom:latitude":35.120097,
+    "geom:longitude":-89.921761,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1648088: name \"The Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1648088"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1648088: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1648088"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1648088: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1648088"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722645 (Memphis).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722645 (Memphis), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "The Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722645,
+        102087213,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1648088
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a15bb1d45026452662824838691b6055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":9895005843,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895005843,
+    "wof:lastmodified":1794681139,
+    "wof:name":"The Village",
+    "wof:parent_id":101722645,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.92176084949226,
+    35.12009669158909,
+    -89.92176084949226,
+    35.12009669158909
+],
+  "geometry": {"coordinates":[-89.92176084949226,35.12009669158909],"type":"Point"}
+}

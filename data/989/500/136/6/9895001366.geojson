@@ -1,0 +1,82 @@
+{
+  "id": 9895001366,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.30901804670722,40.05061078864693,-90.30901804670722,40.05061078864693",
+    "geom:latitude":40.050611,
+    "geom:longitude":-90.309018,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 406224: name \"Clear Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/406224"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 406224: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/406224"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 406224: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/406224"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404497453 (Bluff Springs Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404497453 (Bluff Springs Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Clear Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102086201,
+        102191575,
+        404497453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":406224
+    },
+    "wof:country":"US",
+    "wof:geomhash":"508277f73ba58b5b3d94133f0fcd67d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086201,
+            "localadmin_id":404497453,
+            "locality_id":9895001366,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001366,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Clear Lake",
+    "wof:parent_id":404497453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.30901804670722,
+    40.05061078864693,
+    -90.30901804670722,
+    40.05061078864693
+],
+  "geometry": {"coordinates":[-90.30901804670722,40.05061078864693],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895003997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.34527478974775,35.85673909409836,-86.34527478974775,35.85673909409836",
+    "geom:latitude":35.856739,
+    "geom:longitude":-86.345275,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313107: name \"Lillard Farm Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313107"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313107: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313107"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313107: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313107"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086355 (Rutherford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086355 (Rutherford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lillard Farm Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086355,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1313107
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f746e7e08b3c6bb2f6577f60639f2144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":9895003997,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003997,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Lillard Farm Estates",
+    "wof:parent_id":102086355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.34527478974775,
+    35.85673909409836,
+    -86.34527478974775,
+    35.85673909409836
+],
+  "geometry": {"coordinates":[-86.34527478974775,35.85673909409836],"type":"Point"}
+}

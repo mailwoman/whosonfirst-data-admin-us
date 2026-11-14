@@ -1,0 +1,82 @@
+{
+  "id": 9895007318,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.8045126990992,36.79830504152778,-119.8045126990992,36.79830504152778",
+    "geom:latitude":36.798305,
+    "geom:longitude":-119.804513,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2112675: name \"Fig Garden\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2112675"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2112675: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2112675"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2112675: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2112675"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85927181 (Old Fig Garden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85927181 (Old Fig Garden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fig Garden"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85927181,
+        102084347,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2112675
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a05ee50d17b9a5a8283ad4e1b963f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084347,
+            "locality_id":85927181,
+            "neighbourhood_id":9895007318,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007318,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Fig Garden",
+    "wof:parent_id":85927181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.8045126990992,
+    36.79830504152778,
+    -119.8045126990992,
+    36.79830504152778
+],
+  "geometry": {"coordinates":[-119.8045126990992,36.79830504152778],"type":"Point"}
+}

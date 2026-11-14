@@ -1,0 +1,82 @@
+{
+  "id": 9895005308,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.92995248189627,41.03994996518965,-111.92995248189627,41.03994996518965",
+    "geom:latitude":41.03995,
+    "geom:longitude":-111.929952,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453973: name \"Clover Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453973"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453973: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453973"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453973: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453973"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727899 (Kaysville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727899 (Kaysville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Clover Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727899,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453973
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8997a320b41a7d619b174753d68e631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727899,
+            "neighbourhood_id":9895005308,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005308,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Clover Estates",
+    "wof:parent_id":101727899,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.92995248189627,
+    41.03994996518965,
+    -111.92995248189627,
+    41.03994996518965
+],
+  "geometry": {"coordinates":[-111.92995248189627,41.03994996518965],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006204,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.6646279499759,32.88708867387655,-83.6646279499759,32.88708867387655",
+    "geom:latitude":32.887089,
+    "geom:longitude":-83.664628,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672252: name \"Pine Forest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672252"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672252: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672252"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672252: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672252"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936517 (Macon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936517 (Macon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pine Forest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936517,
+        102084373,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1672252
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8acb1fcf4a4e00c0ac4cf98b6a388ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":9895006204,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006204,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Pine Forest",
+    "wof:parent_id":85936517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.6646279499759,
+    32.88708867387655,
+    -83.6646279499759,
+    32.88708867387655
+],
+  "geometry": {"coordinates":[-83.6646279499759,32.88708867387655],"type":"Point"}
+}

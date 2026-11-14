@@ -1,0 +1,80 @@
+{
+  "id": 9895000386,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.75084910189196,32.66069427694841,-87.75084910189196,32.66069427694841",
+    "geom:latitude":32.660694,
+    "geom:longitude":-87.750849,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 139021: name \"Millwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/139021"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 139021: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/139021"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 139021: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/139021"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085755 (Hale).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085755 (Hale), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Millwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085755,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":139021
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3cbf3250ecd4cda75f9c4a7a4590662e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085755,
+            "locality_id":9895000386,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000386,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Millwood",
+    "wof:parent_id":102085755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.75084910189196,
+    32.66069427694841,
+    -87.75084910189196,
+    32.66069427694841
+],
+  "geometry": {"coordinates":[-87.75084910189196,32.66069427694841],"type":"Point"}
+}

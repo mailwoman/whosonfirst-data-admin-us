@@ -1,0 +1,82 @@
+{
+  "id": 9895006053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.62659382114867,38.3287376206018,-75.62659382114867,38.3287376206018",
+    "geom:latitude":38.328738,
+    "geom:longitude":-75.626594,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668560: name \"Tall Timbers Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668560"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668560: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668560"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668560: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668560"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949187 (Fruitland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949187 (Fruitland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tall Timbers Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949187,
+        102082715,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1668560
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec2c3d559cbd67aa7ed1c4b63234a774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949187,
+            "neighbourhood_id":9895006053,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006053,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Tall Timbers Park",
+    "wof:parent_id":85949187,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.62659382114867,
+    38.3287376206018,
+    -75.62659382114867,
+    38.3287376206018
+],
+  "geometry": {"coordinates":[-75.62659382114867,38.3287376206018],"type":"Point"}
+}

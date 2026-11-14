@@ -1,0 +1,82 @@
+{
+  "id": 9895000335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.75774892133126,34.19732377714745,-85.75774892133126,34.19732377714745",
+    "geom:latitude":34.197324,
+    "geom:longitude":-85.757749,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136923: name \"Lookout Valley Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136923"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136923: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136923"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136923: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136923"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85899499 (Leesburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85899499 (Leesburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lookout Valley Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85899499,
+        102085467,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":136923
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e24c9a42936bc35f6ea0124d19a05ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085467,
+            "locality_id":85899499,
+            "neighbourhood_id":9895000335,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000335,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Lookout Valley Acres",
+    "wof:parent_id":85899499,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.75774892133126,
+    34.19732377714745,
+    -85.75774892133126,
+    34.19732377714745
+],
+  "geometry": {"coordinates":[-85.75774892133126,34.19732377714745],"type":"Point"}
+}

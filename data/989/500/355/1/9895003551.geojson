@@ -1,0 +1,80 @@
+{
+  "id": 9895003551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.17231783132871,33.001288617021686,-80.17231783132871,33.001288617021686",
+    "geom:latitude":33.001289,
+    "geom:longitude":-80.172318,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241157: name \"Oak Knoll Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241157"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241157: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241157"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241157: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241157"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085409 (Dorchester).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085409 (Dorchester), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oak Knoll Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085409,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1241157
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7849368b3acfa3de00fbfe5d2ee0e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085409,
+            "locality_id":9895003551,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003551,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Oak Knoll Estates",
+    "wof:parent_id":102085409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.17231783132871,
+    33.001288617021686,
+    -80.17231783132871,
+    33.001288617021686
+],
+  "geometry": {"coordinates":[-80.17231783132871,33.001288617021686],"type":"Point"}
+}

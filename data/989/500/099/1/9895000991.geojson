@@ -1,0 +1,80 @@
+{
+  "id": 9895000991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-123.44337166901894,40.14209754599889,-123.44337166901894,40.14209754599889",
+    "geom:latitude":40.142098,
+    "geom:longitude":-123.443372,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 231671: name \"Robbers Roost\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/231671"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 231671: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/231671"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 231671: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/231671"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086223 (Trinity).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086223 (Trinity), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Robbers Roost"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102086223,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":231671
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1dbae99457cfc9b9b88323c7456656bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086223,
+            "locality_id":9895000991,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895000991,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Robbers Roost",
+    "wof:parent_id":102086223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.44337166901894,
+    40.14209754599889,
+    -123.44337166901894,
+    40.14209754599889
+],
+  "geometry": {"coordinates":[-123.44337166901894,40.14209754599889],"type":"Point"}
+}

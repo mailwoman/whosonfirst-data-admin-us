@@ -1,0 +1,82 @@
+{
+  "id": 9895006505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.72499446416215,33.61816511794217,-86.72499446416215,33.61816511794217",
+    "geom:latitude":33.618165,
+    "geom:longitude":-86.724994,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700125: name \"Valley Crest Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700125"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700125: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700125"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700125: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700125"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914465 (Birmingham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914465 (Birmingham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Valley Crest Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914465,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700125
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf689a1bb47aee915c898d248b158e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":9895006505,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006505,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Valley Crest Estates",
+    "wof:parent_id":85914465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.72499446416215,
+    33.61816511794217,
+    -86.72499446416215,
+    33.61816511794217
+],
+  "geometry": {"coordinates":[-86.72499446416215,33.61816511794217],"type":"Point"}
+}

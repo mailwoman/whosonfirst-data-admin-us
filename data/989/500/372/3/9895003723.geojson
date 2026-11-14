@@ -1,0 +1,80 @@
+{
+  "id": 9895003723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.99148232489745,34.05571642306214,-80.99148232489745,34.05571642306214",
+    "geom:latitude":34.055716,
+    "geom:longitude":-80.991482,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249298: name \"Richland\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249298"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249298: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249298"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249298: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249298"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085405 (Richland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085405 (Richland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Richland"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085405,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1249298
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f2f59e612904b7176126e0cc88b81ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":9895003723,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003723,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Richland",
+    "wof:parent_id":102085405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.99148232489745,
+    34.05571642306214,
+    -80.99148232489745,
+    34.05571642306214
+],
+  "geometry": {"coordinates":[-80.99148232489745,34.05571642306214],"type":"Point"}
+}

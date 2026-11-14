@@ -1,0 +1,80 @@
+{
+  "id": 9895007597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.12470330355127,27.882705164430103,-82.12470330355127,27.882705164430103",
+    "geom:latitude":27.882705,
+    "geom:longitude":-82.124703,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2482149: name \"Alafia Ridge Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2482149"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2482149: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2482149"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2482149: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2482149"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085773 (Hillsborough).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085773 (Hillsborough), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Alafia Ridge Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2482149
+    },
+    "wof:country":"US",
+    "wof:geomhash":"070236d929271de924003509b3110d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":9895007597,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007597,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Alafia Ridge Estates",
+    "wof:parent_id":102085773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.12470330355127,
+    27.882705164430103,
+    -82.12470330355127,
+    27.882705164430103
+],
+  "geometry": {"coordinates":[-82.12470330355127,27.882705164430103],"type":"Point"}
+}

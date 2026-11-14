@@ -1,0 +1,80 @@
+{
+  "id": 9895001119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.81295640425047,34.981763317191906,-83.81295640425047,34.981763317191906",
+    "geom:latitude":34.981763,
+    "geom:longitude":-83.812956,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 329378: name \"Red Banks\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/329378"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 329378: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/329378"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 329378: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/329378"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083591 (Towns).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083591 (Towns), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Red Banks"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102083591,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":329378
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cfeeb17cb6c19bab0ceada2590be952c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083591,
+            "locality_id":9895001119,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001119,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Red Banks",
+    "wof:parent_id":102083591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.81295640425047,
+    34.981763317191906,
+    -83.81295640425047,
+    34.981763317191906
+],
+  "geometry": {"coordinates":[-83.81295640425047,34.981763317191906],"type":"Point"}
+}

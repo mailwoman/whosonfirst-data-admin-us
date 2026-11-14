@@ -1,0 +1,82 @@
+{
+  "id": 9895001298,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.96771430858476,32.55375695632665,-84.96771430858476,32.55375695632665",
+    "geom:latitude":32.553757,
+    "geom:longitude":-84.967714,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357413: name \"Lokey Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357413"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357413: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357413"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357413: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357413"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936243 (Columbus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936243 (Columbus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lokey Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936243,
+        102084429,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357413
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4582dcf9caad9391f68b678f8531a626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":9895001298,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001298,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Lokey Estates",
+    "wof:parent_id":85936243,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.96771430858476,
+    32.55375695632665,
+    -84.96771430858476,
+    32.55375695632665
+],
+  "geometry": {"coordinates":[-84.96771430858476,32.55375695632665],"type":"Point"}
+}

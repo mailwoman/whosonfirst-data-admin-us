@@ -1,0 +1,80 @@
+{
+  "id": 9895003076,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.76438078727136,34.739890015178034,-76.76438078727136,34.739890015178034",
+    "geom:latitude":34.73989,
+    "geom:longitude":-76.764381,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017472: name \"Hedrick Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017472"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017472: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017472"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017472: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017472"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080875 (Carteret).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080875 (Carteret), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hedrick Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080875,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1017472
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7ff604e01edde45b99daf037ebb482e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080875,
+            "locality_id":9895003076,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003076,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Hedrick Estates",
+    "wof:parent_id":102080875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.76438078727136,
+    34.739890015178034,
+    -76.76438078727136,
+    34.739890015178034
+],
+  "geometry": {"coordinates":[-76.76438078727136,34.739890015178034],"type":"Point"}
+}

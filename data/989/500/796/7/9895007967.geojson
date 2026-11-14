@@ -1,0 +1,82 @@
+{
+  "id": 9895007967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.49539906383482,38.240144296160736,-93.49539906383482,38.240144296160736",
+    "geom:latitude":38.240144,
+    "geom:longitude":-93.495399,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806382: name \"Bent Tree Harbor\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806382"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806382: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806382"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806382: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806382"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404516361 (Tom Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404516361 (Tom Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bent Tree Harbor"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102085331,
+        102191575,
+        404516361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806382
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84d402681cc00764974cb9a47c899d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085331,
+            "localadmin_id":404516361,
+            "locality_id":9895007967,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895007967,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Bent Tree Harbor",
+    "wof:parent_id":404516361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.49539906383482,
+    38.240144296160736,
+    -93.49539906383482,
+    38.240144296160736
+],
+  "geometry": {"coordinates":[-93.49539906383482,38.240144296160736],"type":"Point"}
+}

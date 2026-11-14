@@ -1,0 +1,80 @@
+{
+  "id": 9895003079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.8868869270571,34.7990565243851,-76.8868869270571,34.7990565243851",
+    "geom:latitude":34.799057,
+    "geom:longitude":-76.886887,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017481: name \"Conner Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017481"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017481: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017481"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017481: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017481"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080875 (Carteret).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080875 (Carteret), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Conner Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080875,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1017481
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fed77464078ca6a0363d45dacc830ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080875,
+            "locality_id":9895003079,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003079,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Conner Village",
+    "wof:parent_id":102080875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.8868869270571,
+    34.7990565243851,
+    -76.8868869270571,
+    34.7990565243851
+],
+  "geometry": {"coordinates":[-76.8868869270571,34.7990565243851],"type":"Point"}
+}

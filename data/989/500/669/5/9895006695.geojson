@@ -1,0 +1,82 @@
+{
+  "id": 9895006695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.83751380591033,46.412510073468674,-105.83751380591033,46.412510073468674",
+    "geom:latitude":46.41251,
+    "geom:longitude":-105.837514,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1721420: name \"Westwood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1721420"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1721420: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1721420"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1721420: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1721420"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85972691 (Miles City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85972691 (Miles City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westwood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        85972691,
+        102085197,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1721420
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58d8d71163a6dffbae970589ab9ac5b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085197,
+            "locality_id":85972691,
+            "neighbourhood_id":9895006695,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895006695,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Westwood Estates",
+    "wof:parent_id":85972691,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.83751380591033,
+    46.412510073468674,
+    -105.83751380591033,
+    46.412510073468674
+],
+  "geometry": {"coordinates":[-105.83751380591033,46.412510073468674],"type":"Point"}
+}

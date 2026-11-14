@@ -1,0 +1,82 @@
+{
+  "id": 9895006174,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.39093320886329,31.145515456729076,-81.39093320886329,31.145515456729076",
+    "geom:latitude":31.145515,
+    "geom:longitude":-81.390933,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671554: name \"Mallory Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671554"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671554: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671554"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671554: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671554"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937357 (St. Simons).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937357 (St. Simons), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mallory Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85937357,
+        102081695,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671554
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb59e47f701684802017bb641e38a4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937357,
+            "neighbourhood_id":9895006174,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006174,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Mallory Park",
+    "wof:parent_id":85937357,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.39093320886329,
+    31.145515456729076,
+    -81.39093320886329,
+    31.145515456729076
+],
+  "geometry": {"coordinates":[-81.39093320886329,31.145515456729076],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895002304,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.12985992924277,39.71540575394982,-74.12985992924277,39.71540575394982",
+    "geom:latitude":39.715406,
+    "geom:longitude":-74.12986,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 877904: name \"Long Beach Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/877904"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 877904: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/877904"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 877904: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/877904"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404477779 (Long Beach Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404477779 (Long Beach Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Long Beach Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102081485,
+        102191575,
+        404477779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":877904
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31face993f2550f4b6612d279220cf2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477779,
+            "locality_id":9895002304,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895002304,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Long Beach Park",
+    "wof:parent_id":404477779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.12985992924277,
+    39.71540575394982,
+    -74.12985992924277,
+    39.71540575394982
+],
+  "geometry": {"coordinates":[-74.12985992924277,39.71540575394982],"type":"Point"}
+}

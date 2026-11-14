@@ -1,0 +1,82 @@
+{
+  "id": 9895002967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.97223514456824,36.41598130167548,-78.97223514456824,36.41598130167548",
+    "geom:latitude":36.415981,
+    "geom:longitude":-78.972235,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005557: name \"Madison Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005557"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005557: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005557"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005557: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005557"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981213 (Roxboro).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981213 (Roxboro), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Madison Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981213,
+        102087737,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005557
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e8718d5c137f8dffe16952e69dacde4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087737,
+            "locality_id":85981213,
+            "neighbourhood_id":9895002967,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002967,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Madison Park",
+    "wof:parent_id":85981213,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.97223514456824,
+    36.41598130167548,
+    -78.97223514456824,
+    36.41598130167548
+],
+  "geometry": {"coordinates":[-78.97223514456824,36.41598130167548],"type":"Point"}
+}

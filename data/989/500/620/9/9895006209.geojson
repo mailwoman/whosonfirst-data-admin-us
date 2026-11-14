@@ -1,0 +1,82 @@
+{
+  "id": 9895006209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.57212562332474,32.86819997293594,-83.57212562332474,32.86819997293594",
+    "geom:latitude":32.8682,
+    "geom:longitude":-83.572126,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672339: name \"Weaver Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672339"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672339: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672339"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672339: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672339"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936517 (Macon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936517 (Macon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Weaver Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936517,
+        102084373,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1672339
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e584caea72949c04bc807e885a9d5f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":9895006209,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006209,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Weaver Heights",
+    "wof:parent_id":85936517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.57212562332474,
+    32.86819997293594,
+    -83.57212562332474,
+    32.86819997293594
+],
+  "geometry": {"coordinates":[-83.57212562332474,32.86819997293594],"type":"Point"}
+}

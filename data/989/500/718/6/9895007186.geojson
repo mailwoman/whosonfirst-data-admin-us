@@ -1,0 +1,82 @@
+{
+  "id": 9895007186,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.26615954650757,33.09115639965772,-117.26615954650757,33.09115639965772",
+    "geom:latitude":33.091156,
+    "geom:longitude":-117.26616,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1951398: name \"La Costa\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1951398"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1951398: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1951398"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1951398: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1951398"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922291 (Carlsbad).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922291 (Carlsbad), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "La Costa"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922291,
+        102083569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1951398
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68499a42ff1f08b6ef9e79961b859a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922291,
+            "neighbourhood_id":9895007186,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007186,
+    "wof:lastmodified":1794681143,
+    "wof:name":"La Costa",
+    "wof:parent_id":85922291,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.26615954650757,
+    33.09115639965772,
+    -117.26615954650757,
+    33.09115639965772
+],
+  "geometry": {"coordinates":[-117.26615954650757,33.09115639965772],"type":"Point"}
+}

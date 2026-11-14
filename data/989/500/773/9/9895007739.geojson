@@ -1,0 +1,82 @@
+{
+  "id": 9895007739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.21840332971624,27.902405167385314,-82.21840332971624,27.902405167385314",
+    "geom:latitude":27.902405,
+    "geom:longitude":-82.218403,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2485055: name \"Stone Hollow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2485055"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2485055: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2485055"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2485055: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2485055"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933725 (Valrico).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933725 (Valrico), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stone Hollow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933725,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2485055
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f28f77e660f65eb9cc5ec77e4c7e2ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85933725,
+            "neighbourhood_id":9895007739,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007739,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Stone Hollow",
+    "wof:parent_id":85933725,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.21840332971624,
+    27.902405167385314,
+    -82.21840332971624,
+    27.902405167385314
+],
+  "geometry": {"coordinates":[-82.21840332971624,27.902405167385314],"type":"Point"}
+}

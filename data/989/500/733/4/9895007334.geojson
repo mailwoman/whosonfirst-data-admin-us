@@ -1,0 +1,82 @@
+{
+  "id": 9895007334,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.21279098791975,37.80333826176933,-122.21279098791975,37.80333826176933",
+    "geom:latitude":37.803338,
+    "geom:longitude":-122.212791,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2123537: name \"Dimond District\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2123537"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2123537: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2123537"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2123537: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2123537"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921881 (Oakland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921881 (Oakland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dimond District"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85921881,
+        102086959,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2123537
+    },
+    "wof:country":"US",
+    "wof:geomhash":"870ce5cccb3303bc2f749f949b32e44d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "neighbourhood_id":9895007334,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007334,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Dimond District",
+    "wof:parent_id":85921881,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.21279098791975,
+    37.80333826176933,
+    -122.21279098791975,
+    37.80333826176933
+],
+  "geometry": {"coordinates":[-122.21279098791975,37.80333826176933],"type":"Point"}
+}

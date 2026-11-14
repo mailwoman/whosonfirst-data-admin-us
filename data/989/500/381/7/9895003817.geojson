@@ -1,0 +1,82 @@
+{
+  "id": 9895003817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.0055161092399,35.94868586900823,-85.0055161092399,35.94868586900823",
+    "geom:latitude":35.948686,
+    "geom:longitude":-85.005516,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1307217: name \"Greenbriar Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1307217"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1307217: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1307217"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1307217: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1307217"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723119 (Crossville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723119 (Crossville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Greenbriar Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723119,
+        102086961,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1307217
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0325782480bfa25605ad94b3f7b28ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":9895003817,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003817,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Greenbriar Village",
+    "wof:parent_id":101723119,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.0055161092399,
+    35.94868586900823,
+    -85.0055161092399,
+    35.94868586900823
+],
+  "geometry": {"coordinates":[-85.0055161092399,35.94868586900823],"type":"Point"}
+}

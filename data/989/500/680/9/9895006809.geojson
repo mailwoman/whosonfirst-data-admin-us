@@ -1,0 +1,82 @@
+{
+  "id": 9895006809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.88263775682647,38.5395411198254,-81.88263775682647,38.5395411198254",
+    "geom:latitude":38.539541,
+    "geom:longitude":-81.882638,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740782: name \"Riverdale Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740782"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740782: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740782"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740782: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740782"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101731321 (Winfield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101731321 (Winfield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Riverdale Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        101731321,
+        102083381,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1740782
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f05580b5de745c5ec99b6aa53439f866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731321,
+            "neighbourhood_id":9895006809,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895006809,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Riverdale Estates",
+    "wof:parent_id":101731321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.88263775682647,
+    38.5395411198254,
+    -81.88263775682647,
+    38.5395411198254
+],
+  "geometry": {"coordinates":[-81.88263775682647,38.5395411198254],"type":"Point"}
+}

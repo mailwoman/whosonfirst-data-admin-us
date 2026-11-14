@@ -1,0 +1,82 @@
+{
+  "id": 9895006135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.09157701128862,31.577958469320194,-84.09157701128862,31.577958469320194",
+    "geom:latitude":31.577958,
+    "geom:longitude":-84.091577,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671164: name \"Mayfair\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671164"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671164: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671164"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671164: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671164"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85935991 (Albany).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85935991 (Albany), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mayfair"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85935991,
+        102084427,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671164
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4abd7a90944ab974e045af9a9fdd8b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":9895006135,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006135,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Mayfair",
+    "wof:parent_id":85935991,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.09157701128862,
+    31.577958469320194,
+    -84.09157701128862,
+    31.577958469320194
+],
+  "geometry": {"coordinates":[-84.09157701128862,31.577958469320194],"type":"Point"}
+}

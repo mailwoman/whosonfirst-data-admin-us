@@ -1,0 +1,80 @@
+{
+  "id": 9895004085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.71691186305564,33.0223446299088,-95.71691186305564,33.0223446299088",
+    "geom:latitude":33.022345,
+    "geom:longitude":-95.716912,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378381: name \"Greenview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378381"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378381: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378381"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378381: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378381"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085005 (Hopkins).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085005 (Hopkins), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Greenview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102085005,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1378381
+    },
+    "wof:country":"US",
+    "wof:geomhash":"844c0fc1f26a63e782d90662ecd2c240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085005,
+            "locality_id":9895004085,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004085,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Greenview",
+    "wof:parent_id":102085005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.71691186305564,
+    33.0223446299088,
+    -95.71691186305564,
+    33.0223446299088
+],
+  "geometry": {"coordinates":[-95.71691186305564,33.0223446299088],"type":"Point"}
+}

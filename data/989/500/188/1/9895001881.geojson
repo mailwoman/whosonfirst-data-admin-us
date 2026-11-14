@@ -1,0 +1,80 @@
+{
+  "id": 9895001881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.53746847281505,39.4556702163324,-76.53746847281505,39.4556702163324",
+    "geom:latitude":39.45567,
+    "geom:longitude":-76.537468,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 592546: name \"Lakeside\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/592546"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 592546: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/592546"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 592546: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/592546"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082193 (Baltimore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082193 (Baltimore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lakeside"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082193,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":592546
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95cb6054ba495c129e4318a94c984950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":9895001881,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001881,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Lakeside",
+    "wof:parent_id":102082193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.53746847281505,
+    39.4556702163324,
+    -76.53746847281505,
+    39.4556702163324
+],
+  "geometry": {"coordinates":[-76.53746847281505,39.4556702163324],"type":"Point"}
+}

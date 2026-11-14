@@ -1,0 +1,80 @@
+{
+  "id": 9895000387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.00389347162285,31.89111707397341,-86.00389347162285,31.89111707397341",
+    "geom:latitude":31.891117,
+    "geom:longitude":-86.003893,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 139868: name \"Harmony\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/139868"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 139868: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/139868"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 139868: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/139868"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085619 (Pike).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085619 (Pike), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Harmony"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085619,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":139868
+    },
+    "wof:country":"US",
+    "wof:geomhash":"262be26c3bb623abd5c0e12ce0d21354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085619,
+            "locality_id":9895000387,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000387,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Harmony",
+    "wof:parent_id":102085619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.00389347162285,
+    31.89111707397341,
+    -86.00389347162285,
+    31.89111707397341
+],
+  "geometry": {"coordinates":[-86.00389347162285,31.89111707397341],"type":"Point"}
+}

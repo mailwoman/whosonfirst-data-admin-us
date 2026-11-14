@@ -1,0 +1,82 @@
+{
+  "id": 9895002626,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.0997372567218,35.935705395644995,-79.0997372567218,35.935705395644995",
+    "geom:latitude":35.935705,
+    "geom:longitude":-79.099737,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002598: name \"Barrington Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002598"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002598: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002598"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002598: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002598"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980693 (Carrboro).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980693 (Carrboro), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Barrington Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980693,
+        102087647,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1002598
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7130a6fb558145d26d8bfa51b77d6a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087647,
+            "locality_id":85980693,
+            "neighbourhood_id":9895002626,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002626,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Barrington Hills",
+    "wof:parent_id":85980693,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.0997372567218,
+    35.935705395644995,
+    -79.0997372567218,
+    35.935705395644995
+],
+  "geometry": {"coordinates":[-79.0997372567218,35.935705395644995],"type":"Point"}
+}

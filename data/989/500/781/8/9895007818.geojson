@@ -1,0 +1,80 @@
+{
+  "id": 9895007818,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-115.89725544881469,35.9646357113751,-115.89725544881469,35.9646357113751",
+    "geom:latitude":35.964636,
+    "geom:longitude":-115.897255,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804176: name \"Charleston View\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804176"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804176: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804176"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804176: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804176"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087577 (Inyo).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087577 (Inyo), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Charleston View"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102087577,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804176
+    },
+    "wof:country":"US",
+    "wof:geomhash":"34ca0c3e31583b7c315745929a934976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087577,
+            "locality_id":9895007818,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007818,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Charleston View",
+    "wof:parent_id":102087577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -115.89725544881469,
+    35.9646357113751,
+    -115.89725544881469,
+    35.9646357113751
+],
+  "geometry": {"coordinates":[-115.89725544881469,35.9646357113751],"type":"Point"}
+}

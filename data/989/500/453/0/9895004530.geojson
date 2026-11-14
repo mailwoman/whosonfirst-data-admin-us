@@ -1,0 +1,82 @@
+{
+  "id": 9895004530,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.88050221707046,40.640786824330505,-111.88050221707046,40.640786824330505",
+    "geom:latitude":40.640787,
+    "geom:longitude":-111.880502,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452138: name \"Murray Burton Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452138"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452138: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452138"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452138: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452138"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728069 (Murray).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728069 (Murray), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Murray Burton Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728069,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1452138
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb92aba0ac13ddaa10d7c787d57a7346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":9895004530,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004530,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Murray Burton Acres",
+    "wof:parent_id":101728069,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.88050221707046,
+    40.640786824330505,
+    -111.88050221707046,
+    40.640786824330505
+],
+  "geometry": {"coordinates":[-111.88050221707046,40.640786824330505],"type":"Point"}
+}

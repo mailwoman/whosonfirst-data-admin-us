@@ -1,0 +1,82 @@
+{
+  "id": 9895007927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.60669813893102,41.02052263055621,-73.60669813893102,41.02052263055621",
+    "geom:latitude":41.020523,
+    "geom:longitude":-73.606698,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805945: name \"Indian Field\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805945"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805945: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805945"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805945: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805945"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404495949 (Greenwich).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404495949 (Greenwich), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Indian Field"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688629,
+        102084283,
+        102191575,
+        404495949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805945
+    },
+    "wof:country":"US",
+    "wof:geomhash":"21a66a53c80f5761b3a2796f544141d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":9895007927,
+            "region_id":85688629
+        }
+    ],
+    "wof:id":9895007927,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Indian Field",
+    "wof:parent_id":404495949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.60669813893102,
+    41.02052263055621,
+    -73.60669813893102,
+    41.02052263055621
+],
+  "geometry": {"coordinates":[-73.60669813893102,41.02052263055621],"type":"Point"}
+}

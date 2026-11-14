@@ -1,0 +1,82 @@
+{
+  "id": 9895003285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.37852524480851,40.040950874812935,-75.37852524480851,40.040950874812935",
+    "geom:latitude":40.040951,
+    "geom:longitude":-75.378525,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1185902: name \"Saint Davids\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1185902"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1185902: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1185902"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1185902: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1185902"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486571 (Radnor Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486571 (Radnor Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Davids"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080913,
+        102191575,
+        404486571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1185902
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9cef46c1f6bb426a8a0cd733d9db4a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080913,
+            "localadmin_id":404486571,
+            "locality_id":9895003285,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003285,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Saint Davids",
+    "wof:parent_id":404486571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.37852524480851,
+    40.040950874812935,
+    -75.37852524480851,
+    40.040950874812935
+],
+  "geometry": {"coordinates":[-75.37852524480851,40.040950874812935],"type":"Point"}
+}

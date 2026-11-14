@@ -1,0 +1,82 @@
+{
+  "id": 9895003238,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.97853610565622,41.13925756658286,-75.97853610565622,41.13925756658286",
+    "geom:latitude":41.139258,
+    "geom:longitude":-75.978536,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1169825: name \"Bliem Corners\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1169825"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1169825: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1169825"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1169825: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1169825"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404483455 (Dorrance Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404483455 (Dorrance Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bliem Corners"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081351,
+        102191575,
+        404483455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1169825
+    },
+    "wof:country":"US",
+    "wof:geomhash":"634521f0117dcb461c4ed51a71525af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081351,
+            "localadmin_id":404483455,
+            "locality_id":9895003238,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003238,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Bliem Corners",
+    "wof:parent_id":404483455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.97853610565622,
+    41.13925756658286,
+    -75.97853610565622,
+    41.13925756658286
+],
+  "geometry": {"coordinates":[-75.97853610565622,41.13925756658286],"type":"Point"}
+}

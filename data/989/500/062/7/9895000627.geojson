@@ -1,0 +1,82 @@
+{
+  "id": 9895000627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.3235489527942,31.34462347693048,-85.3235489527942,31.34462347693048",
+    "geom:latitude":31.344623,
+    "geom:longitude":-85.323549,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147413: name \"Walden Pond Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147413"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147413: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147413"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147413: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147413"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913653 (Headland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913653 (Headland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Walden Pond Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913653,
+        102085483,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147413
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7e1d143c3bf36b858228cae52de67cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085483,
+            "locality_id":85913653,
+            "neighbourhood_id":9895000627,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000627,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Walden Pond Estates",
+    "wof:parent_id":85913653,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.3235489527942,
+    31.34462347693048,
+    -85.3235489527942,
+    31.34462347693048
+],
+  "geometry": {"coordinates":[-85.3235489527942,31.34462347693048],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895001853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.81521766006826,39.680674987675374,-75.81521766006826,39.680674987675374",
+    "geom:latitude":39.680675,
+    "geom:longitude":-75.815218,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590034: name \"Cowentown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590034"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590034: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590034"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590034: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590034"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082183 (Cecil).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082183 (Cecil), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cowentown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082183,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":590034
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5910b10b7320b2be318774d30a61fbab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "locality_id":9895001853,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001853,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Cowentown",
+    "wof:parent_id":102082183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.81521766006826,
+    39.680674987675374,
+    -75.81521766006826,
+    39.680674987675374
+],
+  "geometry": {"coordinates":[-75.81521766006826,39.680674987675374],"type":"Point"}
+}

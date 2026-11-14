@@ -1,0 +1,80 @@
+{
+  "id": 9895008040,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.5998183140886,44.39633443143582,-103.5998183140886,44.39633443143582",
+    "geom:latitude":44.396334,
+    "geom:longitude":-103.599818,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807110: name \"Boulder Canyon\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807110"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807110: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807110"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807110: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807110"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086813 (Lawrence).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086813 (Lawrence), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Boulder Canyon"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688693,
+        102086813,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807110
+    },
+    "wof:country":"US",
+    "wof:geomhash":"444a78c432db6d585bdfb03658d6949d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086813,
+            "locality_id":9895008040,
+            "region_id":85688693
+        }
+    ],
+    "wof:id":9895008040,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Boulder Canyon",
+    "wof:parent_id":102086813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.5998183140886,
+    44.39633443143582,
+    -103.5998183140886,
+    44.39633443143582
+],
+  "geometry": {"coordinates":[-103.5998183140886,44.39633443143582],"type":"Point"}
+}

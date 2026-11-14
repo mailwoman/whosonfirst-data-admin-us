@@ -1,0 +1,82 @@
+{
+  "id": 9895007093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-144.66530269713633,63.653335667007404,-144.66530269713633,63.653335667007404",
+    "geom:latitude":63.653336,
+    "geom:longitude":-144.665303,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1866943: name \"Dry Creek\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1866943"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1866943: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1866943"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1866943: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1866943"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85916495 (Dry Creek).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85916495 (Dry Creek), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dry Creek"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85916495,
+        102080993,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1866943
+    },
+    "wof:country":"US",
+    "wof:geomhash":"249a2e84e35a60925ff39b5a4aa46510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080993,
+            "locality_id":85916495,
+            "neighbourhood_id":9895007093,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895007093,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Dry Creek",
+    "wof:parent_id":85916495,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -144.66530269713633,
+    63.653335667007404,
+    -144.66530269713633,
+    63.653335667007404
+],
+  "geometry": {"coordinates":[-144.66530269713633,63.653335667007404],"type":"Point"}
+}

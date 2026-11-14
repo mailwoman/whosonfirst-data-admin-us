@@ -1,0 +1,82 @@
+{
+  "id": 9895001367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.47116877483144,39.52031849317498,-88.47116877483144,39.52031849317498",
+    "geom:latitude":39.520318,
+    "geom:longitude":-88.471169,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 406356: name \"Coles\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/406356"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 406356: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/406356"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 406356: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/406356"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404498623 (Whitley Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404498623 (Whitley Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Coles"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102082295,
+        102191575,
+        404498623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":406356
+    },
+    "wof:country":"US",
+    "wof:geomhash":"97a750134cf72da8767c60f0d8e9d241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082295,
+            "localadmin_id":404498623,
+            "locality_id":9895001367,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001367,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Coles",
+    "wof:parent_id":404498623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.47116877483144,
+    39.52031849317498,
+    -88.47116877483144,
+    39.52031849317498
+],
+  "geometry": {"coordinates":[-88.47116877483144,39.52031849317498],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895007799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.68971434873251,47.92680603138434,-118.68971434873251,47.92680603138434",
+    "geom:latitude":47.926806,
+    "geom:longitude":-118.689714,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2786072: name \"Clark\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2786072"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2786072: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2786072"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2786072: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2786072"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081245 (Lincoln).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081245 (Lincoln), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Clark"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102081245,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2786072
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e56efcb57e941c25593e5bfde40b696c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081245,
+            "locality_id":9895007799,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895007799,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Clark",
+    "wof:parent_id":102081245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.68971434873251,
+    47.92680603138434,
+    -118.68971434873251,
+    47.92680603138434
+],
+  "geometry": {"coordinates":[-118.68971434873251,47.92680603138434],"type":"Point"}
+}

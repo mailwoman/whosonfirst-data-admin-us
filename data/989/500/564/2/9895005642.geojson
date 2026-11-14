@@ -1,0 +1,82 @@
+{
+  "id": 9895005642,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.15624146047274,47.161773712214234,-122.15624146047274,47.161773712214234",
+    "geom:latitude":47.161774,
+    "geom:longitude":-122.156241,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1514379: name \"Ponderosa Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1514379"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1514379: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1514379"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1514379: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1514379"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101730963 (Prairie Ridge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101730963 (Prairie Ridge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ponderosa Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        101730963,
+        102087547,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1514379
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3beeb6da8b133ee66cfe0fc598f30797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730963,
+            "neighbourhood_id":9895005642,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005642,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Ponderosa Estates",
+    "wof:parent_id":101730963,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.15624146047274,
+    47.161773712214234,
+    -122.15624146047274,
+    47.161773712214234
+],
+  "geometry": {"coordinates":[-122.15624146047274,47.161773712214234],"type":"Point"}
+}

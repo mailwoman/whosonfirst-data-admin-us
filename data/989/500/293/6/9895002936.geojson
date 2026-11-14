@@ -1,0 +1,82 @@
+{
+  "id": 9895002936,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.21585796755046,35.47849339368813,-79.21585796755046,35.47849339368813",
+    "geom:latitude":35.478493,
+    "geom:longitude":-79.215858,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005445: name \"Hanover Circle\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005445"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005445: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005445"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005445: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005445"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981169 (Sanford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981169 (Sanford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hanover Circle"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981169,
+        102087817,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005445
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fea6326511fe08cab34dc9a35e939571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087817,
+            "locality_id":85981169,
+            "neighbourhood_id":9895002936,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002936,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Hanover Circle",
+    "wof:parent_id":85981169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.21585796755046,
+    35.47849339368813,
+    -79.21585796755046,
+    35.47849339368813
+],
+  "geometry": {"coordinates":[-79.21585796755046,35.47849339368813],"type":"Point"}
+}

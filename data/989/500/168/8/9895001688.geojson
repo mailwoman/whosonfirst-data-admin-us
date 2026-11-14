@@ -1,0 +1,82 @@
+{
+  "id": 9895001688,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.1770578366075,30.523805498849814,-91.1770578366075,30.523805498849814",
+    "geom:latitude":30.523805,
+    "geom:longitude":-91.177058,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559097: name \"Moreco\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559097"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559097: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559097"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559097: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559097"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948205 (Baton Rouge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948205 (Baton Rouge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Moreco"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948205,
+        102087229,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":559097
+    },
+    "wof:country":"US",
+    "wof:geomhash":"892ae9843dc8cb3533035b46d998eabb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":9895001688,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001688,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Moreco",
+    "wof:parent_id":85948205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.1770578366075,
+    30.523805498849814,
+    -91.1770578366075,
+    30.523805498849814
+],
+  "geometry": {"coordinates":[-91.1770578366075,30.523805498849814],"type":"Point"}
+}

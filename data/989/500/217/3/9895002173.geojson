@@ -1,0 +1,82 @@
+{
+  "id": 9895002173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.22509496249774,32.2376536949423,-90.22509496249774,32.2376536949423",
+    "geom:latitude":32.237654,
+    "geom:longitude":-90.225095,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688270: name \"Choctaw Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688270"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688270: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688270"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688270: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688270"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969693 (Jackson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969693 (Jackson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Choctaw Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969693,
+        102081407,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":688270
+    },
+    "wof:country":"US",
+    "wof:geomhash":"deff0c872061ffe0364bb2934a6922f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":9895002173,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002173,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Choctaw Village",
+    "wof:parent_id":85969693,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.22509496249774,
+    32.2376536949423,
+    -90.22509496249774,
+    32.2376536949423
+],
+  "geometry": {"coordinates":[-90.22509496249774,32.2376536949423],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895008053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.50599546239874,39.23865983617668,-77.50599546239874,39.23865983617668",
+    "geom:latitude":39.23866,
+    "geom:longitude":-77.505995,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807324: name \"Village Green Loudoun\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807324"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807324: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807324"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807324: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807324"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084951 (Loudoun).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084951 (Loudoun), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Village Green Loudoun"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102084951,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807324
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c4747de79ba243095fdfb776b1e677c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":9895008053,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895008053,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Village Green Loudoun",
+    "wof:parent_id":102084951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.50599546239874,
+    39.23865983617668,
+    -77.50599546239874,
+    39.23865983617668
+],
+  "geometry": {"coordinates":[-77.50599546239874,39.23865983617668],"type":"Point"}
+}

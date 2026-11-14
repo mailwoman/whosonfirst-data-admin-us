@@ -1,0 +1,82 @@
+{
+  "id": 9895005455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.9407830470687,40.772729634541896,-111.9407830470687,40.772729634541896",
+    "geom:latitude":40.77273,
+    "geom:longitude":-111.940783,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454193: name \"Deskys Addition Three and Four\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454193"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454193: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454193"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454193: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454193"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728075 (Salt Lake City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728075 (Salt Lake City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Deskys Addition Three and Four"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728075,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1454193
+    },
+    "wof:country":"US",
+    "wof:geomhash":"72ef3333a8981fd8c978132fb577ded7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":9895005455,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005455,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Deskys Addition Three and Four",
+    "wof:parent_id":101728075,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.9407830470687,
+    40.772729634541896,
+    -111.9407830470687,
+    40.772729634541896
+],
+  "geometry": {"coordinates":[-111.9407830470687,40.772729634541896],"type":"Point"}
+}

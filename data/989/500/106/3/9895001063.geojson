@@ -1,0 +1,82 @@
+{
+  "id": 9895001063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.63231914504135,30.27857904812667,-81.63231914504135,30.27857904812667",
+    "geom:latitude":30.278579,
+    "geom:longitude":-81.632319,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 285354: name \"Larsen\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/285354"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 285354: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/285354"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 285354: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/285354"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85932547 (Jacksonville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85932547 (Jacksonville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Larsen"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85932547,
+        102084753,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":285354
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58fdb6988dbc6e7609295d056aa51c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084753,
+            "locality_id":85932547,
+            "neighbourhood_id":9895001063,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001063,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Larsen",
+    "wof:parent_id":85932547,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.63231914504135,
+    30.27857904812667,
+    -81.63231914504135,
+    30.27857904812667
+],
+  "geometry": {"coordinates":[-81.63231914504135,30.27857904812667],"type":"Point"}
+}

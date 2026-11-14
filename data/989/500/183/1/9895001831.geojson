@@ -1,0 +1,82 @@
+{
+  "id": 9895001831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.79132724805642,39.606508773709635,-75.79132724805642,39.606508773709635",
+    "geom:latitude":39.606509,
+    "geom:longitude":-75.791327,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589194: name \"Delancy Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589194"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589194: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589194"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589194: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589194"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949407 (Elkton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949407 (Elkton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Delancy Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949407,
+        102082183,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":589194
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aef65850ae985e9bd6e8cb531d147eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "locality_id":85949407,
+            "neighbourhood_id":9895001831,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001831,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Delancy Village",
+    "wof:parent_id":85949407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.79132724805642,
+    39.606508773709635,
+    -75.79132724805642,
+    39.606508773709635
+],
+  "geometry": {"coordinates":[-75.79132724805642,39.606508773709635],"type":"Point"}
+}

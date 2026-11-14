@@ -1,0 +1,80 @@
+{
+  "id": 9895004038,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.09130590303508,32.35794046792843,-94.09130590303508,32.35794046792843",
+    "geom:latitude":32.35794,
+    "geom:longitude":-94.091306,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1343515: name \"Panola\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1343515"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1343515: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1343515"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1343515: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1343515"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086769 (Panola).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086769 (Panola), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Panola"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102086769,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1343515
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00d33496938be42d8f2c50d3e3e26505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086769,
+            "locality_id":9895004038,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004038,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Panola",
+    "wof:parent_id":102086769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.09130590303508,
+    32.35794046792843,
+    -94.09130590303508,
+    32.35794046792843
+],
+  "geometry": {"coordinates":[-94.09130590303508,32.35794046792843],"type":"Point"}
+}

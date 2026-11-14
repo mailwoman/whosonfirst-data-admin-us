@@ -1,0 +1,82 @@
+{
+  "id": 9895002300,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.715163698023,39.43512417767874,-74.715163698023,39.43512417767874",
+    "geom:latitude":39.435124,
+    "geom:longitude":-74.715164,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 875469: name \"Clarkstown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/875469"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 875469: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/875469"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 875469: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/875469"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404477619 (Hamilton Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404477619 (Hamilton Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Clarkstown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102083869,
+        102191575,
+        404477619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":875469
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1fb19e6cc7ebc427b5ac7b1ee4145db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083869,
+            "localadmin_id":404477619,
+            "locality_id":9895002300,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895002300,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Clarkstown",
+    "wof:parent_id":404477619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.715163698023,
+    39.43512417767874,
+    -74.715163698023,
+    39.43512417767874
+],
+  "geometry": {"coordinates":[-74.715163698023,39.43512417767874],"type":"Point"}
+}

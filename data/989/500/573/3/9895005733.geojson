@@ -1,0 +1,82 @@
+{
+  "id": 9895005733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.76256834264805,30.287144096354055,-89.76256834264805,30.287144096354055",
+    "geom:latitude":30.287144,
+    "geom:longitude":-89.762568,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628867: name \"Bon Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628867"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628867: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628867"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628867: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628867"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948031 (Slidell).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948031 (Slidell), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bon Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948031,
+        102082453,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1628867
+    },
+    "wof:country":"US",
+    "wof:geomhash":"54650695720a0235d5efbdd9284a1b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":9895005733,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895005733,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Bon Village",
+    "wof:parent_id":85948031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.76256834264805,
+    30.287144096354055,
+    -89.76256834264805,
+    30.287144096354055
+],
+  "geometry": {"coordinates":[-89.76256834264805,30.287144096354055],"type":"Point"}
+}

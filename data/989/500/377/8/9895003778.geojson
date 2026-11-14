@@ -1,0 +1,82 @@
+{
+  "id": 9895003778,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.00491281590602,35.92203270500562,-84.00491281590602,35.92203270500562",
+    "geom:latitude":35.922033,
+    "geom:longitude":-84.004913,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1274251: name \"Westmoreland Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1274251"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1274251: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1274251"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1274251: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1274251"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722865 (Knoxville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722865 (Knoxville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westmoreland Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722865,
+        102086455,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1274251
+    },
+    "wof:country":"US",
+    "wof:geomhash":"14bb58579e394c6358ad0d700fde67fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":9895003778,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003778,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Westmoreland Heights",
+    "wof:parent_id":101722865,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.00491281590602,
+    35.92203270500562,
+    -84.00491281590602,
+    35.92203270500562
+],
+  "geometry": {"coordinates":[-84.00491281590602,35.92203270500562],"type":"Point"}
+}

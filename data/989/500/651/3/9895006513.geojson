@@ -1,0 +1,82 @@
+{
+  "id": 9895006513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.7869379706484,33.40983707223239,-86.7869379706484,33.40983707223239",
+    "geom:latitude":33.409837,
+    "geom:longitude":-86.786938,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700161: name \"Derby Downs Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700161"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700161: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700161"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700161: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700161"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914483 (Vestavia Hills).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914483 (Vestavia Hills), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Derby Downs Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914483,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700161
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e2d9d3a2a661f12e3e0adc447b23f6c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914483,
+            "neighbourhood_id":9895006513,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006513,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Derby Downs Estates",
+    "wof:parent_id":85914483,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.7869379706484,
+    33.40983707223239,
+    -86.7869379706484,
+    33.40983707223239
+],
+  "geometry": {"coordinates":[-86.7869379706484,33.40983707223239],"type":"Point"}
+}

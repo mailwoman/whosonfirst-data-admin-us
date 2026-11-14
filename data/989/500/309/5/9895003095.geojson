@@ -1,0 +1,82 @@
+{
+  "id": 9895003095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.89216503240787,34.87294514066133,-76.89216503240787,34.87294514066133",
+    "geom:latitude":34.872945,
+    "geom:longitude":-76.892165,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017645: name \"College Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017645"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017645: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017645"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017645: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017645"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980335 (Havelock).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980335 (Havelock), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "College Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980335,
+        102087763,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1017645
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d04537bd20e03b9fcde8b8723c84097c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087763,
+            "locality_id":85980335,
+            "neighbourhood_id":9895003095,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003095,
+    "wof:lastmodified":1794681132,
+    "wof:name":"College Park",
+    "wof:parent_id":85980335,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.89216503240787,
+    34.87294514066133,
+    -76.89216503240787,
+    34.87294514066133
+],
+  "geometry": {"coordinates":[-76.89216503240787,34.87294514066133],"type":"Point"}
+}

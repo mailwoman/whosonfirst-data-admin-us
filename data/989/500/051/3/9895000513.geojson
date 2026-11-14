@@ -1,0 +1,82 @@
+{
+  "id": 9895000513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.1930636264932,30.630753023342436,-88.1930636264932,30.630753023342436",
+    "geom:latitude":30.630753,
+    "geom:longitude":-88.193064,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143687: name \"Ramada Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143687"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143687: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143687"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143687: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143687"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913749 (Mobile).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913749 (Mobile), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ramada Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913749,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143687
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e00b0039ab5d0140c277705d36b7b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":85913749,
+            "neighbourhood_id":9895000513,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000513,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Ramada Estates",
+    "wof:parent_id":85913749,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.1930636264932,
+    30.630753023342436,
+    -88.1930636264932,
+    30.630753023342436
+],
+  "geometry": {"coordinates":[-88.1930636264932,30.630753023342436],"type":"Point"}
+}

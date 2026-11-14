@@ -1,0 +1,80 @@
+{
+  "id": 9895001779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.33551682230176,39.651502562718505,-76.33551682230176,39.651502562718505",
+    "geom:latitude":39.651503,
+    "geom:longitude":-76.335517,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 584304: name \"Emory Church\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/584304"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 584304: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/584304"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 584304: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/584304"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082727 (Harford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082727 (Harford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Emory Church"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":584304
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f99d5370cf466af694732946048a671c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":9895001779,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001779,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Emory Church",
+    "wof:parent_id":102082727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.33551682230176,
+    39.651502562718505,
+    -76.33551682230176,
+    39.651502562718505
+],
+  "geometry": {"coordinates":[-76.33551682230176,39.651502562718505],"type":"Point"}
+}

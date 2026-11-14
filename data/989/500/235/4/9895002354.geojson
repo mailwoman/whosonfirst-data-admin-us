@@ -1,0 +1,82 @@
+{
+  "id": 9895002354,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.28171812328559,42.11534381331789,-79.28171812328559,42.11534381331789",
+    "geom:latitude":42.115344,
+    "geom:longitude":-79.281718,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 944427: name \"Bonita\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/944427"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 944427: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/944427"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 944427: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/944427"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404521959 (Ellicott).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404521959 (Ellicott), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bonita"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102081811,
+        102191575,
+        404521959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":944427
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e58dad1efd7a456bcb094c71f9225271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081811,
+            "localadmin_id":404521959,
+            "locality_id":9895002354,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002354,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Bonita",
+    "wof:parent_id":404521959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.28171812328559,
+    42.11534381331789,
+    -79.28171812328559,
+    42.11534381331789
+],
+  "geometry": {"coordinates":[-79.28171812328559,42.11534381331789],"type":"Point"}
+}

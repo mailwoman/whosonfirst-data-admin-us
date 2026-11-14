@@ -1,0 +1,82 @@
+{
+  "id": 9895005719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.50203563461464,30.070762725106874,-90.50203563461464,30.070762725106874",
+    "geom:latitude":30.070763,
+    "geom:longitude":-90.502036,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1627681: name \"Montegut\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1627681"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1627681: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1627681"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1627681: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1627681"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948631 (Laplace).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948631 (Laplace), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Montegut"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948631,
+        102082461,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1627681
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8dd559d76fb400b8a174566f813a4b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082461,
+            "locality_id":85948631,
+            "neighbourhood_id":9895005719,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895005719,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Montegut",
+    "wof:parent_id":85948631,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.50203563461464,
+    30.070762725106874,
+    -90.50203563461464,
+    30.070762725106874
+],
+  "geometry": {"coordinates":[-90.50203563461464,30.070762725106874],"type":"Point"}
+}

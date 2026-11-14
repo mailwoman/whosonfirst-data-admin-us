@@ -1,0 +1,82 @@
+{
+  "id": 9895003489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.02925509014555,33.027956028031454,-80.02925509014555,33.027956028031454",
+    "geom:latitude":33.027956,
+    "geom:longitude":-80.029255,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234443: name \"Boulder Bluff\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234443"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234443: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234443"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234443: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234443"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720749 (Goose Creek).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720749 (Goose Creek), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Boulder Bluff"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720749,
+        102085397,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1234443
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ecc7bef01bef82d0a2c2f9ccd49f1d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085397,
+            "locality_id":101720749,
+            "neighbourhood_id":9895003489,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003489,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Boulder Bluff",
+    "wof:parent_id":101720749,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.02925509014555,
+    33.027956028031454,
+    -80.02925509014555,
+    33.027956028031454
+],
+  "geometry": {"coordinates":[-80.02925509014555,33.027956028031454],"type":"Point"}
+}

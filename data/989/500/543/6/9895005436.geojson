@@ -1,0 +1,82 @@
+{
+  "id": 9895005436,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.95550878456821,41.02494976158918,-111.95550878456821,41.02494976158918",
+    "geom:latitude":41.02495,
+    "geom:longitude":-111.955509,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454148: name \"David Smith\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454148"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454148: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454148"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454148: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454148"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727899 (Kaysville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727899 (Kaysville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "David Smith"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727899,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1454148
+    },
+    "wof:country":"US",
+    "wof:geomhash":"437aa13126a64749e56d4fcf13c432b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727899,
+            "neighbourhood_id":9895005436,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005436,
+    "wof:lastmodified":1794681137,
+    "wof:name":"David Smith",
+    "wof:parent_id":101727899,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.95550878456821,
+    41.02494976158918,
+    -111.95550878456821,
+    41.02494976158918
+],
+  "geometry": {"coordinates":[-111.95550878456821,41.02494976158918],"type":"Point"}
+}

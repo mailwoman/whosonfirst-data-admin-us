@@ -1,0 +1,82 @@
+{
+  "id": 9895006059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.61020481786632,38.359848027496504,-75.61020481786632,38.359848027496504",
+    "geom:latitude":38.359848,
+    "geom:longitude":-75.610205,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668689: name \"Riverside Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668689"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668689: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668689"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668689: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668689"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949177 (Salisbury).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949177 (Salisbury), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Riverside Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949177,
+        102082715,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1668689
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfa3a153dcf93377a2044d621478a569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":9895006059,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006059,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Riverside Homes",
+    "wof:parent_id":85949177,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.61020481786632,
+    38.359848027496504,
+    -75.61020481786632,
+    38.359848027496504
+],
+  "geometry": {"coordinates":[-75.61020481786632,38.359848027496504],"type":"Point"}
+}

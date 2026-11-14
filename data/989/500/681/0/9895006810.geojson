@@ -1,0 +1,82 @@
+{
+  "id": 9895006810,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.80957913032681,38.47315470984878,-81.80957913032681,38.47315470984878",
+    "geom:latitude":38.473155,
+    "geom:longitude":-81.809579,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740798: name \"Silver Valley Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740798"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740798: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740798"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740798: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740798"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101731323 (Poca).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101731323 (Poca), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Silver Valley Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        101731323,
+        102083381,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1740798
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5045259ab0679a96221e49d37b82cd42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731323,
+            "neighbourhood_id":9895006810,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895006810,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Silver Valley Estates",
+    "wof:parent_id":101731323,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.80957913032681,
+    38.47315470984878,
+    -81.80957913032681,
+    38.47315470984878
+],
+  "geometry": {"coordinates":[-81.80957913032681,38.47315470984878],"type":"Point"}
+}

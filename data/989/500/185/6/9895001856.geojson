@@ -1,0 +1,82 @@
+{
+  "id": 9895001856,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.4285991507681,39.435387478278685,-77.4285991507681,39.435387478278685",
+    "geom:latitude":39.435387,
+    "geom:longitude":-77.428599,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590222: name \"Fort Deterick\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590222"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590222: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590222"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590222: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590222"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949385 (Frederick).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949385 (Frederick), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fort Deterick"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949385,
+        102081593,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":590222
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b512f06896019c6bb9dcf803551e1900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":9895001856,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001856,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Fort Deterick",
+    "wof:parent_id":85949385,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.4285991507681,
+    39.435387478278685,
+    -77.4285991507681,
+    39.435387478278685
+],
+  "geometry": {"coordinates":[-77.4285991507681,39.435387478278685],"type":"Point"}
+}

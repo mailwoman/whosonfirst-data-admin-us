@@ -1,0 +1,82 @@
+{
+  "id": 9895000379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.5235657687294,32.586252142351775,-85.5235657687294,32.586252142351775",
+    "geom:latitude":32.586252,
+    "geom:longitude":-85.523566,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138275: name \"Ridgewood Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138275"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138275: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138275"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138275: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138275"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913825 (Auburn).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913825 (Auburn), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ridgewood Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913825,
+        102085751,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":138275
+    },
+    "wof:country":"US",
+    "wof:geomhash":"66cfa887f8ddbd5f125fbaf8f92d5359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085751,
+            "locality_id":85913825,
+            "neighbourhood_id":9895000379,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000379,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Ridgewood Village",
+    "wof:parent_id":85913825,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.5235657687294,
+    32.586252142351775,
+    -85.5235657687294,
+    32.586252142351775
+],
+  "geometry": {"coordinates":[-85.5235657687294,32.586252142351775],"type":"Point"}
+}

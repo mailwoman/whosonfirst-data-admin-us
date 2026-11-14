@@ -1,0 +1,80 @@
+{
+  "id": 9895000862,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.82552319469735,33.35567409657318,-85.82552319469735,33.35567409657318",
+    "geom:latitude":33.355674,
+    "geom:longitude":-85.825523,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 159773: name \"Highland\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/159773"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 159773: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/159773"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 159773: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/159773"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085421 (Clay).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085421 (Clay), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Highland"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085421,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":159773
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ddeeed4644d53745ce852aeda0bb7044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085421,
+            "locality_id":9895000862,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000862,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Highland",
+    "wof:parent_id":102085421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.82552319469735,
+    33.35567409657318,
+    -85.82552319469735,
+    33.35567409657318
+],
+  "geometry": {"coordinates":[-85.82552319469735,33.35567409657318],"type":"Point"}
+}

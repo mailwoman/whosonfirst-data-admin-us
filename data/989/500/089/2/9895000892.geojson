@@ -1,0 +1,82 @@
+{
+  "id": 9895000892,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.05720992667942,40.59387782946446,-105.05720992667942,40.59387782946446",
+    "geom:latitude":40.593878,
+    "geom:longitude":-105.05721,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 177436: name \"Andersonville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/177436"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 177436: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/177436"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 177436: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/177436"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929679 (Fort Collins).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929679 (Fort Collins), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Andersonville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929679,
+        102083353,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":177436
+    },
+    "wof:country":"US",
+    "wof:geomhash":"498eb9c3094888dd67b7f6afd79dac7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083353,
+            "locality_id":85929679,
+            "neighbourhood_id":9895000892,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000892,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Andersonville",
+    "wof:parent_id":85929679,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.05720992667942,
+    40.59387782946446,
+    -105.05720992667942,
+    40.59387782946446
+],
+  "geometry": {"coordinates":[-105.05720992667942,40.59387782946446],"type":"Point"}
+}

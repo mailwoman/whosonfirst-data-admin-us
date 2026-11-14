@@ -1,0 +1,82 @@
+{
+  "id": 9895003725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.94148140987046,34.0634934266117,-80.94148140987046,34.0634934266117",
+    "geom:latitude":34.063493,
+    "geom:longitude":-80.941481,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249381: name \"Tanglewood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249381"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249381: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249381"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249381: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249381"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721301 (Woodfield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721301 (Woodfield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tanglewood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721301,
+        102085405,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1249381
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4edd6f2e7c64eb6a8a53576ecaf57d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101721301,
+            "neighbourhood_id":9895003725,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003725,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Tanglewood",
+    "wof:parent_id":101721301,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.94148140987046,
+    34.0634934266117,
+    -80.94148140987046,
+    34.0634934266117
+],
+  "geometry": {"coordinates":[-80.94148140987046,34.0634934266117],"type":"Point"}
+}

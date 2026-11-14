@@ -1,0 +1,82 @@
+{
+  "id": 9895002813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.8630919917682,36.02542088699816,-79.8630919917682,36.02542088699816",
+    "geom:latitude":36.025421,
+    "geom:longitude":-79.863092,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004967: name \"Meadowood Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004967"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004967: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004967"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004967: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004967"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980391 (Greensboro).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980391 (Greensboro), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meadowood Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980391,
+        102080985,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1004967
+    },
+    "wof:country":"US",
+    "wof:geomhash":"630e1d07527d940004c3e2e0b3e1b2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080985,
+            "locality_id":85980391,
+            "neighbourhood_id":9895002813,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002813,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Meadowood Homes",
+    "wof:parent_id":85980391,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.8630919917682,
+    36.02542088699816,
+    -79.8630919917682,
+    36.02542088699816
+],
+  "geometry": {"coordinates":[-79.8630919917682,36.02542088699816],"type":"Point"}
+}

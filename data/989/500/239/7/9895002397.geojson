@@ -1,0 +1,82 @@
+{
+  "id": 9895002397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.75741098889017,43.31035578104497,-75.75741098889017,43.31035578104497",
+    "geom:latitude":43.310356,
+    "geom:longitude":-75.757411,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 961125: name \"Preston Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/961125"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 961125: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/961125"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 961125: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/961125"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404522769 (Camden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404522769 (Camden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Preston Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102083149,
+        102191575,
+        404522769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":961125
+    },
+    "wof:country":"US",
+    "wof:geomhash":"100649522a444d319398218841fad802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083149,
+            "localadmin_id":404522769,
+            "locality_id":9895002397,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002397,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Preston Hill",
+    "wof:parent_id":404522769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.75741098889017,
+    43.31035578104497,
+    -75.75741098889017,
+    43.31035578104497
+],
+  "geometry": {"coordinates":[-75.75741098889017,43.31035578104497],"type":"Point"}
+}

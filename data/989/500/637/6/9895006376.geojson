@@ -1,0 +1,82 @@
+{
+  "id": 9895006376,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.0879715339626,34.07955121611907,-84.0879715339626,34.07955121611907",
+    "geom:latitude":34.079551,
+    "geom:longitude":-84.087972,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688399: name \"Suwanee Farms\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688399"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688399: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688399"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688399: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688399"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936307 (Suwanee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936307 (Suwanee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Suwanee Farms"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936307,
+        102082967,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1688399
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4669b547b64f590e7f086596984ed7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936307,
+            "neighbourhood_id":9895006376,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006376,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Suwanee Farms",
+    "wof:parent_id":85936307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.0879715339626,
+    34.07955121611907,
+    -84.0879715339626,
+    34.07955121611907
+],
+  "geometry": {"coordinates":[-84.0879715339626,34.07955121611907],"type":"Point"}
+}

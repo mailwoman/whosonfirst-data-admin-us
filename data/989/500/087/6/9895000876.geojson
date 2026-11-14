@@ -1,0 +1,82 @@
+{
+  "id": 9895000876,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.26970413325218,33.57927702736069,-86.26970413325218,33.57927702736069",
+    "geom:latitude":33.579277,
+    "geom:longitude":-86.269704,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 165070: name \"Forest Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/165070"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 165070: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/165070"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 165070: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/165070"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913409 (Pell City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913409 (Pell City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Forest Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913409,
+        102085647,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":165070
+    },
+    "wof:country":"US",
+    "wof:geomhash":"029078a97810df3a7b1bcaf4bddab251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085647,
+            "locality_id":85913409,
+            "neighbourhood_id":9895000876,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000876,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Forest Hills",
+    "wof:parent_id":85913409,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.26970413325218,
+    33.57927702736069,
+    -86.26970413325218,
+    33.57927702736069
+],
+  "geometry": {"coordinates":[-86.26970413325218,33.57927702736069],"type":"Point"}
+}

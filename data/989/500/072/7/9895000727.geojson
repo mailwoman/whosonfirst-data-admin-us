@@ -1,0 +1,80 @@
+{
+  "id": 9895000727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.56806748427041,33.303734019869616,-87.56806748427041,33.303734019869616",
+    "geom:latitude":33.303734,
+    "geom:longitude":-87.568067,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148310: name \"Lake Front Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148310"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148310: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148310"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148310: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148310"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lake Front Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148310
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b58f886cc57390a508096c661284602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000727,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000727,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Lake Front Village",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.56806748427041,
+    33.303734019869616,
+    -87.56806748427041,
+    33.303734019869616
+],
+  "geometry": {"coordinates":[-87.56806748427041,33.303734019869616],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895004882,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.95995310511329,41.1674500764783,-111.95995310511329,41.1674500764783",
+    "geom:latitude":41.16745,
+    "geom:longitude":-111.959953,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453236: name \"Duffin Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453236"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453236: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453236"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453236: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453236"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728021 (South Ogden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728021 (South Ogden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Duffin Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728021,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453236
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40e539d94fc56c6d03d62225cd5b6c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728021,
+            "neighbourhood_id":9895004882,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004882,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Duffin Heights",
+    "wof:parent_id":101728021,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.95995310511329,
+    41.1674500764783,
+    -111.95995310511329,
+    41.1674500764783
+],
+  "geometry": {"coordinates":[-111.95995310511329,41.1674500764783],"type":"Point"}
+}

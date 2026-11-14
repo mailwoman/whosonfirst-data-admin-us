@@ -1,0 +1,80 @@
+{
+  "id": 9895004070,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.75074026208061,30.340165104842352,-103.75074026208061,30.340165104842352",
+    "geom:latitude":30.340165,
+    "geom:longitude":-103.75074,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1377193: name \"Toronto\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1377193"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1377193: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1377193"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1377193: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1377193"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080657 (Brewster).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080657 (Brewster), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Toronto"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102080657,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1377193
+    },
+    "wof:country":"US",
+    "wof:geomhash":"496beb29657bc863b4ff54c24f0d1885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080657,
+            "locality_id":9895004070,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004070,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Toronto",
+    "wof:parent_id":102080657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.75074026208061,
+    30.340165104842352,
+    -103.75074026208061,
+    30.340165104842352
+],
+  "geometry": {"coordinates":[-103.75074026208061,30.340165104842352],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.8483988972495,34.30432751677876,-79.8483988972495,34.30432751677876",
+    "geom:latitude":34.304328,
+    "geom:longitude":-79.848399,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241028: name \"Woodcreek\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241028"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241028: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241028"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241028: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241028"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720825 (Darlington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720825 (Darlington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodcreek"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720825,
+        102085743,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1241028
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7107b74c5e20ae36756bf87b23d0542c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085743,
+            "locality_id":101720825,
+            "neighbourhood_id":9895003547,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003547,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Woodcreek",
+    "wof:parent_id":101720825,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.8483988972495,
+    34.30432751677876,
+    -79.8483988972495,
+    34.30432751677876
+],
+  "geometry": {"coordinates":[-79.8483988972495,34.30432751677876],"type":"Point"}
+}

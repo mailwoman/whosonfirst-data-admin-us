@@ -1,0 +1,80 @@
+{
+  "id": 9895000325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.25417623715573,30.50353469396094,-88.25417623715573,30.50353469396094",
+    "geom:latitude":30.503535,
+    "geom:longitude":-88.254176,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 126090: name \"Saint Elmo\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/126090"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 126090: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/126090"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 126090: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/126090"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085585 (Mobile).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085585 (Mobile), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Elmo"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":126090
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73470d228b58a391c103230703a42872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":9895000325,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000325,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Saint Elmo",
+    "wof:parent_id":102085585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.25417623715573,
+    30.50353469396094,
+    -88.25417623715573,
+    30.50353469396094
+],
+  "geometry": {"coordinates":[-88.25417623715573,30.50353469396094],"type":"Point"}
+}

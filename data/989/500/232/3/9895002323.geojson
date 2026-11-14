@@ -1,0 +1,80 @@
+{
+  "id": 9895002323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.8652645472943,32.29038144759774,-105.8652645472943,32.29038144759774",
+    "geom:latitude":32.290381,
+    "geom:longitude":-105.865265,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 891646: name \"Martin Well\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/891646"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 891646: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/891646"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 891646: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/891646"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081169 (Otero).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081169 (Otero), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Martin Well"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081169,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":891646
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2be7fd9a8c9603d1e32ea0f060528891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081169,
+            "locality_id":9895002323,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002323,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Martin Well",
+    "wof:parent_id":102081169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.8652645472943,
+    32.29038144759774,
+    -105.8652645472943,
+    32.29038144759774
+],
+  "geometry": {"coordinates":[-105.8652645472943,32.29038144759774],"type":"Point"}
+}

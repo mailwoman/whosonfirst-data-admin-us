@@ -1,0 +1,82 @@
+{
+  "id": 9895005222,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.9127297854364,41.090227671840914,-111.9127297854364,41.090227671840914",
+    "geom:latitude":41.090228,
+    "geom:longitude":-111.91273,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453882: name \"Dreams End\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453882"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453882: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453882"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453882: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453882"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727897 (Layton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727897 (Layton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dreams End"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727897,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453882
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64eb5a600c8e7673a0df2e52a70d01e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":9895005222,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005222,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Dreams End",
+    "wof:parent_id":101727897,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.9127297854364,
+    41.090227671840914,
+    -111.9127297854364,
+    41.090227671840914
+],
+  "geometry": {"coordinates":[-111.9127297854364,41.090227671840914],"type":"Point"}
+}

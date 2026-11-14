@@ -1,0 +1,84 @@
+{
+  "id": 9895006841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.59255322509242,41.74587563274953,-87.59255322509242,41.74587563274953",
+    "geom:latitude":41.745876,
+    "geom:longitude":-87.592553,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1764313: name \"Pierces Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1764313"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1764313: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1764313"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1764313: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1764313"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940195 (Chicago).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940195 (Chicago), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pierces Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940195,
+        102084317,
+        102191575,
+        404496273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1764313
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d2f7a203aca54af4c5bef41100cd2a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":9895006841,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895006841,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Pierces Park",
+    "wof:parent_id":85940195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.59255322509242,
+    41.74587563274953,
+    -87.59255322509242,
+    41.74587563274953
+],
+  "geometry": {"coordinates":[-87.59255322509242,41.74587563274953],"type":"Point"}
+}

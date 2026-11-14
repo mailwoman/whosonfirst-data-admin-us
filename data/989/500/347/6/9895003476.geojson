@@ -1,0 +1,82 @@
+{
+  "id": 9895003476,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.06313470080359,35.105426747084465,-81.06313470080359,35.105426747084465",
+    "geom:latitude":35.105427,
+    "geom:longitude":-81.063135,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233830: name \"Oakwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233830"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233830: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233830"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233830: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233830"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721437 (Lake Wylie).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721437 (Lake Wylie), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oakwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721437,
+        102085661,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1233830
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cffb9a25714abccf912602b8db4fca07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085661,
+            "locality_id":101721437,
+            "neighbourhood_id":9895003476,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003476,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Oakwood",
+    "wof:parent_id":101721437,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.06313470080359,
+    35.105426747084465,
+    -81.06313470080359,
+    35.105426747084465
+],
+  "geometry": {"coordinates":[-81.06313470080359,35.105426747084465],"type":"Point"}
+}

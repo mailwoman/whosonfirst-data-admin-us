@@ -1,0 +1,82 @@
+{
+  "id": 9895004238,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.03134321787223,41.15078336921178,-112.03134321787223,41.15078336921178",
+    "geom:latitude":41.150783,
+    "geom:longitude":-112.031343,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451458: name \"Sunset Dale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451458"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451458: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451458"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451458: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451458"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727893 (Sunset).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727893 (Sunset), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunset Dale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727893,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451458
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7497b735674ad2458f5d7740afa205f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727893,
+            "neighbourhood_id":9895004238,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004238,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Sunset Dale",
+    "wof:parent_id":101727893,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.03134321787223,
+    41.15078336921178,
+    -112.03134321787223,
+    41.15078336921178
+],
+  "geometry": {"coordinates":[-112.03134321787223,41.15078336921178],"type":"Point"}
+}

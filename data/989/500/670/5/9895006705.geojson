@@ -1,0 +1,82 @@
+{
+  "id": 9895006705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.80911670840295,31.72516744445133,-85.80911670840295,31.72516744445133",
+    "geom:latitude":31.725167,
+    "geom:longitude":-85.809117,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1730372: name \"Broad View\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1730372"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1730372: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1730372"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1730372: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1730372"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914541 (Brundidge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914541 (Brundidge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Broad View"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914541,
+        102085619,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1730372
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c286cb93e00bff9e3c1c9b9fae89b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085619,
+            "locality_id":85914541,
+            "neighbourhood_id":9895006705,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006705,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Broad View",
+    "wof:parent_id":85914541,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.80911670840295,
+    31.72516744445133,
+    -85.80911670840295,
+    31.72516744445133
+],
+  "geometry": {"coordinates":[-85.80911670840295,31.72516744445133],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895004798,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.94856391000499,41.215227882727916,-111.94856391000499,41.215227882727916",
+    "geom:latitude":41.215228,
+    "geom:longitude":-111.948564,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453061: name \"Massa\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453061"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453061: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453061"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453061: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453061"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728033 (Ogden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728033 (Ogden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Massa"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728033,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453061
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4ddb7a1c3fd2d655b93c02637d2fff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":9895004798,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004798,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Massa",
+    "wof:parent_id":101728033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.94856391000499,
+    41.215227882727916,
+    -111.94856391000499,
+    41.215227882727916
+],
+  "geometry": {"coordinates":[-111.94856391000499,41.215227882727916],"type":"Point"}
+}

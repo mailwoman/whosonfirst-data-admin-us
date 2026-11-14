@@ -1,0 +1,84 @@
+{
+  "id": 9895007533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.97583910698022,41.42361885630608,-87.97583910698022,41.42361885630608",
+    "geom:latitude":41.423619,
+    "geom:longitude":-87.975839,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355773: name \"Century East\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355773"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355773: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355773"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355773: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355773"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940551 (Manhattan).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940551 (Manhattan), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Century East"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940551,
+        102080845,
+        102191575,
+        404499147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2355773
+    },
+    "wof:country":"US",
+    "wof:geomhash":"59806b81c42d7d238c08474a0fd4767e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499147,
+            "locality_id":85940551,
+            "neighbourhood_id":9895007533,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007533,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Century East",
+    "wof:parent_id":85940551,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.97583910698022,
+    41.42361885630608,
+    -87.97583910698022,
+    41.42361885630608
+],
+  "geometry": {"coordinates":[-87.97583910698022,41.42361885630608],"type":"Point"}
+}

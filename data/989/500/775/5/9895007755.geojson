@@ -1,0 +1,82 @@
+{
+  "id": 9895007755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.40360338006758,27.776905132306894,-82.40360338006758,27.776905132306894",
+    "geom:latitude":27.776905,
+    "geom:longitude":-82.403603,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2485330: name \"Treviso\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2485330"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2485330: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2485330"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2485330: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2485330"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933699 (Apollo Beach).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933699 (Apollo Beach), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Treviso"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933699,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2485330
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa2b45fc24e1cfe69319017b7fa16a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85933699,
+            "neighbourhood_id":9895007755,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007755,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Treviso",
+    "wof:parent_id":85933699,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.40360338006758,
+    27.776905132306894,
+    -82.40360338006758,
+    27.776905132306894
+],
+  "geometry": {"coordinates":[-82.40360338006758,27.776905132306894],"type":"Point"}
+}

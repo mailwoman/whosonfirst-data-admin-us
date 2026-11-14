@@ -1,0 +1,80 @@
+{
+  "id": 9895000924,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.4858406494754,39.96971541577368,-105.4858406494754,39.96971541577368",
+    "geom:latitude":39.969715,
+    "geom:longitude":-105.485841,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 197907: name \"Whispering Pine\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/197907"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 197907: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/197907"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 197907: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/197907"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085251 (Boulder).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085251 (Boulder), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Whispering Pine"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102085251,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":197907
+    },
+    "wof:country":"US",
+    "wof:geomhash":"96e4399c58b673035d0f07f4bce7766a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085251,
+            "locality_id":9895000924,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000924,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Whispering Pine",
+    "wof:parent_id":102085251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.4858406494754,
+    39.96971541577368,
+    -105.4858406494754,
+    39.96971541577368
+],
+  "geometry": {"coordinates":[-105.4858406494754,39.96971541577368],"type":"Point"}
+}

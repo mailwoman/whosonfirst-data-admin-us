@@ -1,0 +1,82 @@
+{
+  "id": 9895006092,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.5214866595242,34.36028127404679,-118.5214866595242,34.36028127404679",
+    "geom:latitude":34.360281,
+    "geom:longitude":-118.521487,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670024: name \"Waltz\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670024"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670024: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670024"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670024: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670024"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923827 (Santa Clarita).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923827 (Santa Clarita), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Waltz"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923827,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1670024
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5a027c13b2e0374350e1d2fd768c83a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923827,
+            "neighbourhood_id":9895006092,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006092,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Waltz",
+    "wof:parent_id":85923827,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.5214866595242,
+    34.36028127404679,
+    -118.5214866595242,
+    34.36028127404679
+],
+  "geometry": {"coordinates":[-118.5214866595242,34.36028127404679],"type":"Point"}
+}

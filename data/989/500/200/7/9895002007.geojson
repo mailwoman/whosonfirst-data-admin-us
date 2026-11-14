@@ -1,0 +1,82 @@
+{
+  "id": 9895002007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.52687038092681,45.98745589089345,-92.52687038092681,45.98745589089345",
+    "geom:latitude":45.987456,
+    "geom:longitude":-92.52687,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 654926: name \"Saint Johns Landing Camp\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/654926"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 654926: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/654926"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 654926: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/654926"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404513369 (Ogema Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404513369 (Ogema Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Johns Landing Camp"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688727,
+        102087721,
+        102191575,
+        404513369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":654926
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a0f9628b9a1e314fe20f3006d0e44ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404513369,
+            "locality_id":9895002007,
+            "region_id":85688727
+        }
+    ],
+    "wof:id":9895002007,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Saint Johns Landing Camp",
+    "wof:parent_id":404513369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.52687038092681,
+    45.98745589089345,
+    -92.52687038092681,
+    45.98745589089345
+],
+  "geometry": {"coordinates":[-92.52687038092681,45.98745589089345],"type":"Point"}
+}

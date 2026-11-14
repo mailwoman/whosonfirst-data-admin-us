@@ -1,0 +1,80 @@
+{
+  "id": 9895007939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.78672545679784,26.256480172631825,-81.78672545679784,26.256480172631825",
+    "geom:latitude":26.25648,
+    "geom:longitude":-81.786725,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806008: name \"Pelican Marsh\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806008"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806008: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806008"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806008: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806008"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085853 (Collier).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085853 (Collier), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pelican Marsh"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102085853,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806008
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ebe9c2159ebbad59c64c82c89b4757b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085853,
+            "locality_id":9895007939,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007939,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Pelican Marsh",
+    "wof:parent_id":102085853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.78672545679784,
+    26.256480172631825,
+    -81.78672545679784,
+    26.256480172631825
+],
+  "geometry": {"coordinates":[-81.78672545679784,26.256480172631825],"type":"Point"}
+}

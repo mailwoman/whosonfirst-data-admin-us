@@ -1,0 +1,80 @@
+{
+  "id": 9895003223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-123.78902613820308,45.457611147120666,-123.78902613820308,45.457611147120666",
+    "geom:latitude":45.457611,
+    "geom:longitude":-123.789026,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1141946: name \"Fairview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1141946"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1141946: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1141946"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1141946: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1141946"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081623 (Tillamook).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081623 (Tillamook), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fairview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688513,
+        102081623,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1141946
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fee9874ef3ac6067fcbb68390c95e364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081623,
+            "locality_id":9895003223,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":9895003223,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Fairview",
+    "wof:parent_id":102081623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.78902613820308,
+    45.457611147120666,
+    -123.78902613820308,
+    45.457611147120666
+],
+  "geometry": {"coordinates":[-123.78902613820308,45.457611147120666],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895005881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.86718857251304,37.250504140969134,-121.86718857251304,37.250504140969134",
+    "geom:latitude":37.250504,
+    "geom:longitude":-121.867189,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1657899: name \"Alamitos\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1657899"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1657899: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1657899"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1657899: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1657899"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922347 (San Jose).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922347 (San Jose), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Alamitos"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922347,
+        102081673,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1657899
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ff9775175506d468f496802afecdec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "neighbourhood_id":9895005881,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005881,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Alamitos",
+    "wof:parent_id":85922347,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.86718857251304,
+    37.250504140969134,
+    -121.86718857251304,
+    37.250504140969134
+],
+  "geometry": {"coordinates":[-121.86718857251304,37.250504140969134],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895005360,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.93550818194119,41.03244986369054,-111.93550818194119,41.03244986369054",
+    "geom:latitude":41.03245,
+    "geom:longitude":-111.935508,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454033: name \"Vera Lee\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454033"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454033: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454033"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454033: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454033"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727899 (Kaysville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727899 (Kaysville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Vera Lee"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727899,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1454033
+    },
+    "wof:country":"US",
+    "wof:geomhash":"522f2af13068f0ec1c5271d0f35a21d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727899,
+            "neighbourhood_id":9895005360,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005360,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Vera Lee",
+    "wof:parent_id":101727899,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.93550818194119,
+    41.03244986369054,
+    -111.93550818194119,
+    41.03244986369054
+],
+  "geometry": {"coordinates":[-111.93550818194119,41.03244986369054],"type":"Point"}
+}

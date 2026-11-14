@@ -1,0 +1,82 @@
+{
+  "id": 9895003195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-124.01623927060028,44.962336296562505,-124.01623927060028,44.962336296562505",
+    "geom:latitude":44.962336,
+    "geom:longitude":-124.016239,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1119847: name \"Delake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1119847"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1119847: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1119847"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1119847: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1119847"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101715897 (Lincoln City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101715897 (Lincoln City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Delake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688513,
+        101715897,
+        102081615,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1119847
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b50b671fe493c64ea4a3fbfc23550bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081615,
+            "locality_id":101715897,
+            "neighbourhood_id":9895003195,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":9895003195,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Delake",
+    "wof:parent_id":101715897,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.01623927060028,
+    44.962336296562505,
+    -124.01623927060028,
+    44.962336296562505
+],
+  "geometry": {"coordinates":[-124.01623927060028,44.962336296562505],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.91090289907362,33.64724742940272,-117.91090289907362,33.64724742940272",
+    "geom:latitude":33.647247,
+    "geom:longitude":-117.910903,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765355: name \"Ponderosa Mobile Home Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765355"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765355: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765355"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765355: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765355"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923161 (Costa Mesa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923161 (Costa Mesa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ponderosa Mobile Home Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923161,
+        102080847,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1765355
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e9e9cf308ce6f3645ae3be8e2798080c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923161,
+            "neighbourhood_id":9895006861,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006861,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Ponderosa Mobile Home Park",
+    "wof:parent_id":85923161,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.91090289907362,
+    33.64724742940272,
+    -117.91090289907362,
+    33.64724742940272
+],
+  "geometry": {"coordinates":[-117.91090289907362,33.64724742940272],"type":"Point"}
+}

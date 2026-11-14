@@ -1,0 +1,82 @@
+{
+  "id": 9895003070,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0766166783297,34.65266948569977,-77.0766166783297,34.65266948569977",
+    "geom:latitude":34.652669,
+    "geom:longitude":-77.076617,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017451: name \"Lands End\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017451"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017451: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017451"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017451: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017451"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981397 (Emerald Isle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981397 (Emerald Isle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lands End"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981397,
+        102080875,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1017451
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51df919a7661db6e050b098d60acb22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080875,
+            "locality_id":85981397,
+            "neighbourhood_id":9895003070,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003070,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Lands End",
+    "wof:parent_id":85981397,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0766166783297,
+    34.65266948569977,
+    -77.0766166783297,
+    34.65266948569977
+],
+  "geometry": {"coordinates":[-77.0766166783297,34.65266948569977],"type":"Point"}
+}

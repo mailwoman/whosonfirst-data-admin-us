@@ -1,0 +1,82 @@
+{
+  "id": 9895001589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.27517152393773,31.13658095345397,-93.27517152393773,31.13658095345397",
+    "geom:latitude":31.136581,
+    "geom:longitude":-93.275172,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 549999: name \"Fertitta Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/549999"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 549999: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/549999"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 549999: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/549999"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948063 (Leesville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948063 (Leesville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fertitta Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948063,
+        102086691,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":549999
+    },
+    "wof:country":"US",
+    "wof:geomhash":"93f652666841408bb0d7796be9095e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":9895001589,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001589,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Fertitta Park",
+    "wof:parent_id":85948063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.27517152393773,
+    31.13658095345397,
+    -93.27517152393773,
+    31.13658095345397
+],
+  "geometry": {"coordinates":[-93.27517152393773,31.13658095345397],"type":"Point"}
+}

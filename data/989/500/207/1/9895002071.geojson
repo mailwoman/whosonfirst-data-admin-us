@@ -1,0 +1,82 @@
+{
+  "id": 9895002071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.68227985100086,34.25566867156894,-88.68227985100086,34.25566867156894",
+    "geom:latitude":34.255669,
+    "geom:longitude":-88.68228,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684563: name \"Post Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684563"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684563: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684563"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684563: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684563"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969769 (Tupelo).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969769 (Tupelo), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Post Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969769,
+        102083171,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":684563
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b288aeefb8777f8a9bf105210903d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":9895002071,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002071,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Post Estates",
+    "wof:parent_id":85969769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.68227985100086,
+    34.25566867156894,
+    -88.68227985100086,
+    34.25566867156894
+],
+  "geometry": {"coordinates":[-88.68227985100086,34.25566867156894],"type":"Point"}
+}

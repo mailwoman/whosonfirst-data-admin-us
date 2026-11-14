@@ -1,0 +1,82 @@
+{
+  "id": 9895002290,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.53011478354232,40.597793513312624,-99.53011478354232,40.597793513312624",
+    "geom:latitude":40.597794,
+    "geom:longitude":-99.530115,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 835478: name \"Westmark\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/835478"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 835478: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/835478"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 835478: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/835478"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 1729396099 (4).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1729396099 (4), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westmark"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688563,
+        102082835,
+        102191575,
+        1729396099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":835478
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f3a1a4ef7996f6e1dd586f505243c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082835,
+            "localadmin_id":1729396099,
+            "locality_id":9895002290,
+            "region_id":85688563
+        }
+    ],
+    "wof:id":9895002290,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Westmark",
+    "wof:parent_id":1729396099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.53011478354232,
+    40.597793513312624,
+    -99.53011478354232,
+    40.597793513312624
+],
+  "geometry": {"coordinates":[-99.53011478354232,40.597793513312624],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.90807564573684,32.671250473762015,-87.90807564573684,32.671250473762015",
+    "geom:latitude":32.67125,
+    "geom:longitude":-87.908076,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 156997: name \"Rosemont\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/156997"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 156997: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/156997"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 156997: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/156997"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085657 (Greene).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085657 (Greene), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rosemont"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085657,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":156997
+    },
+    "wof:country":"US",
+    "wof:geomhash":"efc1a7d20de1e05030fac013ceb3ec0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085657,
+            "locality_id":9895000849,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000849,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Rosemont",
+    "wof:parent_id":102085657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.90807564573684,
+    32.671250473762015,
+    -87.90807564573684,
+    32.671250473762015
+],
+  "geometry": {"coordinates":[-87.90807564573684,32.671250473762015],"type":"Point"}
+}

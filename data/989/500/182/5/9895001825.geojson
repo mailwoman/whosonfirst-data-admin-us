@@ -1,0 +1,82 @@
+{
+  "id": 9895001825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.59464881426211,38.38234753249081,-75.59464881426211,38.38234753249081",
+    "geom:latitude":38.382348,
+    "geom:longitude":-75.594649,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 588994: name \"Hyde Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/588994"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 588994: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/588994"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 588994: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/588994"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949177 (Salisbury).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949177 (Salisbury), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hyde Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949177,
+        102082715,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":588994
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f7cb55d9bda9f7f4579289112a546ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":9895001825,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001825,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Hyde Park",
+    "wof:parent_id":85949177,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.59464881426211,
+    38.38234753249081,
+    -75.59464881426211,
+    38.38234753249081
+],
+  "geometry": {"coordinates":[-75.59464881426211,38.38234753249081],"type":"Point"}
+}

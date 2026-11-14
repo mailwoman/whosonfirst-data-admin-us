@@ -1,0 +1,80 @@
+{
+  "id": 9895000311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.00525673160226,31.41933923674821,-87.00525673160226,31.41933923674821",
+    "geom:latitude":31.419339,
+    "geom:longitude":-87.005257,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 118127: name \"Fairview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/118127"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 118127: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/118127"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 118127: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/118127"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085475 (Conecuh).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085475 (Conecuh), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fairview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085475,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":118127
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18f52a8a636438fa25ad8c08d9dc3078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085475,
+            "locality_id":9895000311,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000311,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Fairview",
+    "wof:parent_id":102085475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.00525673160226,
+    31.41933923674821,
+    -87.00525673160226,
+    31.41933923674821
+],
+  "geometry": {"coordinates":[-87.00525673160226,31.41933923674821],"type":"Point"}
+}

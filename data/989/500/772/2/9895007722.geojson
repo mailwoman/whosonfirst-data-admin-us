@@ -1,0 +1,82 @@
+{
+  "id": 9895007722,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.51950342244166,28.033305190730054,-82.51950342244166,28.033305190730054",
+    "geom:latitude":28.033305,
+    "geom:longitude":-82.519503,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484722: name \"Whispering Oaks\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484722"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484722: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484722"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484722: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484722"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933833 (Egypt Lake-Leto).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933833 (Egypt Lake-Leto), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Whispering Oaks"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933833,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2484722
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9cd71278f931c8383d03a18abefae731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85933833,
+            "neighbourhood_id":9895007722,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007722,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Whispering Oaks",
+    "wof:parent_id":85933833,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.51950342244166,
+    28.033305190730054,
+    -82.51950342244166,
+    28.033305190730054
+],
+  "geometry": {"coordinates":[-82.51950342244166,28.033305190730054],"type":"Point"}
+}

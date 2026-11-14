@@ -1,0 +1,82 @@
+{
+  "id": 9895001392,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.11705787739882,38.76200066988508,-90.11705787739882,38.76200066988508",
+    "geom:latitude":38.762001,
+    "geom:longitude":-90.117058,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 417817: name \"Saint Thomas\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/417817"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 417817: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/417817"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 417817: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/417817"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404499481 (Chouteau Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404499481 (Chouteau Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Thomas"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102082849,
+        102191575,
+        404499481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":417817
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1fba3179fe4d620c3f8d48a18b81ed62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082849,
+            "localadmin_id":404499481,
+            "locality_id":9895001392,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001392,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Saint Thomas",
+    "wof:parent_id":404499481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.11705787739882,
+    38.76200066988508,
+    -90.11705787739882,
+    38.76200066988508
+],
+  "geometry": {"coordinates":[-90.11705787739882,38.76200066988508],"type":"Point"}
+}

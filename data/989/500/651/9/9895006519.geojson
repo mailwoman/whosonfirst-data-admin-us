@@ -1,0 +1,82 @@
+{
+  "id": 9895006519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.77999346798772,33.405392771275274,-86.77999346798772,33.405392771275274",
+    "geom:latitude":33.405393,
+    "geom:longitude":-86.779993,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700188: name \"Loch Haven\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700188"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700188: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700188"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700188: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700188"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914475 (Hoover).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914475 (Hoover), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Loch Haven"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914475,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700188
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78ca6dd063734d56bd76c05c39bec9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914475,
+            "neighbourhood_id":9895006519,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006519,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Loch Haven",
+    "wof:parent_id":85914475,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.77999346798772,
+    33.405392771275274,
+    -86.77999346798772,
+    33.405392771275274
+],
+  "geometry": {"coordinates":[-86.77999346798772,33.405392771275274],"type":"Point"}
+}

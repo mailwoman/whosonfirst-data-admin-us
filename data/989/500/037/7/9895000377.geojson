@@ -1,0 +1,82 @@
+{
+  "id": 9895000377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.3710616306039,32.69152747088204,-85.3710616306039,32.69152747088204",
+    "geom:latitude":32.691527,
+    "geom:longitude":-85.371062,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138247: name \"Oak Dale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138247"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138247: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138247"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138247: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138247"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913815 (Opelika).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913815 (Opelika), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oak Dale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913815,
+        102085751,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":138247
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a2420ad3d4329309eb6ace13c188b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085751,
+            "locality_id":85913815,
+            "neighbourhood_id":9895000377,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000377,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Oak Dale",
+    "wof:parent_id":85913815,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.3710616306039,
+    32.69152747088204,
+    -85.3710616306039,
+    32.69152747088204
+],
+  "geometry": {"coordinates":[-85.3710616306039,32.69152747088204],"type":"Point"}
+}

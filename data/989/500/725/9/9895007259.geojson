@@ -1,0 +1,82 @@
+{
+  "id": 9895007259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.45336799740419,35.306434689021785,-106.45336799740419,35.306434689021785",
+    "geom:latitude":35.306435,
+    "geom:longitude":-106.453368,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2055892: name \"Puesta Del Sol\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2055892"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2055892: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2055892"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2055892: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2055892"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85976875 (Placitas).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85976875 (Placitas), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Puesta Del Sol"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        85976875,
+        102081569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2055892
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1548eb6f6028c305bd72a0928e68650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081569,
+            "locality_id":85976875,
+            "neighbourhood_id":9895007259,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895007259,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Puesta Del Sol",
+    "wof:parent_id":85976875,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.45336799740419,
+    35.306434689021785,
+    -106.45336799740419,
+    35.306434689021785
+],
+  "geometry": {"coordinates":[-106.45336799740419,35.306434689021785],"type":"Point"}
+}

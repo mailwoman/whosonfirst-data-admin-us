@@ -1,0 +1,82 @@
+{
+  "id": 9895004611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.9966168418131,40.64439741570392,-111.9966168418131,40.64439741570392",
+    "geom:latitude":40.644397,
+    "geom:longitude":-111.996617,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452441: name \"Southern Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452441"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452441: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452441"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452441: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452441"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728253 (Kearns).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728253 (Kearns), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Southern Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728253,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1452441
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1260c86a871761af29f4a604688b64b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":9895004611,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004611,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Southern Acres",
+    "wof:parent_id":101728253,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.9966168418131,
+    40.64439741570392,
+    -111.9966168418131,
+    40.64439741570392
+],
+  "geometry": {"coordinates":[-111.9966168418131,40.64439741570392],"type":"Point"}
+}

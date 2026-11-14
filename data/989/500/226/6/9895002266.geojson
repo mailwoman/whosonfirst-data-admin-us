@@ -1,0 +1,82 @@
+{
+  "id": 9895002266,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.31400942868389,38.71144715049191,-90.31400942868389,38.71144715049191",
+    "geom:latitude":38.711447,
+    "geom:longitude":-90.314009,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 755750: name \"Bellerive Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/755750"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 755750: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/755750"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 755750: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/755750"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404515929 (Normandy Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404515929 (Normandy Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bellerive Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102086173,
+        102191575,
+        404515929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":755750
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c35ea85c94207d80e3f00b0162c06341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404515929,
+            "locality_id":9895002266,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002266,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Bellerive Acres",
+    "wof:parent_id":404515929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.31400942868389,
+    38.71144715049191,
+    -90.31400942868389,
+    38.71144715049191
+],
+  "geometry": {"coordinates":[-90.31400942868389,38.71144715049191],"type":"Point"}
+}

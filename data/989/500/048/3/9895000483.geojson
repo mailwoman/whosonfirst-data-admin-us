@@ -1,0 +1,80 @@
+{
+  "id": 9895000483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.28195665708007,30.76630485037105,-88.28195665708007,30.76630485037105",
+    "geom:latitude":30.766305,
+    "geom:longitude":-88.281957,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143245: name \"Churchill Downs\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143245"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143245: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143245"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143245: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143245"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085585 (Mobile).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085585 (Mobile), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Churchill Downs"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143245
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c3bb4edea6d096e250f9112b3b6601f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":9895000483,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000483,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Churchill Downs",
+    "wof:parent_id":102085585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.28195665708007,
+    30.76630485037105,
+    -88.28195665708007,
+    30.76630485037105
+],
+  "geometry": {"coordinates":[-88.28195665708007,30.76630485037105],"type":"Point"}
+}

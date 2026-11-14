@@ -1,0 +1,82 @@
+{
+  "id": 9895001429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.71998446454079,39.39172400817343,-85.71998446454079,39.39172400817343",
+    "geom:latitude":39.391724,
+    "geom:longitude":-85.719984,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 435013: name \"Geneva\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/435013"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 435013: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/435013"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 435013: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/435013"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404501547 (Noble Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404501547 (Noble Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Geneva"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102086435,
+        102191575,
+        404501547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":435013
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f4aa9f4b129df6ba39f715fe2b29f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086435,
+            "localadmin_id":404501547,
+            "locality_id":9895001429,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895001429,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Geneva",
+    "wof:parent_id":404501547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.71998446454079,
+    39.39172400817343,
+    -85.71998446454079,
+    39.39172400817343
+],
+  "geometry": {"coordinates":[-85.71998446454079,39.39172400817343],"type":"Point"}
+}

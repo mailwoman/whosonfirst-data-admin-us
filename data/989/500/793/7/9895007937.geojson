@@ -1,0 +1,80 @@
+{
+  "id": 9895007937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.72625323713505,26.15905714969951,-81.72625323713505,26.15905714969951",
+    "geom:latitude":26.159057,
+    "geom:longitude":-81.726253,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806003: name \"Berkshire Lakes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806003"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806003: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806003"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806003: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806003"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085853 (Collier).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085853 (Collier), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Berkshire Lakes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102085853,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806003
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fbce8c6c1dc63c95832e226339315131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085853,
+            "locality_id":9895007937,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007937,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Berkshire Lakes",
+    "wof:parent_id":102085853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.72625323713505,
+    26.15905714969951,
+    -81.72625323713505,
+    26.15905714969951
+],
+  "geometry": {"coordinates":[-81.72625323713505,26.15905714969951],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003942,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.26107413503821,35.175910200177015,-85.26107413503821,35.175910200177015",
+    "geom:latitude":35.17591,
+    "geom:longitude":-85.261074,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312665: name \"Golden Oaks Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312665"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312665: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312665"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312665: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312665"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723303 (Falling Water).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723303 (Falling Water), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Golden Oaks Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723303,
+        102087185,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312665
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6eddfcad070525625b426093f02c8298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723303,
+            "neighbourhood_id":9895003942,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003942,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Golden Oaks Estates",
+    "wof:parent_id":101723303,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.26107413503821,
+    35.175910200177015,
+    -85.26107413503821,
+    35.175910200177015
+],
+  "geometry": {"coordinates":[-85.26107413503821,35.175910200177015],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895005537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.09609190844934,38.812065366091694,-77.09609190844934,38.812065366091694",
+    "geom:latitude":38.812065,
+    "geom:longitude":-77.096092,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1492860: name \"Delta\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1492860"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1492860: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1492860"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1492860: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1492860"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728581 (Alexandria).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728581 (Alexandria), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Delta"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728581,
+        102080641,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1492860
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b15efb3a43d38cb1ae7ade4051f87aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":9895005537,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005537,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Delta",
+    "wof:parent_id":101728581,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.09609190844934,
+    38.812065366091694,
+    -77.09609190844934,
+    38.812065366091694
+],
+  "geometry": {"coordinates":[-77.09609190844934,38.812065366091694],"type":"Point"}
+}

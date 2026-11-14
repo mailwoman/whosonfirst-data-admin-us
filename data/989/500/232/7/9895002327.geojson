@@ -1,0 +1,80 @@
+{
+  "id": 9895002327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.77441481072631,36.67058684985633,-103.77441481072631,36.67058684985633",
+    "geom:latitude":36.670587,
+    "geom:longitude":-103.774415,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 899651: name \"Grande\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/899651"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 899651: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/899651"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 899651: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/899651"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081585 (Union).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081585 (Union), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Grande"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":899651
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ddba0dfe94ef83850b8e2d51147d305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081585,
+            "locality_id":9895002327,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002327,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Grande",
+    "wof:parent_id":102081585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.77441481072631,
+    36.67058684985633,
+    -103.77441481072631,
+    36.67058684985633
+],
+  "geometry": {"coordinates":[-103.77441481072631,36.67058684985633],"type":"Point"}
+}

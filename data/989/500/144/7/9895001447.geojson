@@ -1,0 +1,82 @@
+{
+  "id": 9895001447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.1002595053116,38.499788922029296,-86.1002595053116,38.499788922029296",
+    "geom:latitude":38.499789,
+    "geom:longitude":-86.10026,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 443457: name \"Shorts Corner\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/443457"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 443457: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/443457"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 443457: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/443457"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404502089 (Pierce Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404502089 (Pierce Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shorts Corner"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102086237,
+        102191575,
+        404502089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":443457
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0de5b4d274698ea97f2649fdc9e55a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086237,
+            "localadmin_id":404502089,
+            "locality_id":9895001447,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895001447,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Shorts Corner",
+    "wof:parent_id":404502089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.1002595053116,
+    38.499788922029296,
+    -86.1002595053116,
+    38.499788922029296
+],
+  "geometry": {"coordinates":[-86.1002595053116,38.499788922029296],"type":"Point"}
+}

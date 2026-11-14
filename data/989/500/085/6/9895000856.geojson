@@ -1,0 +1,82 @@
+{
+  "id": 9895000856,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.49139845588033,33.16818119421548,-87.49139845588033,33.16818119421548",
+    "geom:latitude":33.168181,
+    "geom:longitude":-87.491398,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157849: name \"Monte Vista\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157849"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157849: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157849"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157849: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157849"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914453 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914453 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Monte Vista"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914453,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":157849
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e01f41ccb3583de35b678e17358aac28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85914453,
+            "neighbourhood_id":9895000856,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000856,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Monte Vista",
+    "wof:parent_id":85914453,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.49139845588033,
+    33.16818119421548,
+    -87.49139845588033,
+    33.16818119421548
+],
+  "geometry": {"coordinates":[-87.49139845588033,33.16818119421548],"type":"Point"}
+}

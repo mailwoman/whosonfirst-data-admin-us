@@ -1,0 +1,80 @@
+{
+  "id": 9895005920,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-123.00421744407926,41.74180509527456,-123.00421744407926,41.74180509527456",
+    "geom:latitude":41.741805,
+    "geom:longitude":-123.004217,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659610: name \"Scott Bar\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659610"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659610: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659610"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659610: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659610"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081669 (Siskiyou).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081669 (Siskiyou), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Scott Bar"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102081669,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1659610
+    },
+    "wof:country":"US",
+    "wof:geomhash":"37e901b5cea6cbda3d1cfa70e54802de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081669,
+            "locality_id":9895005920,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005920,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Scott Bar",
+    "wof:parent_id":102081669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.00421744407926,
+    41.74180509527456,
+    -123.00421744407926,
+    41.74180509527456
+],
+  "geometry": {"coordinates":[-123.00421744407926,41.74180509527456],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895004978,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.98634282787494,41.28661608787585,-111.98634282787494,41.28661608787585",
+    "geom:latitude":41.286616,
+    "geom:longitude":-111.986343,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453397: name \"Hunting Creek\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453397"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453397: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453397"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453397: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453397"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728041 (Harrisville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728041 (Harrisville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hunting Creek"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728041,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453397
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb88683171ed9dcd84dc3ec9f58d02f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728041,
+            "neighbourhood_id":9895004978,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004978,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Hunting Creek",
+    "wof:parent_id":101728041,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.98634282787494,
+    41.28661608787585,
+    -111.98634282787494,
+    41.28661608787585
+],
+  "geometry": {"coordinates":[-111.98634282787494,41.28661608787585],"type":"Point"}
+}

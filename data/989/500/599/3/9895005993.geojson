@@ -1,0 +1,80 @@
+{
+  "id": 9895005993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.22085324416297,34.124176778595356,-116.22085324416297,34.124176778595356",
+    "geom:latitude":34.124177,
+    "geom:longitude":-116.220853,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661190: name \"Panorama Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661190"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661190: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661190"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661190: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661190"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085395 (San Bernardino).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085395 (San Bernardino), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Panorama Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661190
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c220cce69ae57ec10a9b4d33b594289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":9895005993,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005993,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Panorama Heights",
+    "wof:parent_id":102085395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.22085324416297,
+    34.124176778595356,
+    -116.22085324416297,
+    34.124176778595356
+],
+  "geometry": {"coordinates":[-116.22085324416297,34.124176778595356],"type":"Point"}
+}

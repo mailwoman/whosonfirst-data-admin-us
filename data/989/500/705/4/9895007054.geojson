@@ -1,0 +1,84 @@
+{
+  "id": 9895007054,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.53787988672931,40.67504544032393,-89.53787988672931,40.67504544032393",
+    "geom:latitude":40.675045,
+    "geom:longitude":-89.53788,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1839839: name \"Fondulac Plaza Shopping Center\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1839839"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1839839: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1839839"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1839839: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1839839"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940233 (East Peoria).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940233 (East Peoria), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fondulac Plaza Shopping Center"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940233,
+        102083515,
+        102191575,
+        404499001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1839839
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7440fd12ee2a9457c8586aebabe6bc4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083515,
+            "localadmin_id":404499001,
+            "locality_id":85940233,
+            "neighbourhood_id":9895007054,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007054,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Fondulac Plaza Shopping Center",
+    "wof:parent_id":85940233,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.53787988672931,
+    40.67504544032393,
+    -89.53787988672931,
+    40.67504544032393
+],
+  "geometry": {"coordinates":[-89.53787988672931,40.67504544032393],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003484,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.66180454318086,34.55011386872434,-82.66180454318086,34.55011386872434",
+    "geom:latitude":34.550114,
+    "geom:longitude":-82.661805,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234012: name \"Anderson Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234012"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234012: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234012"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234012: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234012"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720807 (Anderson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720807 (Anderson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Anderson Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720807,
+        102085401,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1234012
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a12250af57335e83d214c89cb39131a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085401,
+            "locality_id":101720807,
+            "neighbourhood_id":9895003484,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003484,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Anderson Village",
+    "wof:parent_id":101720807,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.66180454318086,
+    34.55011386872434,
+    -82.66180454318086,
+    34.55011386872434
+],
+  "geometry": {"coordinates":[-82.66180454318086,34.55011386872434],"type":"Point"}
+}

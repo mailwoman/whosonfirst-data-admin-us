@@ -1,0 +1,82 @@
+{
+  "id": 9895007603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.35850337049851,27.86180515516804,-82.35850337049851,27.86180515516804",
+    "geom:latitude":27.861805,
+    "geom:longitude":-82.358503,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2482361: name \"Eagle Watch\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2482361"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2482361: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2482361"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2482361: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2482361"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933823 (Gibsonton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933823 (Gibsonton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Eagle Watch"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933823,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2482361
+    },
+    "wof:country":"US",
+    "wof:geomhash":"491ee2d4adf4aca653a29d627a71395f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85933823,
+            "neighbourhood_id":9895007603,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007603,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Eagle Watch",
+    "wof:parent_id":85933823,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.35850337049851,
+    27.86180515516804,
+    -82.35850337049851,
+    27.86180515516804
+],
+  "geometry": {"coordinates":[-82.35850337049851,27.86180515516804],"type":"Point"}
+}

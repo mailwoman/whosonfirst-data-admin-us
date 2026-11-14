@@ -1,0 +1,82 @@
+{
+  "id": 9895000343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.34997659979261,32.50930739596218,-86.34997659979261,32.50930739596218",
+    "geom:latitude":32.509307,
+    "geom:longitude":-86.349977,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137150: name \"Broadmoor\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137150"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137150: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137150"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137150: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137150"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913981 (Millbrook).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913981 (Millbrook), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Broadmoor"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913981,
+        102085631,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":137150
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de10b7f5485235d40b88f94addbf01d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085631,
+            "locality_id":85913981,
+            "neighbourhood_id":9895000343,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000343,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Broadmoor",
+    "wof:parent_id":85913981,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.34997659979261,
+    32.50930739596218,
+    -86.34997659979261,
+    32.50930739596218
+],
+  "geometry": {"coordinates":[-86.34997659979261,32.50930739596218],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895002441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.29715752532421,44.432847699949534,-75.29715752532421,44.432847699949534",
+    "geom:latitude":44.432848,
+    "geom:longitude":-75.297158,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 976517: name \"Kents Corners\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/976517"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 976517: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/976517"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 976517: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/976517"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404523147 (Hermon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404523147 (Hermon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kents Corners"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102082379,
+        102191575,
+        404523147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":976517
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61414927eb9e4f6cf2ac180f36d7d2a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082379,
+            "localadmin_id":404523147,
+            "locality_id":9895002441,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002441,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Kents Corners",
+    "wof:parent_id":404523147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.29715752532421,
+    44.432847699949534,
+    -75.29715752532421,
+    44.432847699949534
+],
+  "geometry": {"coordinates":[-75.29715752532421,44.432847699949534],"type":"Point"}
+}

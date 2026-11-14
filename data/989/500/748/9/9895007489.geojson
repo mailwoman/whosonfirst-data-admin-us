@@ -1,0 +1,82 @@
+{
+  "id": 9895007489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.11806574493482,39.79611751764139,-105.11806574493482,39.79611751764139",
+    "geom:latitude":39.796118,
+    "geom:longitude":-105.118066,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354764: name \"Skyline Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354764"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354764: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354764"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354764: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354764"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929333 (Arvada).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929333 (Arvada), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Skyline Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929333,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354764
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc2f115a529fb587b9d6611d2bec9ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":85929333,
+            "neighbourhood_id":9895007489,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007489,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Skyline Estates",
+    "wof:parent_id":85929333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.11806574493482,
+    39.79611751764139,
+    -105.11806574493482,
+    39.79611751764139
+],
+  "geometry": {"coordinates":[-105.11806574493482,39.79611751764139],"type":"Point"}
+}

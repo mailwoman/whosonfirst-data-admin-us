@@ -1,0 +1,82 @@
+{
+  "id": 9895002418,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.03492247030152,43.19396574847375,-76.03492247030152,43.19396574847375",
+    "geom:latitude":43.193966,
+    "geom:longitude":-76.034922,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 968351: name \"Valentines Beach\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/968351"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 968351: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/968351"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 968351: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/968351"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404522821 (Cicero).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404522821 (Cicero), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Valentines Beach"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102082351,
+        102191575,
+        404522821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":968351
+    },
+    "wof:country":"US",
+    "wof:geomhash":"753447c20a77bf9ea147309a742b3d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082351,
+            "localadmin_id":404522821,
+            "locality_id":9895002418,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002418,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Valentines Beach",
+    "wof:parent_id":404522821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.03492247030152,
+    43.19396574847375,
+    -76.03492247030152,
+    43.19396574847375
+],
+  "geometry": {"coordinates":[-76.03492247030152,43.19396574847375],"type":"Point"}
+}

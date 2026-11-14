@@ -1,0 +1,80 @@
+{
+  "id": 9895003187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.69301027773786,36.98340530984089,-94.69301027773786,36.98340530984089",
+    "geom:latitude":36.983405,
+    "geom:longitude":-94.69301,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1100413: name \"Five Mile\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1100413"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1100413: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1100413"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1100413: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1100413"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083323 (Ottawa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083323 (Ottawa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Five Mile"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688585,
+        102083323,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1100413
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e402d5826a2af1ff8d0df41d06eda8a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083323,
+            "locality_id":9895003187,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":9895003187,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Five Mile",
+    "wof:parent_id":102083323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.69301027773786,
+    36.98340530984089,
+    -94.69301027773786,
+    36.98340530984089
+],
+  "geometry": {"coordinates":[-94.69301027773786,36.98340530984089],"type":"Point"}
+}

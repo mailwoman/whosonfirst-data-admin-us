@@ -1,0 +1,80 @@
+{
+  "id": 9895003191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.92861597643291,35.38399705984806,-95.92861597643291,35.38399705984806",
+    "geom:latitude":35.383997,
+    "geom:longitude":-95.928616,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1100809: name \"Salem\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1100809"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1100809: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1100809"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1100809: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1100809"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083977 (Okmulgee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083977 (Okmulgee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Salem"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688585,
+        102083977,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1100809
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b1ea9a8e78ae2661af9a790cf64a599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083977,
+            "locality_id":9895003191,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":9895003191,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Salem",
+    "wof:parent_id":102083977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.92861597643291,
+    35.38399705984806,
+    -95.92861597643291,
+    35.38399705984806
+],
+  "geometry": {"coordinates":[-95.92861597643291,35.38399705984806],"type":"Point"}
+}

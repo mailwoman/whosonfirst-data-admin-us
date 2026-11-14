@@ -1,0 +1,80 @@
+{
+  "id": 9895002124,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.04175662026707,32.38764963359026,-90.04175662026707,32.38764963359026",
+    "geom:latitude":32.38765,
+    "geom:longitude":-90.041757,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687097: name \"Timber Lakes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687097"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687097: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687097"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687097: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687097"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084869 (Rankin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084869 (Rankin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Timber Lakes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102084869,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":687097
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e6255a3a34eb8c8fb0dc2809fc62ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":9895002124,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002124,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Timber Lakes",
+    "wof:parent_id":102084869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.04175662026707,
+    32.38764963359026,
+    -90.04175662026707,
+    32.38764963359026
+],
+  "geometry": {"coordinates":[-90.04175662026707,32.38764963359026],"type":"Point"}
+}

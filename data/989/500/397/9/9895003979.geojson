@@ -1,0 +1,82 @@
+{
+  "id": 9895003979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.78611572290592,35.96756929703182,-86.78611572290592,35.96756929703182",
+    "geom:latitude":35.967569,
+    "geom:longitude":-86.786116,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312924: name \"Crockett Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312924"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312924: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312924"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312924: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312924"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723097 (Brentwood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723097 (Brentwood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Crockett Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723097,
+        102086337,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312924
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30758bf451827c6fa646ecf0e2e21e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723097,
+            "neighbourhood_id":9895003979,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003979,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Crockett Hills",
+    "wof:parent_id":101723097,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.78611572290592,
+    35.96756929703182,
+    -86.78611572290592,
+    35.96756929703182
+],
+  "geometry": {"coordinates":[-86.78611572290592,35.96756929703182],"type":"Point"}
+}

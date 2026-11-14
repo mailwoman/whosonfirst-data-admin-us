@@ -1,0 +1,82 @@
+{
+  "id": 9895003337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.060900386714,39.74619753298137,-80.060900386714,39.74619753298137",
+    "geom:latitude":39.746198,
+    "geom:longitude":-80.0609,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197602: name \"Fairchance\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197602"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197602: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197602"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197602: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197602"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404483269 (Perry Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404483269 (Perry Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fairchance"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080975,
+        102191575,
+        404483269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1197602
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea6faaf090c8dd54d155b17ab944d222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080975,
+            "localadmin_id":404483269,
+            "locality_id":9895003337,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003337,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Fairchance",
+    "wof:parent_id":404483269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.060900386714,
+    39.74619753298137,
+    -80.060900386714,
+    39.74619753298137
+],
+  "geometry": {"coordinates":[-80.060900386714,39.74619753298137],"type":"Point"}
+}

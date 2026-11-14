@@ -1,0 +1,82 @@
+{
+  "id": 9895001100,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.259775398109,25.692328863980006,-80.259775398109,25.692328863980006",
+    "geom:latitude":25.692329,
+    "geom:longitude":-80.259775,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 297297: name \"Gables Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/297297"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 297297: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/297297"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 297297: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/297297"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933643 (Coral Gables).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933643 (Coral Gables), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gables Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933643,
+        102085771,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":297297
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc4e951c8252d04be0c3c1276e54c049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933643,
+            "neighbourhood_id":9895001100,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001100,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Gables Estates",
+    "wof:parent_id":85933643,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.259775398109,
+    25.692328863980006,
+    -80.259775398109,
+    25.692328863980006
+],
+  "geometry": {"coordinates":[-80.259775398109,25.692328863980006],"type":"Point"}
+}

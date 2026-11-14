@@ -1,0 +1,82 @@
+{
+  "id": 9895000548,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.67086779640312,34.73342911091572,-87.67086779640312,34.73342911091572",
+    "geom:latitude":34.733429,
+    "geom:longitude":-87.670868,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146244: name \"Highland Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146244"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146244: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146244"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146244: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146244"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85897481 (Muscle Shoals).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85897481 (Muscle Shoals), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Highland Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85897481,
+        102085625,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146244
+    },
+    "wof:country":"US",
+    "wof:geomhash":"028633d974365760b8f8ab06cd1b6e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085625,
+            "locality_id":85897481,
+            "neighbourhood_id":9895000548,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000548,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Highland Park",
+    "wof:parent_id":85897481,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.67086779640312,
+    34.73342911091572,
+    -87.67086779640312,
+    34.73342911091572
+],
+  "geometry": {"coordinates":[-87.67086779640312,34.73342911091572],"type":"Point"}
+}

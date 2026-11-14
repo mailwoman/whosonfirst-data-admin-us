@@ -1,0 +1,80 @@
+{
+  "id": 9895008008,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.04861634179635,35.70461827140214,-106.04861634179635,35.70461827140214",
+    "geom:latitude":35.704618,
+    "geom:longitude":-106.048616,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806764: name \"Las Campanas\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806764"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806764: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806764"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806764: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806764"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081571 (Santa Fe).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081571 (Santa Fe), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Las Campanas"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081571,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806764
+    },
+    "wof:country":"US",
+    "wof:geomhash":"347d127d42454d3a39c38a3f5713f4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081571,
+            "locality_id":9895008008,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895008008,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Las Campanas",
+    "wof:parent_id":102081571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.04861634179635,
+    35.70461827140214,
+    -106.04861634179635,
+    35.70461827140214
+],
+  "geometry": {"coordinates":[-106.04861634179635,35.70461827140214],"type":"Point"}
+}

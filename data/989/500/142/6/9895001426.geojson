@@ -1,0 +1,84 @@
+{
+  "id": 9895001426,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.6572031047789,40.1089386441054,-85.6572031047789,40.1089386441054",
+    "geom:latitude":40.108939,
+    "geom:longitude":-85.657203,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 433946: name \"Eastern Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/433946"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 433946: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/433946"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 433946: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/433946"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85942059 (Anderson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85942059 (Anderson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Eastern Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        85942059,
+        102086407,
+        102191575,
+        404502009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":433946
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3bcab05a60b53c80774c4586a6443056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086407,
+            "localadmin_id":404502009,
+            "locality_id":85942059,
+            "neighbourhood_id":9895001426,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895001426,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Eastern Heights",
+    "wof:parent_id":85942059,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.6572031047789,
+    40.1089386441054,
+    -85.6572031047789,
+    40.1089386441054
+],
+  "geometry": {"coordinates":[-85.6572031047789,40.1089386441054],"type":"Point"}
+}

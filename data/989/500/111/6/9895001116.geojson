@@ -1,0 +1,80 @@
+{
+  "id": 9895001116,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.66680554341929,32.551838835255694,-82.66680554341929,32.551838835255694",
+    "geom:latitude":32.551839,
+    "geom:longitude":-82.666806,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 322643: name \"Scott\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/322643"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 322643: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/322643"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 322643: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/322643"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082927 (Johnson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082927 (Johnson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Scott"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102082927,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":322643
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26eb12f17b06090658a4925f3cabd721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082927,
+            "locality_id":9895001116,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001116,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Scott",
+    "wof:parent_id":102082927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.66680554341929,
+    32.551838835255694,
+    -82.66680554341929,
+    32.551838835255694
+],
+  "geometry": {"coordinates":[-82.66680554341929,32.551838835255694],"type":"Point"}
+}

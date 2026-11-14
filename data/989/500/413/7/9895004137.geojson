@@ -1,0 +1,82 @@
+{
+  "id": 9895004137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-163.1658560613675,62.05305502331301,-163.1658560613675,62.05305502331301",
+    "geom:latitude":62.053055,
+    "geom:longitude":-163.165856,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1398261: name \"Saint Marys\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1398261"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1398261: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1398261"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1398261: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1398261"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85915973 (St. Mary's).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85915973 (St. Mary's), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Marys"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85915973,
+        102081013,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1398261
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3b240add39ec60ff918280a939de06e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081013,
+            "locality_id":85915973,
+            "neighbourhood_id":9895004137,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004137,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Saint Marys",
+    "wof:parent_id":85915973,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -163.1658560613675,
+    62.05305502331301,
+    -163.1658560613675,
+    62.05305502331301
+],
+  "geometry": {"coordinates":[-163.1658560613675,62.05305502331301],"type":"Point"}
+}

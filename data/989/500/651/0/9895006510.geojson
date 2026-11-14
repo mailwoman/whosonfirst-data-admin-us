@@ -1,0 +1,82 @@
+{
+  "id": 9895006510,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.81416107846542,33.425114474151755,-86.81416107846542,33.425114474151755",
+    "geom:latitude":33.425114,
+    "geom:longitude":-86.814161,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700152: name \"Chimney Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700152"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700152: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700152"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700152: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700152"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914483 (Vestavia Hills).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914483 (Vestavia Hills), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Chimney Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914483,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700152
+    },
+    "wof:country":"US",
+    "wof:geomhash":"507f965de2300fdd2f3eddec97034ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914483,
+            "neighbourhood_id":9895006510,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006510,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Chimney Hills",
+    "wof:parent_id":85914483,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.81416107846542,
+    33.425114474151755,
+    -86.81416107846542,
+    33.425114474151755
+],
+  "geometry": {"coordinates":[-86.81416107846542,33.425114474151755],"type":"Point"}
+}

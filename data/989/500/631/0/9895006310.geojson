@@ -1,0 +1,82 @@
+{
+  "id": 9895006310,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.16354375480374,39.32768964596129,-120.16354375480374,39.32768964596129",
+    "geom:latitude":39.32769,
+    "geom:longitude":-120.163544,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682946: name \"Ponderosa Fairway Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682946"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682946: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682946"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682946: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682946"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921971 (Truckee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921971 (Truckee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ponderosa Fairway Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85921971,
+        102085391,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1682946
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff1c8379d6f76d23b32ee27a1be87128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085391,
+            "locality_id":85921971,
+            "neighbourhood_id":9895006310,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006310,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Ponderosa Fairway Estates",
+    "wof:parent_id":85921971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.16354375480374,
+    39.32768964596129,
+    -120.16354375480374,
+    39.32768964596129
+],
+  "geometry": {"coordinates":[-120.16354375480374,39.32768964596129],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895005867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.90856320655469,38.801573142910684,-120.90856320655469,38.801573142910684",
+    "geom:latitude":38.801573,
+    "geom:longitude":-120.908563,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1656142: name \"Lotus\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1656142"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1656142: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1656142"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1656142: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1656142"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85924037 (Coloma).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85924037 (Coloma), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lotus"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85924037,
+        102086953,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1656142
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15fcc1a23e2555c94d83c1aedcbfa175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086953,
+            "locality_id":85924037,
+            "neighbourhood_id":9895005867,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005867,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Lotus",
+    "wof:parent_id":85924037,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.90856320655469,
+    38.801573142910684,
+    -120.90856320655469,
+    38.801573142910684
+],
+  "geometry": {"coordinates":[-120.90856320655469,38.801573142910684],"type":"Point"}
+}

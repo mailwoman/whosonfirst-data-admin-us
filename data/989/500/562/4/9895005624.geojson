@@ -1,0 +1,80 @@
+{
+  "id": 9895005624,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.31545557179953,48.73122817538932,-122.31545557179953,48.73122817538932",
+    "geom:latitude":48.731228,
+    "geom:longitude":-122.315456,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511347: name \"Sunnyside\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511347"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511347: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511347"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511347: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511347"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085363 (Whatcom).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085363 (Whatcom), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunnyside"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102085363,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1511347
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1ce79e317624e962a15fded55301597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":9895005624,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005624,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Sunnyside",
+    "wof:parent_id":102085363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.31545557179953,
+    48.73122817538932,
+    -122.31545557179953,
+    48.73122817538932
+],
+  "geometry": {"coordinates":[-122.31545557179953,48.73122817538932],"type":"Point"}
+}

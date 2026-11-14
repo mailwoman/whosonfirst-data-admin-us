@@ -1,0 +1,82 @@
+{
+  "id": 9895000211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.23738896005582,33.580600626457176,-112.23738896005582,33.580600626457176",
+    "geom:latitude":33.580601,
+    "geom:longitude":-112.237389,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 9318: name \"Peoria\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/9318"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 9318: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/9318"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 9318: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/9318"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85917343 (Peoria).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85917343 (Peoria), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Peoria"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688719,
+        85917343,
+        102087421,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":9318
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d9b7980cb37eb8877fc354445a91999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917343,
+            "neighbourhood_id":9895000211,
+            "region_id":85688719
+        }
+    ],
+    "wof:id":9895000211,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Peoria",
+    "wof:parent_id":85917343,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.23738896005582,
+    33.580600626457176,
+    -112.23738896005582,
+    33.580600626457176
+],
+  "geometry": {"coordinates":[-112.23738896005582,33.580600626457176],"type":"Point"}
+}

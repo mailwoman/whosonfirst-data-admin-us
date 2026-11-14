@@ -1,0 +1,82 @@
+{
+  "id": 9895001876,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.88188556114392,39.34761971869512,-75.88188556114392,39.34761971869512",
+    "geom:latitude":39.34762,
+    "geom:longitude":-75.881886,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 591850: name \"Dogwood Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/591850"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 591850: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/591850"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 591850: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/591850"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949261 (Galena).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949261 (Galena), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dogwood Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949261,
+        102081207,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":591850
+    },
+    "wof:country":"US",
+    "wof:geomhash":"737624618fb0ff636540390b73f173ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081207,
+            "locality_id":85949261,
+            "neighbourhood_id":9895001876,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001876,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Dogwood Village",
+    "wof:parent_id":85949261,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.88188556114392,
+    39.34761971869512,
+    -75.88188556114392,
+    39.34761971869512
+],
+  "geometry": {"coordinates":[-75.88188556114392,39.34761971869512],"type":"Point"}
+}

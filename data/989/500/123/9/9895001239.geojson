@@ -1,0 +1,82 @@
+{
+  "id": 9895001239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.40071902270135,33.86234679526615,-83.40071902270135,33.86234679526615",
+    "geom:latitude":33.862347,
+    "geom:longitude":-83.400719,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 356713: name \"Crossties\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/356713"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 356713: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/356713"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 356713: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/356713"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936087 (Watkinsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936087 (Watkinsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Crossties"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936087,
+        102082913,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":356713
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d1197bbc2ee9b556b7d8fd419a3c86f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082913,
+            "locality_id":85936087,
+            "neighbourhood_id":9895001239,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001239,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Crossties",
+    "wof:parent_id":85936087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.40071902270135,
+    33.86234679526615,
+    -83.40071902270135,
+    33.86234679526615
+],
+  "geometry": {"coordinates":[-83.40071902270135,33.86234679526615],"type":"Point"}
+}

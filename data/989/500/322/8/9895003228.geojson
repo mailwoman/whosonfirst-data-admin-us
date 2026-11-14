@@ -1,0 +1,80 @@
+{
+  "id": 9895003228,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.83872987969384,45.863730867842335,-122.83872987969384,45.863730867842335",
+    "geom:latitude":45.863731,
+    "geom:longitude":-122.83873,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1163989: name \"Columbia Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1163989"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1163989: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1163989"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1163989: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1163989"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081625 (Columbia).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081625 (Columbia), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Columbia Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688513,
+        102081625,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1163989
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b66f3949269e138b693e704372d7f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081625,
+            "locality_id":9895003228,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":9895003228,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Columbia Heights",
+    "wof:parent_id":102081625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.83872987969384,
+    45.863730867842335,
+    -122.83872987969384,
+    45.863730867842335
+],
+  "geometry": {"coordinates":[-122.83872987969384,45.863730867842335],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.14115622947084,33.15421021410829,-117.14115622947084,33.15421021410829",
+    "geom:latitude":33.15421,
+    "geom:longitude":-117.141156,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701242: name \"Richland\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701242"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701242: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701242"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701242: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701242"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922223 (San Marcos).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922223 (San Marcos), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Richland"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922223,
+        102083569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1701242
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f903b41e83b66371d90539df3a01c337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922223,
+            "neighbourhood_id":9895006545,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006545,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Richland",
+    "wof:parent_id":85922223,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.14115622947084,
+    33.15421021410829,
+    -117.14115622947084,
+    33.15421021410829
+],
+  "geometry": {"coordinates":[-117.14115622947084,33.15421021410829],"type":"Point"}
+}

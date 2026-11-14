@@ -1,0 +1,80 @@
+{
+  "id": 9895005623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.72431301873594,47.02399094297762,-122.72431301873594,47.02399094297762",
+    "geom:latitude":47.023991,
+    "geom:longitude":-122.724313,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511288: name \"Saint Clair\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511288"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511288: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511288"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511288: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511288"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085357 (Thurston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085357 (Thurston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Clair"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102085357,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1511288
+    },
+    "wof:country":"US",
+    "wof:geomhash":"adb4e4ce5ad5185fcdd0ebf1c2aeb337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":9895005623,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005623,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Saint Clair",
+    "wof:parent_id":102085357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.72431301873594,
+    47.02399094297762,
+    -122.72431301873594,
+    47.02399094297762
+],
+  "geometry": {"coordinates":[-122.72431301873594,47.02399094297762],"type":"Point"}
+}

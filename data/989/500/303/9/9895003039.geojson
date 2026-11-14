@@ -1,0 +1,82 @@
+{
+  "id": 9895003039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.93590947187847,35.26625838626197,-80.93590947187847,35.26625838626197",
+    "geom:latitude":35.266258,
+    "geom:longitude":-80.935909,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005873: name \"Town Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005873"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005873: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005873"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005873: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005873"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981333 (Charlotte).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981333 (Charlotte), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Town Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981333,
+        102080981,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005873
+    },
+    "wof:country":"US",
+    "wof:geomhash":"420c09f5d72dfef771ca3c6d1cbbcfbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":9895003039,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003039,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Town Park",
+    "wof:parent_id":85981333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.93590947187847,
+    35.26625838626197,
+    -80.93590947187847,
+    35.26625838626197
+],
+  "geometry": {"coordinates":[-80.93590947187847,35.26625838626197],"type":"Point"}
+}

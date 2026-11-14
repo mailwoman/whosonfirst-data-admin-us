@@ -1,0 +1,80 @@
+{
+  "id": 9895001534,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.38498489234073,37.20560965943544,-86.38498489234073,37.20560965943544",
+    "geom:latitude":37.20561,
+    "geom:longitude":-86.384985,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 509027: name \"Segal\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/509027"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 509027: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/509027"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 509027: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/509027"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084521 (Edmonson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084521 (Edmonson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Segal"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688641,
+        102084521,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":509027
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6957f82a20ac7dc381df38c8e377931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084521,
+            "locality_id":9895001534,
+            "region_id":85688641
+        }
+    ],
+    "wof:id":9895001534,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Segal",
+    "wof:parent_id":102084521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.38498489234073,
+    37.20560965943544,
+    -86.38498489234073,
+    37.20560965943544
+],
+  "geometry": {"coordinates":[-86.38498489234073,37.20560965943544],"type":"Point"}
+}

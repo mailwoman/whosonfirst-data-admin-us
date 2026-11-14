@@ -1,0 +1,80 @@
+{
+  "id": 9895001838,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.82438435758662,39.59650917074208,-75.82438435758662,39.59650917074208",
+    "geom:latitude":39.596509,
+    "geom:longitude":-75.824384,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589309: name \"Holly Hall Terrace\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589309"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589309: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589309"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589309: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589309"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082183 (Cecil).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082183 (Cecil), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Holly Hall Terrace"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082183,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":589309
+    },
+    "wof:country":"US",
+    "wof:geomhash":"23673f768a0d2c2ee5ec6460e09f54d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "locality_id":9895001838,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001838,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Holly Hall Terrace",
+    "wof:parent_id":102082183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.82438435758662,
+    39.59650917074208,
+    -75.82438435758662,
+    39.59650917074208
+],
+  "geometry": {"coordinates":[-75.82438435758662,39.59650917074208],"type":"Point"}
+}

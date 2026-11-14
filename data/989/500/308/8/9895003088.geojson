@@ -1,0 +1,80 @@
+{
+  "id": 9895003088,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.50873544109842,35.327068040368715,-82.50873544109842,35.327068040368715",
+    "geom:latitude":35.327068,
+    "geom:longitude":-82.508735,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017601: name \"Green Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017601"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017601: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017601"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017601: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017601"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080983 (Henderson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080983 (Henderson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Green Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080983,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1017601
+    },
+    "wof:country":"US",
+    "wof:geomhash":"88b2c236c2441151a2a2da250df155f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080983,
+            "locality_id":9895003088,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003088,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Green Acres",
+    "wof:parent_id":102080983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.50873544109842,
+    35.327068040368715,
+    -82.50873544109842,
+    35.327068040368715
+],
+  "geometry": {"coordinates":[-82.50873544109842,35.327068040368715],"type":"Point"}
+}

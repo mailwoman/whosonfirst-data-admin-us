@@ -1,0 +1,84 @@
+{
+  "id": 9895007780,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.68250630742168,38.42306267904714,-90.68250630742168,38.42306267904714",
+    "geom:latitude":38.423063,
+    "geom:longitude":-90.682506,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2630712: name \"La Barque Creek\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2630712"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2630712: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2630712"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2630712: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2630712"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85972529 (LaBarque Creek).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85972529 (LaBarque Creek), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "La Barque Creek"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        85972529,
+        102080787,
+        102191575,
+        404518219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2630712
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85bb002dc89efcc6e22d61dc513848c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518219,
+            "locality_id":85972529,
+            "neighbourhood_id":9895007780,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895007780,
+    "wof:lastmodified":1794681145,
+    "wof:name":"La Barque Creek",
+    "wof:parent_id":85972529,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.68250630742168,
+    38.42306267904714,
+    -90.68250630742168,
+    38.42306267904714
+],
+  "geometry": {"coordinates":[-90.68250630742168,38.42306267904714],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895005443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.92911907707796,41.00939436157065,-111.92911907707796,41.00939436157065",
+    "geom:latitude":41.009394,
+    "geom:longitude":-111.929119,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454166: name \"Oakridge Highlands\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454166"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454166: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454166"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454166: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454166"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727899 (Kaysville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727899 (Kaysville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oakridge Highlands"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727899,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1454166
+    },
+    "wof:country":"US",
+    "wof:geomhash":"27efdae95e0091baf68db0bd6fe3b66d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727899,
+            "neighbourhood_id":9895005443,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005443,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Oakridge Highlands",
+    "wof:parent_id":101727899,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.92911907707796,
+    41.00939436157065,
+    -111.92911907707796,
+    41.00939436157065
+],
+  "geometry": {"coordinates":[-111.92911907707796,41.00939436157065],"type":"Point"}
+}

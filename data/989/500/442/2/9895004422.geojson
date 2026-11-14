@@ -1,0 +1,82 @@
+{
+  "id": 9895004422,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.94911573789751,40.68745272421913,-111.94911573789751,40.68745272421913",
+    "geom:latitude":40.687453,
+    "geom:longitude":-111.949116,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451808: name \"Smout\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451808"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451808: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451808"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451808: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451808"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728063 (West Valley City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728063 (West Valley City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Smout"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728063,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451808
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f3e1638e17f6d9823a8da894956f2d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":9895004422,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004422,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Smout",
+    "wof:parent_id":101728063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.94911573789751,
+    40.68745272421913,
+    -111.94911573789751,
+    40.68745272421913
+],
+  "geometry": {"coordinates":[-111.94911573789751,40.68745272421913],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.0058936699534,41.10590269467734,-80.0058936699534,41.10590269467734",
+    "geom:latitude":41.105903,
+    "geom:longitude":-80.005894,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1192478: name \"Forestville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1192478"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1192478: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1192478"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1192478: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1192478"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404484989 (Mercer Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404484989 (Mercer Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Forestville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102083677,
+        102191575,
+        404484989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1192478
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8629aed0da267268b5b68587e55732b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083677,
+            "localadmin_id":404484989,
+            "locality_id":9895003309,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003309,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Forestville",
+    "wof:parent_id":404484989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.0058936699534,
+    41.10590269467734,
+    -80.0058936699534,
+    41.10590269467734
+],
+  "geometry": {"coordinates":[-80.0058936699534,41.10590269467734],"type":"Point"}
+}

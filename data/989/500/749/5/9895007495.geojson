@@ -1,0 +1,82 @@
+{
+  "id": 9895007495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.08612123571494,39.77889531748529,-105.08612123571494,39.77889531748529",
+    "geom:latitude":39.778895,
+    "geom:longitude":-105.086121,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354897: name \"Hillcrest Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354897"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354897: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354897"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354897: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354897"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929737 (Wheat Ridge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929737 (Wheat Ridge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hillcrest Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929737,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354897
+    },
+    "wof:country":"US",
+    "wof:geomhash":"97b4437f17d6c5527a0df372d2f3b56e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":85929737,
+            "neighbourhood_id":9895007495,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007495,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Hillcrest Heights",
+    "wof:parent_id":85929737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.08612123571494,
+    39.77889531748529,
+    -105.08612123571494,
+    39.77889531748529
+],
+  "geometry": {"coordinates":[-105.08612123571494,39.77889531748529],"type":"Point"}
+}

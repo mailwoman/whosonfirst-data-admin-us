@@ -1,0 +1,82 @@
+{
+  "id": 9895003805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.05274082310213,35.959241069331625,-85.05274082310213,35.959241069331625",
+    "geom:latitude":35.959241,
+    "geom:longitude":-85.052741,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1302939: name \"Port Haven\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1302939"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1302939: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1302939"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1302939: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1302939"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723119 (Crossville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723119 (Crossville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Port Haven"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723119,
+        102086961,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1302939
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18fa66c025af1c899900f47c7285559c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":9895003805,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003805,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Port Haven",
+    "wof:parent_id":101723119,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.05274082310213,
+    35.959241069331625,
+    -85.05274082310213,
+    35.959241069331625
+],
+  "geometry": {"coordinates":[-85.05274082310213,35.959241069331625],"type":"Point"}
+}

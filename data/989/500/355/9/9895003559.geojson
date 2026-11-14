@@ -1,0 +1,80 @@
+{
+  "id": 9895003559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.10257087736161,34.39460532813013,-80.10257087736161,34.39460532813013",
+    "geom:latitude":34.394605,
+    "geom:longitude":-80.102571,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241291: name \"Fox Hollow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241291"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241291: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241291"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241291: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241291"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085743 (Darlington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085743 (Darlington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fox Hollow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085743,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1241291
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b62bd14d08cba6985a16dfe3de7d0107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085743,
+            "locality_id":9895003559,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003559,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Fox Hollow",
+    "wof:parent_id":102085743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.10257087736161,
+    34.39460532813013,
+    -80.10257087736161,
+    34.39460532813013
+],
+  "geometry": {"coordinates":[-80.10257087736161,34.39460532813013],"type":"Point"}
+}

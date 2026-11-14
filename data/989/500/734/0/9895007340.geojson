@@ -1,0 +1,84 @@
+{
+  "id": 9895007340,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.36195060180452,46.488897510749915,-87.36195060180452,46.488897510749915",
+    "geom:latitude":46.488898,
+    "geom:longitude":-87.361951,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2130638: name \"Silver Creek Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2130638"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2130638: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2130638"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2130638: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2130638"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85952411 (Harvey).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85952411 (Harvey), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Silver Creek Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688599,
+        85952411,
+        102083039,
+        102191575,
+        404506203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2130638
+    },
+    "wof:country":"US",
+    "wof:geomhash":"166fd859b5d32595358d6678f4978450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083039,
+            "localadmin_id":404506203,
+            "locality_id":85952411,
+            "neighbourhood_id":9895007340,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":9895007340,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Silver Creek Estates",
+    "wof:parent_id":85952411,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.36195060180452,
+    46.488897510749915,
+    -87.36195060180452,
+    46.488897510749915
+],
+  "geometry": {"coordinates":[-87.36195060180452,46.488897510749915],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001008,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.30010719197196,33.99098684628909,-118.30010719197196,33.99098684628909",
+    "geom:latitude":33.990987,
+    "geom:longitude":-118.300107,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 251545: name \"Wildasin\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/251545"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 251545: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/251545"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 251545: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/251545"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923517 (Los Angeles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923517 (Los Angeles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wildasin"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923517,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":251545
+    },
+    "wof:country":"US",
+    "wof:geomhash":"daf31ac33c02c41deda7f783d7173365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":9895001008,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001008,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Wildasin",
+    "wof:parent_id":85923517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.30010719197196,
+    33.99098684628909,
+    -118.30010719197196,
+    33.99098684628909
+],
+  "geometry": {"coordinates":[-118.30010719197196,33.99098684628909],"type":"Point"}
+}

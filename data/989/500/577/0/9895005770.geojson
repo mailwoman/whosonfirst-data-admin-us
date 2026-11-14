@@ -1,0 +1,80 @@
+{
+  "id": 9895005770,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.74534533806603,30.282421796262035,-89.74534533806603,30.282421796262035",
+    "geom:latitude":30.282422,
+    "geom:longitude":-89.745345,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1629013: name \"Robert Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1629013"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1629013: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1629013"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1629013: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1629013"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082453 (St. Tammany).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082453 (St. Tammany), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Robert Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        102082453,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1629013
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fdc2e5cc4085b48efca112394b5b9794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":9895005770,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895005770,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Robert Park",
+    "wof:parent_id":102082453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.74534533806603,
+    30.282421796262035,
+    -89.74534533806603,
+    30.282421796262035
+],
+  "geometry": {"coordinates":[-89.74534533806603,30.282421796262035],"type":"Point"}
+}

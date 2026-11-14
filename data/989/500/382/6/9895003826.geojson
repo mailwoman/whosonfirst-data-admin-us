@@ -1,0 +1,82 @@
+{
+  "id": 9895003826,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.6526601571192,36.56260628964689,-82.6526601571192,36.56260628964689",
+    "geom:latitude":36.562606,
+    "geom:longitude":-82.65266,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1308506: name \"Ponderosa Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1308506"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1308506: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1308506"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1308506: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1308506"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722785 (Mount Carmel).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722785 (Mount Carmel), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ponderosa Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722785,
+        102087101,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1308506
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f89e5af2df4bdee85dc6ed9bea1a4ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087101,
+            "locality_id":101722785,
+            "neighbourhood_id":9895003826,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003826,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Ponderosa Estates",
+    "wof:parent_id":101722785,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.6526601571192,
+    36.56260628964689,
+    -82.6526601571192,
+    36.56260628964689
+],
+  "geometry": {"coordinates":[-82.6526601571192,36.56260628964689],"type":"Point"}
+}

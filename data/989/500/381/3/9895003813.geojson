@@ -1,0 +1,82 @@
+{
+  "id": 9895003813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.25236183934524,36.56955510744088,-82.25236183934524,36.56955510744088",
+    "geom:latitude":36.569555,
+    "geom:longitude":-82.252362,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1303337: name \"Mount Area Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1303337"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1303337: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1303337"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1303337: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1303337"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723281 (Walnut Hill).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723281 (Walnut Hill), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mount Area Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723281,
+        102086471,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1303337
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ddca4ed7b760c109ca01d2a7313460db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101723281,
+            "neighbourhood_id":9895003813,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003813,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Mount Area Estates",
+    "wof:parent_id":101723281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.25236183934524,
+    36.56955510744088,
+    -82.25236183934524,
+    36.56955510744088
+],
+  "geometry": {"coordinates":[-82.25236183934524,36.56955510744088],"type":"Point"}
+}

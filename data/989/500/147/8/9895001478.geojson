@@ -1,0 +1,80 @@
+{
+  "id": 9895001478,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.28930652918555,42.95054891495074,-91.28930652918555,42.95054891495074",
+    "geom:latitude":42.950549,
+    "geom:longitude":-91.289307,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 459439: name \"National\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/459439"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 459439: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/459439"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 459439: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/459439"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086275 (Clayton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086275 (Clayton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "National"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688713,
+        102086275,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":459439
+    },
+    "wof:country":"US",
+    "wof:geomhash":"99fbb317135d251835ece4be5d83c802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086275,
+            "locality_id":9895001478,
+            "region_id":85688713
+        }
+    ],
+    "wof:id":9895001478,
+    "wof:lastmodified":1794681126,
+    "wof:name":"National",
+    "wof:parent_id":102086275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.28930652918555,
+    42.95054891495074,
+    -91.28930652918555,
+    42.95054891495074
+],
+  "geometry": {"coordinates":[-91.28930652918555,42.95054891495074],"type":"Point"}
+}

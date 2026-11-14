@@ -1,0 +1,80 @@
+{
+  "id": 9895005577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.91222067960607,37.238467258030965,-81.91222067960607,37.238467258030965",
+    "geom:latitude":37.238467,
+    "geom:longitude":-81.912221,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1497478: name \"Pilgrims Knob\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1497478"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1497478: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1497478"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1497478: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1497478"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084907 (Buchanan).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084907 (Buchanan), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pilgrims Knob"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102084907,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1497478
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e9f3575f17ba0bdd010e503945dda851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084907,
+            "locality_id":9895005577,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005577,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Pilgrims Knob",
+    "wof:parent_id":102084907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.91222067960607,
+    37.238467258030965,
+    -81.91222067960607,
+    37.238467258030965
+],
+  "geometry": {"coordinates":[-81.91222067960607,37.238467258030965],"type":"Point"}
+}

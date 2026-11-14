@@ -1,0 +1,80 @@
+{
+  "id": 9895002119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.00258890966285,32.37570553245794,-90.00258890966285,32.37570553245794",
+    "geom:latitude":32.375706,
+    "geom:longitude":-90.002589,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687074: name \"Pelahatchie Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687074"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687074: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687074"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687074: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687074"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084869 (Rankin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084869 (Rankin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pelahatchie Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102084869,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":687074
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ddb06d366ca669739b3cac46457e38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":9895002119,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002119,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Pelahatchie Woods",
+    "wof:parent_id":102084869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.00258890966285,
+    32.37570553245794,
+    -90.00258890966285,
+    32.37570553245794
+],
+  "geometry": {"coordinates":[-90.00258890966285,32.37570553245794],"type":"Point"}
+}

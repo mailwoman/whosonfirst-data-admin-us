@@ -1,0 +1,84 @@
+{
+  "id": 9895007564,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.20525929325181,38.651746845407224,-90.20525929325181,38.651746845407224",
+    "geom:latitude":38.651747,
+    "geom:longitude":-90.205259,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2469207: name \"Saint Louis Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2469207"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2469207: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2469207"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2469207: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2469207"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85971343 (St. Louis).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85971343 (St. Louis), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Louis Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        85971343,
+        102080791,
+        102191575,
+        404518053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2469207
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4819553c9b77928b7a74df764c56884d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":9895007564,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895007564,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Saint Louis Place",
+    "wof:parent_id":85971343,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.20525929325181,
+    38.651746845407224,
+    -90.20525929325181,
+    38.651746845407224
+],
+  "geometry": {"coordinates":[-90.20525929325181,38.651746845407224],"type":"Point"}
+}

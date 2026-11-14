@@ -1,0 +1,80 @@
+{
+  "id": 9895002213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.48230847909967,34.35983475954889,-89.48230847909967,34.35983475954889",
+    "geom:latitude":34.359835,
+    "geom:longitude":-89.482308,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 704819: name \"Brittany Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/704819"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 704819: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/704819"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 704819: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/704819"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083165 (Lafayette).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083165 (Lafayette), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brittany Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102083165,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":704819
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26d9765d7b912e842f21e7f4fbfe640d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":9895002213,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002213,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Brittany Woods",
+    "wof:parent_id":102083165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.48230847909967,
+    34.35983475954889,
+    -89.48230847909967,
+    34.35983475954889
+],
+  "geometry": {"coordinates":[-89.48230847909967,34.35983475954889],"type":"Point"}
+}

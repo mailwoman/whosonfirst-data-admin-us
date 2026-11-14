@@ -1,0 +1,82 @@
+{
+  "id": 9895003045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.7747955243371,35.27570469425494,-80.7747955243371,35.27570469425494",
+    "geom:latitude":35.275705,
+    "geom:longitude":-80.774796,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005889: name \"Hidden Valley Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005889"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005889: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005889"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005889: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005889"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981333 (Charlotte).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981333 (Charlotte), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hidden Valley Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981333,
+        102080981,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005889
+    },
+    "wof:country":"US",
+    "wof:geomhash":"665c73e3acdec98db59942c937e6fdd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":9895003045,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003045,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Hidden Valley Estates",
+    "wof:parent_id":85981333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.7747955243371,
+    35.27570469425494,
+    -80.7747955243371,
+    35.27570469425494
+],
+  "geometry": {"coordinates":[-80.7747955243371,35.27570469425494],"type":"Point"}
+}

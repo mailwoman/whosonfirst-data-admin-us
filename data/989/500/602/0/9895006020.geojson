@@ -1,0 +1,82 @@
+{
+  "id": 9895006020,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.3081120434757,34.23501162992907,-117.3081120434757,34.23501162992907",
+    "geom:latitude":34.235012,
+    "geom:longitude":-117.308112,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661619: name \"Valley View Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661619"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661619: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661619"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661619: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661619"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85928667 (Crestline).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85928667 (Crestline), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Valley View Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85928667,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661619
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f668d40580f408ac889657e9439bbaa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85928667,
+            "neighbourhood_id":9895006020,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006020,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Valley View Park",
+    "wof:parent_id":85928667,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.3081120434757,
+    34.23501162992907,
+    -117.3081120434757,
+    34.23501162992907
+],
+  "geometry": {"coordinates":[-117.3081120434757,34.23501162992907],"type":"Point"}
+}

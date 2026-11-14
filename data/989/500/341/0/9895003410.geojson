@@ -1,0 +1,80 @@
+{
+  "id": 9895003410,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.73427784624559,34.088475403811074,-81.73427784624559,34.088475403811074",
+    "geom:latitude":34.088475,
+    "geom:longitude":-81.734278,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1227916: name \"Hickory Grove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1227916"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1227916: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1227916"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1227916: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1227916"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085689 (Saluda).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085689 (Saluda), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hickory Grove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085689,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1227916
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f269f1f6b18b82980eb1fa50cbe84cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085689,
+            "locality_id":9895003410,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003410,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Hickory Grove",
+    "wof:parent_id":102085689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.73427784624559,
+    34.088475403811074,
+    -81.73427784624559,
+    34.088475403811074
+],
+  "geometry": {"coordinates":[-81.73427784624559,34.088475403811074],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003784,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.43132504759825,36.042028512191145,-84.43132504759825,36.042028512191145",
+    "geom:latitude":36.042029,
+    "geom:longitude":-84.431325,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1281283: name \"Corbin Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1281283"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1281283: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1281283"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1281283: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1281283"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723221 (Coalfield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723221 (Coalfield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Corbin Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723221,
+        102086367,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1281283
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5bf78b3371011298d4d0dba0569bc30c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086367,
+            "locality_id":101723221,
+            "neighbourhood_id":9895003784,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003784,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Corbin Hill",
+    "wof:parent_id":101723221,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.43132504759825,
+    36.042028512191145,
+    -84.43132504759825,
+    36.042028512191145
+],
+  "geometry": {"coordinates":[-84.43132504759825,36.042028512191145],"type":"Point"}
+}

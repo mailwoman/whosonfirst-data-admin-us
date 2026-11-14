@@ -1,0 +1,82 @@
+{
+  "id": 9895005696,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.1606566798364,43.51333879652908,-88.1606566798364,43.51333879652908",
+    "geom:latitude":43.513339,
+    "geom:longitude":-88.160657,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1573372: name \"Saint Michaels\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1573372"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1573372: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1573372"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1573372: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1573372"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404494361 (Farmington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404494361 (Farmington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Michaels"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688517,
+        102081745,
+        102191575,
+        404494361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1573372
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aeec2e607e205424adbd0ab7608b8210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081745,
+            "localadmin_id":404494361,
+            "locality_id":9895005696,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":9895005696,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Saint Michaels",
+    "wof:parent_id":404494361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.1606566798364,
+    43.51333879652908,
+    -88.1606566798364,
+    43.51333879652908
+],
+  "geometry": {"coordinates":[-88.1606566798364,43.51333879652908],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895004097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.83968024622565,30.26799338403113,-95.83968024622565,30.26799338403113",
+    "geom:latitude":30.267993,
+    "geom:longitude":-95.83968,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1379167: name \"Todd\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1379167"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1379167: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1379167"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1379167: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1379167"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101725313 (Todd Mission).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101725313 (Todd Mission), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Todd"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        101725313,
+        102081945,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1379167
+    },
+    "wof:country":"US",
+    "wof:geomhash":"171870cd22a1daa24a19ac76a9f4c7c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081945,
+            "locality_id":101725313,
+            "neighbourhood_id":9895004097,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004097,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Todd",
+    "wof:parent_id":101725313,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.83968024622565,
+    30.26799338403113,
+    -95.83968024622565,
+    30.26799338403113
+],
+  "geometry": {"coordinates":[-95.83968024622565,30.26799338403113],"type":"Point"}
+}

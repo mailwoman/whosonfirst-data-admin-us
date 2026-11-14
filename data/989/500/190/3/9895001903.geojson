@@ -1,0 +1,82 @@
+{
+  "id": 9895001903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.0963317828243,38.58207095491701,-76.0963317828243,38.58207095491701",
+    "geom:latitude":38.582071,
+    "geom:longitude":-76.096332,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 596538: name \"Garden Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/596538"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 596538: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/596538"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 596538: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/596538"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950071 (Algonquin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950071 (Algonquin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Garden Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85950071,
+        102082723,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":596538
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a40b067af2e590dff3dde8b9e8e8b654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082723,
+            "locality_id":85950071,
+            "neighbourhood_id":9895001903,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001903,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Garden Estates",
+    "wof:parent_id":85950071,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.0963317828243,
+    38.58207095491701,
+    -76.0963317828243,
+    38.58207095491701
+],
+  "geometry": {"coordinates":[-76.0963317828243,38.58207095491701],"type":"Point"}
+}

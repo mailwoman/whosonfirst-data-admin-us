@@ -1,0 +1,82 @@
+{
+  "id": 9895003686,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.03481763451505,34.0007170095113,-81.03481763451505,34.0007170095113",
+    "geom:latitude":34.000717,
+    "geom:longitude":-81.034818,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1245051: name \"Columbia\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1245051"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1245051: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1245051"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1245051: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1245051"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720793 (Columbia).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720793 (Columbia), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Columbia"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720793,
+        102085405,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1245051
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b69fd6788d0bd8138efcb58314dd4e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":9895003686,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003686,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Columbia",
+    "wof:parent_id":101720793,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.03481763451505,
+    34.0007170095113,
+    -81.03481763451505,
+    34.0007170095113
+],
+  "geometry": {"coordinates":[-81.03481763451505,34.0007170095113],"type":"Point"}
+}

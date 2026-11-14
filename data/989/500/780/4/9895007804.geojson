@@ -1,0 +1,80 @@
+{
+  "id": 9895007804,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.48775770189438,29.39452327845274,-90.48775770189438,29.39452327845274",
+    "geom:latitude":29.394523,
+    "geom:longitude":-90.487758,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2786933: name \"Isle de Jean Charles\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2786933"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2786933: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2786933"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2786933: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2786933"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081923 (Terrebonne).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081923 (Terrebonne), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Isle de Jean Charles"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        102081923,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2786933
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab19fd8e98742179259ce992929eb21d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081923,
+            "locality_id":9895007804,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895007804,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Isle de Jean Charles",
+    "wof:parent_id":102081923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.48775770189438,
+    29.39452327845274,
+    -90.48775770189438,
+    29.39452327845274
+],
+  "geometry": {"coordinates":[-90.48775770189438,29.39452327845274],"type":"Point"}
+}

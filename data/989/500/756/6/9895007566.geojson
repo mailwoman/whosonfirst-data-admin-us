@@ -1,0 +1,82 @@
+{
+  "id": 9895007566,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.54280705210216,29.85400520901623,-95.54280705210216,29.85400520901623",
+    "geom:latitude":29.854005,
+    "geom:longitude":-95.542807,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2471742: name \"Carver Dale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2471742"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2471742: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2471742"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2471742: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2471742"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101725629 (Houston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101725629 (Houston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Carver Dale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        101725629,
+        102081111,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2471742
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f05469319d89c9cc6412e72f124c8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081111,
+            "locality_id":101725629,
+            "neighbourhood_id":9895007566,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007566,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Carver Dale",
+    "wof:parent_id":101725629,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.54280705210216,
+    29.85400520901623,
+    -95.54280705210216,
+    29.85400520901623
+],
+  "geometry": {"coordinates":[-95.54280705210216,29.85400520901623],"type":"Point"}
+}

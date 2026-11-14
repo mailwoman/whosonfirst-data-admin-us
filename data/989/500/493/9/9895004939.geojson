@@ -1,0 +1,80 @@
+{
+  "id": 9895004939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.06328772619382,41.16439436853212,-112.06328772619382,41.16439436853212",
+    "geom:latitude":41.164394,
+    "geom:longitude":-112.063288,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453332: name \"Wheatridge Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453332"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453332: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453332"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453332: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453332"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083539 (Weber).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083539 (Weber), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wheatridge Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453332
+    },
+    "wof:country":"US",
+    "wof:geomhash":"962dbb8f0ae53500340754373d17477c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":9895004939,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004939,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Wheatridge Estates",
+    "wof:parent_id":102083539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.06328772619382,
+    41.16439436853212,
+    -112.06328772619382,
+    41.16439436853212
+],
+  "geometry": {"coordinates":[-112.06328772619382,41.16439436853212],"type":"Point"}
+}

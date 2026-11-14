@@ -1,0 +1,80 @@
+{
+  "id": 9895001890,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.5027453657252,39.50983662785477,-76.5027453657252,39.50983662785477",
+    "geom:latitude":39.509837,
+    "geom:longitude":-76.502745,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 593567: name \"Carroll Manor Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/593567"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 593567: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/593567"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 593567: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/593567"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082193 (Baltimore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082193 (Baltimore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Carroll Manor Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082193,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":593567
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dab39971c0984989fcaf63bc89a31275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":9895001890,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001890,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Carroll Manor Ridge",
+    "wof:parent_id":102082193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.5027453657252,
+    39.50983662785477,
+    -76.5027453657252,
+    39.50983662785477
+],
+  "geometry": {"coordinates":[-76.5027453657252,39.50983662785477],"type":"Point"}
+}

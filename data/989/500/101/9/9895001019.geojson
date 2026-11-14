@@ -1,0 +1,80 @@
+{
+  "id": 9895001019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.29759178610725,35.096639366273955,-118.29759178610725,35.096639366273955",
+    "geom:latitude":35.096639,
+    "geom:longitude":-118.297592,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252867: name \"Cameron\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252867"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252867: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252867"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252867: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252867"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081727 (Kern).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081727 (Kern), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cameron"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102081727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":252867
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b951edb425a243ddde32f8bbdc7f7ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081727,
+            "locality_id":9895001019,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001019,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Cameron",
+    "wof:parent_id":102081727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.29759178610725,
+    35.096639366273955,
+    -118.29759178610725,
+    35.096639366273955
+],
+  "geometry": {"coordinates":[-118.29759178610725,35.096639366273955],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.19726858190334,33.70919267520281,-117.19726858190334,33.70919267520281",
+    "geom:latitude":33.709193,
+    "geom:longitude":-117.197269,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661522: name \"Sun City\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661522"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661522: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661522"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661522: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661522"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923327 (Menifee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923327 (Menifee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sun City"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923327,
+        102086221,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661522
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e215caa2a491a9b52ea078f02a4a1a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923327,
+            "neighbourhood_id":9895006009,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006009,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Sun City",
+    "wof:parent_id":85923327,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.19726858190334,
+    33.70919267520281,
+    -117.19726858190334,
+    33.70919267520281
+],
+  "geometry": {"coordinates":[-117.19726858190334,33.70919267520281],"type":"Point"}
+}

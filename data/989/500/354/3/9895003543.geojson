@@ -1,0 +1,80 @@
+{
+  "id": 9895003543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.88173290797445,34.329327721135805,-79.88173290797445,34.329327721135805",
+    "geom:latitude":34.329328,
+    "geom:longitude":-79.881733,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1240998: name \"Spring Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1240998"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1240998: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1240998"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1240998: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1240998"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085743 (Darlington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085743 (Darlington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Spring Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085743,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1240998
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d786d9d8c6b6cac875bd29330344be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085743,
+            "locality_id":9895003543,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003543,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Spring Acres",
+    "wof:parent_id":102085743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.88173290797445,
+    34.329327721135805,
+    -79.88173290797445,
+    34.329327721135805
+],
+  "geometry": {"coordinates":[-79.88173290797445,34.329327721135805],"type":"Point"}
+}

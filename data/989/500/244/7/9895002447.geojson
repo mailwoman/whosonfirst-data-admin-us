@@ -1,0 +1,80 @@
+{
+  "id": 9895002447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.34891401006782,35.52043389782277,-79.34891401006782,35.52043389782277",
+    "geom:latitude":35.520434,
+    "geom:longitude":-79.348914,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 982646: name \"Carbonton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/982646"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 982646: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/982646"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 982646: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/982646"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080923 (Chatham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080923 (Chatham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Carbonton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080923,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":982646
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1841d5278ce7947d10283f63e331803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080923,
+            "locality_id":9895002447,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002447,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Carbonton",
+    "wof:parent_id":102080923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.34891401006782,
+    35.52043389782277,
+    -79.34891401006782,
+    35.52043389782277
+],
+  "geometry": {"coordinates":[-79.34891401006782,35.52043389782277],"type":"Point"}
+}

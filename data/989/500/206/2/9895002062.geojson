@@ -1,0 +1,82 @@
+{
+  "id": 9895002062,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.68839236009653,34.37844309654532,-88.68839236009653,34.37844309654532",
+    "geom:latitude":34.378443,
+    "geom:longitude":-88.688392,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684503: name \"Knights Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684503"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684503: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684503"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684503: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684503"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969765 (Saltillo).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969765 (Saltillo), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Knights Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969765,
+        102083171,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":684503
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d1240026535f90383af4f7f895f4416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969765,
+            "neighbourhood_id":9895002062,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002062,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Knights Acres",
+    "wof:parent_id":85969765,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.68839236009653,
+    34.37844309654532,
+    -88.68839236009653,
+    34.37844309654532
+],
+  "geometry": {"coordinates":[-88.68839236009653,34.37844309654532],"type":"Point"}
+}

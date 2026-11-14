@@ -1,0 +1,80 @@
+{
+  "id": 9895001658,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.12261202162209,30.52241660046919,-91.12261202162209,30.52241660046919",
+    "geom:latitude":30.522417,
+    "geom:longitude":-91.122612,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558981: name \"Forest Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558981"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558981: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558981"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558981: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558981"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087229 (East Baton Rouge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087229 (East Baton Rouge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Forest Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        102087229,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":558981
+    },
+    "wof:country":"US",
+    "wof:geomhash":"acc145c8904ba0c718b6b30a599b686e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":9895001658,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001658,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Forest Park",
+    "wof:parent_id":102087229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.12261202162209,
+    30.52241660046919,
+    -91.12261202162209,
+    30.52241660046919
+],
+  "geometry": {"coordinates":[-91.12261202162209,30.52241660046919],"type":"Point"}
+}

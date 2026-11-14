@@ -1,0 +1,82 @@
+{
+  "id": 9895006946,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.53610026952747,37.53376568806247,-77.53610026952747,37.53376568806247",
+    "geom:latitude":37.533766,
+    "geom:longitude":-77.5361,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1780693: name \"Chippenham Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1780693"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1780693: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1780693"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1780693: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1780693"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728675 (Richmond).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728675 (Richmond), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Chippenham Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728675,
+        102085959,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1780693
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7eeb47881b855d2613d7f89672fa1084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":9895006946,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006946,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Chippenham Village",
+    "wof:parent_id":101728675,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.53610026952747,
+    37.53376568806247,
+    -77.53610026952747,
+    37.53376568806247
+],
+  "geometry": {"coordinates":[-77.53610026952747,37.53376568806247],"type":"Point"}
+}

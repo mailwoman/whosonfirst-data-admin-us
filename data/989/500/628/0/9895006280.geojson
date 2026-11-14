@@ -1,0 +1,82 @@
+{
+  "id": 9895006280,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.54273632928673,38.69901516346401,-76.54273632928673,38.69901516346401",
+    "geom:latitude":38.699015,
+    "geom:longitude":-76.542736,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676311: name \"Stinnett\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676311"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676311: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676311"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676311: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676311"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949251 (Chesapeake Beach).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949251 (Chesapeake Beach), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stinnett"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949251,
+        102084241,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1676311
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da75fa5df4b13a9cfca597f6711bf7d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949251,
+            "neighbourhood_id":9895006280,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006280,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Stinnett",
+    "wof:parent_id":85949251,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.54273632928673,
+    38.69901516346401,
+    -76.54273632928673,
+    38.69901516346401
+],
+  "geometry": {"coordinates":[-76.54273632928673,38.69901516346401],"type":"Point"}
+}

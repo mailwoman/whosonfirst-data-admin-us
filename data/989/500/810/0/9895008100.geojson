@@ -1,0 +1,80 @@
+{
+  "id": 9895008100,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.95704533308268,30.102143697692046,-81.95704533308268,30.102143697692046",
+    "geom:latitude":30.102144,
+    "geom:longitude":-81.957045,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2831385: name \"Clay Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2831385"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2831385: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2831385"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2831385: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2831385"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085797 (Clay).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085797 (Clay), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Clay Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102085797,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2831385
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48a0c0ce75af9daa8058bfaf92128369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085797,
+            "locality_id":9895008100,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895008100,
+    "wof:lastmodified":1794681146,
+    "wof:name":"Clay Hill",
+    "wof:parent_id":102085797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.95704533308268,
+    30.102143697692046,
+    -81.95704533308268,
+    30.102143697692046
+],
+  "geometry": {"coordinates":[-81.95704533308268,30.102143697692046],"type":"Point"}
+}

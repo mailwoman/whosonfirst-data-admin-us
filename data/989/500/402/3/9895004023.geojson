@@ -1,0 +1,80 @@
+{
+  "id": 9895004023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.78667109824549,35.583966120290484,-86.78667109824549,35.583966120290484",
+    "geom:latitude":35.583966,
+    "geom:longitude":-86.786671,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1315516: name \"Milltown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1315516"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1315516: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1315516"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1315516: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1315516"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087115 (Marshall).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087115 (Marshall), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Milltown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102087115,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1315516
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5613581a9b3da256d2a85c4bed9f833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087115,
+            "locality_id":9895004023,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895004023,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Milltown",
+    "wof:parent_id":102087115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.78667109824549,
+    35.583966120290484,
+    -86.78667109824549,
+    35.583966120290484
+],
+  "geometry": {"coordinates":[-86.78667109824549,35.583966120290484],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895003877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.372398346982,36.19232018579823,-83.372398346982,36.19232018579823",
+    "geom:latitude":36.19232,
+    "geom:longitude":-83.372398,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311598: name \"Brentwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311598"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311598: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311598"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311598: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311598"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086447 (Hamblen).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086447 (Hamblen), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brentwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086447,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1311598
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d1d09336fd2402e630a69371ecd0c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":9895003877,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003877,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Brentwood",
+    "wof:parent_id":102086447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.372398346982,
+    36.19232018579823,
+    -83.372398346982,
+    36.19232018579823
+],
+  "geometry": {"coordinates":[-83.372398346982,36.19232018579823],"type":"Point"}
+}

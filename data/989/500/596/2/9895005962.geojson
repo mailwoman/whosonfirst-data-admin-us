@@ -1,0 +1,82 @@
+{
+  "id": 9895005962,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.39009262424996,34.19973186356332,-118.39009262424996,34.19973186356332",
+    "geom:latitude":34.199732,
+    "geom:longitude":-118.390093,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660740: name \"Hewitt\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660740"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660740: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660740"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660740: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660740"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923517 (Los Angeles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923517 (Los Angeles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hewitt"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923517,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1660740
+    },
+    "wof:country":"US",
+    "wof:geomhash":"75727710b4333ca19d65ae717cedecd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":9895005962,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005962,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Hewitt",
+    "wof:parent_id":85923517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.39009262424996,
+    34.19973186356332,
+    -118.39009262424996,
+    34.19973186356332
+],
+  "geometry": {"coordinates":[-118.39009262424996,34.19973186356332],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001394,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.07591528795568,37.57089090323167,-89.07591528795568,37.57089090323167",
+    "geom:latitude":37.570891,
+    "geom:longitude":-89.075915,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 420667: name \"Wayside\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/420667"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 420667: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/420667"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 420667: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/420667"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404499113 (Lick Creek).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404499113 (Lick Creek), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wayside"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102080823,
+        102191575,
+        404499113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":420667
+    },
+    "wof:country":"US",
+    "wof:geomhash":"344cdd291c5ad63d5b8bffa68086577e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080823,
+            "localadmin_id":404499113,
+            "locality_id":9895001394,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001394,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Wayside",
+    "wof:parent_id":404499113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.07591528795568,
+    37.57089090323167,
+    -89.07591528795568,
+    37.57089090323167
+],
+  "geometry": {"coordinates":[-89.07591528795568,37.57089090323167],"type":"Point"}
+}

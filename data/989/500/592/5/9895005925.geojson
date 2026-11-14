@@ -1,0 +1,82 @@
+{
+  "id": 9895005925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.15353792930037,39.143245530827706,-120.15353792930037,39.143245530827706",
+    "geom:latitude":39.143246,
+    "geom:longitude":-120.153538,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659923: name \"Sunnyside\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659923"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659923: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659923"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659923: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659923"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85924187 (Sunnyside-Tahoe City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85924187 (Sunnyside-Tahoe City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunnyside"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85924187,
+        102080863,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1659923
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ccb51ece28e94e2585a6e14fe0168c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080863,
+            "locality_id":85924187,
+            "neighbourhood_id":9895005925,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005925,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Sunnyside",
+    "wof:parent_id":85924187,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.15353792930037,
+    39.143245530827706,
+    -120.15353792930037,
+    39.143245530827706
+],
+  "geometry": {"coordinates":[-120.15353792930037,39.143245530827706],"type":"Point"}
+}

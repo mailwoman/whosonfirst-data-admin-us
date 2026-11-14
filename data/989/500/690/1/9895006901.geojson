@@ -1,0 +1,84 @@
+{
+  "id": 9895006901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.5797746192089,41.72670923046874,-87.5797746192089,41.72670923046874",
+    "geom:latitude":41.726709,
+    "geom:longitude":-87.579775,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1772633: name \"Stony Island Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1772633"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1772633: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1772633"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1772633: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1772633"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940195 (Chicago).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940195 (Chicago), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stony Island Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940195,
+        102084317,
+        102191575,
+        404496273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1772633
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ad5dff266b2dd7a9a3effd1d650fef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":9895006901,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895006901,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Stony Island Heights",
+    "wof:parent_id":85940195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.5797746192089,
+    41.72670923046874,
+    -87.5797746192089,
+    41.72670923046874
+],
+  "geometry": {"coordinates":[-87.5797746192089,41.72670923046874],"type":"Point"}
+}

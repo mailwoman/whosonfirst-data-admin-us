@@ -1,0 +1,82 @@
+{
+  "id": 9895006559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.56243474452548,33.59345089489029,-84.56243474452548,33.59345089489029",
+    "geom:latitude":33.593451,
+    "geom:longitude":-84.562435,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1704590: name \"Wellington\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1704590"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1704590: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1704590"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1704590: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1704590"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937167 (Union City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937167 (Union City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wellington"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85937167,
+        102083603,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1704590
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a48cd35b34b3d8c2669eb6a98a16ad3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937167,
+            "neighbourhood_id":9895006559,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006559,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Wellington",
+    "wof:parent_id":85937167,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.56243474452548,
+    33.59345089489029,
+    -84.56243474452548,
+    33.59345089489029
+],
+  "geometry": {"coordinates":[-84.56243474452548,33.59345089489029],"type":"Point"}
+}

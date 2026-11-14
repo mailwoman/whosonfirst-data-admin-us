@@ -1,0 +1,82 @@
+{
+  "id": 9895006230,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.28460319421626,33.96623212141385,-83.28460319421626,33.96623212141385",
+    "geom:latitude":33.966232,
+    "geom:longitude":-83.284603,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672927: name \"Winter Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672927"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672927: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672927"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672927: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672927"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936181 (Winterville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936181 (Winterville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Winter Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936181,
+        102081713,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1672927
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b1f0f6cb6bd0528ea1946433d75e2a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936181,
+            "neighbourhood_id":9895006230,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006230,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Winter Hills",
+    "wof:parent_id":85936181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.28460319421626,
+    33.96623212141385,
+    -83.28460319421626,
+    33.96623212141385
+],
+  "geometry": {"coordinates":[-83.28460319421626,33.96623212141385],"type":"Point"}
+}

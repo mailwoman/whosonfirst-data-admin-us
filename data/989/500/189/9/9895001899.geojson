@@ -1,0 +1,80 @@
+{
+  "id": 9895001899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.3163470768709,39.00623063372238,-76.3163470768709,39.00623063372238",
+    "geom:latitude":39.006231,
+    "geom:longitude":-76.316347,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 596138: name \"Bridge View\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/596138"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 596138: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/596138"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 596138: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/596138"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082721 (Queen Anne's).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082721 (Queen Anne's), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bridge View"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082721,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":596138
+    },
+    "wof:country":"US",
+    "wof:geomhash":"364f28611607c34a15657807adfc9b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":9895001899,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001899,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Bridge View",
+    "wof:parent_id":102082721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.3163470768709,
+    39.00623063372238,
+    -76.3163470768709,
+    39.00623063372238
+],
+  "geometry": {"coordinates":[-76.3163470768709,39.00623063372238],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.83407663800747,32.400161186789965,-93.83407663800747,32.400161186789965",
+    "geom:latitude":32.400161,
+    "geom:longitude":-93.834077,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 552116: name \"Elkins\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/552116"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 552116: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/552116"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 552116: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/552116"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85947819 (Shreveport).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85947819 (Shreveport), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Elkins"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85947819,
+        102087235,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":552116
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe625ee0761f9ea9dc54aa058fd32f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":9895001607,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001607,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Elkins",
+    "wof:parent_id":85947819,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.83407663800747,
+    32.400161186789965,
+    -93.83407663800747,
+    32.400161186789965
+],
+  "geometry": {"coordinates":[-93.83407663800747,32.400161186789965],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895001814,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.09831228871015,38.48179659921226,-77.09831228871015,38.48179659921226",
+    "geom:latitude":38.481797,
+    "geom:longitude":-77.098312,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 588107: name \"Welcome\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/588107"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 588107: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/588107"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 588107: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/588107"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081211 (Charles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081211 (Charles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Welcome"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102081211,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":588107
+    },
+    "wof:country":"US",
+    "wof:geomhash":"acae3f167505ff3c35cb77eed223009d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":9895001814,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001814,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Welcome",
+    "wof:parent_id":102081211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.09831228871015,
+    38.48179659921226,
+    -77.09831228871015,
+    38.48179659921226
+],
+  "geometry": {"coordinates":[-77.09831228871015,38.48179659921226],"type":"Point"}
+}

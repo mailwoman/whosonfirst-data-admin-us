@@ -1,0 +1,80 @@
+{
+  "id": 9895000223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.002627920273,33.63061039814564,-111.002627920273,33.63061039814564",
+    "geom:latitude":33.63061,
+    "geom:longitude":-111.002628,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 40884: name \"Roosevelt Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/40884"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 40884: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/40884"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 40884: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/40884"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081525 (Gila).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081525 (Gila), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Roosevelt Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688719,
+        102081525,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":40884
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5696c60b70f04edb6aace4772f0b6831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081525,
+            "locality_id":9895000223,
+            "region_id":85688719
+        }
+    ],
+    "wof:id":9895000223,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Roosevelt Estates",
+    "wof:parent_id":102081525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.002627920273,
+    33.63061039814564,
+    -111.002627920273,
+    33.63061039814564
+],
+  "geometry": {"coordinates":[-111.002627920273,33.63061039814564],"type":"Point"}
+}

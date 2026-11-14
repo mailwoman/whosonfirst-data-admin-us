@@ -1,0 +1,82 @@
+{
+  "id": 9895000510,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.21417613772778,30.751582749338457,-88.21417613772778,30.751582749338457",
+    "geom:latitude":30.751583,
+    "geom:longitude":-88.214176,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143673: name \"Pretty Branch Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143673"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143673: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143673"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143673: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143673"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913727 (Semmes).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913727 (Semmes), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pretty Branch Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913727,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143673
+    },
+    "wof:country":"US",
+    "wof:geomhash":"086af52cefe2ebe6e631095ce9eb7f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":85913727,
+            "neighbourhood_id":9895000510,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000510,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Pretty Branch Estates",
+    "wof:parent_id":85913727,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.21417613772778,
+    30.751582749338457,
+    -88.21417613772778,
+    30.751582749338457
+],
+  "geometry": {"coordinates":[-88.21417613772778,30.751582749338457],"type":"Point"}
+}

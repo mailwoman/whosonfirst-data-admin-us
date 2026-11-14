@@ -1,0 +1,80 @@
+{
+  "id": 9895001788,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.45964595364079,38.04235126732474,-75.45964595364079,38.04235126732474",
+    "geom:latitude":38.042351,
+    "geom:longitude":-75.459646,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 585488: name \"Little Millpond\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/585488"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 585488: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/585488"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 585488: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/585488"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081599 (Worcester).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081599 (Worcester), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Little Millpond"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102081599,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":585488
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cb495e20f7f54bf355cba9f52f601b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":9895001788,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001788,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Little Millpond",
+    "wof:parent_id":102081599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.45964595364079,
+    38.04235126732474,
+    -75.45964595364079,
+    38.04235126732474
+],
+  "geometry": {"coordinates":[-75.45964595364079,38.04235126732474],"type":"Point"}
+}

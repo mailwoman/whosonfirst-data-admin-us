@@ -1,0 +1,84 @@
+{
+  "id": 9895007069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.44179310692304,43.06389304651912,-89.44179310692304,43.06389304651912",
+    "geom:latitude":43.063893,
+    "geom:longitude":-89.441793,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1842618: name \"Pilgrim Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1842618"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1842618: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1842618"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1842618: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1842618"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101732721 (Madison).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101732721 (Madison), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pilgrim Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688517,
+        101732721,
+        102081795,
+        102191575,
+        404491669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1842618
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d39fc31c6b26e759d434ade17ea8a62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081795,
+            "localadmin_id":404491669,
+            "locality_id":101732721,
+            "neighbourhood_id":9895007069,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":9895007069,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Pilgrim Village",
+    "wof:parent_id":101732721,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.44179310692304,
+    43.06389304651912,
+    -89.44179310692304,
+    43.06389304651912
+],
+  "geometry": {"coordinates":[-89.44179310692304,43.06389304651912],"type":"Point"}
+}

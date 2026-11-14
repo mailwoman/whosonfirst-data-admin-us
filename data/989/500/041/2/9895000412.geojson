@@ -1,0 +1,82 @@
+{
+  "id": 9895000412,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.68336690585902,34.83481583069101,-87.68336690585902,34.83481583069101",
+    "geom:latitude":34.834816,
+    "geom:longitude":-87.683367,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142134: name \"Northwood Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142134"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142134: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142134"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142134: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142134"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914011 (Florence).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914011 (Florence), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Northwood Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914011,
+        102085527,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142134
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26242185b5dd46892f62cb5b76b75e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085527,
+            "locality_id":85914011,
+            "neighbourhood_id":9895000412,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000412,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Northwood Park",
+    "wof:parent_id":85914011,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.68336690585902,
+    34.83481583069101,
+    -87.68336690585902,
+    34.83481583069101
+],
+  "geometry": {"coordinates":[-87.68336690585902,34.83481583069101],"type":"Point"}
+}

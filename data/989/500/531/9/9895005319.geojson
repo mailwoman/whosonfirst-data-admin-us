@@ -1,0 +1,82 @@
+{
+  "id": 9895005319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.97078689254266,41.059116563855994,-111.97078689254266,41.059116563855994",
+    "geom:latitude":41.059117,
+    "geom:longitude":-111.970787,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453985: name \"Ellison\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453985"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453985: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453985"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453985: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453985"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727897 (Layton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727897 (Layton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ellison"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727897,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453985
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0feaca5026766f00f9173ac949f991de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":9895005319,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005319,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Ellison",
+    "wof:parent_id":101727897,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.97078689254266,
+    41.059116563855994,
+    -111.97078689254266,
+    41.059116563855994
+],
+  "geometry": {"coordinates":[-111.97078689254266,41.059116563855994],"type":"Point"}
+}

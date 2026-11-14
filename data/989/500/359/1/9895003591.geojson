@@ -1,0 +1,82 @@
+{
+  "id": 9895003591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.88176196583937,33.50793780656332,-80.88176196583937,33.50793780656332",
+    "geom:latitude":33.507938,
+    "geom:longitude":-80.881762,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242578: name \"Club Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242578"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242578: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242578"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242578: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242578"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720859 (Orangeburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720859 (Orangeburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Club Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720859,
+        102085413,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1242578
+    },
+    "wof:country":"US",
+    "wof:geomhash":"729f7bbf3e4e5586bef8f8c7542bc05d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085413,
+            "locality_id":101720859,
+            "neighbourhood_id":9895003591,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003591,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Club Acres",
+    "wof:parent_id":101720859,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.88176196583937,
+    33.50793780656332,
+    -80.88176196583937,
+    33.50793780656332
+],
+  "geometry": {"coordinates":[-80.88176196583937,33.50793780656332],"type":"Point"}
+}

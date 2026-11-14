@@ -1,0 +1,82 @@
+{
+  "id": 9895005717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.22959330227368,46.69911672021404,-89.22959330227368,46.69911672021404",
+    "geom:latitude":46.699117,
+    "geom:longitude":-89.229593,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1622023: name \"Victoria\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1622023"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1622023: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1622023"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1622023: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1622023"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404508273 (Rockland Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404508273 (Rockland Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Victoria"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688599,
+        102083045,
+        102191575,
+        404508273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1622023
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e36701172c2cd1b2a41ca923f1ed16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083045,
+            "localadmin_id":404508273,
+            "locality_id":9895005717,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":9895005717,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Victoria",
+    "wof:parent_id":404508273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.22959330227368,
+    46.69911672021404,
+    -89.22959330227368,
+    46.69911672021404
+],
+  "geometry": {"coordinates":[-89.22959330227368,46.69911672021404],"type":"Point"}
+}

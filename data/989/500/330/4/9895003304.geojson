@@ -1,0 +1,82 @@
+{
+  "id": 9895003304,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.78697798831429,41.07895894198346,-78.78697798831429,41.07895894198346",
+    "geom:latitude":41.078959,
+    "geom:longitude":-78.786978,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1191062: name \"West Liberty\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1191062"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1191062: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1191062"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1191062: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1191062"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404487127 (Sandy Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404487127 (Sandy Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "West Liberty"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080967,
+        102191575,
+        404487127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1191062
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e468cc242bd58dda35bf56a0e89aa738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080967,
+            "localadmin_id":404487127,
+            "locality_id":9895003304,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003304,
+    "wof:lastmodified":1794681133,
+    "wof:name":"West Liberty",
+    "wof:parent_id":404487127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.78697798831429,
+    41.07895894198346,
+    -78.78697798831429,
+    41.07895894198346
+],
+  "geometry": {"coordinates":[-78.78697798831429,41.07895894198346],"type":"Point"}
+}

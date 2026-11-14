@@ -1,0 +1,82 @@
+{
+  "id": 9895007383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.04278793293369,39.83806202908862,-105.04278793293369,39.83806202908862",
+    "geom:latitude":39.838062,
+    "geom:longitude":-105.042788,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354414: name \"Hidden Creek Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354414"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354414: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354414"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354414: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354414"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929351 (Westminster).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929351 (Westminster), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hidden Creek Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929351,
+        102084053,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354414
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33eb402fe92ad8757051b1c45c803833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084053,
+            "locality_id":85929351,
+            "neighbourhood_id":9895007383,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007383,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Hidden Creek Park",
+    "wof:parent_id":85929351,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.04278793293369,
+    39.83806202908862,
+    -105.04278793293369,
+    39.83806202908862
+],
+  "geometry": {"coordinates":[-105.04278793293369,39.83806202908862],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.48857926699378,38.55768867870696,-121.48857926699378,38.55768867870696",
+    "geom:latitude":38.557689,
+    "geom:longitude":-121.488579,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1666292: name \"Highland Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1666292"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1666292: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1666292"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1666292: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1666292"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922845 (Sacramento).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922845 (Sacramento), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Highland Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922845,
+        102082889,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1666292
+    },
+    "wof:country":"US",
+    "wof:geomhash":"37cb2130350a2b050a6a268aad095498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082889,
+            "locality_id":85922845,
+            "neighbourhood_id":9895006035,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006035,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Highland Park",
+    "wof:parent_id":85922845,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.48857926699378,
+    38.55768867870696,
+    -121.48857926699378,
+    38.55768867870696
+],
+  "geometry": {"coordinates":[-121.48857926699378,38.55768867870696],"type":"Point"}
+}

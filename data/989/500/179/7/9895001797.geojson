@@ -1,0 +1,82 @@
+{
+  "id": 9895001797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.10516465823781,38.32578723761447,-75.10516465823781,38.32578723761447",
+    "geom:latitude":38.325787,
+    "geom:longitude":-75.105165,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 586285: name \"Ocean City Harbor\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/586285"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 586285: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/586285"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 586285: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/586285"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949795 (West Ocean City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949795 (West Ocean City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ocean City Harbor"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949795,
+        102081599,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":586285
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30be929392bfa4119f8d8e5dbd504403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949795,
+            "neighbourhood_id":9895001797,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001797,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Ocean City Harbor",
+    "wof:parent_id":85949795,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.10516465823781,
+    38.32578723761447,
+    -75.10516465823781,
+    38.32578723761447
+],
+  "geometry": {"coordinates":[-75.10516465823781,38.32578723761447],"type":"Point"}
+}

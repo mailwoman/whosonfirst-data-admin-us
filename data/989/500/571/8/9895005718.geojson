@@ -1,0 +1,80 @@
+{
+  "id": 9895005718,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.81868004020873,29.866877704129152,-89.81868004020873,29.866877704129152",
+    "geom:latitude":29.866878,
+    "geom:longitude":-89.81868,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1627396: name \"Kenilworth\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1627396"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1627396: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1627396"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1627396: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1627396"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082447 (St. Bernard).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082447 (St. Bernard), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kenilworth"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        102082447,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1627396
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a6aa69bee40ae372b3b5d818681ee02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":9895005718,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895005718,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Kenilworth",
+    "wof:parent_id":102082447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.81868004020873,
+    29.866877704129152,
+    -89.81868004020873,
+    29.866877704129152
+],
+  "geometry": {"coordinates":[-89.81868004020873,29.866877704129152],"type":"Point"}
+}

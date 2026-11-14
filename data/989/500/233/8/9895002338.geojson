@@ -1,0 +1,80 @@
+{
+  "id": 9895002338,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.45891068349516,35.38949395752406,-105.45891068349516,35.38949395752406",
+    "geom:latitude":35.389494,
+    "geom:longitude":-105.458911,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 906029: name \"El Ancon\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/906029"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 906029: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/906029"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 906029: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/906029"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081565 (San Miguel).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081565 (San Miguel), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "El Ancon"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081565,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":906029
+    },
+    "wof:country":"US",
+    "wof:geomhash":"236cec13df4bb9b7b08458417392346a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081565,
+            "locality_id":9895002338,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002338,
+    "wof:lastmodified":1794681129,
+    "wof:name":"El Ancon",
+    "wof:parent_id":102081565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.45891068349516,
+    35.38949395752406,
+    -105.45891068349516,
+    35.38949395752406
+],
+  "geometry": {"coordinates":[-105.45891068349516,35.38949395752406],"type":"Point"}
+}

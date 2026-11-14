@@ -1,0 +1,82 @@
+{
+  "id": 9895006188,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.7007407588951,32.86458936783562,-83.7007407588951,32.86458936783562",
+    "geom:latitude":32.864589,
+    "geom:longitude":-83.700741,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672087: name \"Country Club Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672087"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672087: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672087"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672087: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672087"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936517 (Macon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936517 (Macon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Country Club Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936517,
+        102084373,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1672087
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b681258b8c5e593247c83f4519b7ec75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":9895006188,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006188,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Country Club Estates",
+    "wof:parent_id":85936517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.7007407588951,
+    32.86458936783562,
+    -83.7007407588951,
+    32.86458936783562
+],
+  "geometry": {"coordinates":[-83.7007407588951,32.86458936783562],"type":"Point"}
+}

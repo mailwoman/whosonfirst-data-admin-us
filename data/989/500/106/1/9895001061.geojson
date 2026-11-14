@@ -1,0 +1,82 @@
+{
+  "id": 9895001061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.1814380868452,26.157034283653473,-80.1814380868452,26.157034283653473",
+    "geom:latitude":26.157034,
+    "geom:longitude":-80.181438,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 282554: name \"Flamingo Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/282554"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 282554: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/282554"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 282554: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/282554"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85932397 (Fort Lauderdale).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85932397 (Fort Lauderdale), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Flamingo Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85932397,
+        102084727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":282554
+    },
+    "wof:country":"US",
+    "wof:geomhash":"399ce0e73d9dd0955155ff96c36898a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":9895001061,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001061,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Flamingo Village",
+    "wof:parent_id":85932397,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.1814380868452,
+    26.157034283653473,
+    -80.1814380868452,
+    26.157034283653473
+],
+  "geometry": {"coordinates":[-80.1814380868452,26.157034283653473],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000960,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.46158685633861,39.80345422479992,-75.46158685633861,39.80345422479992",
+    "geom:latitude":39.803454,
+    "geom:longitude":-75.461587,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215800: name \"Bigger Tract\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215800"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215800: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215800"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215800: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215800"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931731 (Claymont).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931731 (Claymont), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bigger Tract"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        85931731,
+        102083891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":215800
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f5fa09fa2e5a970adfc5362a8fbeb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931731,
+            "neighbourhood_id":9895000960,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000960,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Bigger Tract",
+    "wof:parent_id":85931731,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.46158685633861,
+    39.80345422479992,
+    -75.46158685633861,
+    39.80345422479992
+],
+  "geometry": {"coordinates":[-75.46158685633861,39.80345422479992],"type":"Point"}
+}

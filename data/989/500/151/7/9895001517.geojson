@@ -1,0 +1,80 @@
+{
+  "id": 9895001517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.34635541716003,37.58062637980398,-85.34635541716003,37.58062637980398",
+    "geom:latitude":37.580626,
+    "geom:longitude":-85.346355,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 502686: name \"Saint Mary\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/502686"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 502686: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/502686"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 502686: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/502686"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085629 (Marion).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085629 (Marion), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Mary"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688641,
+        102085629,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":502686
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51a26087e7a0afb6fb53b7a982d84ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085629,
+            "locality_id":9895001517,
+            "region_id":85688641
+        }
+    ],
+    "wof:id":9895001517,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Saint Mary",
+    "wof:parent_id":102085629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.34635541716003,
+    37.58062637980398,
+    -85.34635541716003,
+    37.58062637980398
+],
+  "geometry": {"coordinates":[-85.34635541716003,37.58062637980398],"type":"Point"}
+}

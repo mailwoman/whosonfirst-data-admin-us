@@ -1,0 +1,82 @@
+{
+  "id": 9895007901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.22959187059277,40.478927750879755,-78.22959187059277,40.478927750879755",
+    "geom:latitude":40.478928,
+    "geom:longitude":-78.229592,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805566: name \"Saint Clair\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805566"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805566: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805566"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805566: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805566"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404484625 (Catharine Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404484625 (Catharine Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Clair"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081325,
+        102191575,
+        404484625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805566
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e32788fddf327fb81ddde426614c7ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081325,
+            "localadmin_id":404484625,
+            "locality_id":9895007901,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895007901,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Saint Clair",
+    "wof:parent_id":404484625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.22959187059277,
+    40.478927750879755,
+    -78.22959187059277,
+    40.478927750879755
+],
+  "geometry": {"coordinates":[-78.22959187059277,40.478927750879755],"type":"Point"}
+}

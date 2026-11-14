@@ -1,0 +1,82 @@
+{
+  "id": 9895003671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.12898815780164,33.897380784279264,-81.12898815780164,33.897380784279264",
+    "geom:latitude":33.897381,
+    "geom:longitude":-81.128988,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1244142: name \"Congaree Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1244142"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1244142: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1244142"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1244142: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1244142"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720991 (South Congaree).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720991 (South Congaree), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Congaree Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720991,
+        102085573,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1244142
+    },
+    "wof:country":"US",
+    "wof:geomhash":"69ebcf1aab24c2b49d3c4689e8d44603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085573,
+            "locality_id":101720991,
+            "neighbourhood_id":9895003671,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003671,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Congaree Gardens",
+    "wof:parent_id":101720991,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.12898815780164,
+    33.897380784279264,
+    -81.12898815780164,
+    33.897380784279264
+],
+  "geometry": {"coordinates":[-81.12898815780164,33.897380784279264],"type":"Point"}
+}

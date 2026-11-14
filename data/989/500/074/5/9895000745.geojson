@@ -1,0 +1,80 @@
+{
+  "id": 9895000745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.56390048622997,33.362621932282664,-87.56390048622997,33.362621932282664",
+    "geom:latitude":33.362622,
+    "geom:longitude":-87.5639,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148384: name \"North River Country Club Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148384"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148384: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148384"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148384: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148384"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North River Country Club Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148384
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e12fe0f3194b76bd3f0865188cb5a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000745,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000745,
+    "wof:lastmodified":1794681123,
+    "wof:name":"North River Country Club Estates",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.56390048622997,
+    33.362621932282664,
+    -87.56390048622997,
+    33.362621932282664
+],
+  "geometry": {"coordinates":[-87.56390048622997,33.362621932282664],"type":"Point"}
+}

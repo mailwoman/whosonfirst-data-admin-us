@@ -1,0 +1,80 @@
+{
+  "id": 9895003151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.48169046902098,35.873478068830615,-79.48169046902098,35.873478068830615",
+    "geom:latitude":35.873478,
+    "geom:longitude":-79.48169,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1022009: name \"Pleasant Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1022009"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1022009: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1022009"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1022009: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1022009"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087643 (Alamance).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087643 (Alamance), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pleasant Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087643,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1022009
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d33dcd22a49799830bcaadf118b000ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087643,
+            "locality_id":9895003151,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003151,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Pleasant Hill",
+    "wof:parent_id":102087643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.48169046902098,
+    35.873478068830615,
+    -79.48169046902098,
+    35.873478068830615
+],
+  "geometry": {"coordinates":[-79.48169046902098,35.873478068830615],"type":"Point"}
+}

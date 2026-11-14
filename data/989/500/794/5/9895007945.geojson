@@ -1,0 +1,82 @@
+{
+  "id": 9895007945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.46462847098184,40.32161286301006,-74.46462847098184,40.32161286301006",
+    "geom:latitude":40.321613,
+    "geom:longitude":-74.464628,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806078: name \"Encore at Monroe\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806078"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806078: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806078"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806078: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806078"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404478287 (Monroe Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404478287 (Monroe Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Encore at Monroe"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102087417,
+        102191575,
+        404478287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806078
+    },
+    "wof:country":"US",
+    "wof:geomhash":"142c9ab129de231747478cf8be6b31f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478287,
+            "locality_id":9895007945,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895007945,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Encore at Monroe",
+    "wof:parent_id":404478287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.46462847098184,
+    40.32161286301006,
+    -74.46462847098184,
+    40.32161286301006
+],
+  "geometry": {"coordinates":[-74.46462847098184,40.32161286301006],"type":"Point"}
+}

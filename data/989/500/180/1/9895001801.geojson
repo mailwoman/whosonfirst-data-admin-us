@@ -1,0 +1,80 @@
+{
+  "id": 9895001801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.65992943626472,38.402347634084336,-75.65992943626472,38.402347634084336",
+    "geom:latitude":38.402348,
+    "geom:longitude":-75.659929,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 586893: name \"Rockawalking\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/586893"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 586893: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/586893"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 586893: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/586893"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082715 (Wicomico).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082715 (Wicomico), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rockawalking"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082715,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":586893
+    },
+    "wof:country":"US",
+    "wof:geomhash":"242aa264d785a9253b4f88027b94bce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":9895001801,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001801,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Rockawalking",
+    "wof:parent_id":102082715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.65992943626472,
+    38.402347634084336,
+    -75.65992943626472,
+    38.402347634084336
+],
+  "geometry": {"coordinates":[-75.65992943626472,38.402347634084336],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895007050,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.17171600364658,34.04363011556244,-117.17171600364658,34.04363011556244",
+    "geom:latitude":34.04363,
+    "geom:longitude":-117.171716,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1839609: name \"Plymouth Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1839609"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1839609: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1839609"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1839609: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1839609"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923941 (Redlands).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923941 (Redlands), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Plymouth Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923941,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1839609
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc4b2f09bb93ce2e6609366d5bd3f7ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85923941,
+            "neighbourhood_id":9895007050,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007050,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Plymouth Village",
+    "wof:parent_id":85923941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.17171600364658,
+    34.04363011556244,
+    -117.17171600364658,
+    34.04363011556244
+],
+  "geometry": {"coordinates":[-117.17171600364658,34.04363011556244],"type":"Point"}
+}

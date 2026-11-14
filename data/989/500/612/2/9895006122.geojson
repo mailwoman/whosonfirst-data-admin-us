@@ -1,0 +1,82 @@
+{
+  "id": 9895006122,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.17713463764973,31.610179273341767,-84.17713463764973,31.610179273341767",
+    "geom:latitude":31.610179,
+    "geom:longitude":-84.177135,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671114: name \"Fulford Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671114"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671114: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671114"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671114: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671114"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85935991 (Albany).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85935991 (Albany), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fulford Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85935991,
+        102084427,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671114
+    },
+    "wof:country":"US",
+    "wof:geomhash":"69ec74f3a4855a9569557d01596f9898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":9895006122,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006122,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Fulford Heights",
+    "wof:parent_id":85935991,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.17713463764973,
+    31.610179273341767,
+    -84.17713463764973,
+    31.610179273341767
+],
+  "geometry": {"coordinates":[-84.17713463764973,31.610179273341767],"type":"Point"}
+}

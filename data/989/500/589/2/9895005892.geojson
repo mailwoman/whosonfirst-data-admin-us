@@ -1,0 +1,80 @@
+{
+  "id": 9895005892,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.42610338838786,38.38297259345344,-122.42610338838786,38.38297259345344",
+    "geom:latitude":38.382973,
+    "geom:longitude":-122.426103,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1658502: name \"Enchanted Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1658502"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1658502: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1658502"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1658502: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1658502"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085383 (Napa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085383 (Napa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Enchanted Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102085383,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1658502
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b7960c40fc397267b06bfd8caef38e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":9895005892,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005892,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Enchanted Hills",
+    "wof:parent_id":102085383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.42610338838786,
+    38.38297259345344,
+    -122.42610338838786,
+    38.38297259345344
+],
+  "geometry": {"coordinates":[-122.42610338838786,38.38297259345344],"type":"Point"}
+}

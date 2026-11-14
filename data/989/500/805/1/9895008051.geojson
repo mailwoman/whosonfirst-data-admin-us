@@ -1,0 +1,80 @@
+{
+  "id": 9895008051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.57676151794679,47.814677743405014,-117.57676151794679,47.814677743405014",
+    "geom:latitude":47.814678,
+    "geom:longitude":-117.576762,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807191: name \"Suncrest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807191"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807191: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807191"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807191: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807191"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085373 (Stevens).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085373 (Stevens), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Suncrest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102085373,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807191
+    },
+    "wof:country":"US",
+    "wof:geomhash":"724d2fa8002e27ddb54864e16234872e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085373,
+            "locality_id":9895008051,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895008051,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Suncrest",
+    "wof:parent_id":102085373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.57676151794679,
+    47.814677743405014,
+    -117.57676151794679,
+    47.814677743405014
+],
+  "geometry": {"coordinates":[-117.57676151794679,47.814677743405014],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.23691535768386,32.3137573575833,-86.23691535768386,32.3137573575833",
+    "geom:latitude":32.313757,
+    "geom:longitude":-86.236915,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142934: name \"Warrenton Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142934"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142934: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142934"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142934: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142934"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Warrenton Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142934
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab829f360f2c26801c62e24c2a38594f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000467,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000467,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Warrenton Estates",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.23691535768386,
+    32.3137573575833,
+    -86.23691535768386,
+    32.3137573575833
+],
+  "geometry": {"coordinates":[-86.23691535768386,32.3137573575833],"type":"Point"}
+}

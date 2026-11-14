@@ -1,0 +1,82 @@
+{
+  "id": 9895001375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.88504050533396,40.630320922269185,-87.88504050533396,40.630320922269185",
+    "geom:latitude":40.630321,
+    "geom:longitude":-87.885041,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 410746: name \"Idaville Corner\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/410746"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 410746: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/410746"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 410746: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/410746"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404498171 (Ash Grove Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404498171 (Ash Grove Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Idaville Corner"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102086209,
+        102191575,
+        404498171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":410746
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e8941049c80cd4d806fb8b4042f2ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498171,
+            "locality_id":9895001375,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001375,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Idaville Corner",
+    "wof:parent_id":404498171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.88504050533396,
+    40.630320922269185,
+    -87.88504050533396,
+    40.630320922269185
+],
+  "geometry": {"coordinates":[-87.88504050533396,40.630320922269185],"type":"Point"}
+}

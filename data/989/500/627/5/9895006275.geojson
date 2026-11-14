@@ -1,0 +1,80 @@
+{
+  "id": 9895006275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.41862356710922,37.99237005002687,-78.41862356710922,37.99237005002687",
+    "geom:latitude":37.99237,
+    "geom:longitude":-78.418624,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1675120: name \"Rose Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1675120"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1675120: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1675120"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1675120: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1675120"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084933 (Albemarle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084933 (Albemarle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rose Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102084933,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1675120
+    },
+    "wof:country":"US",
+    "wof:geomhash":"241eb9c54f90218de937903bfe83f89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":9895006275,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006275,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Rose Hill",
+    "wof:parent_id":102084933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.41862356710922,
+    37.99237005002687,
+    -78.41862356710922,
+    37.99237005002687
+],
+  "geometry": {"coordinates":[-78.41862356710922,37.99237005002687],"type":"Point"}
+}

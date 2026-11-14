@@ -1,0 +1,84 @@
+{
+  "id": 9895007531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.20028368107907,41.515007759249315,-88.20028368107907,41.515007759249315",
+    "geom:latitude":41.515008,
+    "geom:longitude":-88.200284,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355745: name \"Shorewood Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355745"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355745: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355745"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355745: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355745"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940521 (Shorewood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940521 (Shorewood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shorewood Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940521,
+        102080845,
+        102191575,
+        404499223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2355745
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fccff97ef7675fa933422a2733bb9cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499223,
+            "locality_id":85940521,
+            "neighbourhood_id":9895007531,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007531,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Shorewood Park",
+    "wof:parent_id":85940521,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.20028368107907,
+    41.515007759249315,
+    -88.20028368107907,
+    41.515007759249315
+],
+  "geometry": {"coordinates":[-88.20028368107907,41.515007759249315],"type":"Point"}
+}

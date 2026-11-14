@@ -1,0 +1,82 @@
+{
+  "id": 9895003479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.02119337708095,34.89403970328329,-81.02119337708095,34.89403970328329",
+    "geom:latitude":34.89404,
+    "geom:longitude":-81.021193,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233921: name \"Southland Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233921"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233921: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233921"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233921: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233921"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721103 (Rock Hill).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721103 (Rock Hill), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Southland Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721103,
+        102085661,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1233921
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b3e50780fedb2d064db8a4c1cdd23f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085661,
+            "locality_id":101721103,
+            "neighbourhood_id":9895003479,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003479,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Southland Park",
+    "wof:parent_id":101721103,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.02119337708095,
+    34.89403970328329,
+    -81.02119337708095,
+    34.89403970328329
+],
+  "geometry": {"coordinates":[-81.02119337708095,34.89403970328329],"type":"Point"}
+}

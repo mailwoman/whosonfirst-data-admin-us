@@ -1,0 +1,82 @@
+{
+  "id": 9895005639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.66377125599544,47.645655782472666,-122.66377125599544,47.645655782472666",
+    "geom:latitude":47.645656,
+    "geom:longitude":-122.663771,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1514209: name \"Huckle Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1514209"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1514209: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1514209"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1514209: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1514209"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101731247 (Silverdale).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101731247 (Silverdale), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Huckle Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        101731247,
+        102081243,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1514209
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed9375f5ee16fca2b1991fc3280bb95a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731247,
+            "neighbourhood_id":9895005639,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005639,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Huckle Ridge",
+    "wof:parent_id":101731247,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.66377125599544,
+    47.645655782472666,
+    -122.66377125599544,
+    47.645655782472666
+],
+  "geometry": {"coordinates":[-122.66377125599544,47.645655782472666],"type":"Point"}
+}

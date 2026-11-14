@@ -1,0 +1,82 @@
+{
+  "id": 9895000657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.53751086946953,33.18484749561186,-87.53751086946953,33.18484749561186",
+    "geom:latitude":33.184847,
+    "geom:longitude":-87.537511,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147931: name \"Camellia Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147931"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147931: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147931"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147931: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147931"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914453 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914453 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Camellia Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914453,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147931
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1057d4ca1c88ed941865ff95d1a763a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85914453,
+            "neighbourhood_id":9895000657,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000657,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Camellia Park",
+    "wof:parent_id":85914453,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.53751086946953,
+    33.18484749561186,
+    -87.53751086946953,
+    33.18484749561186
+],
+  "geometry": {"coordinates":[-87.53751086946953,33.18484749561186],"type":"Point"}
+}

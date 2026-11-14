@@ -1,0 +1,80 @@
+{
+  "id": 9895001170,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.22329241172966,34.95813785665672,-85.22329241172966,34.95813785665672",
+    "geom:latitude":34.958138,
+    "geom:longitude":-85.223292,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 333398: name \"Westside\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/333398"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 333398: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/333398"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 333398: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/333398"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084401 (Catoosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084401 (Catoosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westside"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102084401,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":333398
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9fae37888ee8f71583d4fa10d7e6331c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084401,
+            "locality_id":9895001170,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001170,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Westside",
+    "wof:parent_id":102084401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.22329241172966,
+    34.95813785665672,
+    -85.22329241172966,
+    34.95813785665672
+],
+  "geometry": {"coordinates":[-85.22329241172966,34.95813785665672],"type":"Point"}
+}

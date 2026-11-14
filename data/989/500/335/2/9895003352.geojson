@@ -1,0 +1,82 @@
+{
+  "id": 9895003352,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.23917912159791,39.7259317040055,-78.23917912159791,39.7259317040055",
+    "geom:latitude":39.725932,
+    "geom:longitude":-78.239179,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201592: name \"Mann\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201592"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201592: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201592"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201592: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201592"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404485525 (Bethel Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404485525 (Bethel Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mann"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081273,
+        102191575,
+        404485525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1201592
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bebdd5025b7a2ea23fcd0d9d276cb61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081273,
+            "localadmin_id":404485525,
+            "locality_id":9895003352,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003352,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Mann",
+    "wof:parent_id":404485525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.23917912159791,
+    39.7259317040055,
+    -78.23917912159791,
+    39.7259317040055
+],
+  "geometry": {"coordinates":[-78.23917912159791,39.7259317040055],"type":"Point"}
+}

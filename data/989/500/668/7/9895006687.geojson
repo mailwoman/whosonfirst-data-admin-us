@@ -1,0 +1,82 @@
+{
+  "id": 9895006687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.866918944953,38.935396899612186,-76.866918944953,38.935396899612186",
+    "geom:latitude":38.935397,
+    "geom:longitude":-76.866919,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1714388: name \"Glenarden Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1714388"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1714388: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1714388"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1714388: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1714388"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949313 (Glenarden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949313 (Glenarden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Glenarden Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949313,
+        102082191,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1714388
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3b296d66f4aaf2b3fbec1621fb273a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949313,
+            "neighbourhood_id":9895006687,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006687,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Glenarden Woods",
+    "wof:parent_id":85949313,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.866918944953,
+    38.935396899612186,
+    -76.866918944953,
+    38.935396899612186
+],
+  "geometry": {"coordinates":[-76.866918944953,38.935396899612186],"type":"Point"}
+}

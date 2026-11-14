@@ -1,0 +1,82 @@
+{
+  "id": 9895006454,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.98025910677092,39.368167281781524,-76.98025910677092,39.368167281781524",
+    "geom:latitude":39.368167,
+    "geom:longitude":-76.980259,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1696288: name \"Lexington Run\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1696288"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1696288: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1696288"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1696288: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1696288"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949359 (Sykesville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949359 (Sykesville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lexington Run"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949359,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1696288
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24f8f9be8871478a05c5038d01aa04b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949359,
+            "neighbourhood_id":9895006454,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006454,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Lexington Run",
+    "wof:parent_id":85949359,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.98025910677092,
+    39.368167281781524,
+    -76.98025910677092,
+    39.368167281781524
+],
+  "geometry": {"coordinates":[-76.98025910677092,39.368167281781524],"type":"Point"}
+}

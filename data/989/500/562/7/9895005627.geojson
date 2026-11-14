@@ -1,0 +1,80 @@
+{
+  "id": 9895005627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.67515161437629,47.463989671779274,-122.67515161437629,47.463989671779274",
+    "geom:latitude":47.46399,
+    "geom:longitude":-122.675152,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511430: name \"Wildwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511430"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511430: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511430"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511430: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511430"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081243 (Kitsap).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081243 (Kitsap), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wildwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102081243,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1511430
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22443c5d0d7626059d9934dc160afdcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":9895005627,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005627,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Wildwood",
+    "wof:parent_id":102081243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.67515161437629,
+    47.463989671779274,
+    -122.67515161437629,
+    47.463989671779274
+],
+  "geometry": {"coordinates":[-122.67515161437629,47.463989671779274],"type":"Point"}
+}

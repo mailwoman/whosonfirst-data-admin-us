@@ -1,0 +1,80 @@
+{
+  "id": 9895004072,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.5044726754702,32.323760821161784,-97.5044726754702,32.323760821161784",
+    "geom:latitude":32.323761,
+    "geom:longitude":-97.504473,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378030: name \"Bono\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378030"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378030: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378030"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378030: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378030"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081065 (Johnson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081065 (Johnson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bono"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102081065,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1378030
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5ce9533d7525c46ffd1c5e992fa388d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081065,
+            "locality_id":9895004072,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004072,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Bono",
+    "wof:parent_id":102081065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.5044726754702,
+    32.323760821161784,
+    -97.5044726754702,
+    32.323760821161784
+],
+  "geometry": {"coordinates":[-97.5044726754702,32.323760821161784],"type":"Point"}
+}

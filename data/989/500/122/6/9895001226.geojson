@@ -1,0 +1,82 @@
+{
+  "id": 9895001226,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.1374539468579,34.25537801367341,-85.1374539468579,34.25537801367341",
+    "geom:latitude":34.255378,
+    "geom:longitude":-85.137454,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 353748: name \"Maplewood Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/353748"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 353748: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/353748"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 353748: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/353748"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936575 (Rome).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936575 (Rome), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Maplewood Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936575,
+        102084577,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":353748
+    },
+    "wof:country":"US",
+    "wof:geomhash":"604924dba2c7c8a314abf6dfc65d8394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084577,
+            "locality_id":85936575,
+            "neighbourhood_id":9895001226,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001226,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Maplewood Park",
+    "wof:parent_id":85936575,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.1374539468579,
+    34.25537801367341,
+    -85.1374539468579,
+    34.25537801367341
+],
+  "geometry": {"coordinates":[-85.1374539468579,34.25537801367341],"type":"Point"}
+}

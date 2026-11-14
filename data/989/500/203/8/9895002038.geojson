@@ -1,0 +1,80 @@
+{
+  "id": 9895002038,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.89950666391277,33.441795395848125,-88.89950666391277,33.441795395848125",
+    "geom:latitude":33.441795,
+    "geom:longitude":-88.899507,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 682977: name \"Oakwood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/682977"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 682977: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/682977"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 682977: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/682977"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083159 (Oktibbeha).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083159 (Oktibbeha), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oakwood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102083159,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":682977
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8fc0764834e00a516d165d4474fa8565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":9895002038,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002038,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Oakwood Estates",
+    "wof:parent_id":102083159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.89950666391277,
+    33.441795395848125,
+    -88.89950666391277,
+    33.441795395848125
+],
+  "geometry": {"coordinates":[-88.89950666391277,33.441795395848125],"type":"Point"}
+}

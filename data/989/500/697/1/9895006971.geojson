@@ -1,0 +1,82 @@
+{
+  "id": 9895006971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.28554245616928,38.29214189629407,-122.28554245616928,38.29214189629407",
+    "geom:latitude":38.292142,
+    "geom:longitude":-122.285542,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1800291: name \"Napa Abajo\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1800291"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1800291: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1800291"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1800291: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1800291"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921993 (Napa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921993 (Napa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Napa Abajo"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85921993,
+        102085383,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1800291
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8efc20c35eaeb9da790c76ed0fc894a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921993,
+            "neighbourhood_id":9895006971,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006971,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Napa Abajo",
+    "wof:parent_id":85921993,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.28554245616928,
+    38.29214189629407,
+    -122.28554245616928,
+    38.29214189629407
+],
+  "geometry": {"coordinates":[-122.28554245616928,38.29214189629407],"type":"Point"}
+}

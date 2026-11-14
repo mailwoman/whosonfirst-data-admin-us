@@ -1,0 +1,82 @@
+{
+  "id": 9895004010,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.73722581367963,36.03673411311038,-86.73722581367963,36.03673411311038",
+    "geom:latitude":36.036734,
+    "geom:longitude":-86.737226,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313468: name \"Myrtlewood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313468"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313468: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313468"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313468: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313468"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723183 (Nashville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723183 (Nashville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Myrtlewood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723183,
+        102087061,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1313468
+    },
+    "wof:country":"US",
+    "wof:geomhash":"049827c50f563ce260336b5ceee22a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":9895004010,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895004010,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Myrtlewood Estates",
+    "wof:parent_id":101723183,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.73722581367963,
+    36.03673411311038,
+    -86.73722581367963,
+    36.03673411311038
+],
+  "geometry": {"coordinates":[-86.73722581367963,36.03673411311038],"type":"Point"}
+}

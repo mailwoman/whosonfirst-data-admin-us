@@ -1,0 +1,82 @@
+{
+  "id": 9895005981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.24314058033181,33.96557544675068,-118.24314058033181,33.96557544675068",
+    "geom:latitude":33.965575,
+    "geom:longitude":-118.243141,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661085: name \"Nadeau\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661085"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661085: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661085"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661085: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661085"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85928335 (Florence-Graham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85928335 (Florence-Graham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Nadeau"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85928335,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661085
+    },
+    "wof:country":"US",
+    "wof:geomhash":"27ed0fd1909e5701c7bb41c8175b4440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85928335,
+            "neighbourhood_id":9895005981,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005981,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Nadeau",
+    "wof:parent_id":85928335,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.24314058033181,
+    33.96557544675068,
+    -118.24314058033181,
+    33.96557544675068
+],
+  "geometry": {"coordinates":[-118.24314058033181,33.96557544675068],"type":"Point"}
+}

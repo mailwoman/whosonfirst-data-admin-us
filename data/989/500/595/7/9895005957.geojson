@@ -1,0 +1,82 @@
+{
+  "id": 9895005957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.22508558577805,34.07529345928738,-118.22508558577805,34.07529345928738",
+    "geom:latitude":34.075293,
+    "geom:longitude":-118.225086,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660681: name \"Glendale Junction\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660681"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660681: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660681"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660681: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660681"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923517 (Los Angeles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923517 (Los Angeles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Glendale Junction"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923517,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1660681
+    },
+    "wof:country":"US",
+    "wof:geomhash":"56c314ad462bbea774a675a46876d8f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":9895005957,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005957,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Glendale Junction",
+    "wof:parent_id":85923517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.22508558577805,
+    34.07529345928738,
+    -118.22508558577805,
+    34.07529345928738
+],
+  "geometry": {"coordinates":[-118.22508558577805,34.07529345928738],"type":"Point"}
+}

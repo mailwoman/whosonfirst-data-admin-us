@@ -1,0 +1,82 @@
+{
+  "id": 9895003721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.93648130884563,34.06627112743486,-80.93648130884563,34.06627112743486",
+    "geom:latitude":34.066271,
+    "geom:longitude":-80.936481,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249162: name \"Huntington\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249162"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249162: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249162"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249162: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249162"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721301 (Woodfield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721301 (Woodfield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Huntington"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721301,
+        102085405,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1249162
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e675cf88739c5bf9dbd85cef4790419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101721301,
+            "neighbourhood_id":9895003721,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003721,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Huntington",
+    "wof:parent_id":101721301,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.93648130884563,
+    34.06627112743486,
+    -80.93648130884563,
+    34.06627112743486
+],
+  "geometry": {"coordinates":[-80.93648130884563,34.06627112743486],"type":"Point"}
+}

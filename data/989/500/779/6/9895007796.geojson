@@ -1,0 +1,84 @@
+{
+  "id": 9895007796,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.3649059468603,41.6906077805717,-88.3649059468603,41.6906077805717",
+    "geom:latitude":41.690608,
+    "geom:longitude":-88.364906,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2778328: name \"River Run\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2778328"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2778328: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2778328"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2778328: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2778328"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85941079 (Oswego).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85941079 (Oswego), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "River Run"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85941079,
+        102083533,
+        102191575,
+        404498411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2778328
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c56646eadd6b4f3361787481d913d6c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "locality_id":85941079,
+            "neighbourhood_id":9895007796,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007796,
+    "wof:lastmodified":1794681145,
+    "wof:name":"River Run",
+    "wof:parent_id":85941079,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.3649059468603,
+    41.6906077805717,
+    -88.3649059468603,
+    41.6906077805717
+],
+  "geometry": {"coordinates":[-88.3649059468603,41.6906077805717],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895002818,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.76475486390324,36.0540312965748,-79.76475486390324,36.0540312965748",
+    "geom:latitude":36.054031,
+    "geom:longitude":-79.764755,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004995: name \"Dudley Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004995"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004995: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004995"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004995: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004995"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980391 (Greensboro).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980391 (Greensboro), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dudley Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980391,
+        102080985,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1004995
+    },
+    "wof:country":"US",
+    "wof:geomhash":"74eda1ae8fdb9e5b023e23bf07c0bd64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080985,
+            "locality_id":85980391,
+            "neighbourhood_id":9895002818,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002818,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Dudley Heights",
+    "wof:parent_id":85980391,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.76475486390324,
+    36.0540312965748,
+    -79.76475486390324,
+    36.0540312965748
+],
+  "geometry": {"coordinates":[-79.76475486390324,36.0540312965748],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.81617829312314,33.780577549860396,-117.81617829312314,33.780577549860396",
+    "geom:latitude":33.780578,
+    "geom:longitude":-117.816178,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701982: name \"Hewes Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701982"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701982: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701982"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701982: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701982"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923071 (Orange).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923071 (Orange), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hewes Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923071,
+        102080847,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1701982
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5c7f53ee60c194669ea5911cc3a3644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923071,
+            "neighbourhood_id":9895006551,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006551,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Hewes Park",
+    "wof:parent_id":85923071,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.81617829312314,
+    33.780577549860396,
+    -117.81617829312314,
+    33.780577549860396
+],
+  "geometry": {"coordinates":[-117.81617829312314,33.780577549860396],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006386,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.29132447495108,39.321021835296676,-120.29132447495108,39.321021835296676",
+    "geom:latitude":39.321022,
+    "geom:longitude":-120.291324,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1693425: name \"Gelatt\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1693425"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1693425: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1693425"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1693425: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1693425"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921971 (Truckee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921971 (Truckee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gelatt"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85921971,
+        102085391,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1693425
+    },
+    "wof:country":"US",
+    "wof:geomhash":"60dd871d3df12254ca1e40d027035960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085391,
+            "locality_id":85921971,
+            "neighbourhood_id":9895006386,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006386,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Gelatt",
+    "wof:parent_id":85921971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.29132447495108,
+    39.321021835296676,
+    -120.29132447495108,
+    39.321021835296676
+],
+  "geometry": {"coordinates":[-120.29132447495108,39.321021835296676],"type":"Point"}
+}

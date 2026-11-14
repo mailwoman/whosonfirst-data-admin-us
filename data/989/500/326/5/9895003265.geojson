@@ -1,0 +1,82 @@
+{
+  "id": 9895003265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.57469041544587,39.93344081054655,-76.57469041544587,39.93344081054655",
+    "geom:latitude":39.933441,
+    "geom:longitude":-76.57469,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1179796: name \"Locust Spring\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1179796"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1179796: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1179796"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1179796: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1179796"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404487959 (Windsor Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404487959 (Windsor Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Locust Spring"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080953,
+        102191575,
+        404487959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1179796
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3528cec1e3f159fb36885621e77aafb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080953,
+            "localadmin_id":404487959,
+            "locality_id":9895003265,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003265,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Locust Spring",
+    "wof:parent_id":404487959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.57469041544587,
+    39.93344081054655,
+    -76.57469041544587,
+    39.93344081054655
+],
+  "geometry": {"coordinates":[-76.57469041544587,39.93344081054655],"type":"Point"}
+}

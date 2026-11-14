@@ -1,0 +1,82 @@
+{
+  "id": 9895003397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.43307283730023,40.529244052193455,-78.43307283730023,40.529244052193455",
+    "geom:latitude":40.529244,
+    "geom:longitude":-78.433073,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1209326: name \"Red Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1209326"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1209326: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1209326"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1209326: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1209326"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404484717 (Logan Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404484717 (Logan Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Red Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081325,
+        102191575,
+        404484717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1209326
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89f3c606470ffc93c331802810e45907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081325,
+            "localadmin_id":404484717,
+            "locality_id":9895003397,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003397,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Red Hill",
+    "wof:parent_id":404484717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.43307283730023,
+    40.529244052193455,
+    -78.43307283730023,
+    40.529244052193455
+],
+  "geometry": {"coordinates":[-78.43307283730023,40.529244052193455],"type":"Point"}
+}

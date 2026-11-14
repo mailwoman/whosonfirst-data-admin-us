@@ -1,0 +1,82 @@
+{
+  "id": 9895004727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.81577759473655,40.56773242148849,-111.81577759473655,40.56773242148849",
+    "geom:latitude":40.567732,
+    "geom:longitude":-111.815778,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452877: name \"Altavilla Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452877"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452877: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452877"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452877: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452877"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728249 (Granite).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728249 (Granite), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Altavilla Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728249,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1452877
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bcb639d3a2906e464f6e9297d417c7be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728249,
+            "neighbourhood_id":9895004727,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004727,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Altavilla Estates",
+    "wof:parent_id":101728249,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.81577759473655,
+    40.56773242148849,
+    -111.81577759473655,
+    40.56773242148849
+],
+  "geometry": {"coordinates":[-111.81577759473655,40.56773242148849],"type":"Point"}
+}

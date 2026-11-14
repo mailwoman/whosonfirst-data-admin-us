@@ -1,0 +1,80 @@
+{
+  "id": 9895005558,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.30861045338825,36.61598296847521,-78.30861045338825,36.61598296847521",
+    "geom:latitude":36.615983,
+    "geom:longitude":-78.30861,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1495357: name \"Castle Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1495357"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1495357: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1495357"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1495357: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1495357"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084897 (Mecklenburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084897 (Mecklenburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Castle Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102084897,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1495357
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9996c5c2b962fc626261158f8967d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":9895005558,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005558,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Castle Heights",
+    "wof:parent_id":102084897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.30861045338825,
+    36.61598296847521,
+    -78.30861045338825,
+    36.61598296847521
+],
+  "geometry": {"coordinates":[-78.30861045338825,36.61598296847521],"type":"Point"}
+}

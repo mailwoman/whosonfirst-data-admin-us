@@ -1,0 +1,82 @@
+{
+  "id": 9895001548,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.00414518800478,38.955674198385175,-77.00414518800478,38.955674198385175",
+    "geom:latitude":38.955674,
+    "geom:longitude":-77.004145,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 529409: name \"Chillum Station\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/529409"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 529409: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/529409"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 529409: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/529409"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931779 (Washington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931779 (Washington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Chillum Station"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688741,
+        85931779,
+        102191575,
+        1377370667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":529409
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad6a17af3cd713ba83596a8545b6e414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":1377370667,
+            "locality_id":85931779,
+            "neighbourhood_id":9895001548,
+            "region_id":85688741
+        }
+    ],
+    "wof:id":9895001548,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Chillum Station",
+    "wof:parent_id":85931779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.00414518800478,
+    38.955674198385175,
+    -77.00414518800478,
+    38.955674198385175
+],
+  "geometry": {"coordinates":[-77.00414518800478,38.955674198385175],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895006443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.90248129591048,39.58538822774582,-76.90248129591048,39.58538822774582",
+    "geom:latitude":39.585388,
+    "geom:longitude":-76.902481,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695947: name \"Winsome Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695947"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695947: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695947"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695947: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695947"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082717 (Carroll).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082717 (Carroll), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Winsome Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695947
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c03273b3f579eabdc6cf399a0447e4b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":9895006443,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006443,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Winsome Heights",
+    "wof:parent_id":102082717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.90248129591048,
+    39.58538822774582,
+    -76.90248129591048,
+    39.58538822774582
+],
+  "geometry": {"coordinates":[-76.90248129591048,39.58538822774582],"type":"Point"}
+}

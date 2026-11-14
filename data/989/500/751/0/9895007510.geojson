@@ -1,0 +1,80 @@
+{
+  "id": 9895007510,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.17973236370108,39.83806201943171,-105.17973236370108,39.83806201943171",
+    "geom:latitude":39.838062,
+    "geom:longitude":-105.179732,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354931: name \"Meadow Wood Farms\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354931"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354931: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354931"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354931: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354931"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084113 (Jefferson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084113 (Jefferson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meadow Wood Farms"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354931
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f69780777e3c82c879932277ef36c602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":9895007510,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007510,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Meadow Wood Farms",
+    "wof:parent_id":102084113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.17973236370108,
+    39.83806201943171,
+    -105.17973236370108,
+    39.83806201943171
+],
+  "geometry": {"coordinates":[-105.17973236370108,39.83806201943171],"type":"Point"}
+}

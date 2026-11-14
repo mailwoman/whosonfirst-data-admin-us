@@ -1,0 +1,82 @@
+{
+  "id": 9895005801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.34264265026509,36.31483565254382,-82.34264265026509,36.31483565254382",
+    "geom:latitude":36.314836,
+    "geom:longitude":-82.342643,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640322: name \"East Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640322"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640322: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640322"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640322: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640322"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722757 (Johnson City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722757 (Johnson City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "East Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722757,
+        102086335,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1640322
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a7bc1c1c2f76e2f537899482ecbce356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":9895005801,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895005801,
+    "wof:lastmodified":1794681138,
+    "wof:name":"East Park",
+    "wof:parent_id":101722757,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.34264265026509,
+    36.31483565254382,
+    -82.34264265026509,
+    36.31483565254382
+],
+  "geometry": {"coordinates":[-82.34264265026509,36.31483565254382],"type":"Point"}
+}

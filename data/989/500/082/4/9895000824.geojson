@@ -1,0 +1,82 @@
+{
+  "id": 9895000824,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.8263318967437,31.367675664831598,-85.8263318967437,31.367675664831598",
+    "geom:latitude":31.367676,
+    "geom:longitude":-85.826332,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155750: name \"Country Club Meadows\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155750"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155750: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155750"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155750: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155750"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85899527 (Enterprise).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85899527 (Enterprise), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Country Club Meadows"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85899527,
+        102085699,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":155750
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c30ae347c6dcfdd9c0b16e81280cde04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085699,
+            "locality_id":85899527,
+            "neighbourhood_id":9895000824,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000824,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Country Club Meadows",
+    "wof:parent_id":85899527,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.8263318967437,
+    31.367675664831598,
+    -85.8263318967437,
+    31.367675664831598
+],
+  "geometry": {"coordinates":[-85.8263318967437,31.367675664831598],"type":"Point"}
+}

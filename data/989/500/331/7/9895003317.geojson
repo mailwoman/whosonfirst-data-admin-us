@@ -1,0 +1,84 @@
+{
+  "id": 9895003317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.74830257233123,39.97621711150857,-76.74830257233123,39.97621711150857",
+    "geom:latitude":39.976217,
+    "geom:longitude":-76.748303,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1196661: name \"Yorktown Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1196661"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1196661: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1196661"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1196661: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1196661"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101717279 (York).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101717279 (York), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Yorktown Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101717279,
+        102080953,
+        102191575,
+        404488029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1196661
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f6583bbba4cd2b7d5bb60549f0307b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080953,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
+            "neighbourhood_id":9895003317,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003317,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Yorktown Homes",
+    "wof:parent_id":101717279,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.74830257233123,
+    39.97621711150857,
+    -76.74830257233123,
+    39.97621711150857
+],
+  "geometry": {"coordinates":[-76.74830257233123,39.97621711150857],"type":"Point"}
+}

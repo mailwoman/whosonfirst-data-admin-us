@@ -1,0 +1,82 @@
+{
+  "id": 9895000529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.85082828715379,33.38483836426482,-86.85082828715379,33.38483836426482",
+    "geom:latitude":33.384838,
+    "geom:longitude":-86.850828,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144400: name \"Martinwood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144400"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144400: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144400"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144400: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144400"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914475 (Hoover).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914475 (Hoover), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Martinwood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914475,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":144400
+    },
+    "wof:country":"US",
+    "wof:geomhash":"96681df84b86f2a741fd9dd1ea53fb60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914475,
+            "neighbourhood_id":9895000529,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000529,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Martinwood Estates",
+    "wof:parent_id":85914475,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.85082828715379,
+    33.38483836426482,
+    -86.85082828715379,
+    33.38483836426482
+],
+  "geometry": {"coordinates":[-86.85082828715379,33.38483836426482],"type":"Point"}
+}

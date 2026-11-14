@@ -1,0 +1,82 @@
+{
+  "id": 9895002247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.61883063005999,38.60252285275196,-93.61883063005999,38.60252285275196",
+    "geom:latitude":38.602523,
+    "geom:longitude":-93.618831,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740275: name \"Henrietta\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740275"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740275: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740275"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740275: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740275"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404515677 (Jefferson Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404515677 (Jefferson Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Henrietta"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102085307,
+        102191575,
+        404515677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":740275
+    },
+    "wof:country":"US",
+    "wof:geomhash":"467bfded87716ccb2c4d5d7d682b9032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085307,
+            "localadmin_id":404515677,
+            "locality_id":9895002247,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002247,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Henrietta",
+    "wof:parent_id":404515677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.61883063005999,
+    38.60252285275196,
+    -93.61883063005999,
+    38.60252285275196
+],
+  "geometry": {"coordinates":[-93.61883063005999,38.60252285275196],"type":"Point"}
+}

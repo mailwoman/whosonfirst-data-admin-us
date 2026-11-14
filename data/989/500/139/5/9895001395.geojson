@@ -1,0 +1,82 @@
+{
+  "id": 9895001395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.11427299844799,42.02086899379197,-89.11427299844799,42.02086899379197",
+    "geom:latitude":42.020869,
+    "geom:longitude":-89.114273,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 421067: name \"White Rock Center\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/421067"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 421067: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/421067"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 421067: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/421067"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404498761 (White Rock Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404498761 (White Rock Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "White Rock Center"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102083531,
+        102191575,
+        404498761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":421067
+    },
+    "wof:country":"US",
+    "wof:geomhash":"446b1c3840051a988229c8a38325a97a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083531,
+            "localadmin_id":404498761,
+            "locality_id":9895001395,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001395,
+    "wof:lastmodified":1794681125,
+    "wof:name":"White Rock Center",
+    "wof:parent_id":404498761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.11427299844799,
+    42.02086899379197,
+    -89.11427299844799,
+    42.02086899379197
+],
+  "geometry": {"coordinates":[-89.11427299844799,42.02086899379197],"type":"Point"}
+}

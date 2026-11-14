@@ -1,0 +1,82 @@
+{
+  "id": 9895002234,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.32185571334824,39.01810259707062,-92.32185571334824,39.01810259707062",
+    "geom:latitude":39.018103,
+    "geom:longitude":-92.321856,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 724905: name \"Prathersville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/724905"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 724905: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/724905"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 724905: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/724905"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404516389 (Columbia Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404516389 (Columbia Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Prathersville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102086187,
+        102191575,
+        404516389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":724905
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c95b8b7f620628be9e86787ad7021f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":9895002234,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002234,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Prathersville",
+    "wof:parent_id":404516389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.32185571334824,
+    39.01810259707062,
+    -92.32185571334824,
+    39.01810259707062
+],
+  "geometry": {"coordinates":[-92.32185571334824,39.01810259707062],"type":"Point"}
+}

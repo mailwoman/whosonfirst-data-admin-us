@@ -1,0 +1,80 @@
+{
+  "id": 9895006215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.40076299619327,33.55150709142461,-84.40076299619327,33.55150709142461",
+    "geom:latitude":33.551507,
+    "geom:longitude":-84.400763,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672419: name \"Dartmouth Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672419"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672419: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672419"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672419: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672419"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082333 (Clayton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082333 (Clayton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dartmouth Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102082333,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1672419
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22f68abea96e674bf47801d4b6f7fcfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082333,
+            "locality_id":9895006215,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006215,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Dartmouth Estates",
+    "wof:parent_id":102082333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.40076299619327,
+    33.55150709142461,
+    -84.40076299619327,
+    33.55150709142461
+],
+  "geometry": {"coordinates":[-84.40076299619327,33.55150709142461],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895002360,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.34782695514923,42.258677637114694,-79.34782695514923,42.258677637114694",
+    "geom:latitude":42.258678,
+    "geom:longitude":-79.347827,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 946326: name \"Centralia\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/946326"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 946326: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/946326"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 946326: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/946326"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404522099 (Stockton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404522099 (Stockton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Centralia"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102081811,
+        102191575,
+        404522099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":946326
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e9e92991dce86a2a8c0223f77042e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081811,
+            "localadmin_id":404522099,
+            "locality_id":9895002360,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002360,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Centralia",
+    "wof:parent_id":404522099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.34782695514923,
+    42.258677637114694,
+    -79.34782695514923,
+    42.258677637114694
+],
+  "geometry": {"coordinates":[-79.34782695514923,42.258677637114694],"type":"Point"}
+}

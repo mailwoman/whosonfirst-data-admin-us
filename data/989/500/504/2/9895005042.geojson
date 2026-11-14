@@ -1,0 +1,82 @@
+{
+  "id": 9895005042,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.00162143621098,41.323003790463325,-112.00162143621098,41.323003790463325",
+    "geom:latitude":41.323004,
+    "geom:longitude":-112.001621,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453522: name \"Buena Vista\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453522"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453522: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453522"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453522: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453522"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728025 (Pleasant View).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728025 (Pleasant View), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Buena Vista"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728025,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453522
+    },
+    "wof:country":"US",
+    "wof:geomhash":"08215d01b5a2103a78dbd6872dcfe2fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728025,
+            "neighbourhood_id":9895005042,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005042,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Buena Vista",
+    "wof:parent_id":101728025,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.00162143621098,
+    41.323003790463325,
+    -112.00162143621098,
+    41.323003790463325
+],
+  "geometry": {"coordinates":[-112.00162143621098,41.323003790463325],"type":"Point"}
+}

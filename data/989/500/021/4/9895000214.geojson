@@ -1,0 +1,82 @@
+{
+  "id": 9895000214,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.06205404100761,32.33480141108726,-111.06205404100761,32.33480141108726",
+    "geom:latitude":32.334801,
+    "geom:longitude":-111.062054,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 24480: name \"Kino\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/24480"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 24480: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/24480"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 24480: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/24480"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85917263 (Marana).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85917263 (Marana), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kino"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688719,
+        85917263,
+        102081135,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":24480
+    },
+    "wof:country":"US",
+    "wof:geomhash":"edd1528077cc00d5014c8c591d40131f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081135,
+            "locality_id":85917263,
+            "neighbourhood_id":9895000214,
+            "region_id":85688719
+        }
+    ],
+    "wof:id":9895000214,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Kino",
+    "wof:parent_id":85917263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.06205404100761,
+    32.33480141108726,
+    -111.06205404100761,
+    32.33480141108726
+],
+  "geometry": {"coordinates":[-111.06205404100761,32.33480141108726],"type":"Point"}
+}

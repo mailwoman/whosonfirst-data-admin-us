@@ -1,0 +1,82 @@
+{
+  "id": 9895000526,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.56887962051565,33.63344212736846,-86.56887962051565,33.63344212736846",
+    "geom:latitude":33.633442,
+    "geom:longitude":-86.56888,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144026: name \"Breakstone Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144026"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144026: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144026"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144026: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144026"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913473 (Trussville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913473 (Trussville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Breakstone Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913473,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":144026
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f5d5b4888e956ad2a63a5efb1f4068f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85913473,
+            "neighbourhood_id":9895000526,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000526,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Breakstone Village",
+    "wof:parent_id":85913473,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.56887962051565,
+    33.63344212736846,
+    -86.56887962051565,
+    33.63344212736846
+],
+  "geometry": {"coordinates":[-86.56887962051565,33.63344212736846],"type":"Point"}
+}

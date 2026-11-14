@@ -1,0 +1,82 @@
+{
+  "id": 9895006298,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.05247544323997,37.62521605807774,-122.05247544323997,37.62521605807774",
+    "geom:latitude":37.625216,
+    "geom:longitude":-122.052475,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682699: name \"Halvern\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682699"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682699: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682699"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682699: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682699"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921895 (Hayward).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921895 (Hayward), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Halvern"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85921895,
+        102086959,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1682699
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c0b65e60d1694a67295c23e3535016f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921895,
+            "neighbourhood_id":9895006298,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006298,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Halvern",
+    "wof:parent_id":85921895,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.05247544323997,
+    37.62521605807774,
+    -122.05247544323997,
+    37.62521605807774
+],
+  "geometry": {"coordinates":[-122.05247544323997,37.62521605807774],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006560,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.62216007342,33.80677913821343,-84.62216007342,33.80677913821343",
+    "geom:latitude":33.806779,
+    "geom:longitude":-84.62216,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1704756: name \"Cheyenne Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1704756"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1704756: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1704756"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1704756: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1704756"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936127 (Austell).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936127 (Austell), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cheyenne Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936127,
+        102082313,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1704756
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec0acc8ee2666ee90a8be5728f15eaf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936127,
+            "neighbourhood_id":9895006560,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006560,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Cheyenne Estates",
+    "wof:parent_id":85936127,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.62216007342,
+    33.80677913821343,
+    -84.62216007342,
+    33.80677913821343
+],
+  "geometry": {"coordinates":[-84.62216007342,33.80677913821343],"type":"Point"}
+}

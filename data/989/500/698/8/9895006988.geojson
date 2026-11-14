@@ -1,0 +1,82 @@
+{
+  "id": 9895006988,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.65791952674715,36.31745510502511,-119.65791952674715,36.31745510502511",
+    "geom:latitude":36.317455,
+    "geom:longitude":-119.65792,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1809193: name \"Fort Roosevelt\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1809193"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1809193: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1809193"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1809193: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1809193"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921955 (Hanford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921955 (Hanford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fort Roosevelt"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85921955,
+        102087583,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1809193
+    },
+    "wof:country":"US",
+    "wof:geomhash":"484053577bbcd971cefc12936f585eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087583,
+            "locality_id":85921955,
+            "neighbourhood_id":9895006988,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006988,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Fort Roosevelt",
+    "wof:parent_id":85921955,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.65791952674715,
+    36.31745510502511,
+    -119.65791952674715,
+    36.31745510502511
+],
+  "geometry": {"coordinates":[-119.65791952674715,36.31745510502511],"type":"Point"}
+}

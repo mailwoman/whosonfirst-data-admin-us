@@ -1,0 +1,80 @@
+{
+  "id": 9895000334,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.7416374166233,34.19315727688416,-85.7416374166233,34.19315727688416",
+    "geom:latitude":34.193157,
+    "geom:longitude":-85.741637,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136902: name \"Griffin\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136902"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136902: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136902"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136902: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136902"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085467 (Cherokee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085467 (Cherokee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Griffin"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085467,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":136902
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ea88cd3d5c258e49058fc68bc33d4a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085467,
+            "locality_id":9895000334,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000334,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Griffin",
+    "wof:parent_id":102085467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.7416374166233,
+    34.19315727688416,
+    -85.7416374166233,
+    34.19315727688416
+],
+  "geometry": {"coordinates":[-85.7416374166233,34.19315727688416],"type":"Point"}
+}

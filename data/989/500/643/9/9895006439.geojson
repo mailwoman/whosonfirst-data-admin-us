@@ -1,0 +1,82 @@
+{
+  "id": 9895006439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.04081753775154,39.56594231919464,-77.04081753775154,39.56594231919464",
+    "geom:latitude":39.565942,
+    "geom:longitude":-77.040818,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695901: name \"The Fairways at Wakefield\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695901"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695901: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695901"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695901: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695901"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949353 (Westminster).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949353 (Westminster), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "The Fairways at Wakefield"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949353,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695901
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ff2a6559a82ddcbdeed59d16f37e796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "neighbourhood_id":9895006439,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006439,
+    "wof:lastmodified":1794681141,
+    "wof:name":"The Fairways at Wakefield",
+    "wof:parent_id":85949353,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.04081753775154,
+    39.56594231919464,
+    -77.04081753775154,
+    39.56594231919464
+],
+  "geometry": {"coordinates":[-77.04081753775154,39.56594231919464],"type":"Point"}
+}

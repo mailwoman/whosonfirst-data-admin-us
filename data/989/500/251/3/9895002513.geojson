@@ -1,0 +1,82 @@
+{
+  "id": 9895002513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.42144924221078,35.70042389755885,-80.42144924221078,35.70042389755885",
+    "geom:latitude":35.700424,
+    "geom:longitude":-80.421449,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001888: name \"Oakland Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001888"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001888: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001888"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001888: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001888"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980239 (Spencer).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980239 (Spencer), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oakland Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980239,
+        102087731,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1001888
+    },
+    "wof:country":"US",
+    "wof:geomhash":"627a6c2c1a4bbfc0cc0612c8e37fa8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087731,
+            "locality_id":85980239,
+            "neighbourhood_id":9895002513,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002513,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Oakland Park",
+    "wof:parent_id":85980239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.42144924221078,
+    35.70042389755885,
+    -80.42144924221078,
+    35.70042389755885
+],
+  "geometry": {"coordinates":[-80.42144924221078,35.70042389755885],"type":"Point"}
+}

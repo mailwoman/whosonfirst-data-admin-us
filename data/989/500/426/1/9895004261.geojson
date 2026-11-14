@@ -1,0 +1,82 @@
+{
+  "id": 9895004261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.08328822731121,41.14161636380262,-112.08328822731121,41.14161636380262",
+    "geom:latitude":41.141616,
+    "geom:longitude":-112.083288,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451486: name \"Hatch\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451486"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451486: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451486"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451486: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451486"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727905 (Clinton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727905 (Clinton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hatch"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727905,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451486
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bee06f194efca2e13261ebdb51c9f73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727905,
+            "neighbourhood_id":9895004261,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004261,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Hatch",
+    "wof:parent_id":101727905,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.08328822731121,
+    41.14161636380262,
+    -112.08328822731121,
+    41.14161636380262
+],
+  "geometry": {"coordinates":[-112.08328822731121,41.14161636380262],"type":"Point"}
+}

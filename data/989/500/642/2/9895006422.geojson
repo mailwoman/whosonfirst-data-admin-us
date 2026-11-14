@@ -1,0 +1,80 @@
+{
+  "id": 9895006422,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.8530348875522,39.709832454304944,-76.8530348875522,39.709832454304944",
+    "geom:latitude":39.709832,
+    "geom:longitude":-76.853035,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695496: name \"Leatherwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695496"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695496: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695496"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695496: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695496"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082717 (Carroll).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082717 (Carroll), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Leatherwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695496
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81e1d06f867a4c169f8b7376d138e0bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":9895006422,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006422,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Leatherwood",
+    "wof:parent_id":102082717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.8530348875522,
+    39.709832454304944,
+    -76.8530348875522,
+    39.709832454304944
+],
+  "geometry": {"coordinates":[-76.8530348875522,39.709832454304944],"type":"Point"}
+}

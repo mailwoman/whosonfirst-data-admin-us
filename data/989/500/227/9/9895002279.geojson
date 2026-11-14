@@ -1,0 +1,82 @@
+{
+  "id": 9895002279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-114.02929158805502,48.09551713693971,-114.02929158805502,48.09551713693971",
+    "geom:latitude":48.095517,
+    "geom:longitude":-114.029292,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 791788: name \"Swan River\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/791788"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 791788: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/791788"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 791788: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/791788"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85973295 (Bigfork).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85973295 (Bigfork), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Swan River"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        85973295,
+        102085177,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":791788
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e2e5f7bf3664fd1b9e4b60be955c8936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85973295,
+            "neighbourhood_id":9895002279,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895002279,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Swan River",
+    "wof:parent_id":85973295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.02929158805502,
+    48.09551713693971,
+    -114.02929158805502,
+    48.09551713693971
+],
+  "geometry": {"coordinates":[-114.02929158805502,48.09551713693971],"type":"Point"}
+}

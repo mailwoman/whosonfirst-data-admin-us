@@ -1,0 +1,82 @@
+{
+  "id": 9895001888,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.0691100862606,38.79040109902222,-76.0691100862606,38.79040109902222",
+    "geom:latitude":38.790401,
+    "geom:longitude":-76.06911,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 592952: name \"Talbot Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/592952"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 592952: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/592952"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 592952: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/592952"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949443 (Easton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949443 (Easton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Talbot Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949443,
+        102082179,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":592952
+    },
+    "wof:country":"US",
+    "wof:geomhash":"601a6bbc02082271b6266a3f7ed70c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082179,
+            "locality_id":85949443,
+            "neighbourhood_id":9895001888,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001888,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Talbot Village",
+    "wof:parent_id":85949443,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.0691100862606,
+    38.79040109902222,
+    -76.0691100862606,
+    38.79040109902222
+],
+  "geometry": {"coordinates":[-76.0691100862606,38.79040109902222],"type":"Point"}
+}

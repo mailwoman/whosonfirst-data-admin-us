@@ -1,0 +1,80 @@
+{
+  "id": 9895001490,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.12435657152383,42.116947229132094,-92.12435657152383,42.116947229132094",
+    "geom:latitude":42.116947,
+    "geom:longitude":-92.124357,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 465541: name \"Geneva\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/465541"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 465541: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/465541"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 465541: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/465541"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086267 (Benton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086267 (Benton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Geneva"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688713,
+        102086267,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":465541
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7cbdb683402d806f70fef6c0875d0bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086267,
+            "locality_id":9895001490,
+            "region_id":85688713
+        }
+    ],
+    "wof:id":9895001490,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Geneva",
+    "wof:parent_id":102086267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.12435657152383,
+    42.116947229132094,
+    -92.12435657152383,
+    42.116947229132094
+],
+  "geometry": {"coordinates":[-92.12435657152383,42.116947229132094],"type":"Point"}
+}

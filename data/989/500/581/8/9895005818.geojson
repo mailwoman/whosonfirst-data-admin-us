@@ -1,0 +1,82 @@
+{
+  "id": 9895005818,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.3998676667883,36.3017798473104,-82.3998676667883,36.3017798473104",
+    "geom:latitude":36.30178,
+    "geom:longitude":-82.399868,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640416: name \"Ramblewood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640416"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640416: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640416"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640416: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640416"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722757 (Johnson City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722757 (Johnson City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ramblewood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722757,
+        102086335,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1640416
+    },
+    "wof:country":"US",
+    "wof:geomhash":"45ba878b8d6685c58b0d33f35a8495b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":9895005818,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895005818,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Ramblewood",
+    "wof:parent_id":101722757,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.3998676667883,
+    36.3017798473104,
+    -82.3998676667883,
+    36.3017798473104
+],
+  "geometry": {"coordinates":[-82.3998676667883,36.3017798473104],"type":"Point"}
+}

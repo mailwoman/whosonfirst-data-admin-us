@@ -1,0 +1,80 @@
+{
+  "id": 9895000899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.58917736542718,39.904993599590135,-105.58917736542718,39.904993599590135",
+    "geom:latitude":39.904994,
+    "geom:longitude":-105.589177,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 181024: name \"Tolland\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/181024"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 181024: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/181024"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 181024: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/181024"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086133 (Gilpin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086133 (Gilpin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tolland"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102086133,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":181024
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f2673c4ec05270b5626f36369f3a66d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086133,
+            "locality_id":9895000899,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000899,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Tolland",
+    "wof:parent_id":102086133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.58917736542718,
+    39.904993599590135,
+    -105.58917736542718,
+    39.904993599590135
+],
+  "geometry": {"coordinates":[-105.58917736542718,39.904993599590135],"type":"Point"}
+}

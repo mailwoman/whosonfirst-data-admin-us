@@ -1,0 +1,82 @@
+{
+  "id": 9895007209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.41415467968751,25.91925163593624,-97.41415467968751,25.91925163593624",
+    "geom:latitude":25.919252,
+    "geom:longitude":-97.414155,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2010204: name \"Reid Hope King Colonia\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2010204"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2010204: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2010204"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2010204: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2010204"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101726711 (Reid Hope King).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101726711 (Reid Hope King), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Reid Hope King Colonia"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        101726711,
+        102086761,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2010204
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2bca457e5b7a19f8cebcc10354a4ea51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086761,
+            "locality_id":101726711,
+            "neighbourhood_id":9895007209,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007209,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Reid Hope King Colonia",
+    "wof:parent_id":101726711,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.41415467968751,
+    25.91925163593624,
+    -97.41415467968751,
+    25.91925163593624
+],
+  "geometry": {"coordinates":[-97.41415467968751,25.91925163593624],"type":"Point"}
+}

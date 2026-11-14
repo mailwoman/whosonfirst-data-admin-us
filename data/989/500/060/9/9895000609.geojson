@@ -1,0 +1,82 @@
+{
+  "id": 9895000609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.63805510492656,34.76204165939379,-86.63805510492656,34.76204165939379",
+    "geom:latitude":34.762042,
+    "geom:longitude":-86.638055,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147182: name \"Parkwood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147182"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147182: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147182"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147182: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147182"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913601 (Huntsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913601 (Huntsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Parkwood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913601,
+        102085487,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147182
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fcff3fa9b1737ef20d3fd04394329e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085487,
+            "locality_id":85913601,
+            "neighbourhood_id":9895000609,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000609,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Parkwood Estates",
+    "wof:parent_id":85913601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.63805510492656,
+    34.76204165939379,
+    -86.63805510492656,
+    34.76204165939379
+],
+  "geometry": {"coordinates":[-86.63805510492656,34.76204165939379],"type":"Point"}
+}

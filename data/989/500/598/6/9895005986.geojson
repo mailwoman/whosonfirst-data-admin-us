@@ -1,0 +1,82 @@
+{
+  "id": 9895005986,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.20004701627991,32.83283067302209,-117.20004701627991,32.83283067302209",
+    "geom:latitude":32.832831,
+    "geom:longitude":-117.200047,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661113: name \"North Clairemont\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661113"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661113: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661113"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661113: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661113"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922227 (San Diego).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922227 (San Diego), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North Clairemont"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922227,
+        102083569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661113
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9720f7381d7e664a87671bb2bd2b7cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":9895005986,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005986,
+    "wof:lastmodified":1794681139,
+    "wof:name":"North Clairemont",
+    "wof:parent_id":85922227,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.20004701627991,
+    32.83283067302209,
+    -117.20004701627991,
+    32.83283067302209
+],
+  "geometry": {"coordinates":[-117.20004701627991,32.83283067302209],"type":"Point"}
+}

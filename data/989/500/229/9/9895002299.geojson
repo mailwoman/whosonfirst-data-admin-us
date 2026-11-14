@@ -1,0 +1,84 @@
+{
+  "id": 9895002299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.81266850803114,39.067343499734235,-74.81266850803114,39.067343499734235",
+    "geom:latitude":39.067343,
+    "geom:longitude":-74.812669,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 874676: name \"Bennys Landing\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/874676"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 874676: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/874676"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 874676: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/874676"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85976223 (Cape May Court House).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85976223 (Cape May Court House), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bennys Landing"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        85976223,
+        102086777,
+        102191575,
+        404477949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":874676
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ecd0542e51126f32d2d58daedee15a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086777,
+            "localadmin_id":404477949,
+            "locality_id":85976223,
+            "neighbourhood_id":9895002299,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895002299,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Bennys Landing",
+    "wof:parent_id":85976223,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.81266850803114,
+    39.067343499734235,
+    -74.81266850803114,
+    39.067343499734235
+],
+  "geometry": {"coordinates":[-74.81266850803114,39.067343499734235],"type":"Point"}
+}

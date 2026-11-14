@@ -1,0 +1,82 @@
+{
+  "id": 9895004327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.00967335141121,40.70189672121719,-112.00967335141121,40.70189672121719",
+    "geom:latitude":40.701897,
+    "geom:longitude":-112.009673,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451606: name \"Lakato Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451606"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451606: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451606"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451606: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451606"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728063 (West Valley City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728063 (West Valley City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lakato Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728063,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451606
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a8c8119d3782c6ff9a3d4dd13b0f6a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":9895004327,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004327,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Lakato Estates",
+    "wof:parent_id":101728063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.00967335141121,
+    40.70189672121719,
+    -112.00967335141121,
+    40.70189672121719
+],
+  "geometry": {"coordinates":[-112.00967335141121,40.70189672121719],"type":"Point"}
+}

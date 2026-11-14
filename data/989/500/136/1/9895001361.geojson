@@ -1,0 +1,84 @@
+{
+  "id": 9895001361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.60835929541723,40.30837727971492,-87.60835929541723,40.30837727971492",
+    "geom:latitude":40.308377,
+    "geom:longitude":-87.608359,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 403476: name \"Village of Alvan (Alvin)\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/403476"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 403476: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/403476"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 403476: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/403476"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85941103 (Alvan).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85941103 (Alvan), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Village of Alvan (Alvin)"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85941103,
+        102083507,
+        102191575,
+        404499205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":403476
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd5a77188ff2f0a88bd2e340d77bc5bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083507,
+            "localadmin_id":404499205,
+            "locality_id":85941103,
+            "neighbourhood_id":9895001361,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001361,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Village of Alvan (Alvin)",
+    "wof:parent_id":85941103,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.60835929541723,
+    40.30837727971492,
+    -87.60835929541723,
+    40.30837727971492
+],
+  "geometry": {"coordinates":[-87.60835929541723,40.30837727971492],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006688,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.72747030132932,38.94456370616442,-76.72747030132932,38.94456370616442",
+    "geom:latitude":38.944564,
+    "geom:longitude":-76.72747,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1714511: name \"Pin Oak Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1714511"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1714511: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1714511"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1714511: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1714511"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949339 (Bowie).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949339 (Bowie), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pin Oak Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949339,
+        102082191,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1714511
+    },
+    "wof:country":"US",
+    "wof:geomhash":"21dc5c01f486ded068c1fef2271a26d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949339,
+            "neighbourhood_id":9895006688,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006688,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Pin Oak Village",
+    "wof:parent_id":85949339,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.72747030132932,
+    38.94456370616442,
+    -76.72747030132932,
+    38.94456370616442
+],
+  "geometry": {"coordinates":[-76.72747030132932,38.94456370616442],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895008101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.05890091758988,41.80945013879216,-112.05890091758988,41.80945013879216",
+    "geom:latitude":41.80945,
+    "geom:longitude":-112.058901,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2831468: name \"Beaver Dam\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2831468"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2831468: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2831468"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2831468: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2831468"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080861 (Box Elder).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080861 (Box Elder), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Beaver Dam"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        102080861,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2831468
+    },
+    "wof:country":"US",
+    "wof:geomhash":"172e9010c4e4292a7ebc0bb1ac3d6477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080861,
+            "locality_id":9895008101,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895008101,
+    "wof:lastmodified":1794681146,
+    "wof:name":"Beaver Dam",
+    "wof:parent_id":102080861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.05890091758988,
+    41.80945013879216,
+    -112.05890091758988,
+    41.80945013879216
+],
+  "geometry": {"coordinates":[-112.05890091758988,41.80945013879216],"type":"Point"}
+}

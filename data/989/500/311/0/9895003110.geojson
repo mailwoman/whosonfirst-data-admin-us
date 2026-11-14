@@ -1,0 +1,80 @@
+{
+  "id": 9895003110,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.68012748721756,35.249565817062944,-82.68012748721756,35.249565817062944",
+    "geom:latitude":35.249566,
+    "geom:longitude":-82.680127,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017716: name \"Patton Mountain Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017716"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017716: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017716"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017716: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017716"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087629 (Transylvania).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087629 (Transylvania), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Patton Mountain Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087629,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1017716
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c5c7c9e991c03fc642bf3ca709de743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087629,
+            "locality_id":9895003110,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003110,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Patton Mountain Estates",
+    "wof:parent_id":102087629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.68012748721756,
+    35.249565817062944,
+    -82.68012748721756,
+    35.249565817062944
+],
+  "geometry": {"coordinates":[-82.68012748721756,35.249565817062944],"type":"Point"}
+}

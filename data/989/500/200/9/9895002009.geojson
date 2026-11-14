@@ -1,0 +1,82 @@
+{
+  "id": 9895002009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.51916373242857,47.12163200109913,-94.51916373242857,47.12163200109913",
+    "geom:latitude":47.121632,
+    "geom:longitude":-94.519164,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 659311: name \"Baker\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/659311"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 659311: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/659311"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 659311: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/659311"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404511765 (Turtle Lake Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404511765 (Turtle Lake Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Baker"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688727,
+        102087905,
+        102191575,
+        404511765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":659311
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eab6babca4126d17553c021caff8fb81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511765,
+            "locality_id":9895002009,
+            "region_id":85688727
+        }
+    ],
+    "wof:id":9895002009,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Baker",
+    "wof:parent_id":404511765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.51916373242857,
+    47.12163200109913,
+    -94.51916373242857,
+    47.12163200109913
+],
+  "geometry": {"coordinates":[-94.51916373242857,47.12163200109913],"type":"Point"}
+}

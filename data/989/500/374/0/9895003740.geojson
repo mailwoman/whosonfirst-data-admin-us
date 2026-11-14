@@ -1,0 +1,80 @@
+{
+  "id": 9895003740,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.97203776050624,32.75796136890873,-79.97203776050624,32.75796136890873",
+    "geom:latitude":32.757961,
+    "geom:longitude":-79.972038,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1252811: name \"Dogwood Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1252811"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1252811: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1252811"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1252811: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1252811"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085591 (Charleston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085591 (Charleston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dogwood Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085591,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1252811
+    },
+    "wof:country":"US",
+    "wof:geomhash":"188bf0f7b281a9ac5d1bd8a02d2a5e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085591,
+            "locality_id":9895003740,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003740,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Dogwood Park",
+    "wof:parent_id":102085591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.97203776050624,
+    32.75796136890873,
+    -79.97203776050624,
+    32.75796136890873
+],
+  "geometry": {"coordinates":[-79.97203776050624,32.75796136890873],"type":"Point"}
+}

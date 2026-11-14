@@ -1,0 +1,80 @@
+{
+  "id": 9895003030,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.9781326815474,35.223758974972256,-80.9781326815474,35.223758974972256",
+    "geom:latitude":35.223759,
+    "geom:longitude":-80.978133,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005736: name \"Parkwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005736"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005736: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005736"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005736: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005736"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080981 (Mecklenburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080981 (Mecklenburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Parkwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080981,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005736
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef5b56b1ff687f207c1e5dac949ae465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":9895003030,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003030,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Parkwood",
+    "wof:parent_id":102080981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.9781326815474,
+    35.223758974972256,
+    -80.9781326815474,
+    35.223758974972256
+],
+  "geometry": {"coordinates":[-80.9781326815474,35.223758974972256],"type":"Point"}
+}

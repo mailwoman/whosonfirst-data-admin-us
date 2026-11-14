@@ -1,0 +1,82 @@
+{
+  "id": 9895001868,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.50107483526666,39.020396729967935,-76.50107483526666,39.020396729967935",
+    "geom:latitude":39.020397,
+    "geom:longitude":-76.501075,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 591016: name \"Pines-on-Severn\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/591016"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 591016: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/591016"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 591016: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/591016"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949699 (Arnold).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949699 (Arnold), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pines-on-Severn"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949699,
+        102083469,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":591016
+    },
+    "wof:country":"US",
+    "wof:geomhash":"635b1f783d70663c3f287cb08bace0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949699,
+            "neighbourhood_id":9895001868,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001868,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Pines-on-Severn",
+    "wof:parent_id":85949699,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.50107483526666,
+    39.020396729967935,
+    -76.50107483526666,
+    39.020396729967935
+],
+  "geometry": {"coordinates":[-76.50107483526666,39.020396729967935],"type":"Point"}
+}

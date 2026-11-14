@@ -1,0 +1,80 @@
+{
+  "id": 9895000323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.49332592331433,34.06760342115346,-86.49332592331433,34.06760342115346",
+    "geom:latitude":34.067603,
+    "geom:longitude":-86.493326,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 125668: name \"Riverside\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/125668"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 125668: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/125668"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 125668: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/125668"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085667 (Blount).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085667 (Blount), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Riverside"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085667,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":125668
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6156f29b94773edf500e62eb1fe4f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085667,
+            "locality_id":9895000323,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000323,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Riverside",
+    "wof:parent_id":102085667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.49332592331433,
+    34.06760342115346,
+    -86.49332592331433,
+    34.06760342115346
+],
+  "geometry": {"coordinates":[-86.49332592331433,34.06760342115346],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006074,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.18841767999702,34.081403962217784,-118.18841767999702,34.081403962217784",
+    "geom:latitude":34.081404,
+    "geom:longitude":-118.188418,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1669890: name \"Omaha Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1669890"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1669890: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1669890"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1669890: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1669890"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923517 (Los Angeles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923517 (Los Angeles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Omaha Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923517,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1669890
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d41a8fecc9ef96edeca1a1837c837447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":9895006074,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006074,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Omaha Heights",
+    "wof:parent_id":85923517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.18841767999702,
+    34.081403962217784,
+    -118.18841767999702,
+    34.081403962217784
+],
+  "geometry": {"coordinates":[-118.18841767999702,34.081403962217784],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895002733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.27863151915587,36.0812564197408,-79.27863151915587,36.0812564197408",
+    "geom:latitude":36.081256,
+    "geom:longitude":-79.278632,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1003498: name \"Buena Vista Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1003498"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1003498: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1003498"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1003498: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1003498"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980697 (Mebane).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980697 (Mebane), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Buena Vista Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980697,
+        102087643,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1003498
+    },
+    "wof:country":"US",
+    "wof:geomhash":"348567773da318ede8d6e219af0dbe9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087643,
+            "locality_id":85980697,
+            "neighbourhood_id":9895002733,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002733,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Buena Vista Estates",
+    "wof:parent_id":85980697,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.27863151915587,
+    36.0812564197408,
+    -79.27863151915587,
+    36.0812564197408
+],
+  "geometry": {"coordinates":[-79.27863151915587,36.0812564197408],"type":"Point"}
+}

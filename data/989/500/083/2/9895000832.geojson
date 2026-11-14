@@ -1,0 +1,82 @@
+{
+  "id": 9895000832,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.83605379802339,31.337676257615584,-85.83605379802339,31.337676257615584",
+    "geom:latitude":31.337676,
+    "geom:longitude":-85.836054,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155771: name \"Olivers Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155771"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155771: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155771"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155771: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155771"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85899527 (Enterprise).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85899527 (Enterprise), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Olivers Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85899527,
+        102085699,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":155771
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9547b1ef46eaa7b009d3d38d6f0cf63a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085699,
+            "locality_id":85899527,
+            "neighbourhood_id":9895000832,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000832,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Olivers Lake",
+    "wof:parent_id":85899527,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.83605379802339,
+    31.337676257615584,
+    -85.83605379802339,
+    31.337676257615584
+],
+  "geometry": {"coordinates":[-85.83605379802339,31.337676257615584],"type":"Point"}
+}

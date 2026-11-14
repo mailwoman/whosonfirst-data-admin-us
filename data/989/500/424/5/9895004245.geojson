@@ -1,0 +1,82 @@
+{
+  "id": 9895004245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.06939942141585,41.12133856326509,-112.06939942141585,41.12133856326509",
+    "geom:latitude":41.121339,
+    "geom:longitude":-112.069399,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451469: name \"Brimhall Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451469"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451469: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451469"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451469: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451469"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727885 (West Point).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727885 (West Point), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brimhall Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727885,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451469
+    },
+    "wof:country":"US",
+    "wof:geomhash":"587c8a5782f9fca910cab91aa78bcb83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727885,
+            "neighbourhood_id":9895004245,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004245,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Brimhall Estates",
+    "wof:parent_id":101727885,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.06939942141585,
+    41.12133856326509,
+    -112.06939942141585,
+    41.12133856326509
+],
+  "geometry": {"coordinates":[-112.06939942141585,41.12133856326509],"type":"Point"}
+}

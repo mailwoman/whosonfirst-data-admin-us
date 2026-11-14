@@ -1,0 +1,82 @@
+{
+  "id": 9895004890,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.00912061711857,41.17717267421285,-112.00912061711857,41.17717267421285",
+    "geom:latitude":41.177173,
+    "geom:longitude":-112.009121,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453253: name \"Apple Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453253"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453253: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453253"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453253: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453253"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728031 (Riverdale).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728031 (Riverdale), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Apple Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728031,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453253
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb9f5432cbc86c95750bafe370b3eb41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728031,
+            "neighbourhood_id":9895004890,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004890,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Apple Park",
+    "wof:parent_id":101728031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.00912061711857,
+    41.17717267421285,
+    -112.00912061711857,
+    41.17717267421285
+],
+  "geometry": {"coordinates":[-112.00912061711857,41.17717267421285],"type":"Point"}
+}

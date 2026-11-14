@@ -1,0 +1,82 @@
+{
+  "id": 9895002959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.42700276653608,36.107089083227464,-80.42700276653608,36.107089083227464",
+    "geom:latitude":36.107089,
+    "geom:longitude":-80.427003,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005512: name \"Eaglewood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005512"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005512: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005512"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005512: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005512"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980707 (Lewisville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980707 (Lewisville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Eaglewood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980707,
+        102080957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005512
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ffbb246082996dc0686a31d1cef1db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080957,
+            "locality_id":85980707,
+            "neighbourhood_id":9895002959,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002959,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Eaglewood",
+    "wof:parent_id":85980707,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.42700276653608,
+    36.107089083227464,
+    -80.42700276653608,
+    36.107089083227464
+],
+  "geometry": {"coordinates":[-80.42700276653608,36.107089083227464],"type":"Point"}
+}

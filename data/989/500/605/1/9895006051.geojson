@@ -1,0 +1,82 @@
+{
+  "id": 9895006051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.34491733685512,38.39290124344896,-75.34491733685512,38.39290124344896",
+    "geom:latitude":38.392901,
+    "geom:longitude":-75.344917,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668488: name \"Parkview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668488"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668488: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668488"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668488: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668488"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949173 (Willards).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949173 (Willards), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Parkview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949173,
+        102082715,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1668488
+    },
+    "wof:country":"US",
+    "wof:geomhash":"13d04e88d1e285d7c3737fdffaef01c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949173,
+            "neighbourhood_id":9895006051,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006051,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Parkview",
+    "wof:parent_id":85949173,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.34491733685512,
+    38.39290124344896,
+    -75.34491733685512,
+    38.39290124344896
+],
+  "geometry": {"coordinates":[-75.34491733685512,38.39290124344896],"type":"Point"}
+}

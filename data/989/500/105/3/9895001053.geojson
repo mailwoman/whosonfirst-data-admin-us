@@ -1,0 +1,82 @@
+{
+  "id": 9895001053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.23699589757474,25.92065422225751,-80.23699589757474,25.92065422225751",
+    "geom:latitude":25.920654,
+    "geom:longitude":-80.236996,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 279670: name \"Bunche Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/279670"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 279670: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/279670"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 279670: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/279670"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933675 (Miami Gardens).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933675 (Miami Gardens), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bunche Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933675,
+        102085771,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":279670
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9cc13cdc6b767c9efadcd9f92135daed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933675,
+            "neighbourhood_id":9895001053,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001053,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Bunche Park",
+    "wof:parent_id":85933675,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.23699589757474,
+    25.92065422225751,
+    -80.23699589757474,
+    25.92065422225751
+],
+  "geometry": {"coordinates":[-80.23699589757474,25.92065422225751],"type":"Point"}
+}

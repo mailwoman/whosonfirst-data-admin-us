@@ -1,0 +1,80 @@
+{
+  "id": 9895001568,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.2156686348547,30.26603374381649,-91.2156686348547,30.26603374381649",
+    "geom:latitude":30.266034,
+    "geom:longitude":-91.215669,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 543639: name \"Saint Louis Plantation\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/543639"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 543639: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/543639"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 543639: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/543639"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082457 (Iberville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082457 (Iberville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Louis Plantation"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        102082457,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":543639
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c44e940166bd63db04b5e52342dee18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082457,
+            "locality_id":9895001568,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001568,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Saint Louis Plantation",
+    "wof:parent_id":102082457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.2156686348547,
+    30.26603374381649,
+    -91.2156686348547,
+    30.26603374381649
+],
+  "geometry": {"coordinates":[-91.2156686348547,30.26603374381649],"type":"Point"}
+}

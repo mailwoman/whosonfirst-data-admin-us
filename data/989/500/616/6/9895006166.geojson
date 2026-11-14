@@ -1,0 +1,80 @@
+{
+  "id": 9895006166,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.53232855380993,31.225512470994648,-81.53232855380993,31.225512470994648",
+    "geom:latitude":31.225512,
+    "geom:longitude":-81.532329,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671476: name \"Clover Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671476"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671476: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671476"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671476: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671476"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081695 (Glynn).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081695 (Glynn), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Clover Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102081695,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671476
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4138417a91903cd7cc47bb06ca17fcf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":9895006166,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006166,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Clover Heights",
+    "wof:parent_id":102081695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.53232855380993,
+    31.225512470994648,
+    -81.53232855380993,
+    31.225512470994648
+],
+  "geometry": {"coordinates":[-81.53232855380993,31.225512470994648],"type":"Point"}
+}

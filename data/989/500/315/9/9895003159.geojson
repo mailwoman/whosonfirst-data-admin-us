@@ -1,0 +1,82 @@
+{
+  "id": 9895003159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.46623442922453,35.32929034196432,-82.46623442922453,35.32929034196432",
+    "geom:latitude":35.32929,
+    "geom:longitude":-82.466234,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1023394: name \"Patton Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1023394"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1023394: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1023394"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1023394: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1023394"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980577 (Hendersonville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980577 (Hendersonville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Patton Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980577,
+        102080983,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1023394
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c1cba11334b5dcaa425f38b18a506118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080983,
+            "locality_id":85980577,
+            "neighbourhood_id":9895003159,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003159,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Patton Park",
+    "wof:parent_id":85980577,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.46623442922453,
+    35.32929034196432,
+    -82.46623442922453,
+    35.32929034196432
+],
+  "geometry": {"coordinates":[-82.46623442922453,35.32929034196432],"type":"Point"}
+}

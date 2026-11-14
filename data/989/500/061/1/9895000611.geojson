@@ -1,0 +1,82 @@
+{
+  "id": 9895000611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.71805792596477,34.72231974775453,-86.71805792596477,34.72231974775453",
+    "geom:latitude":34.72232,
+    "geom:longitude":-86.718058,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147216: name \"Rainbow Gap Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147216"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147216: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147216"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147216: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147216"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913593 (Madison).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913593 (Madison), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rainbow Gap Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913593,
+        102085487,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147216
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7d28d79912e43b1659e45fbd463503d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085487,
+            "locality_id":85913593,
+            "neighbourhood_id":9895000611,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000611,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Rainbow Gap Estates",
+    "wof:parent_id":85913593,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.71805792596477,
+    34.72231974775453,
+    -86.71805792596477,
+    34.72231974775453
+],
+  "geometry": {"coordinates":[-86.71805792596477,34.72231974775453],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000632,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.19858104830469,32.337090164217855,-86.19858104830469,32.337090164217855",
+    "geom:latitude":32.33709,
+    "geom:longitude":-86.198581,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147729: name \"Brighton Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147729"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147729: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147729"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147729: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147729"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brighton Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147729
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe5af23da5bd07b28bdb6c2d693c82b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000632,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000632,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Brighton Estates",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.19858104830469,
+    32.337090164217855,
+    -86.19858104830469,
+    32.337090164217855
+],
+  "geometry": {"coordinates":[-86.19858104830469,32.337090164217855],"type":"Point"}
+}

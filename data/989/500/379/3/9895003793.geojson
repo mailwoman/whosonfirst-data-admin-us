@@ -1,0 +1,80 @@
+{
+  "id": 9895003793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.33865651309827,35.19675537596871,-88.33865651309827,35.19675537596871",
+    "geom:latitude":35.196755,
+    "geom:longitude":-88.338657,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1295504: name \"New Hope\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1295504"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1295504: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1295504"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1295504: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1295504"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086329 (Hardin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086329 (Hardin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "New Hope"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086329,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1295504
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6c097579c2eb5c24dccabdc4ce37e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":9895003793,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003793,
+    "wof:lastmodified":1794681134,
+    "wof:name":"New Hope",
+    "wof:parent_id":102086329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.33865651309827,
+    35.19675537596871,
+    -88.33865651309827,
+    35.19675537596871
+],
+  "geometry": {"coordinates":[-88.33865651309827,35.19675537596871],"type":"Point"}
+}

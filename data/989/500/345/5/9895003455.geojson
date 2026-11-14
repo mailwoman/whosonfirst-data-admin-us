@@ -1,0 +1,82 @@
+{
+  "id": 9895003455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.68589536555804,34.641831596360404,-79.68589536555804,34.641831596360404",
+    "geom:latitude":34.641832,
+    "geom:longitude":-79.685895,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1232744: name \"Lakeside\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1232744"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1232744: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1232744"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1232744: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1232744"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721243 (Bennettsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721243 (Bennettsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lakeside"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721243,
+        102085627,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1232744
+    },
+    "wof:country":"US",
+    "wof:geomhash":"371b18456d5abeb05ac3811ae0cb62e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085627,
+            "locality_id":101721243,
+            "neighbourhood_id":9895003455,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003455,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Lakeside",
+    "wof:parent_id":101721243,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.68589536555804,
+    34.641831596360404,
+    -79.68589536555804,
+    34.641831596360404
+],
+  "geometry": {"coordinates":[-79.68589536555804,34.641831596360404],"type":"Point"}
+}

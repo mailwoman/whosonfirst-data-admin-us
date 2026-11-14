@@ -1,0 +1,82 @@
+{
+  "id": 9895002425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.0165908090133,43.78063095477577,-76.0165908090133,43.78063095477577",
+    "geom:latitude":43.780631,
+    "geom:longitude":-76.016591,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 972160: name \"Allendale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/972160"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 972160: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/972160"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 972160: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/972160"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404523029 (Lorraine).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404523029 (Lorraine), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Allendale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102082357,
+        102191575,
+        404523029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":972160
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cfac134eae465278a1259070c2574029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082357,
+            "localadmin_id":404523029,
+            "locality_id":9895002425,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002425,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Allendale",
+    "wof:parent_id":404523029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.0165908090133,
+    43.78063095477577,
+    -76.0165908090133,
+    43.78063095477577
+],
+  "geometry": {"coordinates":[-76.0165908090133,43.78063095477577],"type":"Point"}
+}

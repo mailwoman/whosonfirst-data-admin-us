@@ -1,0 +1,82 @@
+{
+  "id": 9895005955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.27755706091372,34.51083506300423,-117.27755706091372,34.51083506300423",
+    "geom:latitude":34.510835,
+    "geom:longitude":-117.277557,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660656: name \"Frost\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660656"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660656: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660656"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660656: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660656"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923967 (Victorville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923967 (Victorville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Frost"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923967,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1660656
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1638f7a41e096e3fedde90409ee58a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85923967,
+            "neighbourhood_id":9895005955,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005955,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Frost",
+    "wof:parent_id":85923967,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.27755706091372,
+    34.51083506300423,
+    -117.27755706091372,
+    34.51083506300423
+],
+  "geometry": {"coordinates":[-117.27755706091372,34.51083506300423],"type":"Point"}
+}

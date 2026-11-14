@@ -1,0 +1,82 @@
+{
+  "id": 9895003761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.9809242680976,32.86045939156963,-79.9809242680976,32.86045939156963",
+    "geom:latitude":32.860459,
+    "geom:longitude":-79.980924,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1253286: name \"Tillman Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1253286"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1253286: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1253286"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1253286: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1253286"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720751 (North Charleston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720751 (North Charleston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tillman Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720751,
+        102085591,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1253286
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f86b6807094d767cbe3f056648ed245a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085591,
+            "locality_id":101720751,
+            "neighbourhood_id":9895003761,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003761,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Tillman Homes",
+    "wof:parent_id":101720751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.9809242680976,
+    32.86045939156963,
+    -79.9809242680976,
+    32.86045939156963
+],
+  "geometry": {"coordinates":[-79.9809242680976,32.86045939156963],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001738,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.96479648741928,30.04770633754527,-89.96479648741928,30.04770633754527",
+    "geom:latitude":30.047706,
+    "geom:longitude":-89.964796,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559327: name \"Barrington Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559327"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559327: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559327"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559327: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559327"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948111 (New Orleans).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948111 (New Orleans), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Barrington Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948111,
+        102086693,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":559327
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d75cde8ab95f0e0d731c67008628ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":9895001738,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001738,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Barrington Park",
+    "wof:parent_id":85948111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.96479648741928,
+    30.04770633754527,
+    -89.96479648741928,
+    30.04770633754527
+],
+  "geometry": {"coordinates":[-89.96479648741928,30.04770633754527],"type":"Point"}
+}

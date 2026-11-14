@@ -1,0 +1,84 @@
+{
+  "id": 9895007767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.95522204464582,40.32321610933345,-75.95522204464582,40.32321610933345",
+    "geom:latitude":40.323216,
+    "geom:longitude":-75.955222,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2489104: name \"Wyomissing Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2489104"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2489104: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2489104"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2489104: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2489104"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101716905 (Reading).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101716905 (Reading), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wyomissing Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101716905,
+        102080991,
+        102191575,
+        404484545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2489104
+    },
+    "wof:country":"US",
+    "wof:geomhash":"998da73a3aba5fa3ee520410b08bd9a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080991,
+            "localadmin_id":404484545,
+            "locality_id":101716905,
+            "neighbourhood_id":9895007767,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895007767,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Wyomissing Park",
+    "wof:parent_id":101716905,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.95522204464582,
+    40.32321610933345,
+    -75.95522204464582,
+    40.32321610933345
+],
+  "geometry": {"coordinates":[-75.95522204464582,40.32321610933345],"type":"Point"}
+}

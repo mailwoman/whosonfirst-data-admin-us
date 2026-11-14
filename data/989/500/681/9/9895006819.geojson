@@ -1,0 +1,82 @@
+{
+  "id": 9895006819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.81624402606711,38.37982329111819,-81.81624402606711,38.37982329111819",
+    "geom:latitude":38.379823,
+    "geom:longitude":-81.816244,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1741847: name \"Belvil Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1741847"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1741847: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1741847"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1741847: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1741847"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101731773 (St. Albans).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101731773 (St. Albans), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Belvil Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        101731773,
+        102083335,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1741847
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00afb7209acd381947befd69180a9958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":9895006819,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895006819,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Belvil Park",
+    "wof:parent_id":101731773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.81624402606711,
+    38.37982329111819,
+    -81.81624402606711,
+    38.37982329111819
+],
+  "geometry": {"coordinates":[-81.81624402606711,38.37982329111819],"type":"Point"}
+}

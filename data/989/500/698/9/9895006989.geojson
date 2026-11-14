@@ -1,0 +1,82 @@
+{
+  "id": 9895006989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.22797950589175,38.036594826926546,-120.22797950589175,38.036594826926546",
+    "geom:latitude":38.036595,
+    "geom:longitude":-120.22798,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1809391: name \"Black Oak Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1809391"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1809391: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1809391"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1809391: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1809391"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85925435 (Twain Harte).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85925435 (Twain Harte), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Black Oak Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85925435,
+        102086939,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1809391
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4f40b2b7841f3df763a9acfda14128e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086939,
+            "locality_id":85925435,
+            "neighbourhood_id":9895006989,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006989,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Black Oak Estates",
+    "wof:parent_id":85925435,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.22797950589175,
+    38.036594826926546,
+    -120.22797950589175,
+    38.036594826926546
+],
+  "geometry": {"coordinates":[-120.22797950589175,38.036594826926546],"type":"Point"}
+}

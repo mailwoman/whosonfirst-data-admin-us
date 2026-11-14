@@ -1,0 +1,82 @@
+{
+  "id": 9895001316,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.91049018768189,32.45153823458437,-84.91049018768189,32.45153823458437",
+    "geom:latitude":32.451538,
+    "geom:longitude":-84.91049,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357485: name \"Taylors Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357485"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357485: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357485"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357485: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357485"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936243 (Columbus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936243 (Columbus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Taylors Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936243,
+        102084429,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357485
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82f68a1f8b3623fd24a2b5335d1d7284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":9895001316,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001316,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Taylors Woods",
+    "wof:parent_id":85936243,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.91049018768189,
+    32.45153823458437,
+    -84.91049018768189,
+    32.45153823458437
+],
+  "geometry": {"coordinates":[-84.91049018768189,32.45153823458437],"type":"Point"}
+}

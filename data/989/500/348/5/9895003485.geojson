@@ -1,0 +1,80 @@
+{
+  "id": 9895003485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.11373496466202,34.215130217889396,-82.11373496466202,34.215130217889396",
+    "geom:latitude":34.21513,
+    "geom:longitude":-82.113735,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234045: name \"Aspen Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234045"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234045: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234045"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234045: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234045"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085435 (Greenwood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085435 (Greenwood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Aspen Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085435,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1234045
+    },
+    "wof:country":"US",
+    "wof:geomhash":"760163fd80c879287037dd89573478b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085435,
+            "locality_id":9895003485,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003485,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Aspen Heights",
+    "wof:parent_id":102085435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.11373496466202,
+    34.215130217889396,
+    -82.11373496466202,
+    34.215130217889396
+],
+  "geometry": {"coordinates":[-82.11373496466202,34.215130217889396],"type":"Point"}
+}

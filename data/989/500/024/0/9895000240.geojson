@@ -1,0 +1,80 @@
+{
+  "id": 9895000240,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.92962037448598,35.21036797237661,-92.92962037448598,35.21036797237661",
+    "geom:latitude":35.210368,
+    "geom:longitude":-92.92962,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 58898: name \"Wilson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/58898"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 58898: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/58898"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 58898: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/58898"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082511 (Pope).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082511 (Pope), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wilson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        102082511,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":58898
+    },
+    "wof:country":"US",
+    "wof:geomhash":"286c42ea5e9f6e73914d77c30e733bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082511,
+            "locality_id":9895000240,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000240,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Wilson",
+    "wof:parent_id":102082511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.92962037448598,
+    35.21036797237661,
+    -92.92962037448598,
+    35.21036797237661
+],
+  "geometry": {"coordinates":[-92.92962037448598,35.21036797237661],"type":"Point"}
+}

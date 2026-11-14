@@ -1,0 +1,80 @@
+{
+  "id": 9895006801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.80940540303527,36.769046053546525,-76.80940540303527,36.769046053546525",
+    "geom:latitude":36.769046,
+    "geom:longitude":-76.809405,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740033: name \"Turner\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740033"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740033: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740033"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740033: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740033"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086709 (Isle of Wight).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086709 (Isle of Wight), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Turner"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102086709,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1740033
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6be0bf1307031e836fd70fffe583863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":9895006801,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006801,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Turner",
+    "wof:parent_id":102086709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.80940540303527,
+    36.769046053546525,
+    -76.80940540303527,
+    36.769046053546525
+],
+  "geometry": {"coordinates":[-76.80940540303527,36.769046053546525],"type":"Point"}
+}

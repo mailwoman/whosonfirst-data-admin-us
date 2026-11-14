@@ -1,0 +1,82 @@
+{
+  "id": 9895002179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.27509607335742,32.192655183806856,-90.27509607335742,32.192655183806856",
+    "geom:latitude":32.192655,
+    "geom:longitude":-90.275096,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688364: name \"Gary Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688364"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688364: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688364"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688364: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688364"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969691 (Byram).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969691 (Byram), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gary Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969691,
+        102081407,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":688364
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c514414691b776f011bed8fc2f9edf89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969691,
+            "neighbourhood_id":9895002179,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002179,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Gary Estates",
+    "wof:parent_id":85969691,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.27509607335742,
+    32.192655183806856,
+    -90.27509607335742,
+    32.192655183806856
+],
+  "geometry": {"coordinates":[-90.27509607335742,32.192655183806856],"type":"Point"}
+}

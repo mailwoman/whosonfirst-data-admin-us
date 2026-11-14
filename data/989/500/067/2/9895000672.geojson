@@ -1,0 +1,80 @@
+{
+  "id": 9895000672,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.45334194601121,33.185680498929415,-87.45334194601121,33.185680498929415",
+    "geom:latitude":33.18568,
+    "geom:longitude":-87.453342,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148020: name \"Cottonwood Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148020"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148020: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148020"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148020: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148020"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cottonwood Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148020
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2b9d2efd92cae6a5078aa0fe1b52a0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000672,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000672,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Cottonwood Park",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.45334194601121,
+    33.185680498929415,
+    -87.45334194601121,
+    33.185680498929415
+],
+  "geometry": {"coordinates":[-87.45334194601121,33.185680498929415],"type":"Point"}
+}

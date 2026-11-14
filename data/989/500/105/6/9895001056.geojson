@@ -1,0 +1,82 @@
+{
+  "id": 9895001056,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.3106105111667,25.615109643709072,-80.3106105111667,25.615109643709072",
+    "geom:latitude":25.61511,
+    "geom:longitude":-80.310611,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 281183: name \"Cutler\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/281183"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 281183: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/281183"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 281183: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/281183"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933623 (Palmetto Bay).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933623 (Palmetto Bay), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cutler"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933623,
+        102085771,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":281183
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29dd3eb949aa535d4c64442868bccb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933623,
+            "neighbourhood_id":9895001056,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001056,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Cutler",
+    "wof:parent_id":85933623,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.3106105111667,
+    25.615109643709072,
+    -80.3106105111667,
+    25.615109643709072
+],
+  "geometry": {"coordinates":[-80.3106105111667,25.615109643709072],"type":"Point"}
+}

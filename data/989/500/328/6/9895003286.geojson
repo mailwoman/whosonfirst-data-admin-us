@@ -1,0 +1,82 @@
+{
+  "id": 9895003286,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.79366631577088,41.25201253137745,-79.79366631577088,41.25201253137745",
+    "geom:latitude":41.252013,
+    "geom:longitude":-79.793666,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1185972: name \"Saint George\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1185972"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1185972: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1185972"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1185972: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1185972"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404487581 (Rockland Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404487581 (Rockland Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint George"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081279,
+        102191575,
+        404487581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1185972
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d51a14505263a178a8338254ce08adf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081279,
+            "localadmin_id":404487581,
+            "locality_id":9895003286,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003286,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Saint George",
+    "wof:parent_id":404487581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.79366631577088,
+    41.25201253137745,
+    -79.79366631577088,
+    41.25201253137745
+],
+  "geometry": {"coordinates":[-79.79366631577088,41.25201253137745],"type":"Point"}
+}

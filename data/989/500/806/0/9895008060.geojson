@@ -1,0 +1,82 @@
+{
+  "id": 9895008060,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.75900684971457,38.07400690675812,-92.75900684971457,38.07400690675812",
+    "geom:latitude":38.074007,
+    "geom:longitude":-92.759007,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807612: name \"Friedenswald\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807612"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807612: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807612"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807612: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807612"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404516525 (Osceola Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404516525 (Osceola Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Friedenswald"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102087517,
+        102191575,
+        404516525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807612
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1cd764ebb6b395c1beac883d6a4e779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087517,
+            "localadmin_id":404516525,
+            "locality_id":9895008060,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895008060,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Friedenswald",
+    "wof:parent_id":404516525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.75900684971457,
+    38.07400690675812,
+    -92.75900684971457,
+    38.07400690675812
+],
+  "geometry": {"coordinates":[-92.75900684971457,38.07400690675812],"type":"Point"}
+}

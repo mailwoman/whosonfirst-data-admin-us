@@ -1,0 +1,80 @@
+{
+  "id": 9895004033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.73239449753649,30.152714033789387,-93.73239449753649,30.152714033789387",
+    "geom:latitude":30.152714,
+    "geom:longitude":-93.732394,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1335070: name \"Echo\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1335070"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1335070: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1335070"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1335070: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1335070"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081453 (Orange).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081453 (Orange), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Echo"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102081453,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1335070
+    },
+    "wof:country":"US",
+    "wof:geomhash":"595fd40d246f476cf9f8e492a58440e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081453,
+            "locality_id":9895004033,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004033,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Echo",
+    "wof:parent_id":102081453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.73239449753649,
+    30.152714033789387,
+    -93.73239449753649,
+    30.152714033789387
+],
+  "geometry": {"coordinates":[-93.73239449753649,30.152714033789387],"type":"Point"}
+}

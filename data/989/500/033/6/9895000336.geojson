@@ -1,0 +1,80 @@
+{
+  "id": 9895000336,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.54496526115454,34.214545088882744,-85.54496526115454,34.214545088882744",
+    "geom:latitude":34.214545,
+    "geom:longitude":-85.544965,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136929: name \"Meadows Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136929"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136929: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136929"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136929: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136929"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085467 (Cherokee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085467 (Cherokee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meadows Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085467,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":136929
+    },
+    "wof:country":"US",
+    "wof:geomhash":"937c5e9404aca30075f1700b13972a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085467,
+            "locality_id":9895000336,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000336,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Meadows Estates",
+    "wof:parent_id":102085467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.54496526115454,
+    34.214545088882744,
+    -85.54496526115454,
+    34.214545088882744
+],
+  "geometry": {"coordinates":[-85.54496526115454,34.214545088882744],"type":"Point"}
+}

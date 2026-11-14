@@ -1,0 +1,82 @@
+{
+  "id": 9895001847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.82327325836114,39.61484227432147,-75.82327325836114,39.61484227432147",
+    "geom:latitude":39.614842,
+    "geom:longitude":-75.823273,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589610: name \"Windsor Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589610"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589610: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589610"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589610: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589610"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949407 (Elkton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949407 (Elkton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Windsor Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949407,
+        102082183,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":589610
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f22e015cc7c4ac6058d8e195ea67e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "locality_id":85949407,
+            "neighbourhood_id":9895001847,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001847,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Windsor Village",
+    "wof:parent_id":85949407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.82327325836114,
+    39.61484227432147,
+    -75.82327325836114,
+    39.61484227432147
+],
+  "geometry": {"coordinates":[-75.82327325836114,39.61484227432147],"type":"Point"}
+}

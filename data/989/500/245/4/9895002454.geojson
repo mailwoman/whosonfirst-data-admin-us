@@ -1,0 +1,80 @@
+{
+  "id": 9895002454,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.86470607915997,35.89155122847501,-77.86470607915997,35.89155122847501",
+    "geom:latitude":35.891551,
+    "geom:longitude":-77.864706,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 987799: name \"Joyners Crossing\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/987799"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 987799: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/987799"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 987799: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/987799"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080949 (Nash).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080949 (Nash), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Joyners Crossing"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080949,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":987799
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0dd613cee3ba12ca91e855548af288e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080949,
+            "locality_id":9895002454,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002454,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Joyners Crossing",
+    "wof:parent_id":102080949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.86470607915997,
+    35.89155122847501,
+    -77.86470607915997,
+    35.89155122847501
+],
+  "geometry": {"coordinates":[-77.86470607915997,35.89155122847501],"type":"Point"}
+}

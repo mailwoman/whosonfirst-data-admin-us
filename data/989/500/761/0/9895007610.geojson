@@ -1,0 +1,82 @@
+{
+  "id": 9895007610,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.46590340722885,28.05120519705384,-82.46590340722885,28.05120519705384",
+    "geom:latitude":28.051205,
+    "geom:longitude":-82.465903,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2482548: name \"Forest Oaks\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2482548"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2482548: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2482548"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2482548: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2482548"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931789 (Tampa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931789 (Tampa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Forest Oaks"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85931789,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2482548
+    },
+    "wof:country":"US",
+    "wof:geomhash":"43c4fdd58596c38d2485b92953dc155d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85931789,
+            "neighbourhood_id":9895007610,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007610,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Forest Oaks",
+    "wof:parent_id":85931789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.46590340722885,
+    28.05120519705384,
+    -82.46590340722885,
+    28.05120519705384
+],
+  "geometry": {"coordinates":[-82.46590340722885,28.05120519705384],"type":"Point"}
+}

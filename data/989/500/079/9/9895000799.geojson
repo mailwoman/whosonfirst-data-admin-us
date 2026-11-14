@@ -1,0 +1,80 @@
+{
+  "id": 9895000799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.93248230145531,34.7214786795929,-85.93248230145531,34.7214786795929",
+    "geom:latitude":34.721479,
+    "geom:longitude":-85.932482,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148784: name \"Riverland Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148784"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148784: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148784"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148784: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148784"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085607 (Jackson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085607 (Jackson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Riverland Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085607,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148784
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7974a4dfea1c3c274fe53069a8b789ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085607,
+            "locality_id":9895000799,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000799,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Riverland Estates",
+    "wof:parent_id":102085607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.93248230145531,
+    34.7214786795929,
+    -85.93248230145531,
+    34.7214786795929
+],
+  "geometry": {"coordinates":[-85.93248230145531,34.7214786795929],"type":"Point"}
+}

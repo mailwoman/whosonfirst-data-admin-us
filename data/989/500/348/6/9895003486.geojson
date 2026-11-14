@@ -1,0 +1,80 @@
+{
+  "id": 9895003486,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.18679258415027,34.17873940736786,-82.18679258415027,34.17873940736786",
+    "geom:latitude":34.178739,
+    "geom:longitude":-82.186793,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234055: name \"Briarcliff\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234055"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234055: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234055"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234055: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234055"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085435 (Greenwood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085435 (Greenwood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Briarcliff"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085435,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1234055
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c8d8522adea41136e95a8db20715546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085435,
+            "locality_id":9895003486,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003486,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Briarcliff",
+    "wof:parent_id":102085435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.18679258415027,
+    34.17873940736786,
+    -82.18679258415027,
+    34.17873940736786
+],
+  "geometry": {"coordinates":[-82.18679258415027,34.17873940736786],"type":"Point"}
+}

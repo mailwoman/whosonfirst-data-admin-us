@@ -1,0 +1,82 @@
+{
+  "id": 9895002481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.76562861751128,35.20903968026912,-80.76562861751128,35.20903968026912",
+    "geom:latitude":35.20904,
+    "geom:longitude":-80.765629,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001443: name \"Winterfield\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001443"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001443: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001443"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001443: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001443"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981333 (Charlotte).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981333 (Charlotte), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Winterfield"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981333,
+        102080981,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1001443
+    },
+    "wof:country":"US",
+    "wof:geomhash":"380214b89a316ef9d43a5070794021a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":9895002481,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002481,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Winterfield",
+    "wof:parent_id":85981333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.76562861751128,
+    35.20903968026912,
+    -80.76562861751128,
+    35.20903968026912
+],
+  "geometry": {"coordinates":[-80.76562861751128,35.20903968026912],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895003728,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.96926041404991,33.97821780647989,-80.96926041404991,33.97821780647989",
+    "geom:latitude":33.978218,
+    "geom:longitude":-80.96926,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249430: name \"Woodhill Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249430"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249430: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249430"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249430: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249430"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085405 (Richland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085405 (Richland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodhill Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085405,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1249430
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c7a92ed5c0ba7aee199e92a649bf8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":9895003728,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003728,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Woodhill Estates",
+    "wof:parent_id":102085405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.96926041404991,
+    33.97821780647989,
+    -80.96926041404991,
+    33.97821780647989
+],
+  "geometry": {"coordinates":[-80.96926041404991,33.97821780647989],"type":"Point"}
+}

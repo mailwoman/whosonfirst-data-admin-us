@@ -1,0 +1,80 @@
+{
+  "id": 9895005669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.20369221756702,39.56814569224881,-80.20369221756702,39.56814569224881",
+    "geom:latitude":39.568146,
+    "geom:longitude":-80.203692,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1554870: name \"Keystone\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1554870"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1554870: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1554870"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1554870: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1554870"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082601 (Marion).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082601 (Marion), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Keystone"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        102082601,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1554870
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9caa4cd8be8ef9b764ec938b6d088722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":9895005669,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895005669,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Keystone",
+    "wof:parent_id":102082601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.20369221756702,
+    39.56814569224881,
+    -80.20369221756702,
+    39.56814569224881
+],
+  "geometry": {"coordinates":[-80.20369221756702,39.56814569224881],"type":"Point"}
+}

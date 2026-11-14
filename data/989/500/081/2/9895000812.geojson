@@ -1,0 +1,82 @@
+{
+  "id": 9895000812,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.12720191565347,34.001492722076634,-86.12720191565347,34.001492722076634",
+    "geom:latitude":34.001493,
+    "geom:longitude":-86.127202,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 149109: name \"Pleasant Valley\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/149109"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 149109: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/149109"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 149109: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/149109"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914355 (Attalla).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914355 (Attalla), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pleasant Valley"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914355,
+        102085545,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":149109
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9563428e859120c9a85b33c235757ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085545,
+            "locality_id":85914355,
+            "neighbourhood_id":9895000812,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000812,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Pleasant Valley",
+    "wof:parent_id":85914355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.12720191565347,
+    34.001492722076634,
+    -86.12720191565347,
+    34.001492722076634
+],
+  "geometry": {"coordinates":[-86.12720191565347,34.001492722076634],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.16387468257298,39.65955193266466,-77.16387468257298,39.65955193266466",
+    "geom:latitude":39.659552,
+    "geom:longitude":-77.163875,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695378: name \"Roberts Mill Run\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695378"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695378: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695378"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695378: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695378"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949357 (Taneytown).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949357 (Taneytown), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Roberts Mill Run"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949357,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695378
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f8e8d813e606c1d7367f66418135a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949357,
+            "neighbourhood_id":9895006415,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006415,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Roberts Mill Run",
+    "wof:parent_id":85949357,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.16387468257298,
+    39.65955193266466,
+    -77.16387468257298,
+    39.65955193266466
+],
+  "geometry": {"coordinates":[-77.16387468257298,39.65955193266466],"type":"Point"}
+}

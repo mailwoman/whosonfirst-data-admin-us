@@ -1,0 +1,82 @@
+{
+  "id": 9895007014,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.91247070203123,37.452999153726516,-121.91247070203123,37.452999153726516",
+    "geom:latitude":37.452999,
+    "geom:longitude":-121.912471,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1828598: name \"Mobilodge of Milpitas\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1828598"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1828598: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1828598"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1828598: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1828598"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922371 (Milpitas).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922371 (Milpitas), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mobilodge of Milpitas"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922371,
+        102081673,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1828598
+    },
+    "wof:country":"US",
+    "wof:geomhash":"211e0e71cc28fba836f0e0291351ef94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922371,
+            "neighbourhood_id":9895007014,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007014,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Mobilodge of Milpitas",
+    "wof:parent_id":85922371,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.91247070203123,
+    37.452999153726516,
+    -121.91247070203123,
+    37.452999153726516
+],
+  "geometry": {"coordinates":[-121.91247070203123,37.452999153726516],"type":"Point"}
+}

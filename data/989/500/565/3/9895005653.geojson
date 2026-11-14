@@ -1,0 +1,80 @@
+{
+  "id": 9895005653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.25786190452918,47.41596653079765,-120.25786190452918,47.41596653079765",
+    "geom:latitude":47.415967,
+    "geom:longitude":-120.257862,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1530366: name \"Broadway\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1530366"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1530366: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1530366"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1530366: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1530366"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085361 (Douglas).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085361 (Douglas), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Broadway"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102085361,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1530366
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cac2d5f6155f5a1e6abe723e5b9cd023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085361,
+            "locality_id":9895005653,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005653,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Broadway",
+    "wof:parent_id":102085361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.25786190452918,
+    47.41596653079765,
+    -120.25786190452918,
+    47.41596653079765
+],
+  "geometry": {"coordinates":[-120.25786190452918,47.41596653079765],"type":"Point"}
+}

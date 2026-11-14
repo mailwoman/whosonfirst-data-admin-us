@@ -1,0 +1,82 @@
+{
+  "id": 9895006262,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.41755403125616,37.256247123006986,-80.41755403125616,37.256247123006986",
+    "geom:latitude":37.256247,
+    "geom:longitude":-80.417554,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674659: name \"Northside Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674659"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674659: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674659"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674659: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674659"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728705 (Blacksburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728705 (Blacksburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Northside Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728705,
+        102087271,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1674659
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73146e6f56680619a5445e7b28dede88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087271,
+            "locality_id":101728705,
+            "neighbourhood_id":9895006262,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006262,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Northside Park",
+    "wof:parent_id":101728705,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.41755403125616,
+    37.256247123006986,
+    -80.41755403125616,
+    37.256247123006986
+],
+  "geometry": {"coordinates":[-80.41755403125616,37.256247123006986],"type":"Point"}
+}

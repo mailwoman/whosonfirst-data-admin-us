@@ -1,0 +1,82 @@
+{
+  "id": 9895001539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.46966469566513,38.07119541496557,-84.46966469566513,38.07119541496557",
+    "geom:latitude":38.071195,
+    "geom:longitude":-84.469665,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 516981: name \"Elkhorn Parks\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/516981"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 516981: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/516981"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 516981: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/516981"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85947137 (Lexington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85947137 (Lexington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Elkhorn Parks"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688641,
+        85947137,
+        102084695,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":516981
+    },
+    "wof:country":"US",
+    "wof:geomhash":"97ad27bb24512e0945c2c4fda251c299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":9895001539,
+            "region_id":85688641
+        }
+    ],
+    "wof:id":9895001539,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Elkhorn Parks",
+    "wof:parent_id":85947137,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.46966469566513,
+    38.07119541496557,
+    -84.46966469566513,
+    38.07119541496557
+],
+  "geometry": {"coordinates":[-84.46966469566513,38.07119541496557],"type":"Point"}
+}

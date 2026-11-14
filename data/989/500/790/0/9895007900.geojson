@@ -1,0 +1,82 @@
+{
+  "id": 9895007900,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.41539822447207,40.419011231245015,-78.41539822447207,40.419011231245015",
+    "geom:latitude":40.419011,
+    "geom:longitude":-78.415398,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805540: name \"Penn Farms\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805540"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805540: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805540"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805540: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805540"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404484623 (Blair Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404484623 (Blair Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Penn Farms"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081325,
+        102191575,
+        404484623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805540
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5853e0765e8eae557ebd298581446451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081325,
+            "localadmin_id":404484623,
+            "locality_id":9895007900,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895007900,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Penn Farms",
+    "wof:parent_id":404484623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.41539822447207,
+    40.419011231245015,
+    -78.41539822447207,
+    40.419011231245015
+],
+  "geometry": {"coordinates":[-78.41539822447207,40.419011231245015],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.58885547629282,34.23482239134771,-85.58885547629282,34.23482239134771",
+    "geom:latitude":34.234822,
+    "geom:longitude":-85.588855,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136871: name \"Cornwall\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136871"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136871: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136871"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136871: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136871"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085467 (Cherokee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085467 (Cherokee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cornwall"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085467,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":136871
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d26c354d27270bfaf54d49850c6def1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085467,
+            "locality_id":9895000333,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000333,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Cornwall",
+    "wof:parent_id":102085467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.58885547629282,
+    34.23482239134771,
+    -85.58885547629282,
+    34.23482239134771
+],
+  "geometry": {"coordinates":[-85.58885547629282,34.23482239134771],"type":"Point"}
+}

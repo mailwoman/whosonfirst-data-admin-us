@@ -1,0 +1,82 @@
+{
+  "id": 9895002151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.30837479894403,33.440958419520925,-88.30837479894403,33.440958419520925",
+    "geom:latitude":33.440958,
+    "geom:longitude":-88.308375,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687849: name \"Lakeover Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687849"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687849: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687849"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687849: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687849"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85970251 (New Hope).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85970251 (New Hope), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lakeover Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85970251,
+        102081023,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":687849
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78f045ef0dbed1825e52fd335067f423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":9895002151,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002151,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Lakeover Estates",
+    "wof:parent_id":85970251,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.30837479894403,
+    33.440958419520925,
+    -88.30837479894403,
+    33.440958419520925
+],
+  "geometry": {"coordinates":[-88.30837479894403,33.440958419520925],"type":"Point"}
+}

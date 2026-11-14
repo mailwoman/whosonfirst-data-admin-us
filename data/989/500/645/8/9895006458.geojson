@@ -1,0 +1,82 @@
+{
+  "id": 9895006458,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.94091140001619,39.02622149752809,-79.94091140001619,39.02622149752809",
+    "geom:latitude":39.026221,
+    "geom:longitude":-79.940911,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1696989: name \"Alston\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1696989"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1696989: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1696989"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1696989: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1696989"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101731291 (Belington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101731291 (Belington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Alston"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        101731291,
+        102082593,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1696989
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25cbbe933042776b2c1b46dba60c5485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731291,
+            "neighbourhood_id":9895006458,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895006458,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Alston",
+    "wof:parent_id":101731291,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.94091140001619,
+    39.02622149752809,
+    -79.94091140001619,
+    39.02622149752809
+],
+  "geometry": {"coordinates":[-79.94091140001619,39.02622149752809],"type":"Point"}
+}

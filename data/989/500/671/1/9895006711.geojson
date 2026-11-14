@@ -1,0 +1,82 @@
+{
+  "id": 9895006711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.90550923879934,31.794608356433386,-85.90550923879934,31.794608356433386",
+    "geom:latitude":31.794608,
+    "geom:longitude":-85.905509,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1730418: name \"Elmhill Plantation\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1730418"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1730418: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1730418"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1730418: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1730418"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914551 (Troy).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914551 (Troy), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Elmhill Plantation"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914551,
+        102085619,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1730418
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d1efeb8d6c20c23bbbda9cd84d5b5f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085619,
+            "locality_id":85914551,
+            "neighbourhood_id":9895006711,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006711,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Elmhill Plantation",
+    "wof:parent_id":85914551,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.90550923879934,
+    31.794608356433386,
+    -85.90550923879934,
+    31.794608356433386
+],
+  "geometry": {"coordinates":[-85.90550923879934,31.794608356433386],"type":"Point"}
+}

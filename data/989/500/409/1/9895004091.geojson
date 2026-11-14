@@ -1,0 +1,80 @@
+{
+  "id": 9895004091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.76688675652335,31.94739606013671,-94.76688675652335,31.94739606013671",
+    "geom:latitude":31.947396,
+    "geom:longitude":-94.766887,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378778: name \"Oak Flat\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378778"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378778: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378778"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378778: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378778"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083199 (Rusk).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083199 (Rusk), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oak Flat"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102083199,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1378778
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b101b9315777d1d024fa745dbff03e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083199,
+            "locality_id":9895004091,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004091,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Oak Flat",
+    "wof:parent_id":102083199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.76688675652335,
+    31.94739606013671,
+    -94.76688675652335,
+    31.94739606013671
+],
+  "geometry": {"coordinates":[-94.76688675652335,31.94739606013671],"type":"Point"}
+}

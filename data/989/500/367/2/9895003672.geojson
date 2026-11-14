@@ -1,0 +1,82 @@
+{
+  "id": 9895003672,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.19787718743474,34.0934892242718,-81.19787718743474,34.0934892242718",
+    "geom:latitude":34.093489,
+    "geom:longitude":-81.197877,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1244204: name \"Hillcreek\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1244204"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1244204: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1244204"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1244204: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1244204"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720795 (Irmo).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720795 (Irmo), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hillcreek"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720795,
+        102085405,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1244204
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00785e031c5c494404cdcff495f0b90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720795,
+            "neighbourhood_id":9895003672,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003672,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Hillcreek",
+    "wof:parent_id":101720795,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.19787718743474,
+    34.0934892242718,
+    -81.19787718743474,
+    34.0934892242718
+],
+  "geometry": {"coordinates":[-81.19787718743474,34.0934892242718],"type":"Point"}
+}

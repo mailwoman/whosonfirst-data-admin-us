@@ -1,0 +1,82 @@
+{
+  "id": 9895007187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.66389531696571,35.786825279078364,-78.66389531696571,35.786825279078364",
+    "geom:latitude":35.786825,
+    "geom:longitude":-78.663895,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1951547: name \"West Raleigh\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1951547"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1951547: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1951547"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1951547: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1951547"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980569 (Raleigh).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980569 (Raleigh), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "West Raleigh"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980569,
+        102087821,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1951547
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0805b7cf09fc2623097b823788acc275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":9895007187,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895007187,
+    "wof:lastmodified":1794681143,
+    "wof:name":"West Raleigh",
+    "wof:parent_id":85980569,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.66389531696571,
+    35.786825279078364,
+    -78.66389531696571,
+    35.786825279078364
+],
+  "geometry": {"coordinates":[-78.66389531696571,35.786825279078364],"type":"Point"}
+}

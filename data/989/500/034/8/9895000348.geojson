@@ -1,0 +1,82 @@
+{
+  "id": 9895000348,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.34636539840157,32.50902959629888,-86.34636539840157,32.50902959629888",
+    "geom:latitude":32.50903,
+    "geom:longitude":-86.346365,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137281: name \"Overton Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137281"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137281: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137281"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137281: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137281"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913981 (Millbrook).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913981 (Millbrook), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Overton Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913981,
+        102085631,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":137281
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cb0f85b76b40a089fc1e4a32d97ceeb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085631,
+            "locality_id":85913981,
+            "neighbourhood_id":9895000348,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000348,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Overton Heights",
+    "wof:parent_id":85913981,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.34636539840157,
+    32.50902959629888,
+    -86.34636539840157,
+    32.50902959629888
+],
+  "geometry": {"coordinates":[-86.34636539840157,32.50902959629888],"type":"Point"}
+}

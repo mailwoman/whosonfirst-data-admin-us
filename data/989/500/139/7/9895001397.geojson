@@ -1,0 +1,84 @@
+{
+  "id": 9895001397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.68533083776745,41.59226430119311,-87.68533083776745,41.59226430119311",
+    "geom:latitude":41.592264,
+    "geom:longitude":-87.685331,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 421684: name \"University Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/421684"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 421684: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/421684"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 421684: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/421684"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940789 (Markham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940789 (Markham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "University Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940789,
+        102084317,
+        102191575,
+        404497613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":421684
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d545612218dc633a81d211f192c7247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497613,
+            "locality_id":85940789,
+            "neighbourhood_id":9895001397,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001397,
+    "wof:lastmodified":1794681125,
+    "wof:name":"University Park",
+    "wof:parent_id":85940789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.68533083776745,
+    41.59226430119311,
+    -87.68533083776745,
+    41.59226430119311
+],
+  "geometry": {"coordinates":[-87.68533083776745,41.59226430119311],"type":"Point"}
+}

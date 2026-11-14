@@ -1,0 +1,80 @@
+{
+  "id": 9895002277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.62075573235875,47.15442549643686,-109.62075573235875,47.15442549643686",
+    "geom:latitude":47.154425,
+    "geom:longitude":-109.620756,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 777067: name \"Spring Creek Colony\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/777067"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 777067: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/777067"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 777067: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/777067"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085207 (Fergus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085207 (Fergus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Spring Creek Colony"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        102085207,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":777067
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78a31f14a21ae09f458c80f1d0a944a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085207,
+            "locality_id":9895002277,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895002277,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Spring Creek Colony",
+    "wof:parent_id":102085207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.62075573235875,
+    47.15442549643686,
+    -109.62075573235875,
+    47.15442549643686
+],
+  "geometry": {"coordinates":[-109.62075573235875,47.15442549643686],"type":"Point"}
+}

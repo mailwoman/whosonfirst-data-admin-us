@@ -1,0 +1,80 @@
+{
+  "id": 9895004124,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.1193689697787,31.61740601945745,-94.1193689697787,31.61740601945745",
+    "geom:latitude":31.617406,
+    "geom:longitude":-94.119369,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1381566: name \"Calgary\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1381566"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1381566: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1381566"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1381566: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1381566"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081437 (San Augustine).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081437 (San Augustine), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Calgary"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102081437,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1381566
+    },
+    "wof:country":"US",
+    "wof:geomhash":"008f221bb532e2c30462f56799eb1ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081437,
+            "locality_id":9895004124,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004124,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Calgary",
+    "wof:parent_id":102081437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.1193689697787,
+    31.61740601945745,
+    -94.1193689697787,
+    31.61740601945745
+],
+  "geometry": {"coordinates":[-94.1193689697787,31.61740601945745],"type":"Point"}
+}

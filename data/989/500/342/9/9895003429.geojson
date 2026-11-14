@@ -1,0 +1,82 @@
+{
+  "id": 9895003429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.67343497989994,35.074023017913895,-81.67343497989994,35.074023017913895",
+    "geom:latitude":35.074023,
+    "geom:longitude":-81.673435,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228632: name \"Quail Hollow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228632"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228632: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228632"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228632: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228632"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720717 (Gaffney).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720717 (Gaffney), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Quail Hollow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720717,
+        102085403,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1228632
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d9bd1b682b17e9420c3093f5d814367e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085403,
+            "locality_id":101720717,
+            "neighbourhood_id":9895003429,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003429,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Quail Hollow",
+    "wof:parent_id":101720717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.67343497989994,
+    35.074023017913895,
+    -81.67343497989994,
+    35.074023017913895
+],
+  "geometry": {"coordinates":[-81.67343497989994,35.074023017913895],"type":"Point"}
+}

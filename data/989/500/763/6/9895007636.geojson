@@ -1,0 +1,82 @@
+{
+  "id": 9895007636,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.37100337737138,27.960705177243423,-82.37100337737138,27.960705177243423",
+    "geom:latitude":27.960705,
+    "geom:longitude":-82.371003,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2483145: name \"Madrona Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2483145"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2483145: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2483145"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2483145: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2483145"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931789 (Tampa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931789 (Tampa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Madrona Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85931789,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2483145
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b3ef42eb11f6fec80988fda55fcd31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85931789,
+            "neighbourhood_id":9895007636,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007636,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Madrona Heights",
+    "wof:parent_id":85931789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.37100337737138,
+    27.960705177243423,
+    -82.37100337737138,
+    27.960705177243423
+],
+  "geometry": {"coordinates":[-82.37100337737138,27.960705177243423],"type":"Point"}
+}

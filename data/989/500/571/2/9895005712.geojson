@@ -1,0 +1,82 @@
+{
+  "id": 9895005712,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.46889326022837,43.48142670040299,-84.46889326022837,43.48142670040299",
+    "geom:latitude":43.481427,
+    "geom:longitude":-84.468893,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1617814: name \"Redstone\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1617814"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1617814: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1617814"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1617814: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1617814"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404506253 (Porter Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404506253 (Porter Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Redstone"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688599,
+        102082997,
+        102191575,
+        404506253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1617814
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5f6c91bbc92d6366114b040b33867b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082997,
+            "localadmin_id":404506253,
+            "locality_id":9895005712,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":9895005712,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Redstone",
+    "wof:parent_id":404506253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.46889326022837,
+    43.48142670040299,
+    -84.46889326022837,
+    43.48142670040299
+],
+  "geometry": {"coordinates":[-84.46889326022837,43.48142670040299],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895005027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.96050851099558,41.207172381241904,-111.96050851099558,41.207172381241904",
+    "geom:latitude":41.207172,
+    "geom:longitude":-111.960509,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453477: name \"Madison Square Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453477"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453477: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453477"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453477: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453477"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728033 (Ogden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728033 (Ogden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Madison Square Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728033,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453477
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f20f902df4675b68a4d506c5c5abde81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":9895005027,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005027,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Madison Square Addition",
+    "wof:parent_id":101728033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.96050851099558,
+    41.207172381241904,
+    -111.96050851099558,
+    41.207172381241904
+],
+  "geometry": {"coordinates":[-111.96050851099558,41.207172381241904],"type":"Point"}
+}

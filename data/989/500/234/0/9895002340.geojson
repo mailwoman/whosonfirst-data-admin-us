@@ -1,0 +1,80 @@
+{
+  "id": 9895002340,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.37058957078426,35.22282618030005,-106.37058957078426,35.22282618030005",
+    "geom:latitude":35.222826,
+    "geom:longitude":-106.37059,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 907678: name \"La Madera\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/907678"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 907678: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/907678"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 907678: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/907678"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081569 (Sandoval).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081569 (Sandoval), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "La Madera"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":907678
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73b652a3e36cd40f01dc5212242eab09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081569,
+            "locality_id":9895002340,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002340,
+    "wof:lastmodified":1794681129,
+    "wof:name":"La Madera",
+    "wof:parent_id":102081569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.37058957078426,
+    35.22282618030005,
+    -106.37058957078426,
+    35.22282618030005
+],
+  "geometry": {"coordinates":[-106.37058957078426,35.22282618030005],"type":"Point"}
+}

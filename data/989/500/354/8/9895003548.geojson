@@ -1,0 +1,82 @@
+{
+  "id": 9895003548,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.85451009929642,34.30988311821238,-79.85451009929642,34.30988311821238",
+    "geom:latitude":34.309883,
+    "geom:longitude":-79.85451,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241029: name \"Woodland Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241029"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241029: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241029"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241029: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241029"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720825 (Darlington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720825 (Darlington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodland Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720825,
+        102085743,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1241029
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad6967a97585655a65b85c4b814edee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085743,
+            "locality_id":101720825,
+            "neighbourhood_id":9895003548,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003548,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Woodland Gardens",
+    "wof:parent_id":101720825,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.85451009929642,
+    34.30988311821238,
+    -79.85451009929642,
+    34.30988311821238
+],
+  "geometry": {"coordinates":[-79.85451009929642,34.30988311821238],"type":"Point"}
+}

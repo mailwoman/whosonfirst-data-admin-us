@@ -1,0 +1,82 @@
+{
+  "id": 9895001403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.09115506565486,39.51726461250806,-88.09115506565486,39.51726461250806",
+    "geom:latitude":39.517265,
+    "geom:longitude":-88.091155,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 422668: name \"Embarrass\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/422668"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 422668: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/422668"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 422668: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/422668"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404497493 (Ashmore Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404497493 (Ashmore Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Embarrass"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102086931,
+        102191575,
+        404497493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":422668
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a645d4fd7b4b0cfe25db4216807afa8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086931,
+            "localadmin_id":404497493,
+            "locality_id":9895001403,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001403,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Embarrass",
+    "wof:parent_id":404497493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.09115506565486,
+    39.51726461250806,
+    -88.09115506565486,
+    39.51726461250806
+],
+  "geometry": {"coordinates":[-88.09115506565486,39.51726461250806],"type":"Point"}
+}

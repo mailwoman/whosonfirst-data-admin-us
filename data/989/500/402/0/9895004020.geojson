@@ -1,0 +1,80 @@
+{
+  "id": 9895004020,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.23575577626166,35.827584875868546,-84.23575577626166,35.827584875868546",
+    "geom:latitude":35.827585,
+    "geom:longitude":-84.235756,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1315068: name \"Forest Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1315068"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1315068: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1315068"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1315068: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1315068"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086315 (Loudon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086315 (Loudon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Forest Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086315,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1315068
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5528c2343196d69a3c775b9174053066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086315,
+            "locality_id":9895004020,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895004020,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Forest Heights",
+    "wof:parent_id":102086315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.23575577626166,
+    35.827584875868546,
+    -84.23575577626166,
+    35.827584875868546
+],
+  "geometry": {"coordinates":[-84.23575577626166,35.827584875868546],"type":"Point"}
+}

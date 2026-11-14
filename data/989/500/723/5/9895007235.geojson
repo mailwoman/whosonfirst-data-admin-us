@@ -1,0 +1,84 @@
+{
+  "id": 9895007235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.08535991248445,42.15697747528245,-88.08535991248445,42.15697747528245",
+    "geom:latitude":42.156977,
+    "geom:longitude":-88.08536,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2037906: name \"Ferndale Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2037906"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2037906: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2037906"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2037906: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2037906"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85938411 (Deer Park).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85938411 (Deer Park), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ferndale Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85938411,
+        102086215,
+        102191575,
+        404498459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2037906
+    },
+    "wof:country":"US",
+    "wof:geomhash":"334842a6886ae1f9a889405cbaf1da86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498459,
+            "locality_id":85938411,
+            "neighbourhood_id":9895007235,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007235,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Ferndale Woods",
+    "wof:parent_id":85938411,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.08535991248445,
+    42.15697747528245,
+    -88.08535991248445,
+    42.15697747528245
+],
+  "geometry": {"coordinates":[-88.08535991248445,42.15697747528245],"type":"Point"}
+}

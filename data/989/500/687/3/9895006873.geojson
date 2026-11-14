@@ -1,0 +1,82 @@
+{
+  "id": 9895006873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.96618221230213,33.69946743228077,-117.96618221230213,33.69946743228077",
+    "geom:latitude":33.699467,
+    "geom:longitude":-117.966182,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765466: name \"Fountain Valley Mobile Home Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765466"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765466: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765466"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765466: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765466"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923149 (Fountain Valley).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923149 (Fountain Valley), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fountain Valley Mobile Home Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923149,
+        102080847,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1765466
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81d980da38d7034345922530a7ee2368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923149,
+            "neighbourhood_id":9895006873,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006873,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Fountain Valley Mobile Home Estates",
+    "wof:parent_id":85923149,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.96618221230213,
+    33.69946743228077,
+    -117.96618221230213,
+    33.69946743228077
+],
+  "geometry": {"coordinates":[-117.96618221230213,33.69946743228077],"type":"Point"}
+}

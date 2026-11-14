@@ -1,0 +1,80 @@
+{
+  "id": 9895002074,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.60977833179263,34.27788997902912,-88.60977833179263,34.27788997902912",
+    "geom:latitude":34.27789,
+    "geom:longitude":-88.609778,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684597: name \"Suburban Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684597"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684597: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684597"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684597: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684597"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083171 (Lee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083171 (Lee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Suburban Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102083171,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":684597
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b588b4eb3668acc9f5816487e3118df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":9895002074,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002074,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Suburban Acres",
+    "wof:parent_id":102083171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.60977833179263,
+    34.27788997902912,
+    -88.60977833179263,
+    34.27788997902912
+],
+  "geometry": {"coordinates":[-88.60977833179263,34.27788997902912],"type":"Point"}
+}

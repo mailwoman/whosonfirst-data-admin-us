@@ -1,0 +1,82 @@
+{
+  "id": 9895001545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.00525638784157,38.94317439603192,-77.00525638784157,38.94317439603192",
+    "geom:latitude":38.943174,
+    "geom:longitude":-77.005256,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 529277: name \"Varnum\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/529277"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 529277: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/529277"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 529277: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/529277"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931779 (Washington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931779 (Washington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Varnum"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688741,
+        85931779,
+        102191575,
+        1377370667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":529277
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a99e268aab1b48804e253fb466b071fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":1377370667,
+            "locality_id":85931779,
+            "neighbourhood_id":9895001545,
+            "region_id":85688741
+        }
+    ],
+    "wof:id":9895001545,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Varnum",
+    "wof:parent_id":85931779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.00525638784157,
+    38.94317439603192,
+    -77.00525638784157,
+    38.94317439603192
+],
+  "geometry": {"coordinates":[-77.00525638784157,38.94317439603192],"type":"Point"}
+}

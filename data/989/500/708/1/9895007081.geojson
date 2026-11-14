@@ -1,0 +1,82 @@
+{
+  "id": 9895007081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.11504244670662,33.456978650380506,-117.11504244670662,33.456978650380506",
+    "geom:latitude":33.456979,
+    "geom:longitude":-117.115042,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1849552: name \"Rainbow Canyon Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1849552"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1849552: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1849552"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1849552: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1849552"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923337 (Temecula).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923337 (Temecula), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rainbow Canyon Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923337,
+        102086221,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1849552
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c265c3b2041cd4082ec318fd55281cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923337,
+            "neighbourhood_id":9895007081,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007081,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Rainbow Canyon Village",
+    "wof:parent_id":85923337,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.11504244670662,
+    33.456978650380506,
+    -117.11504244670662,
+    33.456978650380506
+],
+  "geometry": {"coordinates":[-117.11504244670662,33.456978650380506],"type":"Point"}
+}

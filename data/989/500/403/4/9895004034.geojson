@@ -1,0 +1,80 @@
+{
+  "id": 9895004034,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.04554814809457,30.18577642484727,-97.04554814809457,30.18577642484727",
+    "geom:latitude":30.185776,
+    "geom:longitude":-97.045548,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1337813: name \"Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1337813"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1337813: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1337813"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1337813: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1337813"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082467 (Lee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082467 (Lee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102082467,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1337813
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee8241b6d66e27ad3e7805fb0c906f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082467,
+            "locality_id":9895004034,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004034,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Hills",
+    "wof:parent_id":102082467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.04554814809457,
+    30.18577642484727,
+    -97.04554814809457,
+    30.18577642484727
+],
+  "geometry": {"coordinates":[-97.04554814809457,30.18577642484727],"type":"Point"}
+}

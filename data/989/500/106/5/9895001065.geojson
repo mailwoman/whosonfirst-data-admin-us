@@ -1,0 +1,82 @@
+{
+  "id": 9895001065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.5395444106289,27.49643326055558,-82.5395444106289,27.49643326055558",
+    "geom:latitude":27.496433,
+    "geom:longitude":-82.539544,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 286349: name \"Manatee\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/286349"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 286349: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/286349"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 286349: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/286349"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85932761 (Bradenton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85932761 (Bradenton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Manatee"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85932761,
+        102084763,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":286349
+    },
+    "wof:country":"US",
+    "wof:geomhash":"219a5b573a5e347f09b71520d9c012f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084763,
+            "locality_id":85932761,
+            "neighbourhood_id":9895001065,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001065,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Manatee",
+    "wof:parent_id":85932761,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.5395444106289,
+    27.49643326055558,
+    -82.5395444106289,
+    27.49643326055558
+],
+  "geometry": {"coordinates":[-82.5395444106289,27.49643326055558],"type":"Point"}
+}

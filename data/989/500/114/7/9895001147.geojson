@@ -1,0 +1,82 @@
+{
+  "id": 9895001147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.71045975771813,34.68510185892428,-83.71045975771813,34.68510185892428",
+    "geom:latitude":34.685102,
+    "geom:longitude":-83.71046,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 332461: name \"Nacoochee\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/332461"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 332461: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/332461"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 332461: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/332461"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937317 (Sautee Nacoochee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937317 (Sautee Nacoochee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Nacoochee"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85937317,
+        102082955,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":332461
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e0806cfdcf5dcd696616e1311cb2e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082955,
+            "locality_id":85937317,
+            "neighbourhood_id":9895001147,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001147,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Nacoochee",
+    "wof:parent_id":85937317,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.71045975771813,
+    34.68510185892428,
+    -83.71045975771813,
+    34.68510185892428
+],
+  "geometry": {"coordinates":[-83.71045975771813,34.68510185892428],"type":"Point"}
+}

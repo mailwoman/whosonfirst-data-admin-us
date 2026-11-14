@@ -1,0 +1,82 @@
+{
+  "id": 9895003824,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.98601949915609,35.736756367251935,-83.98601949915609,35.736756367251935",
+    "geom:latitude":35.736756,
+    "geom:longitude":-83.986019,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1308104: name \"Buena Vista\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1308104"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1308104: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1308104"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1308104: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1308104"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722701 (Maryville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722701 (Maryville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Buena Vista"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722701,
+        102087017,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1308104
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f644022cbfd1ede1b1b877144234714b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722701,
+            "neighbourhood_id":9895003824,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003824,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Buena Vista",
+    "wof:parent_id":101722701,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.98601949915609,
+    35.736756367251935,
+    -83.98601949915609,
+    35.736756367251935
+],
+  "geometry": {"coordinates":[-83.98601949915609,35.736756367251935],"type":"Point"}
+}

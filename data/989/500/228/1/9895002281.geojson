@@ -1,0 +1,80 @@
+{
+  "id": 9895002281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.63714401609055,47.05581138588042,-109.63714401609055,47.05581138588042",
+    "geom:latitude":47.055811,
+    "geom:longitude":-109.637144,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 801014: name \"King Ranch Colony\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/801014"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 801014: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/801014"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 801014: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/801014"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085207 (Fergus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085207 (Fergus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "King Ranch Colony"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        102085207,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":801014
+    },
+    "wof:country":"US",
+    "wof:geomhash":"34ad79c5ac2b1a1b8d110db22e4d1c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085207,
+            "locality_id":9895002281,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895002281,
+    "wof:lastmodified":1794681129,
+    "wof:name":"King Ranch Colony",
+    "wof:parent_id":102085207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.63714401609055,
+    47.05581138588042,
+    -109.63714401609055,
+    47.05581138588042
+],
+  "geometry": {"coordinates":[-109.63714401609055,47.05581138588042],"type":"Point"}
+}

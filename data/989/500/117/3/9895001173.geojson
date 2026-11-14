@@ -1,0 +1,80 @@
+{
+  "id": 9895001173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.83022125601211,34.21621341672517,-84.83022125601211,34.21621341672517",
+    "geom:latitude":34.216213,
+    "geom:longitude":-84.830221,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 334286: name \"Harvest Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/334286"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 334286: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/334286"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 334286: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/334286"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082937 (Bartow).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082937 (Bartow), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Harvest Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102082937,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":334286
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3cae73f45cfd9b411567cecf7a492ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082937,
+            "locality_id":9895001173,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001173,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Harvest Estates",
+    "wof:parent_id":102082937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.83022125601211,
+    34.21621341672517,
+    -84.83022125601211,
+    34.21621341672517
+],
+  "geometry": {"coordinates":[-84.83022125601211,34.21621341672517],"type":"Point"}
+}

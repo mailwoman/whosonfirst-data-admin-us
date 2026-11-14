@@ -1,0 +1,82 @@
+{
+  "id": 9895001215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.75122547048062,32.43629593891162,-81.75122547048062,32.43629593891162",
+    "geom:latitude":32.436296,
+    "geom:longitude":-81.751225,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 350287: name \"Belair Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/350287"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 350287: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/350287"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 350287: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/350287"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85935999 (Statesboro).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85935999 (Statesboro), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Belair Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85935999,
+        102084405,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":350287
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a67d7af43ac8cc8f2dbb5f25b889344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":9895001215,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001215,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Belair Estates",
+    "wof:parent_id":85935999,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.75122547048062,
+    32.43629593891162,
+    -81.75122547048062,
+    32.43629593891162
+],
+  "geometry": {"coordinates":[-81.75122547048062,32.43629593891162],"type":"Point"}
+}

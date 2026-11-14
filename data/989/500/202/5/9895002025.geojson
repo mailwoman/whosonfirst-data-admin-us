@@ -1,0 +1,80 @@
+{
+  "id": 9895002025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.76672412875503,33.473738708228666,-88.76672412875503,33.473738708228666",
+    "geom:latitude":33.473739,
+    "geom:longitude":-88.766724,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 682890: name \"Bingham Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/682890"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 682890: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/682890"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 682890: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/682890"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083159 (Oktibbeha).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083159 (Oktibbeha), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bingham Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102083159,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":682890
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3b973d017ec5767ae193e6ced6df2061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":9895002025,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002025,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Bingham Estates",
+    "wof:parent_id":102083159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.76672412875503,
+    33.473738708228666,
+    -88.76672412875503,
+    33.473738708228666
+],
+  "geometry": {"coordinates":[-88.76672412875503,33.473738708228666],"type":"Point"}
+}

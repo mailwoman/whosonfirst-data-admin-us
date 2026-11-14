@@ -1,0 +1,80 @@
+{
+  "id": 9895000983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.65187550165174,39.564008870047836,-75.65187550165174,39.564008870047836",
+    "geom:latitude":39.564009,
+    "geom:longitude":-75.651876,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 217027: name \"Saint Georges Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/217027"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 217027: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/217027"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 217027: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/217027"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083891 (New Castle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083891 (New Castle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Georges Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        102083891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":217027
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8841cfeab806a302583588f6af7d8040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":9895000983,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000983,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Saint Georges Heights",
+    "wof:parent_id":102083891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.65187550165174,
+    39.564008870047836,
+    -75.65187550165174,
+    39.564008870047836
+],
+  "geometry": {"coordinates":[-75.65187550165174,39.564008870047836],"type":"Point"}
+}

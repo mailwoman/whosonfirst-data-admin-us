@@ -1,0 +1,84 @@
+{
+  "id": 9895002261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.57857413444238,39.09973358320847,-94.57857413444238,39.09973358320847",
+    "geom:latitude":39.099734,
+    "geom:longitude":-94.578574,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 748198: name \"Kansas City\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/748198"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 748198: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/748198"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 748198: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/748198"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85970739 (Kansas City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85970739 (Kansas City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kansas City"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        85970739,
+        102081227,
+        102191575,
+        404518075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":748198
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af7199a808210dbf71dd625764054edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":9895002261,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002261,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Kansas City",
+    "wof:parent_id":85970739,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.57857413444238,
+    39.09973358320847,
+    -94.57857413444238,
+    39.09973358320847
+],
+  "geometry": {"coordinates":[-94.57857413444238,39.09973358320847],"type":"Point"}
+}

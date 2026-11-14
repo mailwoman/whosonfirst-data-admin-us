@@ -1,0 +1,82 @@
+{
+  "id": 9895000420,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.28802837355784,32.33264556010474,-86.28802837355784,32.33264556010474",
+    "geom:latitude":32.332646,
+    "geom:longitude":-86.288028,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142496: name \"Druid Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142496"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142496: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142496"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142496: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142496"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Druid Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142496
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c5f6b3c8bd975287bb4db2cb751018d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000420,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000420,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Druid Hills",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.28802837355784,
+    32.33264556010474,
+    -86.28802837355784,
+    32.33264556010474
+],
+  "geometry": {"coordinates":[-86.28802837355784,32.33264556010474],"type":"Point"}
+}

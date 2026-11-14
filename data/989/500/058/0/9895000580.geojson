@@ -1,0 +1,82 @@
+{
+  "id": 9895000580,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.85388297953133,33.23206563278839,-86.85388297953133,33.23206563278839",
+    "geom:latitude":33.232066,
+    "geom:longitude":-86.853883,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146622: name \"Woodland Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146622"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146622: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146622"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146622: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146622"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914487 (Alabaster).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914487 (Alabaster), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodland Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914487,
+        102085499,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146622
+    },
+    "wof:country":"US",
+    "wof:geomhash":"792e6a4a36aed1d8b3b44e42fe1d1699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085499,
+            "locality_id":85914487,
+            "neighbourhood_id":9895000580,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000580,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Woodland Hills",
+    "wof:parent_id":85914487,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.85388297953133,
+    33.23206563278839,
+    -86.85388297953133,
+    33.23206563278839
+],
+  "geometry": {"coordinates":[-86.85388297953133,33.23206563278839],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895005863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.7042031944451,41.06487317414406,-122.7042031944451,41.06487317414406",
+    "geom:latitude":41.064873,
+    "geom:longitude":-122.704203,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1655871: name \"Carrville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1655871"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1655871: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1655871"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1655871: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1655871"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85927721 (Coffee Creek).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85927721 (Coffee Creek), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Carrville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85927721,
+        102086223,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1655871
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5755a5e31768eda93680c6f171935775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086223,
+            "locality_id":85927721,
+            "neighbourhood_id":9895005863,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005863,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Carrville",
+    "wof:parent_id":85927721,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.7042031944451,
+    41.06487317414406,
+    -122.7042031944451,
+    41.06487317414406
+],
+  "geometry": {"coordinates":[-122.7042031944451,41.06487317414406],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001428,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.33529490765021,40.22226717894013,-87.33529490765021,40.22226717894013",
+    "geom:latitude":40.222267,
+    "geom:longitude":-87.335295,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 434710: name \"Fountain\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/434710"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 434710: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/434710"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 434710: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/434710"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404500561 (Shawnee Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404500561 (Shawnee Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fountain"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102086279,
+        102191575,
+        404500561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":434710
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22a2a1988ad56a66f19e9a8ad20e1503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086279,
+            "localadmin_id":404500561,
+            "locality_id":9895001428,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895001428,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Fountain",
+    "wof:parent_id":404500561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.33529490765021,
+    40.22226717894013,
+    -87.33529490765021,
+    40.22226717894013
+],
+  "geometry": {"coordinates":[-87.33529490765021,40.22226717894013],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003420,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.63454466815716,35.058190616358125,-81.63454466815716,35.058190616358125",
+    "geom:latitude":35.058191,
+    "geom:longitude":-81.634545,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228508: name \"Dogwood Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228508"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228508: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228508"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228508: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228508"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720717 (Gaffney).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720717 (Gaffney), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dogwood Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720717,
+        102085403,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1228508
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bed3f721b86bc51825f1fc5cb6f69f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085403,
+            "locality_id":101720717,
+            "neighbourhood_id":9895003420,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003420,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Dogwood Park",
+    "wof:parent_id":101720717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.63454466815716,
+    35.058190616358125,
+    -81.63454466815716,
+    35.058190616358125
+],
+  "geometry": {"coordinates":[-81.63454466815716,35.058190616358125],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.48210871372468,34.61426597841262,-92.48210871372468,34.61426597841262",
+    "geom:latitude":34.614266,
+    "geom:longitude":-92.482109,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 66029: name \"Raintree Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/66029"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 66029: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/66029"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 66029: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/66029"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921383 (Bryant).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921383 (Bryant), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Raintree Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        85921383,
+        102083257,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":66029
+    },
+    "wof:country":"US",
+    "wof:geomhash":"71d54e2b23881a973799f1ac586f1b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083257,
+            "locality_id":85921383,
+            "neighbourhood_id":9895000265,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000265,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Raintree Acres",
+    "wof:parent_id":85921383,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.48210871372468,
+    34.61426597841262,
+    -92.48210871372468,
+    34.61426597841262
+],
+  "geometry": {"coordinates":[-92.48210871372468,34.61426597841262],"type":"Point"}
+}

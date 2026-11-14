@@ -1,0 +1,80 @@
+{
+  "id": 9895001867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.02364245032592,39.511210330286794,-79.02364245032592,39.511210330286794",
+    "geom:latitude":39.51121,
+    "geom:longitude":-79.023642,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590829: name \"Morrison\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590829"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590829: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590829"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590829: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590829"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081587 (Allegany).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081587 (Allegany), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Morrison"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102081587,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":590829
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a770f622ea0fe1ac3d1cff5741e421df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081587,
+            "locality_id":9895001867,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001867,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Morrison",
+    "wof:parent_id":102081587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.02364245032592,
+    39.511210330286794,
+    -79.02364245032592,
+    39.511210330286794
+],
+  "geometry": {"coordinates":[-79.02364245032592,39.511210330286794],"type":"Point"}
+}

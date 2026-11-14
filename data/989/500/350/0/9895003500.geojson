@@ -1,0 +1,80 @@
+{
+  "id": 9895003500,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.56730330949313,34.260158082302844,-80.56730330949313,34.260158082302844",
+    "geom:latitude":34.260158,
+    "geom:longitude":-80.567303,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1235082: name \"Fairfax\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1235082"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1235082: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1235082"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1235082: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1235082"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085429 (Kershaw).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085429 (Kershaw), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fairfax"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085429,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1235082
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4382379c0570b033f9f2643b2a285819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085429,
+            "locality_id":9895003500,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003500,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Fairfax",
+    "wof:parent_id":102085429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.56730330949313,
+    34.260158082302844,
+    -80.56730330949313,
+    34.260158082302844
+],
+  "geometry": {"coordinates":[-80.56730330949313,34.260158082302844],"type":"Point"}
+}

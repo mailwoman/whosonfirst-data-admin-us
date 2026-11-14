@@ -1,0 +1,82 @@
+{
+  "id": 9895002607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.0616806426481,35.89154048687764,-79.0616806426481,35.89154048687764",
+    "geom:latitude":35.89154,
+    "geom:longitude":-79.061681,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002569: name \"High Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002569"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002569: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002569"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002569: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002569"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980563 (Chapel Hill).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980563 (Chapel Hill), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "High Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980563,
+        102087647,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1002569
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1613e4318faebc35162a4f625f8ec12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087647,
+            "locality_id":85980563,
+            "neighbourhood_id":9895002607,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002607,
+    "wof:lastmodified":1794681130,
+    "wof:name":"High Park",
+    "wof:parent_id":85980563,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.0616806426481,
+    35.89154048687764,
+    -79.0616806426481,
+    35.89154048687764
+],
+  "geometry": {"coordinates":[-79.0616806426481,35.89154048687764],"type":"Point"}
+}

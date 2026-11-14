@@ -1,0 +1,80 @@
+{
+  "id": 9895001855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.8166456625285,39.48205691093334,-76.8166456625285,39.48205691093334",
+    "geom:latitude":39.482057,
+    "geom:longitude":-76.816646,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590164: name \"Emory Grove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590164"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590164: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590164"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590164: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590164"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082193 (Baltimore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082193 (Baltimore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Emory Grove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082193,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":590164
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e45e3a2a4a11f7d545da743237257344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":9895001855,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001855,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Emory Grove",
+    "wof:parent_id":102082193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.8166456625285,
+    39.48205691093334,
+    -76.8166456625285,
+    39.48205691093334
+],
+  "geometry": {"coordinates":[-76.8166456625285,39.48205691093334],"type":"Point"}
+}

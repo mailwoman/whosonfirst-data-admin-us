@@ -1,0 +1,82 @@
+{
+  "id": 9895005305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.97439809303538,41.054116463344705,-111.97439809303538,41.054116463344705",
+    "geom:latitude":41.054116,
+    "geom:longitude":-111.974398,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453970: name \"Brookhurst\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453970"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453970: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453970"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453970: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453970"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727897 (Layton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727897 (Layton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brookhurst"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727897,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453970
+    },
+    "wof:country":"US",
+    "wof:geomhash":"394a88485b80baee343f083d7a1baa4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":9895005305,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005305,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Brookhurst",
+    "wof:parent_id":101727897,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.97439809303538,
+    41.054116463344705,
+    -111.97439809303538,
+    41.054116463344705
+],
+  "geometry": {"coordinates":[-111.97439809303538,41.054116463344705],"type":"Point"}
+}

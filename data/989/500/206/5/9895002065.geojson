@@ -1,0 +1,82 @@
+{
+  "id": 9895002065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.74172566729811,34.25289116899838,-88.74172566729811,34.25289116899838",
+    "geom:latitude":34.252891,
+    "geom:longitude":-88.741726,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684526: name \"Meadowview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684526"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684526: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684526"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684526: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684526"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969769 (Tupelo).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969769 (Tupelo), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meadowview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969769,
+        102083171,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":684526
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a06542bb9d37a31d80d3783940ebf561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":9895002065,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002065,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Meadowview",
+    "wof:parent_id":85969769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.74172566729811,
+    34.25289116899838,
+    -88.74172566729811,
+    34.25289116899838
+],
+  "geometry": {"coordinates":[-88.74172566729811,34.25289116899838],"type":"Point"}
+}

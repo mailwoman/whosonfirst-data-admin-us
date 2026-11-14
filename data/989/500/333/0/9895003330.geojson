@@ -1,0 +1,84 @@
+{
+  "id": 9895003330,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.3371353213803,39.876787144289175,-75.3371353213803,39.876787144289175",
+    "geom:latitude":39.876787,
+    "geom:longitude":-75.337135,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197526: name \"West Ridley Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197526"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197526: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197526"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197526: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197526"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720051 (Woodlyn).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720051 (Woodlyn), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "West Ridley Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101720051,
+        102080913,
+        102191575,
+        404486573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1197526
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6596ab991d86b6256a4df9c33040239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080913,
+            "localadmin_id":404486573,
+            "locality_id":101720051,
+            "neighbourhood_id":9895003330,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003330,
+    "wof:lastmodified":1794681133,
+    "wof:name":"West Ridley Park",
+    "wof:parent_id":101720051,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.3371353213803,
+    39.876787144289175,
+    -75.3371353213803,
+    39.876787144289175
+],
+  "geometry": {"coordinates":[-75.3371353213803,39.876787144289175],"type":"Point"}
+}

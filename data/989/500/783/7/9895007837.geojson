@@ -1,0 +1,80 @@
+{
+  "id": 9895007837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.27831926118594,47.184637932604744,-109.27831926118594,47.184637932604744",
+    "geom:latitude":47.184638,
+    "geom:longitude":-109.278319,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804293: name \"Warm Spring Creek\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804293"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804293: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804293"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804293: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804293"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085207 (Fergus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085207 (Fergus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Warm Spring Creek"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        102085207,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804293
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d83e2b03e46e3e6359e5b3e9302d763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085207,
+            "locality_id":9895007837,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895007837,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Warm Spring Creek",
+    "wof:parent_id":102085207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.27831926118594,
+    47.184637932604744,
+    -109.27831926118594,
+    47.184637932604744
+],
+  "geometry": {"coordinates":[-109.27831926118594,47.184637932604744],"type":"Point"}
+}

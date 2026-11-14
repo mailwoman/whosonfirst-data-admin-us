@@ -1,0 +1,84 @@
+{
+  "id": 9895007197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.03730079038571,42.08559026610594,-88.03730079038571,42.08559026610594",
+    "geom:latitude":42.08559,
+    "geom:longitude":-88.037301,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1962237: name \"Winthrop Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1962237"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1962237: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1962237"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1962237: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1962237"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940719 (Rolling Meadows).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940719 (Rolling Meadows), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Winthrop Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940719,
+        102084317,
+        102191575,
+        404497645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1962237
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11e1fcc755858f2ab4508a14ee17f8a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497645,
+            "locality_id":85940719,
+            "neighbourhood_id":9895007197,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007197,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Winthrop Village",
+    "wof:parent_id":85940719,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.03730079038571,
+    42.08559026610594,
+    -88.03730079038571,
+    42.08559026610594
+],
+  "geometry": {"coordinates":[-88.03730079038571,42.08559026610594],"type":"Point"}
+}

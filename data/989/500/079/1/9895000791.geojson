@@ -1,0 +1,82 @@
+{
+  "id": 9895000791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.62640259749925,33.24179080457715,-87.62640259749925,33.24179080457715",
+    "geom:latitude":33.241791,
+    "geom:longitude":-87.626403,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148739: name \"Western Plains\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148739"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148739: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148739"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148739: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148739"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914425 (Northport).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914425 (Northport), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Western Plains"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914425,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148739
+    },
+    "wof:country":"US",
+    "wof:geomhash":"614415f2f7108b05292cd7875b614ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85914425,
+            "neighbourhood_id":9895000791,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000791,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Western Plains",
+    "wof:parent_id":85914425,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.62640259749925,
+    33.24179080457715,
+    -87.62640259749925,
+    33.24179080457715
+],
+  "geometry": {"coordinates":[-87.62640259749925,33.24179080457715],"type":"Point"}
+}

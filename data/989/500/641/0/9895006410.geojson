@@ -1,0 +1,82 @@
+{
+  "id": 9895006410,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.1574856801177,39.65510763222878,-77.1574856801177,39.65510763222878",
+    "geom:latitude":39.655108,
+    "geom:longitude":-77.157486,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695328: name \"Copperfield\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695328"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695328: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695328"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695328: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695328"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949357 (Taneytown).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949357 (Taneytown), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Copperfield"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949357,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695328
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e34a8da46b39d066ea876806a52764c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949357,
+            "neighbourhood_id":9895006410,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006410,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Copperfield",
+    "wof:parent_id":85949357,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.1574856801177,
+    39.65510763222878,
+    -77.1574856801177,
+    39.65510763222878
+],
+  "geometry": {"coordinates":[-77.1574856801177,39.65510763222878],"type":"Point"}
+}

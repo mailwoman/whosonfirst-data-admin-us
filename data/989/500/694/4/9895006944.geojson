@@ -1,0 +1,82 @@
+{
+  "id": 9895006944,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.40105788027829,36.82765588006216,-76.40105788027829,36.82765588006216",
+    "geom:latitude":36.827656,
+    "geom:longitude":-76.401058,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1780029: name \"Stone Bridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1780029"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1780029: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1780029"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1780029: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1780029"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728797 (Chesapeake).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728797 (Chesapeake), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stone Bridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728797,
+        102087265,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1780029
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b49721d418cabd436d1f70062a85496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "neighbourhood_id":9895006944,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006944,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Stone Bridge",
+    "wof:parent_id":101728797,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.40105788027829,
+    36.82765588006216,
+    -76.40105788027829,
+    36.82765588006216
+],
+  "geometry": {"coordinates":[-76.40105788027829,36.82765588006216],"type":"Point"}
+}

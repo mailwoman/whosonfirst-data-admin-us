@@ -1,0 +1,82 @@
+{
+  "id": 9895006959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.32661045655274,36.822933381671945,-76.32661045655274,36.822933381671945",
+    "geom:latitude":36.822933,
+    "geom:longitude":-76.32661,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1790879: name \"Dale Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1790879"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1790879: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1790879"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1790879: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1790879"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728677 (Portsmouth).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728677 (Portsmouth), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dale Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728677,
+        102086707,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1790879
+    },
+    "wof:country":"US",
+    "wof:geomhash":"efc2cd29aeafb6270a439095fc45d843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":9895006959,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006959,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Dale Homes",
+    "wof:parent_id":101728677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.32661045655274,
+    36.822933381671945,
+    -76.32661045655274,
+    36.822933381671945
+],
+  "geometry": {"coordinates":[-76.32661045655274,36.822933381671945],"type":"Point"}
+}

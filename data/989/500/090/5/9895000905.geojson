@@ -1,0 +1,82 @@
+{
+  "id": 9895000905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.13249633645619,39.69804940333321,-105.13249633645619,39.69804940333321",
+    "geom:latitude":39.698049,
+    "geom:longitude":-105.132496,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 182153: name \"Green Mountain Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/182153"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 182153: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/182153"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 182153: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/182153"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929751 (Lakewood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929751 (Lakewood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Green Mountain Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929751,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":182153
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d51ef717f552def159477f947e1be222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":85929751,
+            "neighbourhood_id":9895000905,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000905,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Green Mountain Village",
+    "wof:parent_id":85929751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.13249633645619,
+    39.69804940333321,
+    -105.13249633645619,
+    39.69804940333321
+],
+  "geometry": {"coordinates":[-105.13249633645619,39.69804940333321],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895002342,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.43698503439383,35.7803089603875,-106.43698503439383,35.7803089603875",
+    "geom:latitude":35.780309,
+    "geom:longitude":-106.436985,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 909696: name \"Pines\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/909696"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 909696: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/909696"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 909696: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/909696"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081569 (Sandoval).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081569 (Sandoval), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pines"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":909696
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0721c00c527f44a8a4b97b032019bd71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081569,
+            "locality_id":9895002342,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002342,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Pines",
+    "wof:parent_id":102081569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.43698503439383,
+    35.7803089603875,
+    -106.43698503439383,
+    35.7803089603875
+],
+  "geometry": {"coordinates":[-106.43698503439383,35.7803089603875],"type":"Point"}
+}

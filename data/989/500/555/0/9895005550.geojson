@@ -1,0 +1,82 @@
+{
+  "id": 9895005550,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.10720331123412,38.811509765528356,-77.10720331123412,38.811509765528356",
+    "geom:latitude":38.81151,
+    "geom:longitude":-77.107203,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1493751: name \"Wakefield\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1493751"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1493751: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1493751"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1493751: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1493751"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728581 (Alexandria).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728581 (Alexandria), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wakefield"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728581,
+        102080641,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1493751
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9900c63f1da2e508d3dc09ff9afb91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":9895005550,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005550,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Wakefield",
+    "wof:parent_id":101728581,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.10720331123412,
+    38.811509765528356,
+    -77.10720331123412,
+    38.811509765528356
+],
+  "geometry": {"coordinates":[-77.10720331123412,38.811509765528356],"type":"Point"}
+}

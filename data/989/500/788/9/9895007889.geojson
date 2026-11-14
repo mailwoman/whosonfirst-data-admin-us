@@ -1,0 +1,80 @@
+{
+  "id": 9895007889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.79003451579287,44.175299167900796,-120.79003451579287,44.175299167900796",
+    "geom:latitude":44.175299,
+    "geom:longitude":-120.790035,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805454: name \"Juniper Canyon\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805454"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805454: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805454"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805454: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805454"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081611 (Crook).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081611 (Crook), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Juniper Canyon"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688513,
+        102081611,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805454
+    },
+    "wof:country":"US",
+    "wof:geomhash":"045ce025114bb131e2b23aaaa36f9a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081611,
+            "locality_id":9895007889,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":9895007889,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Juniper Canyon",
+    "wof:parent_id":102081611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.79003451579287,
+    44.175299167900796,
+    -120.79003451579287,
+    44.175299167900796
+],
+  "geometry": {"coordinates":[-120.79003451579287,44.175299167900796],"type":"Point"}
+}

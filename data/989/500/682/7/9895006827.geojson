@@ -1,0 +1,82 @@
+{
+  "id": 9895006827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.22814098423142,34.04862795665173,-118.22814098423142,34.04862795665173",
+    "geom:latitude":34.048628,
+    "geom:longitude":-118.228141,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1744871: name \"Aliso Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1744871"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1744871: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1744871"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1744871: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1744871"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923517 (Los Angeles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923517 (Los Angeles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Aliso Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923517,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1744871
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d73ee794b9c412d93724755e11840439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":9895006827,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006827,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Aliso Village",
+    "wof:parent_id":85923517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.22814098423142,
+    34.04862795665173,
+    -118.22814098423142,
+    34.04862795665173
+],
+  "geometry": {"coordinates":[-118.22814098423142,34.04862795665173],"type":"Point"}
+}

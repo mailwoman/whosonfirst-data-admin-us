@@ -1,0 +1,82 @@
+{
+  "id": 9895003708,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.92455134686135,34.93040817788258,-81.92455134686135,34.93040817788258",
+    "geom:latitude":34.930408,
+    "geom:longitude":-81.924551,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1248490: name \"Phyllis Goins Court\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1248490"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1248490: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1248490"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1248490: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1248490"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721215 (Spartanburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721215 (Spartanburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Phyllis Goins Court"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721215,
+        102085437,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1248490
+    },
+    "wof:country":"US",
+    "wof:geomhash":"186181dda5cba4fcf59dcee488627cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085437,
+            "locality_id":101721215,
+            "neighbourhood_id":9895003708,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003708,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Phyllis Goins Court",
+    "wof:parent_id":101721215,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.92455134686135,
+    34.93040817788258,
+    -81.92455134686135,
+    34.93040817788258
+],
+  "geometry": {"coordinates":[-81.92455134686135,34.93040817788258],"type":"Point"}
+}

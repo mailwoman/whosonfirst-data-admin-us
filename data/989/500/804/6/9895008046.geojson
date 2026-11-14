@@ -1,0 +1,82 @@
+{
+  "id": 9895008046,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.25320124077258,44.31062105770365,-73.25320124077258,44.31062105770365",
+    "geom:latitude":44.310621,
+    "geom:longitude":-73.253201,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807141: name \"West Charlotte\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807141"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807141: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807141"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807141: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807141"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404527579 (Charlotte).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404527579 (Charlotte), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "West Charlotte"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688763,
+        102087451,
+        102191575,
+        404527579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807141
+    },
+    "wof:country":"US",
+    "wof:geomhash":"827c62454d9b6399c25559b0019aca85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527579,
+            "locality_id":9895008046,
+            "region_id":85688763
+        }
+    ],
+    "wof:id":9895008046,
+    "wof:lastmodified":1794681145,
+    "wof:name":"West Charlotte",
+    "wof:parent_id":404527579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.25320124077258,
+    44.31062105770365,
+    -73.25320124077258,
+    44.31062105770365
+],
+  "geometry": {"coordinates":[-73.25320124077258,44.31062105770365],"type":"Point"}
+}

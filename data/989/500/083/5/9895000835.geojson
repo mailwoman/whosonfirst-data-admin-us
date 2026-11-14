@@ -1,0 +1,82 @@
+{
+  "id": 9895000835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.83133079492436,31.304066050393008,-85.83133079492436,31.304066050393008",
+    "geom:latitude":31.304066,
+    "geom:longitude":-85.831331,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155774: name \"Pinedale Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155774"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155774: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155774"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155774: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155774"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85899527 (Enterprise).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85899527 (Enterprise), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pinedale Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85899527,
+        102085699,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":155774
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28aefd97b48c0520d0cac20f34a9295e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085699,
+            "locality_id":85899527,
+            "neighbourhood_id":9895000835,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000835,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Pinedale Estates",
+    "wof:parent_id":85899527,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.83133079492436,
+    31.304066050393008,
+    -85.83133079492436,
+    31.304066050393008
+],
+  "geometry": {"coordinates":[-85.83133079492436,31.304066050393008],"type":"Point"}
+}

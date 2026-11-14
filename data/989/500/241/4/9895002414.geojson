@@ -1,0 +1,82 @@
+{
+  "id": 9895002414,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.97382522172867,44.11450691589913,-75.97382522172867,44.11450691589913",
+    "geom:latitude":44.114507,
+    "geom:longitude":-75.973825,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 966510: name \"Stone Mills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/966510"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 966510: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/966510"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 966510: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/966510"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404521933 (Orleans).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404521933 (Orleans), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stone Mills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102082357,
+        102191575,
+        404521933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":966510
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f0492769e9546d8acfea343643ab670f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082357,
+            "localadmin_id":404521933,
+            "locality_id":9895002414,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002414,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Stone Mills",
+    "wof:parent_id":404521933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.97382522172867,
+    44.11450691589913,
+    -75.97382522172867,
+    44.11450691589913
+],
+  "geometry": {"coordinates":[-75.97382522172867,44.11450691589913],"type":"Point"}
+}

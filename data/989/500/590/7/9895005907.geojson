@@ -1,0 +1,82 @@
+{
+  "id": 9895005907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.68861073541001,38.444360978400155,-122.68861073541001,38.444360978400155",
+    "geom:latitude":38.444361,
+    "geom:longitude":-122.688611,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659166: name \"Montgomery Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659166"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659166: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659166"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659166: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659166"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922693 (Santa Rosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922693 (Santa Rosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Montgomery Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922693,
+        102081671,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1659166
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee3c261ef01eb093b7d1c701851d34d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922693,
+            "neighbourhood_id":9895005907,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005907,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Montgomery Village",
+    "wof:parent_id":85922693,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.68861073541001,
+    38.444360978400155,
+    -122.68861073541001,
+    38.444360978400155
+],
+  "geometry": {"coordinates":[-122.68861073541001,38.444360978400155],"type":"Point"}
+}

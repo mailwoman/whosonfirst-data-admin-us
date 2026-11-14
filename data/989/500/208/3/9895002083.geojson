@@ -1,0 +1,80 @@
+{
+  "id": 9895002083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.07397963147956,32.43153744123955,-90.07397963147956,32.43153744123955",
+    "geom:latitude":32.431537,
+    "geom:longitude":-90.07398,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686125: name \"Roses Bluff\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686125"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686125: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686125"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686125: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686125"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085905 (Madison).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085905 (Madison), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Roses Bluff"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102085905,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":686125
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d086c8c160f95ae1d28cd914bc751c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":9895002083,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002083,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Roses Bluff",
+    "wof:parent_id":102085905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.07397963147956,
+    32.43153744123955,
+    -90.07397963147956,
+    32.43153744123955
+],
+  "geometry": {"coordinates":[-90.07397963147956,32.43153744123955],"type":"Point"}
+}

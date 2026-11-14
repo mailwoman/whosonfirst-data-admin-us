@@ -1,0 +1,80 @@
+{
+  "id": 9895000802,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.23585617844729,34.82037144680791,-87.23585617844729,34.82037144680791",
+    "geom:latitude":34.820371,
+    "geom:longitude":-87.235856,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148839: name \"Anderson Creek Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148839"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148839: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148839"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148839: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148839"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085527 (Lauderdale).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085527 (Lauderdale), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Anderson Creek Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085527,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148839
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf08ade64399dba60ab0a0345f05de83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085527,
+            "locality_id":9895000802,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000802,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Anderson Creek Estates",
+    "wof:parent_id":102085527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.23585617844729,
+    34.82037144680791,
+    -87.23585617844729,
+    34.82037144680791
+],
+  "geometry": {"coordinates":[-87.23585617844729,34.82037144680791],"type":"Point"}
+}

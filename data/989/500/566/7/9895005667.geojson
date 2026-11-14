@@ -1,0 +1,82 @@
+{
+  "id": 9895005667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.68397190281358,40.078691670387755,-80.68397190281358,40.078691670387755",
+    "geom:latitude":40.078692,
+    "geom:longitude":-80.683972,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1554371: name \"Edgwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1554371"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1554371: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1554371"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1554371: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1554371"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101731295 (Wheeling).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101731295 (Wheeling), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Edgwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        101731295,
+        102082621,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1554371
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dad8971c590a42320797568adecdca90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":9895005667,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895005667,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Edgwood",
+    "wof:parent_id":101731295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.68397190281358,
+    40.078691670387755,
+    -80.68397190281358,
+    40.078691670387755
+],
+  "geometry": {"coordinates":[-80.68397190281358,40.078691670387755],"type":"Point"}
+}

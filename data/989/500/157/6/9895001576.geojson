@@ -1,0 +1,82 @@
+{
+  "id": 9895001576,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.04563250845993,30.030207131112864,-90.04563250845993,30.030207131112864",
+    "geom:latitude":30.030207,
+    "geom:longitude":-90.045633,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 546887: name \"Camp Leroy Johnson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/546887"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 546887: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/546887"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 546887: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/546887"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948111 (New Orleans).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948111 (New Orleans), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Camp Leroy Johnson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948111,
+        102086693,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":546887
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5680ce6695f3529cac5a0bcb94b3e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":9895001576,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001576,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Camp Leroy Johnson",
+    "wof:parent_id":85948111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.04563250845993,
+    30.030207131112864,
+    -90.04563250845993,
+    30.030207131112864
+],
+  "geometry": {"coordinates":[-90.04563250845993,30.030207131112864],"type":"Point"}
+}

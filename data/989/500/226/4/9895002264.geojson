@@ -1,0 +1,82 @@
+{
+  "id": 9895002264,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.073466531816,37.400887372308496,-91.073466531816,37.400887372308496",
+    "geom:latitude":37.400887,
+    "geom:longitude":-91.073467,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 751857: name \"Reynolds\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/751857"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 751857: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/751857"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 751857: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/751857"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404518027 (Jackson Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404518027 (Jackson Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Reynolds"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102085301,
+        102191575,
+        404518027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":751857
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4cf6b38724a9ce31ba8fb5b2c6e1c52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085301,
+            "localadmin_id":404518027,
+            "locality_id":9895002264,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002264,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Reynolds",
+    "wof:parent_id":404518027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.073466531816,
+    37.400887372308496,
+    -91.073466531816,
+    37.400887372308496
+],
+  "geometry": {"coordinates":[-91.073466531816,37.400887372308496],"type":"Point"}
+}

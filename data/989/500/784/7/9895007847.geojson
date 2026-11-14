@@ -1,0 +1,80 @@
+{
+  "id": 9895007847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.08112413860403,35.34318484409727,-119.08112413860403,35.34318484409727",
+    "geom:latitude":35.343185,
+    "geom:longitude":-119.081124,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804556: name \"Olde Stockdale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804556"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804556: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804556"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804556: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804556"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081727 (Kern).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081727 (Kern), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Olde Stockdale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102081727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804556
+    },
+    "wof:country":"US",
+    "wof:geomhash":"17adb6f03707aa704ffecae0b4ad0cd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081727,
+            "locality_id":9895007847,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007847,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Olde Stockdale",
+    "wof:parent_id":102081727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.08112413860403,
+    35.34318484409727,
+    -119.08112413860403,
+    35.34318484409727
+],
+  "geometry": {"coordinates":[-119.08112413860403,35.34318484409727],"type":"Point"}
+}

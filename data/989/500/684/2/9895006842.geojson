@@ -1,0 +1,84 @@
+{
+  "id": 9895006842,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.6450536350238,41.67948641849159,-87.6450536350238,41.67948641849159",
+    "geom:latitude":41.679486,
+    "geom:longitude":-87.645054,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1764317: name \"Placerdale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1764317"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1764317: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1764317"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1764317: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1764317"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940195 (Chicago).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940195 (Chicago), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Placerdale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940195,
+        102084317,
+        102191575,
+        404496273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1764317
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26701f55e528742503ac27455c0f2979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":9895006842,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895006842,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Placerdale",
+    "wof:parent_id":85940195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.6450536350238,
+    41.67948641849159,
+    -87.6450536350238,
+    41.67948641849159
+],
+  "geometry": {"coordinates":[-87.6450536350238,41.67948641849159],"type":"Point"}
+}

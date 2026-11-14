@@ -1,0 +1,82 @@
+{
+  "id": 9895004136,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-152.76524740470305,58.02212500009601,-152.76524740470305,58.02212500009601",
+    "geom:latitude":58.022125,
+    "geom:longitude":-152.765247,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1397926: name \"Afognak\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1397926"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1397926: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1397926"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1397926: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1397926"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85917075 (Aleneva).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85917075 (Aleneva), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Afognak"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85917075,
+        102081005,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1397926
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4eb66f155442a757a22acb7cd819dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85917075,
+            "neighbourhood_id":9895004136,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004136,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Afognak",
+    "wof:parent_id":85917075,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -152.76524740470305,
+    58.02212500009601,
+    -152.76524740470305,
+    58.02212500009601
+],
+  "geometry": {"coordinates":[-152.76524740470305,58.02212500009601],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000388,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.46273428673337,33.27428979278497,-85.46273428673337,33.27428979278497",
+    "geom:latitude":33.27429,
+    "geom:longitude":-85.462734,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 140238: name \"Midway\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/140238"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 140238: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/140238"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 140238: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/140238"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085739 (Randolph).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085739 (Randolph), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Midway"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085739,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":140238
+    },
+    "wof:country":"US",
+    "wof:geomhash":"56406790970bbdd412be92d1982a7578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085739,
+            "locality_id":9895000388,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000388,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Midway",
+    "wof:parent_id":102085739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.46273428673337,
+    33.27428979278497,
+    -85.46273428673337,
+    33.27428979278497
+],
+  "geometry": {"coordinates":[-85.46273428673337,33.27428979278497],"type":"Point"}
+}

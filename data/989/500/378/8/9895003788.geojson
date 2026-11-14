@@ -1,0 +1,82 @@
+{
+  "id": 9895003788,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.86768507626097,35.92675761140625,-83.86768507626097,35.92675761140625",
+    "geom:latitude":35.926758,
+    "geom:longitude":-83.867685,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1290485: name \"Lake Forest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1290485"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1290485: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1290485"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1290485: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1290485"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722865 (Knoxville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722865 (Knoxville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lake Forest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722865,
+        102086455,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1290485
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b632f02aad9f23c60d4d81a66e03ac9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":9895003788,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003788,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Lake Forest",
+    "wof:parent_id":101722865,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.86768507626097,
+    35.92675761140625,
+    -83.86768507626097,
+    35.92675761140625
+],
+  "geometry": {"coordinates":[-83.86768507626097,35.92675761140625],"type":"Point"}
+}

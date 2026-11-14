@@ -1,0 +1,82 @@
+{
+  "id": 9895007015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.48642831601067,42.48750220338665,-96.48642831601067,42.48750220338665",
+    "geom:latitude":42.487502,
+    "geom:longitude":-96.486428,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1829118: name \"Dakota Dunes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1829118"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1829118: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1829118"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1829118: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1829118"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404491081 (Big Sioux Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404491081 (Big Sioux Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dakota Dunes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688693,
+        102086029,
+        102191575,
+        404491081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1829118
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0304e4079911ee55465c1fa59d3c56d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086029,
+            "localadmin_id":404491081,
+            "locality_id":9895007015,
+            "region_id":85688693
+        }
+    ],
+    "wof:id":9895007015,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Dakota Dunes",
+    "wof:parent_id":404491081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.48642831601067,
+    42.48750220338665,
+    -96.48642831601067,
+    42.48750220338665
+],
+  "geometry": {"coordinates":[-96.48642831601067,42.48750220338665],"type":"Point"}
+}

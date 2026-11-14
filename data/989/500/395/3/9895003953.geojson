@@ -1,0 +1,82 @@
+{
+  "id": 9895003953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.22773761711528,35.0278586714537,-85.22773761711528,35.0278586714537",
+    "geom:latitude":35.027859,
+    "geom:longitude":-85.227738,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312782: name \"Shawnee Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312782"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312782: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312782"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312782: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312782"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723043 (Chattanooga).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723043 (Chattanooga), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shawnee Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723043,
+        102087185,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312782
+    },
+    "wof:country":"US",
+    "wof:geomhash":"74f3fbebf2e1979b7470f352692fbc6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":9895003953,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003953,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Shawnee Park",
+    "wof:parent_id":101723043,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.22773761711528,
+    35.0278586714537,
+    -85.22773761711528,
+    35.0278586714537
+],
+  "geometry": {"coordinates":[-85.22773761711528,35.0278586714537],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895005637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.06771610104641,47.72434999124046,-117.06771610104641,47.72434999124046",
+    "geom:latitude":47.72435,
+    "geom:longitude":-117.067716,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1513168: name \"Moab\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1513168"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1513168: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1513168"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1513168: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1513168"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101730697 (Otis Orchards-East Farms).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101730697 (Otis Orchards-East Farms), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Moab"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        101730697,
+        102087555,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1513168
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ddda44deb4b9b1e7e30f64cac09bf8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730697,
+            "neighbourhood_id":9895005637,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005637,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Moab",
+    "wof:parent_id":101730697,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.06771610104641,
+    47.72434999124046,
+    -117.06771610104641,
+    47.72434999124046
+],
+  "geometry": {"coordinates":[-117.06771610104641,47.72434999124046],"type":"Point"}
+}

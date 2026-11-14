@@ -1,0 +1,80 @@
+{
+  "id": 9895003901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.496092452258,35.97090485333267,-85.496092452258,35.97090485333267",
+    "geom:latitude":35.970905,
+    "geom:longitude":-85.496092,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312185: name \"Mount Vernon Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312185"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312185: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312185"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312185: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312185"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086369 (White).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086369 (White), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mount Vernon Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086369,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312185
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22fba668da79ddff3de1e93ca7aff10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":9895003901,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003901,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Mount Vernon Estates",
+    "wof:parent_id":102086369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.496092452258,
+    35.97090485333267,
+    -85.496092452258,
+    35.97090485333267
+],
+  "geometry": {"coordinates":[-85.496092452258,35.97090485333267],"type":"Point"}
+}

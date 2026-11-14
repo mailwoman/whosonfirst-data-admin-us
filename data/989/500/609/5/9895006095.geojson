@@ -1,0 +1,82 @@
+{
+  "id": 9895006095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.78607501157546,36.79857210634831,-121.78607501157546,36.79857210634831",
+    "geom:latitude":36.798572,
+    "geom:longitude":-121.786075,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670518: name \"Moss\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670518"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670518: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670518"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670518: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670518"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85926205 (Moss Landing).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85926205 (Moss Landing), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Moss"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85926205,
+        102080859,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1670518
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed03520c0df0610fd9e5a106e824eac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080859,
+            "locality_id":85926205,
+            "neighbourhood_id":9895006095,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006095,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Moss",
+    "wof:parent_id":85926205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.78607501157546,
+    36.79857210634831,
+    -121.78607501157546,
+    36.79857210634831
+],
+  "geometry": {"coordinates":[-121.78607501157546,36.79857210634831],"type":"Point"}
+}

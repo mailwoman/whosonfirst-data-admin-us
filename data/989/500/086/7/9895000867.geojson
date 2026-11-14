@@ -1,0 +1,82 @@
+{
+  "id": 9895000867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.06747496709647,33.42705930281226,-86.06747496709647,33.42705930281226",
+    "geom:latitude":33.427059,
+    "geom:longitude":-86.067475,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 162491: name \"Mount Olive Circle\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/162491"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 162491: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/162491"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 162491: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/162491"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914129 (Talladega).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914129 (Talladega), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mount Olive Circle"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914129,
+        102085517,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":162491
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24b46ae5abf0a46f07d7ea72bfc9e440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085517,
+            "locality_id":85914129,
+            "neighbourhood_id":9895000867,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000867,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Mount Olive Circle",
+    "wof:parent_id":85914129,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.06747496709647,
+    33.42705930281226,
+    -86.06747496709647,
+    33.42705930281226
+],
+  "geometry": {"coordinates":[-86.06747496709647,33.42705930281226],"type":"Point"}
+}

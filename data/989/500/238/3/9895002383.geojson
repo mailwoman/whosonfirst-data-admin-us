@@ -1,0 +1,82 @@
+{
+  "id": 9895002383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.62261846058693,42.84203057615099,-73.62261846058693,42.84203057615099",
+    "geom:latitude":42.842031,
+    "geom:longitude":-73.622618,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 956929: name \"Melrose\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/956929"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 956929: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/956929"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 956929: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/956929"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404523083 (Schaghticoke).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404523083 (Schaghticoke), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Melrose"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102081773,
+        102191575,
+        404523083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":956929
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b275a6cf420176c81dd0e094a42fc875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081773,
+            "localadmin_id":404523083,
+            "locality_id":9895002383,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002383,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Melrose",
+    "wof:parent_id":404523083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.62261846058693,
+    42.84203057615099,
+    -73.62261846058693,
+    42.84203057615099
+],
+  "geometry": {"coordinates":[-73.62261846058693,42.84203057615099],"type":"Point"}
+}

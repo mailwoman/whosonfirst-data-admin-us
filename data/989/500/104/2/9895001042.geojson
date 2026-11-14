@@ -1,0 +1,82 @@
+{
+  "id": 9895001042,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.00436167650167,38.91352412178236,-120.00436167650167,38.91352412178236",
+    "geom:latitude":38.913524,
+    "geom:longitude":-120.004362,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 268065: name \"Tahoe Valley\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/268065"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 268065: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/268065"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 268065: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/268065"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921759 (South Lake Tahoe).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921759 (South Lake Tahoe), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tahoe Valley"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85921759,
+        102086953,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":268065
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ea0e2cb9692b70769a78b8aee099857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086953,
+            "locality_id":85921759,
+            "neighbourhood_id":9895001042,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001042,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Tahoe Valley",
+    "wof:parent_id":85921759,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.00436167650167,
+    38.91352412178236,
+    -120.00436167650167,
+    38.91352412178236
+],
+  "geometry": {"coordinates":[-120.00436167650167,38.91352412178236],"type":"Point"}
+}

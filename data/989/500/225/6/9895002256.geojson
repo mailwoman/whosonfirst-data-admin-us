@@ -1,0 +1,82 @@
+{
+  "id": 9895002256,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.26272997678905,39.38501095013883,-94.26272997678905,39.38501095013883",
+    "geom:latitude":39.385011,
+    "geom:longitude":-94.26273,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740885: name \"Greenville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740885"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740885: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740885"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740885: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740885"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404516721 (Washington Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404516721 (Washington Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Greenville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102086177,
+        102191575,
+        404516721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":740885
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c6c0bd511113dc84c495c44eb9fe384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516721,
+            "locality_id":9895002256,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002256,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Greenville",
+    "wof:parent_id":404516721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.26272997678905,
+    39.38501095013883,
+    -94.26272997678905,
+    39.38501095013883
+],
+  "geometry": {"coordinates":[-94.26272997678905,39.38501095013883],"type":"Point"}
+}

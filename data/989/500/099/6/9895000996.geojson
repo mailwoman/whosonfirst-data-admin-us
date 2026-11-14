@@ -1,0 +1,82 @@
+{
+  "id": 9895000996,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.26397257105936,33.81280012836688,-118.26397257105936,33.81280012836688",
+    "geom:latitude":33.8128,
+    "geom:longitude":-118.263973,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 238839: name \"Avalon Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/238839"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 238839: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/238839"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 238839: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/238839"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923683 (Carson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923683 (Carson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Avalon Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923683,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":238839
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61d235477f8c59d031780c87680ae05f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923683,
+            "neighbourhood_id":9895000996,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895000996,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Avalon Village",
+    "wof:parent_id":85923683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.26397257105936,
+    33.81280012836688,
+    -118.26397257105936,
+    33.81280012836688
+],
+  "geometry": {"coordinates":[-118.26397257105936,33.81280012836688],"type":"Point"}
+}

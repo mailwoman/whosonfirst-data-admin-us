@@ -1,0 +1,82 @@
+{
+  "id": 9895001716,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.11900001444226,30.384642072284965,-91.11900001444226,30.384642072284965",
+    "geom:latitude":30.384642,
+    "geom:longitude":-91.119,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559227: name \"Staring Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559227"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559227: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559227"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559227: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559227"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948205 (Baton Rouge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948205 (Baton Rouge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Staring Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948205,
+        102087229,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":559227
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d84224105a061417f97a0a6056871ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":9895001716,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001716,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Staring Acres",
+    "wof:parent_id":85948205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.11900001444226,
+    30.384642072284965,
+    -91.11900001444226,
+    30.384642072284965
+],
+  "geometry": {"coordinates":[-91.11900001444226,30.384642072284965],"type":"Point"}
+}

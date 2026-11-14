@@ -1,0 +1,80 @@
+{
+  "id": 9895001358,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.74829322118735,42.267706812933966,-111.74829322118735,42.267706812933966",
+    "geom:latitude":42.267707,
+    "geom:longitude":-111.748293,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 400024: name \"Oneida Station\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/400024"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 400024: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/400024"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 400024: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/400024"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086097 (Franklin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086097 (Franklin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oneida Station"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688657,
+        102086097,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":400024
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a16e4a8c6fd8b823be4d049a794a38b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086097,
+            "locality_id":9895001358,
+            "region_id":85688657
+        }
+    ],
+    "wof:id":9895001358,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Oneida Station",
+    "wof:parent_id":102086097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.74829322118735,
+    42.267706812933966,
+    -111.74829322118735,
+    42.267706812933966
+],
+  "geometry": {"coordinates":[-111.74829322118735,42.267706812933966],"type":"Point"}
+}

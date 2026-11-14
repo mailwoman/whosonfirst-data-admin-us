@@ -1,0 +1,82 @@
+{
+  "id": 9895000979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.54270207915945,39.764287914381136,-75.54270207915945,39.764287914381136",
+    "geom:latitude":39.764288,
+    "geom:longitude":-75.542702,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 216070: name \"Concord\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/216070"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 216070: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/216070"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 216070: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/216070"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931573 (Wilmington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931573 (Wilmington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Concord"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        85931573,
+        102083891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":216070
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2cef91f9bbff817f9026ea06a7d83273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":9895000979,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000979,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Concord",
+    "wof:parent_id":85931573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.54270207915945,
+    39.764287914381136,
+    -75.54270207915945,
+    39.764287914381136
+],
+  "geometry": {"coordinates":[-75.54270207915945,39.764287914381136],"type":"Point"}
+}

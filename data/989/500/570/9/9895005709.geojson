@@ -1,0 +1,82 @@
+{
+  "id": 9895005709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.07828294933972,43.66169180443396,-83.07828294933972,43.66169180443396",
+    "geom:latitude":43.661692,
+    "geom:longitude":-83.078283,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1617738: name \"New Greenleaf\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1617738"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1617738: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1617738"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1617738: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1617738"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404507823 (Greenleaf Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404507823 (Greenleaf Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "New Greenleaf"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688599,
+        102083137,
+        102191575,
+        404507823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1617738
+    },
+    "wof:country":"US",
+    "wof:geomhash":"06aabe8c0868eb38ee6bb4364452b529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083137,
+            "localadmin_id":404507823,
+            "locality_id":9895005709,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":9895005709,
+    "wof:lastmodified":1794681138,
+    "wof:name":"New Greenleaf",
+    "wof:parent_id":404507823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.07828294933972,
+    43.66169180443396,
+    -83.07828294933972,
+    43.66169180443396
+],
+  "geometry": {"coordinates":[-83.07828294933972,43.66169180443396],"type":"Point"}
+}

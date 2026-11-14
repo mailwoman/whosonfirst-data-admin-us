@@ -1,0 +1,82 @@
+{
+  "id": 9895002070,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.7267255645479,34.27511267355045,-88.7267255645479,34.27511267355045",
+    "geom:latitude":34.275113,
+    "geom:longitude":-88.726726,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684558: name \"Pinehurst\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684558"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684558: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684558"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684558: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684558"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969769 (Tupelo).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969769 (Tupelo), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pinehurst"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969769,
+        102083171,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":684558
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b735e9a34659d685eb4728be968e5b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":9895002070,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002070,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Pinehurst",
+    "wof:parent_id":85969769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.7267255645479,
+    34.27511267355045,
+    -88.7267255645479,
+    34.27511267355045
+],
+  "geometry": {"coordinates":[-88.7267255645479,34.27511267355045],"type":"Point"}
+}

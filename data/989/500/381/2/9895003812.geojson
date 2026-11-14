@@ -1,0 +1,82 @@
+{
+  "id": 9895003812,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.55904472889779,36.555107793539015,-82.55904472889779,36.555107793539015",
+    "geom:latitude":36.555108,
+    "geom:longitude":-82.559045,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1303234: name \"Cherokee Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1303234"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1303234: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1303234"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1303234: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1303234"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722787 (Kingsport).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722787 (Kingsport), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cherokee Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722787,
+        102086471,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1303234
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55fe7af8f3c350e0fb9c6617a27e0446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722787,
+            "neighbourhood_id":9895003812,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003812,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Cherokee Village",
+    "wof:parent_id":101722787,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.55904472889779,
+    36.555107793539015,
+    -82.55904472889779,
+    36.555107793539015
+],
+  "geometry": {"coordinates":[-82.55904472889779,36.555107793539015],"type":"Point"}
+}

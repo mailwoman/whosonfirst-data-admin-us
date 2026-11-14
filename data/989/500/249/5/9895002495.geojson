@@ -1,0 +1,82 @@
+{
+  "id": 9895002495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.18174814491752,35.27375547888291,-81.18174814491752,35.27375547888291",
+    "geom:latitude":35.273755,
+    "geom:longitude":-81.181748,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001673: name \"Oakland Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001673"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001673: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001673"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001673: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001673"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981127 (Gastonia).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981127 (Gastonia), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oakland Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981127,
+        102087869,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1001673
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d1d0b0f8ae0f352ac1fbfdcb8dbfaea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087869,
+            "locality_id":85981127,
+            "neighbourhood_id":9895002495,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002495,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Oakland Park",
+    "wof:parent_id":85981127,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.18174814491752,
+    35.27375547888291,
+    -81.18174814491752,
+    35.27375547888291
+],
+  "geometry": {"coordinates":[-81.18174814491752,35.27375547888291],"type":"Point"}
+}

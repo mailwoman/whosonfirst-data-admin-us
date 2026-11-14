@@ -1,0 +1,82 @@
+{
+  "id": 9895001326,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.0192869966999,33.430700150345885,-82.0192869966999,33.430700150345885",
+    "geom:latitude":33.4307,
+    "geom:longitude":-82.019287,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357884: name \"Kendan Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357884"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357884: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357884"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357884: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357884"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936989 (Augusta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936989 (Augusta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kendan Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936989,
+        102082951,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357884
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ddb66eb0c52e6919e1ab5ce8da275548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":9895001326,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001326,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Kendan Park",
+    "wof:parent_id":85936989,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.0192869966999,
+    33.430700150345885,
+    -82.0192869966999,
+    33.430700150345885
+],
+  "geometry": {"coordinates":[-82.0192869966999,33.430700150345885],"type":"Point"}
+}

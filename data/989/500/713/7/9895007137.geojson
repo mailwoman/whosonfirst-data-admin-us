@@ -1,0 +1,82 @@
+{
+  "id": 9895007137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.58990465945556,35.1055363268588,-120.58990465945556,35.1055363268588",
+    "geom:latitude":35.105536,
+    "geom:longitude":-120.589905,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1872511: name \"Ken Mar Gardens Mobile Home Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1872511"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1872511: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1872511"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1872511: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1872511"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85925465 (Oceano).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85925465 (Oceano), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ken Mar Gardens Mobile Home Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85925465,
+        102085385,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1872511
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f4ab412b7c3343491c8281babed8a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085385,
+            "locality_id":85925465,
+            "neighbourhood_id":9895007137,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007137,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Ken Mar Gardens Mobile Home Park",
+    "wof:parent_id":85925465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.58990465945556,
+    35.1055363268588,
+    -120.58990465945556,
+    35.1055363268588
+],
+  "geometry": {"coordinates":[-120.58990465945556,35.1055363268588],"type":"Point"}
+}

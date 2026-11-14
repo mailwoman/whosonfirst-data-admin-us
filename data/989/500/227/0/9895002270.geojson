@@ -1,0 +1,84 @@
+{
+  "id": 9895002270,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.5187422148078,37.85644718456378,-90.5187422148078,37.85644718456378",
+    "geom:latitude":37.856447,
+    "geom:longitude":-90.518742,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 757405: name \"Saint Francois\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/757405"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 757405: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/757405"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 757405: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/757405"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85970665 (Park Hills).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85970665 (Park Hills), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Francois"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        85970665,
+        102085297,
+        102191575,
+        404517199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":757405
+    },
+    "wof:country":"US",
+    "wof:geomhash":"227c0d08485ce4e96bc393da6f30ba3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085297,
+            "localadmin_id":404517199,
+            "locality_id":85970665,
+            "neighbourhood_id":9895002270,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002270,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Saint Francois",
+    "wof:parent_id":85970665,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.5187422148078,
+    37.85644718456378,
+    -90.5187422148078,
+    37.85644718456378
+],
+  "geometry": {"coordinates":[-90.5187422148078,37.85644718456378],"type":"Point"}
+}

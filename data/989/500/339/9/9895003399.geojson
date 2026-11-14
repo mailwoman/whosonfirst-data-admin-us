@@ -1,0 +1,82 @@
+{
+  "id": 9895003399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.87781270313327,40.88618310136072,-78.87781270313327,40.88618310136072",
+    "geom:latitude":40.886183,
+    "geom:longitude":-78.877813,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1209712: name \"Johnsonburg\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1209712"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1209712: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1209712"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1209712: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1209712"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404483471 (Banks Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404483471 (Banks Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Johnsonburg"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081387,
+        102191575,
+        404483471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1209712
+    },
+    "wof:country":"US",
+    "wof:geomhash":"097d8e8cb9dcfe570e3d28275761ce9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081387,
+            "localadmin_id":404483471,
+            "locality_id":9895003399,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003399,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Johnsonburg",
+    "wof:parent_id":404483471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.87781270313327,
+    40.88618310136072,
+    -78.87781270313327,
+    40.88618310136072
+],
+  "geometry": {"coordinates":[-78.87781270313327,40.88618310136072],"type":"Point"}
+}

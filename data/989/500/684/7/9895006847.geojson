@@ -1,0 +1,82 @@
+{
+  "id": 9895006847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.00507221861773,33.695300729777514,-118.00507221861773,33.695300729777514",
+    "geom:latitude":33.695301,
+    "geom:longitude":-118.005072,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765251: name \"Ocean View Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765251"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765251: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765251"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765251: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765251"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923137 (Huntington Beach).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923137 (Huntington Beach), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ocean View Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923137,
+        102080847,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1765251
+    },
+    "wof:country":"US",
+    "wof:geomhash":"218931260d807c2cda8d3b028e9b7ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923137,
+            "neighbourhood_id":9895006847,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006847,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Ocean View Estates",
+    "wof:parent_id":85923137,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.00507221861773,
+    33.695300729777514,
+    -118.00507221861773,
+    33.695300729777514
+],
+  "geometry": {"coordinates":[-118.00507221861773,33.695300729777514],"type":"Point"}
+}

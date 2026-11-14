@@ -1,0 +1,82 @@
+{
+  "id": 9895006540,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.80277659412249,33.767052546537634,-86.80277659412249,33.767052546537634",
+    "geom:latitude":33.767053,
+    "geom:longitude":-86.802777,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700536: name \"Country Haven\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700536"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700536: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700536"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700536: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700536"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914831 (Kimberly).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914831 (Kimberly), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Country Haven"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914831,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700536
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b55a5a819312ae9faf5e7b4c9f84c19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914831,
+            "neighbourhood_id":9895006540,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006540,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Country Haven",
+    "wof:parent_id":85914831,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.80277659412249,
+    33.767052546537634,
+    -86.80277659412249,
+    33.767052546537634
+],
+  "geometry": {"coordinates":[-86.80277659412249,33.767052546537634],"type":"Point"}
+}

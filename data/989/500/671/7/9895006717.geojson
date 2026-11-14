@@ -1,0 +1,82 @@
+{
+  "id": 9895006717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.92884334661359,31.809329958539347,-85.92884334661359,31.809329958539347",
+    "geom:latitude":31.80933,
+    "geom:longitude":-85.928843,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1730448: name \"Pinewood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1730448"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1730448: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1730448"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1730448: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1730448"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914551 (Troy).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914551 (Troy), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pinewood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914551,
+        102085619,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1730448
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1cc47475ad65614a0b7124a366017f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085619,
+            "locality_id":85914551,
+            "neighbourhood_id":9895006717,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006717,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Pinewood Estates",
+    "wof:parent_id":85914551,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.92884334661359,
+    31.809329958539347,
+    -85.92884334661359,
+    31.809329958539347
+],
+  "geometry": {"coordinates":[-85.92884334661359,31.809329958539347],"type":"Point"}
+}

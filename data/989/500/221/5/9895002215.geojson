@@ -1,0 +1,80 @@
+{
+  "id": 9895002215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.49730898609175,34.40011186705545,-89.49730898609175,34.40011186705545",
+    "geom:latitude":34.400112,
+    "geom:longitude":-89.497309,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 704905: name \"Woodland Hills Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/704905"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 704905: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/704905"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 704905: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/704905"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083165 (Lafayette).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083165 (Lafayette), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodland Hills Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102083165,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":704905
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb04bb3e39cafba1b50ce33a87e7a821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":9895002215,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002215,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Woodland Hills Estates",
+    "wof:parent_id":102083165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.49730898609175,
+    34.40011186705545,
+    -89.49730898609175,
+    34.40011186705545
+],
+  "geometry": {"coordinates":[-89.49730898609175,34.40011186705545],"type":"Point"}
+}

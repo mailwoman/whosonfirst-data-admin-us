@@ -1,0 +1,80 @@
+{
+  "id": 9895001175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.86383376244146,34.16454780488674,-84.86383376244146,34.16454780488674",
+    "geom:latitude":34.164548,
+    "geom:longitude":-84.863834,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 334312: name \"Mission Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/334312"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 334312: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/334312"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 334312: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/334312"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082937 (Bartow).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082937 (Bartow), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mission Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102082937,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":334312
+    },
+    "wof:country":"US",
+    "wof:geomhash":"247b765df88ba37afbff2b98a8fbf42f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082937,
+            "locality_id":9895001175,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001175,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Mission Estates",
+    "wof:parent_id":102082937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.86383376244146,
+    34.16454780488674,
+    -84.86383376244146,
+    34.16454780488674
+],
+  "geometry": {"coordinates":[-84.86383376244146,34.16454780488674],"type":"Point"}
+}

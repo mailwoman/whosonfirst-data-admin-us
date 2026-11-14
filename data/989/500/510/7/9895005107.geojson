@@ -1,0 +1,82 @@
+{
+  "id": 9895005107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.90633865127894,40.85272914641424,-111.90633865127894,40.85272914641424",
+    "geom:latitude":40.852729,
+    "geom:longitude":-111.906339,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453669: name \"Wilson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453669"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453669: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453669"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453669: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453669"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727895 (North Salt Lake).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727895 (North Salt Lake), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wilson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727895,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453669
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61f489aa8569994385682c47f7b71e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727895,
+            "neighbourhood_id":9895005107,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005107,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Wilson",
+    "wof:parent_id":101727895,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.90633865127894,
+    40.85272914641424,
+    -111.90633865127894,
+    40.85272914641424
+],
+  "geometry": {"coordinates":[-111.90633865127894,40.85272914641424],"type":"Point"}
+}

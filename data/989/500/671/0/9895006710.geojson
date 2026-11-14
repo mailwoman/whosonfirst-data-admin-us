@@ -1,0 +1,82 @@
+{
+  "id": 9895006710,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.94856575087861,31.785719152805246,-85.94856575087861,31.785719152805246",
+    "geom:latitude":31.785719,
+    "geom:longitude":-85.948566,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1730414: name \"Dozier Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1730414"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1730414: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1730414"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1730414: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1730414"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914551 (Troy).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914551 (Troy), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dozier Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914551,
+        102085619,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1730414
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1be026c51a8152f3a766b1a52eef16cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085619,
+            "locality_id":85914551,
+            "neighbourhood_id":9895006710,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006710,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Dozier Estates",
+    "wof:parent_id":85914551,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.94856575087861,
+    31.785719152805246,
+    -85.94856575087861,
+    31.785719152805246
+],
+  "geometry": {"coordinates":[-85.94856575087861,31.785719152805246],"type":"Point"}
+}

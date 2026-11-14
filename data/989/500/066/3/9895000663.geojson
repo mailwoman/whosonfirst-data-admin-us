@@ -1,0 +1,80 @@
+{
+  "id": 9895000663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.60195729883132,33.36678863169254,-87.60195729883132,33.36678863169254",
+    "geom:latitude":33.366789,
+    "geom:longitude":-87.601957,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147967: name \"Cherokee Shores\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147967"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147967: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147967"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147967: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147967"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cherokee Shores"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147967
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28897db7baedc3f964d692ae04f8af25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000663,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000663,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Cherokee Shores",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.60195729883132,
+    33.36678863169254,
+    -87.60195729883132,
+    33.36678863169254
+],
+  "geometry": {"coordinates":[-87.60195729883132,33.36678863169254],"type":"Point"}
+}

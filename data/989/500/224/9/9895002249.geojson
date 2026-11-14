@@ -1,0 +1,82 @@
+{
+  "id": 9895002249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.77715845184936,37.20117039704928,-93.77715845184936,37.20117039704928",
+    "geom:latitude":37.20117,
+    "geom:longitude":-93.777158,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740471: name \"Call\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740471"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740471: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740471"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740471: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740471"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404517271 (Lincoln Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404517271 (Lincoln Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Call"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102085333,
+        102191575,
+        404517271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":740471
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfd3748b76adcb09f74564058e19ac46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085333,
+            "localadmin_id":404517271,
+            "locality_id":9895002249,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002249,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Call",
+    "wof:parent_id":404517271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.77715845184936,
+    37.20117039704928,
+    -93.77715845184936,
+    37.20117039704928
+],
+  "geometry": {"coordinates":[-93.77715845184936,37.20117039704928],"type":"Point"}
+}

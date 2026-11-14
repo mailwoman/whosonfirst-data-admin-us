@@ -1,0 +1,82 @@
+{
+  "id": 9895002334,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.191424018931,35.06144146672677,-106.191424018931,35.06144146672677",
+    "geom:latitude":35.061441,
+    "geom:longitude":-106.191424,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 902818: name \"Edgewood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/902818"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 902818: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/902818"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 902818: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/902818"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85976573 (Edgewood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85976573 (Edgewood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Edgewood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        85976573,
+        102081199,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":902818
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1474084d8ab0bdabacc4eb24b9458d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85976573,
+            "neighbourhood_id":9895002334,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002334,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Edgewood",
+    "wof:parent_id":85976573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.191424018931,
+    35.06144146672677,
+    -106.191424018931,
+    35.06144146672677
+],
+  "geometry": {"coordinates":[-106.191424018931,35.06144146672677],"type":"Point"}
+}

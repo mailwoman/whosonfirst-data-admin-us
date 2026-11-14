@@ -1,0 +1,82 @@
+{
+  "id": 9895004215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.05023271318896,41.09300516176489,-112.05023271318896,41.09300516176489",
+    "geom:latitude":41.093005,
+    "geom:longitude":-112.050233,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451426: name \"Villa Vista\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451426"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451426: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451426"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451426: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451426"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727889 (Syracuse).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727889 (Syracuse), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Villa Vista"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727889,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451426
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c79ca0e58504ec2d0e7a6e8e037dab80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":9895004215,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004215,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Villa Vista",
+    "wof:parent_id":101727889,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.05023271318896,
+    41.09300516176489,
+    -112.05023271318896,
+    41.09300516176489
+],
+  "geometry": {"coordinates":[-112.05023271318896,41.09300516176489],"type":"Point"}
+}

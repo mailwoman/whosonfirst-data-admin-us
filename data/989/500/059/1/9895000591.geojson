@@ -1,0 +1,82 @@
+{
+  "id": 9895000591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.61027619596852,34.74454185708069,-86.61027619596852,34.74454185708069",
+    "geom:latitude":34.744542,
+    "geom:longitude":-86.610276,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146824: name \"Country Club Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146824"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146824: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146824"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146824: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146824"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913601 (Huntsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913601 (Huntsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Country Club Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913601,
+        102085487,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146824
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25b14252ae21f8d4864592df73f57978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085487,
+            "locality_id":85913601,
+            "neighbourhood_id":9895000591,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000591,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Country Club Park",
+    "wof:parent_id":85913601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.61027619596852,
+    34.74454185708069,
+    -86.61027619596852,
+    34.74454185708069
+],
+  "geometry": {"coordinates":[-86.61027619596852,34.74454185708069],"type":"Point"}
+}

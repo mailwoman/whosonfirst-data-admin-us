@@ -1,0 +1,80 @@
+{
+  "id": 9895001510,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.65880857103889,38.29341939448081,-83.65880857103889,38.29341939448081",
+    "geom:latitude":38.293419,
+    "geom:longitude":-83.658809,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 494271: name \"Hillsboro\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/494271"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 494271: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/494271"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 494271: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/494271"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084703 (Fleming).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084703 (Fleming), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hillsboro"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688641,
+        102084703,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":494271
+    },
+    "wof:country":"US",
+    "wof:geomhash":"01fd75b13a50ae5c887d713d65cf48c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084703,
+            "locality_id":9895001510,
+            "region_id":85688641
+        }
+    ],
+    "wof:id":9895001510,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Hillsboro",
+    "wof:parent_id":102084703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.65880857103889,
+    38.29341939448081,
+    -83.65880857103889,
+    38.29341939448081
+],
+  "geometry": {"coordinates":[-83.65880857103889,38.29341939448081],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.61861189705186,36.29172536953486,-86.61861189705186,36.29172536953486",
+    "geom:latitude":36.291725,
+    "geom:longitude":-86.618612,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311967: name \"Walnut Hills Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311967"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311967: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311967"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311967: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311967"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723169 (Hendersonville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723169 (Hendersonville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Walnut Hills Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723169,
+        102086357,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1311967
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f4be98e1b0dbfcb7f9f8b0f4d1134b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723169,
+            "neighbourhood_id":9895003897,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003897,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Walnut Hills Estates",
+    "wof:parent_id":101723169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.61861189705186,
+    36.29172536953486,
+    -86.61861189705186,
+    36.29172536953486
+],
+  "geometry": {"coordinates":[-86.61861189705186,36.29172536953486],"type":"Point"}
+}

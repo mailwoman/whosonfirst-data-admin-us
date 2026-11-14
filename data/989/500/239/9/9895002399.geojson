@@ -1,0 +1,118 @@
+{
+  "id": 9895002399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.13042177963891,40.57400192493231,-74.13042177963891,40.57400192493231",
+    "geom:latitude":40.574002,
+    "geom:longitude":-74.130422,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 962475: name \"Richmond\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/962475"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 962475: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/962475"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 962475: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/962475"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85977539 (New York).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85977539 (New York), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Richmond"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        85977539,
+        102081779,
+        102081863,
+        102082361,
+        102082377,
+        102083063,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":962475
+    },
+    "wof:country":"US",
+    "wof:geomhash":"859c49bd7175fb5428e8f6195b1becf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002399,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002399,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002399,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002399,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002399,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002399,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Richmond",
+    "wof:parent_id":85977539,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.13042177963891,
+    40.57400192493231,
+    -74.13042177963891,
+    40.57400192493231
+],
+  "geometry": {"coordinates":[-74.13042177963891,40.57400192493231],"type":"Point"}
+}

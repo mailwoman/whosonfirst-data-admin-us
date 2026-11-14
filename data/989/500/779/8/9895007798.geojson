@@ -1,0 +1,80 @@
+{
+  "id": 9895007798,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.37214904209321,34.54620730398168,-84.37214904209321,34.54620730398168",
+    "geom:latitude":34.546207,
+    "geom:longitude":-84.372149,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2784046: name \"Tate Mountain Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2784046"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2784046: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2784046"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2784046: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2784046"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083619 (Pickens).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083619 (Pickens), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tate Mountain Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102083619,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2784046
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3c167ba4b7ebf651ec8e38958963082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083619,
+            "locality_id":9895007798,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895007798,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Tate Mountain Estates",
+    "wof:parent_id":102083619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.37214904209321,
+    34.54620730398168,
+    -84.37214904209321,
+    34.54620730398168
+],
+  "geometry": {"coordinates":[-84.37214904209321,34.54620730398168],"type":"Point"}
+}

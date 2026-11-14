@@ -1,0 +1,80 @@
+{
+  "id": 9895006237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.91241135612913,33.57817611490538,-83.91241135612913,33.57817611490538",
+    "geom:latitude":33.578176,
+    "geom:longitude":-83.912411,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673585: name \"River North\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673585"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673585: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673585"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673585: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673585"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082963 (Newton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082963 (Newton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "River North"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102082963,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1673585
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c273ecb8e58904496ad1609a67571a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082963,
+            "locality_id":9895006237,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006237,
+    "wof:lastmodified":1794681140,
+    "wof:name":"River North",
+    "wof:parent_id":102082963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.91241135612913,
+    33.57817611490538,
+    -83.91241135612913,
+    33.57817611490538
+],
+  "geometry": {"coordinates":[-83.91241135612913,33.57817611490538],"type":"Point"}
+}

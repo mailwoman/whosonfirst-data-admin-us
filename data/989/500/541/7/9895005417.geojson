@@ -1,0 +1,82 @@
+{
+  "id": 9895005417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.9035628750173,41.0285611659694,-111.9035628750173,41.0285611659694",
+    "geom:latitude":41.028561,
+    "geom:longitude":-111.903563,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454119: name \"Green Mountain Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454119"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454119: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454119"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454119: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454119"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727903 (Fruit Heights).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727903 (Fruit Heights), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Green Mountain Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727903,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1454119
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e9ee2272760ac81d3d334468acd8f7eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727903,
+            "neighbourhood_id":9895005417,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005417,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Green Mountain Estates",
+    "wof:parent_id":101727903,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.9035628750173,
+    41.0285611659694,
+    -111.9035628750173,
+    41.0285611659694
+],
+  "geometry": {"coordinates":[-111.9035628750173,41.0285611659694],"type":"Point"}
+}

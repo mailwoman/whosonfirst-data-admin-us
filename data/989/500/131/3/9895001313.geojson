@@ -1,0 +1,82 @@
+{
+  "id": 9895001313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.89993528672406,32.535701852844156,-84.89993528672406,32.535701852844156",
+    "geom:latitude":32.535702,
+    "geom:longitude":-84.899935,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357478: name \"Spring Valley\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357478"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357478: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357478"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357478: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357478"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936243 (Columbus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936243 (Columbus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Spring Valley"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936243,
+        102084429,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357478
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64dcd736e8d115723a4747ab60d934b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":9895001313,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001313,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Spring Valley",
+    "wof:parent_id":85936243,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.89993528672406,
+    32.535701852844156,
+    -84.89993528672406,
+    32.535701852844156
+],
+  "geometry": {"coordinates":[-84.89993528672406,32.535701852844156],"type":"Point"}
+}

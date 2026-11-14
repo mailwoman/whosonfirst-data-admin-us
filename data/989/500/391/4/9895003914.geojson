@@ -1,0 +1,82 @@
+{
+  "id": 9895003914,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.11445571655426,35.95729258065389,-87.11445571655426,35.95729258065389",
+    "geom:latitude":35.957293,
+    "geom:longitude":-87.114456,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312493: name \"Grammer Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312493"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312493: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312493"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312493: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312493"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723095 (Fairview).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723095 (Fairview), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Grammer Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723095,
+        102086337,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312493
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f75d43e5c4b3a5139fe38e224b9fe81b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723095,
+            "neighbourhood_id":9895003914,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003914,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Grammer Estates",
+    "wof:parent_id":101723095,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.11445571655426,
+    35.95729258065389,
+    -87.11445571655426,
+    35.95729258065389
+],
+  "geometry": {"coordinates":[-87.11445571655426,35.95729258065389],"type":"Point"}
+}

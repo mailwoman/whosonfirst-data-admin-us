@@ -1,0 +1,80 @@
+{
+  "id": 9895007870,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.47460408482895,27.244408800445957,-82.47460408482895,27.244408800445957",
+    "geom:latitude":27.244409,
+    "geom:longitude":-82.474604,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805187: name \"Palmer Ranch\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805187"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805187: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805187"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805187: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805187"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085795 (Sarasota).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085795 (Sarasota), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Palmer Ranch"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102085795,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805187
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd04821dff32c02cbd2890198bb8fab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085795,
+            "locality_id":9895007870,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007870,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Palmer Ranch",
+    "wof:parent_id":102085795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.47460408482895,
+    27.244408800445957,
+    -82.47460408482895,
+    27.244408800445957
+],
+  "geometry": {"coordinates":[-82.47460408482895,27.244408800445957],"type":"Point"}
+}

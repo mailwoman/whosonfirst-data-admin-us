@@ -1,0 +1,82 @@
+{
+  "id": 9895003239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.80314734979555,40.88265518571044,-76.80314734979555,40.88265518571044",
+    "geom:latitude":40.882655,
+    "geom:longitude":-76.803147,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1169877: name \"Blue Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1169877"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1169877: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1169877"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1169877: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1169877"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404487517 (Union Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404487517 (Union Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Blue Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081335,
+        102191575,
+        404487517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1169877
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b12f547d60f659c957058d66c2206751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081335,
+            "localadmin_id":404487517,
+            "locality_id":9895003239,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003239,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Blue Hill",
+    "wof:parent_id":404487517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.80314734979555,
+    40.88265518571044,
+    -76.80314734979555,
+    40.88265518571044
+],
+  "geometry": {"coordinates":[-76.80314734979555,40.88265518571044],"type":"Point"}
+}

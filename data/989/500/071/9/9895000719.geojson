@@ -1,0 +1,82 @@
+{
+  "id": 9895000719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.51445466267494,33.183458596333885,-87.51445466267494,33.183458596333885",
+    "geom:latitude":33.183459,
+    "geom:longitude":-87.514455,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148268: name \"Idlewood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148268"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148268: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148268"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148268: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148268"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914453 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914453 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Idlewood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914453,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148268
+    },
+    "wof:country":"US",
+    "wof:geomhash":"560d9691487124e63273ad9a9779fd02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85914453,
+            "neighbourhood_id":9895000719,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000719,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Idlewood",
+    "wof:parent_id":85914453,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.51445466267494,
+    33.183458596333885,
+    -87.51445466267494,
+    33.183458596333885
+],
+  "geometry": {"coordinates":[-87.51445466267494,33.183458596333885],"type":"Point"}
+}

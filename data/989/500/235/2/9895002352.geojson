@@ -1,0 +1,82 @@
+{
+  "id": 9895002352,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.95968799937832,42.291193744864984,-76.95968799937832,42.291193744864984",
+    "geom:latitude":42.291194,
+    "geom:longitude":-76.959688,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 943382: name \"Beaver Dams\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/943382"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 943382: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/943382"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 943382: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/943382"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404522553 (Dix).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404522553 (Dix), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Beaver Dams"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102082397,
+        102191575,
+        404522553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":943382
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8ef16ef744d04032bbf288c959fddb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082397,
+            "localadmin_id":404522553,
+            "locality_id":9895002352,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002352,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Beaver Dams",
+    "wof:parent_id":404522553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.95968799937832,
+    42.291193744864984,
+    -76.95968799937832,
+    42.291193744864984
+],
+  "geometry": {"coordinates":[-76.95968799937832,42.291193744864984],"type":"Point"}
+}

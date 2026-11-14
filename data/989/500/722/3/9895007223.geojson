@@ -1,0 +1,82 @@
+{
+  "id": 9895007223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.66001722815015,30.715196206013175,-97.66001722815015,30.715196206013175",
+    "geom:latitude":30.715196,
+    "geom:longitude":-97.660017,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2034687: name \"Berrys Creek\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2034687"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2034687: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2034687"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2034687: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2034687"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101725071 (Georgetown).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101725071 (Georgetown), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Berrys Creek"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        101725071,
+        102085993,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2034687
+    },
+    "wof:country":"US",
+    "wof:geomhash":"569aea8f1bd006ff63952254ca03e781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085993,
+            "locality_id":101725071,
+            "neighbourhood_id":9895007223,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007223,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Berrys Creek",
+    "wof:parent_id":101725071,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.66001722815015,
+    30.715196206013175,
+    -97.66001722815015,
+    30.715196206013175
+],
+  "geometry": {"coordinates":[-97.66001722815015,30.715196206013175],"type":"Point"}
+}

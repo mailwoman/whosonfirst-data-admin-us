@@ -1,0 +1,118 @@
+{
+  "id": 9895002405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.82819138350389,40.58316883726284,-73.82819138350389,40.58316883726284",
+    "geom:latitude":40.583169,
+    "geom:longitude":-73.828191,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 964751: name \"Seaside\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/964751"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 964751: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/964751"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 964751: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/964751"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85977539 (New York).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85977539 (New York), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Seaside"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        85977539,
+        102081779,
+        102081863,
+        102082361,
+        102082377,
+        102083063,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":964751
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bdbaacd45b59d9854eed6cf92e28464f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002405,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002405,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002405,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002405,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002405,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002405,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Seaside",
+    "wof:parent_id":85977539,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.82819138350389,
+    40.58316883726284,
+    -73.82819138350389,
+    40.58316883726284
+],
+  "geometry": {"coordinates":[-73.82819138350389,40.58316883726284],"type":"Point"}
+}

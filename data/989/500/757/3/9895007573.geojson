@@ -1,0 +1,82 @@
+{
+  "id": 9895007573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.38840702136613,30.048505255542523,-95.38840702136613,30.048505255542523",
+    "geom:latitude":30.048505,
+    "geom:longitude":-95.388407,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2472160: name \"Northland Shopping Center\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2472160"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2472160: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2472160"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2472160: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2472160"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727525 (Spring).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727525 (Spring), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Northland Shopping Center"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        101727525,
+        102081111,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2472160
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70363ac539bd462a0fdfd349a767837d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081111,
+            "locality_id":101727525,
+            "neighbourhood_id":9895007573,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007573,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Northland Shopping Center",
+    "wof:parent_id":101727525,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.38840702136613,
+    30.048505255542523,
+    -95.38840702136613,
+    30.048505255542523
+],
+  "geometry": {"coordinates":[-95.38840702136613,30.048505255542523],"type":"Point"}
+}

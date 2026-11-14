@@ -1,0 +1,82 @@
+{
+  "id": 9895006983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.57444461093723,35.14814454099808,-86.57444461093723,35.14814454099808",
+    "geom:latitude":35.148145,
+    "geom:longitude":-86.574445,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1805965: name \"Madden Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1805965"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1805965: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1805965"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1805965: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1805965"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722777 (Fayetteville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722777 (Fayetteville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Madden Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722777,
+        102087119,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1805965
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4aa877bcf953c628247494d5907dbb5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087119,
+            "locality_id":101722777,
+            "neighbourhood_id":9895006983,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895006983,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Madden Homes",
+    "wof:parent_id":101722777,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.57444461093723,
+    35.14814454099808,
+    -86.57444461093723,
+    35.14814454099808
+],
+  "geometry": {"coordinates":[-86.57444461093723,35.14814454099808],"type":"Point"}
+}

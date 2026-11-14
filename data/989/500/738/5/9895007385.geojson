@@ -1,0 +1,82 @@
+{
+  "id": 9895007385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.04862123126601,39.81111752453645,-105.04862123126601,39.81111752453645",
+    "geom:latitude":39.811118,
+    "geom:longitude":-105.048621,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354421: name \"Tennyson Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354421"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354421: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354421"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354421: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354421"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929333 (Arvada).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929333 (Arvada), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tennyson Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929333,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354421
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c9a7a85772e2ddc107666d3ad9c6d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":85929333,
+            "neighbourhood_id":9895007385,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007385,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Tennyson Park",
+    "wof:parent_id":85929333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.04862123126601,
+    39.81111752453645,
+    -105.04862123126601,
+    39.81111752453645
+],
+  "geometry": {"coordinates":[-105.04862123126601,39.81111752453645],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.99729759009428,29.89854390415806,-89.99729759009428,29.89854390415806",
+    "geom:latitude":29.898544,
+    "geom:longitude":-89.997298,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558896: name \"Timber Grove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558896"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558896: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558896"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558896: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558896"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948111 (New Orleans).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948111 (New Orleans), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Timber Grove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948111,
+        102086693,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":558896
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ea8efbdd2da20ea7f95eacebb0df356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":9895001639,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001639,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Timber Grove",
+    "wof:parent_id":85948111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.99729759009428,
+    29.89854390415806,
+    -89.99729759009428,
+    29.89854390415806
+],
+  "geometry": {"coordinates":[-89.99729759009428,29.89854390415806],"type":"Point"}
+}

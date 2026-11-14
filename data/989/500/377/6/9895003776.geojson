@@ -1,0 +1,80 @@
+{
+  "id": 9895003776,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.78064324207189,35.5920314902907,-89.78064324207189,35.5920314902907",
+    "geom:latitude":35.592031,
+    "geom:longitude":-89.780643,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1273713: name \"Walnut Grove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1273713"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1273713: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1273713"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1273713: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1273713"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086277 (Tipton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086277 (Tipton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Walnut Grove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086277,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1273713
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18cef7b2145e5f35da8964d06cfbc556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":9895003776,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003776,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Walnut Grove",
+    "wof:parent_id":102086277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.78064324207189,
+    35.5920314902907,
+    -89.78064324207189,
+    35.5920314902907
+],
+  "geometry": {"coordinates":[-89.78064324207189,35.5920314902907],"type":"Point"}
+}

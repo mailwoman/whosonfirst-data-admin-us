@@ -1,0 +1,82 @@
+{
+  "id": 9895006391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.08261515821987,32.073269978544495,-81.08261515821987,32.073269978544495",
+    "geom:latitude":32.07327,
+    "geom:longitude":-81.082615,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1694636: name \"Robert M Hitch Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1694636"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1694636: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1694636"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1694636: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1694636"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936939 (Savannah).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936939 (Savannah), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Robert M Hitch Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936939,
+        102082337,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1694636
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e1926dd915f020ef26ad46d13f018f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":9895006391,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006391,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Robert M Hitch Village",
+    "wof:parent_id":85936939,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.08261515821987,
+    32.073269978544495,
+    -81.08261515821987,
+    32.073269978544495
+],
+  "geometry": {"coordinates":[-81.08261515821987,32.073269978544495],"type":"Point"}
+}

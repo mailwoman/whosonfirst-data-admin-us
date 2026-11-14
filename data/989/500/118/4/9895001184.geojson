@@ -1,0 +1,82 @@
+{
+  "id": 9895001184,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.21935767035053,32.06489267329263,-84.21935767035053,32.06489267329263",
+    "geom:latitude":32.064893,
+    "geom:longitude":-84.219358,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 343506: name \"Sumter Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/343506"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 343506: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/343506"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 343506: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/343506"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936381 (Americus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936381 (Americus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sumter Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936381,
+        102082971,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":343506
+    },
+    "wof:country":"US",
+    "wof:geomhash":"265d60358a4b08633eb91fae5a6b8f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082971,
+            "locality_id":85936381,
+            "neighbourhood_id":9895001184,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001184,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Sumter Homes",
+    "wof:parent_id":85936381,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.21935767035053,
+    32.06489267329263,
+    -84.21935767035053,
+    32.06489267329263
+],
+  "geometry": {"coordinates":[-84.21935767035053,32.06489267329263],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895007918,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-152.3542815057936,57.81690207728759,-152.3542815057936,57.81690207728759",
+    "geom:latitude":57.816902,
+    "geom:longitude":-152.354282,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805897: name \"Mill Bay\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805897"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805897: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805897"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805897: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805897"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081005 (Kodiak Island).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081005 (Kodiak Island), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mill Bay"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081005,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805897
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a7224744e1b890c667c4adfd159ad15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":9895007918,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895007918,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Mill Bay",
+    "wof:parent_id":102081005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -152.3542815057936,
+    57.81690207728759,
+    -152.3542815057936,
+    57.81690207728759
+],
+  "geometry": {"coordinates":[-152.3542815057936,57.81690207728759],"type":"Point"}
+}

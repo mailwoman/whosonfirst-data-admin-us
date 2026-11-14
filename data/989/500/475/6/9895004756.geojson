@@ -1,0 +1,82 @@
+{
+  "id": 9895004756,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.84244489692097,40.5438437169956,-111.84244489692097,40.5438437169956",
+    "geom:latitude":40.543844,
+    "geom:longitude":-111.842445,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452942: name \"Big Willow Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452942"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452942: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452942"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452942: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452942"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728077 (Sandy).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728077 (Sandy), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Big Willow Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728077,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1452942
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3a72ced4cf371443f685d94694b1325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":9895004756,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004756,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Big Willow Estates",
+    "wof:parent_id":101728077,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.84244489692097,
+    40.5438437169956,
+    -111.84244489692097,
+    40.5438437169956
+],
+  "geometry": {"coordinates":[-111.84244489692097,40.5438437169956],"type":"Point"}
+}

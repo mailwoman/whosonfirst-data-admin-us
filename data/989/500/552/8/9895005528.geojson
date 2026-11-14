@@ -1,0 +1,80 @@
+{
+  "id": 9895005528,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.95385749121326,37.56598521597606,-76.95385749121326,37.56598521597606",
+    "geom:latitude":37.565985,
+    "geom:longitude":-76.953857,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1480262: name \"Riverview Landing\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1480262"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1480262: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1480262"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1480262: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1480262"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083829 (King William).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083829 (King William), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Riverview Landing"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102083829,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1480262
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15c18ae2f774a5406f00cd2253d13d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "locality_id":9895005528,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005528,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Riverview Landing",
+    "wof:parent_id":102083829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.95385749121326,
+    37.56598521597606,
+    -76.95385749121326,
+    37.56598521597606
+],
+  "geometry": {"coordinates":[-76.95385749121326,37.56598521597606],"type":"Point"}
+}

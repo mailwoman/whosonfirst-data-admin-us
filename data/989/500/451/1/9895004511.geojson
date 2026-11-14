@@ -1,0 +1,82 @@
+{
+  "id": 9895004511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.83550111381084,40.6791199325657,-111.83550111381084,40.6791199325657",
+    "geom:latitude":40.67912,
+    "geom:longitude":-111.835501,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451946: name \"Lincoln Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451946"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451946: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451946"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451946: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451946"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728049 (Holladay).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728049 (Holladay), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lincoln Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728049,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451946
+    },
+    "wof:country":"US",
+    "wof:geomhash":"027fd7db4b6496ec0dfa299434f74e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":9895004511,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004511,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Lincoln Gardens",
+    "wof:parent_id":101728049,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.83550111381084,
+    40.6791199325657,
+    -111.83550111381084,
+    40.6791199325657
+],
+  "geometry": {"coordinates":[-111.83550111381084,40.6791199325657],"type":"Point"}
+}

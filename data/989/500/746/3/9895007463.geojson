@@ -1,0 +1,82 @@
+{
+  "id": 9895007463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.1041768474113,39.84667312569126,-105.1041768474113,39.84667312569126",
+    "geom:latitude":39.846673,
+    "geom:longitude":-105.104177,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354699: name \"Wood Run\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354699"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354699: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354699"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354699: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354699"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929333 (Arvada).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929333 (Arvada), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wood Run"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929333,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354699
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e07dc5740b4b2f38394973e510fb3fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":85929333,
+            "neighbourhood_id":9895007463,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007463,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Wood Run",
+    "wof:parent_id":85929333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.1041768474113,
+    39.84667312569126,
+    -105.1041768474113,
+    39.84667312569126
+],
+  "geometry": {"coordinates":[-105.1041768474113,39.84667312569126],"type":"Point"}
+}

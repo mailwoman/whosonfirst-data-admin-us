@@ -1,0 +1,82 @@
+{
+  "id": 9895006555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.52910043466152,33.58067349307482,-84.52910043466152,33.58067349307482",
+    "geom:latitude":33.580673,
+    "geom:longitude":-84.5291,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1704470: name \"Brandon Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1704470"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1704470: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1704470"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1704470: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1704470"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937167 (Union City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937167 (Union City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brandon Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85937167,
+        102083603,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1704470
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a88d4fd7920f4a12156de835f9710d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937167,
+            "neighbourhood_id":9895006555,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006555,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Brandon Hill",
+    "wof:parent_id":85937167,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.52910043466152,
+    33.58067349307482,
+    -84.52910043466152,
+    33.58067349307482
+],
+  "geometry": {"coordinates":[-84.52910043466152,33.58067349307482],"type":"Point"}
+}

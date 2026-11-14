@@ -1,0 +1,80 @@
+{
+  "id": 9895001355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-113.61978733345282,44.85159830332837,-113.61978733345282,44.85159830332837",
+    "geom:latitude":44.851598,
+    "geom:longitude":-113.619787,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 396781: name \"Lemhi\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/396781"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 396781: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/396781"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 396781: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/396781"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085123 (Lemhi).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085123 (Lemhi), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lemhi"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688657,
+        102085123,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":396781
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf9552892023c0dfffbd16890fba3af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085123,
+            "locality_id":9895001355,
+            "region_id":85688657
+        }
+    ],
+    "wof:id":9895001355,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Lemhi",
+    "wof:parent_id":102085123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.61978733345282,
+    44.85159830332837,
+    -113.61978733345282,
+    44.85159830332837
+],
+  "geometry": {"coordinates":[-113.61978733345282,44.85159830332837],"type":"Point"}
+}

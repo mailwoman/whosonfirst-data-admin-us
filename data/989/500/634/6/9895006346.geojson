@@ -1,0 +1,82 @@
+{
+  "id": 9895006346,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.34437410189211,33.96149638146718,-84.34437410189211,33.96149638146718",
+    "geom:latitude":33.961496,
+    "geom:longitude":-84.344374,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687494: name \"Oak Point\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687494"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687494: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687494"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687494: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687494"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936467 (Dunwoody).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936467 (Dunwoody), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oak Point"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936467,
+        102084539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1687494
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c5ec6fe3307b39c86f4281930e8db7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":9895006346,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006346,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Oak Point",
+    "wof:parent_id":85936467,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.34437410189211,
+    33.96149638146718,
+    -84.34437410189211,
+    33.96149638146718
+],
+  "geometry": {"coordinates":[-84.34437410189211,33.96149638146718],"type":"Point"}
+}

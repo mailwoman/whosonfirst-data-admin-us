@@ -1,0 +1,82 @@
+{
+  "id": 9895002525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.56812564527053,34.962934634704666,-80.56812564527053,34.962934634704666",
+    "geom:latitude":34.962935,
+    "geom:longitude":-80.568126,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002237: name \"Carmel Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002237"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002237: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002237"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002237: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002237"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981353 (Monroe).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981353 (Monroe), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Carmel Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981353,
+        102080895,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1002237
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2609f970bceb6bf7833970038a5cae09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080895,
+            "locality_id":85981353,
+            "neighbourhood_id":9895002525,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002525,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Carmel Village",
+    "wof:parent_id":85981353,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.56812564527053,
+    34.962934634704666,
+    -80.56812564527053,
+    34.962934634704666
+],
+  "geometry": {"coordinates":[-80.56812564527053,34.962934634704666],"type":"Point"}
+}

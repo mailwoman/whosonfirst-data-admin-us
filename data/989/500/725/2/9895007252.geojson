@@ -1,0 +1,84 @@
+{
+  "id": 9895007252,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.09452821978378,42.20975438364589,-88.09452821978378,42.20975438364589",
+    "geom:latitude":42.209754,
+    "geom:longitude":-88.094528,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2037981: name \"Timber Trails\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2037981"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2037981: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2037981"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2037981: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2037981"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85938343 (Lake Zurich).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85938343 (Lake Zurich), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Timber Trails"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85938343,
+        102086215,
+        102191575,
+        404498459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2037981
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4c00a15f655fd967bf7f83270441195a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498459,
+            "locality_id":85938343,
+            "neighbourhood_id":9895007252,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007252,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Timber Trails",
+    "wof:parent_id":85938343,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.09452821978378,
+    42.20975438364589,
+    -88.09452821978378,
+    42.20975438364589
+],
+  "geometry": {"coordinates":[-88.09452821978378,42.20975438364589],"type":"Point"}
+}

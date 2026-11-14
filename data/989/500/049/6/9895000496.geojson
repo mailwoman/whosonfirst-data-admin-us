@@ -1,0 +1,82 @@
+{
+  "id": 9895000496,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.0708384024732,30.838524773231537,-88.0708384024732,30.838524773231537",
+    "geom:latitude":30.838525,
+    "geom:longitude":-88.070838,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143495: name \"Little Pines\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143495"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143495: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143495"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143495: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143495"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913731 (Satsuma).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913731 (Satsuma), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Little Pines"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913731,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143495
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eaf6e1db08957d365e83cb7c0513938e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":85913731,
+            "neighbourhood_id":9895000496,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000496,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Little Pines",
+    "wof:parent_id":85913731,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.0708384024732,
+    30.838524773231537,
+    -88.0708384024732,
+    30.838524773231537
+],
+  "geometry": {"coordinates":[-88.0708384024732,30.838524773231537],"type":"Point"}
+}

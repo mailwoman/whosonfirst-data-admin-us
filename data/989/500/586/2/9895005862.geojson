@@ -1,0 +1,80 @@
+{
+  "id": 9895005862,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.65848427331177,36.764955148869646,-119.65848427331177,36.764955148869646",
+    "geom:latitude":36.764955,
+    "geom:longitude":-119.658484,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1655855: name \"Burness\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1655855"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1655855: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1655855"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1655855: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1655855"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084347 (Fresno).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084347 (Fresno), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Burness"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102084347,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1655855
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d44911e7ae55124df023393d61ad7a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084347,
+            "locality_id":9895005862,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005862,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Burness",
+    "wof:parent_id":102084347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.65848427331177,
+    36.764955148869646,
+    -119.65848427331177,
+    36.764955148869646
+],
+  "geometry": {"coordinates":[-119.65848427331177,36.764955148869646],"type":"Point"}
+}

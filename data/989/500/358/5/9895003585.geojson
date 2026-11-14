@@ -1,0 +1,82 @@
+{
+  "id": 9895003585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.80006637558901,34.16905148881226,-79.80006637558901,34.16905148881226",
+    "geom:latitude":34.169051,
+    "geom:longitude":-79.800066,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242310: name \"Belleview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242310"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242310: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242310"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242310: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242310"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721115 (Florence).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721115 (Florence), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Belleview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721115,
+        102085723,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1242310
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b67748e8f433e1e8384ed0fc12e72021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085723,
+            "locality_id":101721115,
+            "neighbourhood_id":9895003585,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003585,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Belleview",
+    "wof:parent_id":101721115,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.80006637558901,
+    34.16905148881226,
+    -79.80006637558901,
+    34.16905148881226
+],
+  "geometry": {"coordinates":[-79.80006637558901,34.16905148881226],"type":"Point"}
+}

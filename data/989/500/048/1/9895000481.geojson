@@ -1,0 +1,80 @@
+{
+  "id": 9895000481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.1988978339206,30.75047174943626,-88.1988978339206,30.75047174943626",
+    "geom:latitude":30.750472,
+    "geom:longitude":-88.198898,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143209: name \"Charmingdale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143209"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143209: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143209"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143209: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143209"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085585 (Mobile).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085585 (Mobile), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Charmingdale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143209
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6ac7f521a79a40c407d5b1b4a837abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":9895000481,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000481,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Charmingdale",
+    "wof:parent_id":102085585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.1988978339206,
+    30.75047174943626,
+    -88.1988978339206,
+    30.75047174943626
+],
+  "geometry": {"coordinates":[-88.1988978339206,30.75047174943626],"type":"Point"}
+}

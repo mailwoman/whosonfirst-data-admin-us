@@ -1,0 +1,82 @@
+{
+  "id": 9895001501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.7711478666854,37.519470690518204,-96.7711478666854,37.519470690518204",
+    "geom:latitude":37.519471,
+    "geom:longitude":-96.771148,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 484711: name \"Clay Center\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/484711"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 484711: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/484711"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 484711: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/484711"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404502475 (Clay Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404502475 (Clay Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Clay Center"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688555,
+        102082695,
+        102191575,
+        404502475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":484711
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6142eb8d7a9729acde804051d3aaff1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082695,
+            "localadmin_id":404502475,
+            "locality_id":9895001501,
+            "region_id":85688555
+        }
+    ],
+    "wof:id":9895001501,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Clay Center",
+    "wof:parent_id":404502475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.7711478666854,
+    37.519470690518204,
+    -96.7711478666854,
+    37.519470690518204
+],
+  "geometry": {"coordinates":[-96.7711478666854,37.519470690518204],"type":"Point"}
+}

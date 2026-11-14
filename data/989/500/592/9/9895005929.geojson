@@ -1,0 +1,82 @@
+{
+  "id": 9895005929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.40079936133336,38.61796529023203,-121.40079936133336,38.61796529023203",
+    "geom:latitude":38.617965,
+    "geom:longitude":-121.400799,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660019: name \"Town and Country Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660019"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660019: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660019"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660019: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660019"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85926841 (Arden-Arcade).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85926841 (Arden-Arcade), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Town and Country Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85926841,
+        102082889,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1660019
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9773492a9dcfaa2d430735211405b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082889,
+            "locality_id":85926841,
+            "neighbourhood_id":9895005929,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005929,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Town and Country Village",
+    "wof:parent_id":85926841,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.40079936133336,
+    38.61796529023203,
+    -121.40079936133336,
+    38.61796529023203
+],
+  "geometry": {"coordinates":[-121.40079936133336,38.61796529023203],"type":"Point"}
+}

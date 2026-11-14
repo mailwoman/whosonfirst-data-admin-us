@@ -1,0 +1,80 @@
+{
+  "id": 9895001486,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.75717548584628,41.75332836913832,-93.75717548584628,41.75332836913832",
+    "geom:latitude":41.753328,
+    "geom:longitude":-93.757175,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 464444: name \"Andrews\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/464444"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 464444: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/464444"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 464444: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/464444"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086603 (Polk).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086603 (Polk), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Andrews"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688713,
+        102086603,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":464444
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0bd3e4aced28e7a62ce1b2ee9fe0d9c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":9895001486,
+            "region_id":85688713
+        }
+    ],
+    "wof:id":9895001486,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Andrews",
+    "wof:parent_id":102086603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.75717548584628,
+    41.75332836913832,
+    -93.75717548584628,
+    41.75332836913832
+],
+  "geometry": {"coordinates":[-93.75717548584628,41.75332836913832],"type":"Point"}
+}

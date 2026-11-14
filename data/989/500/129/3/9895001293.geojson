@@ -1,0 +1,82 @@
+{
+  "id": 9895001293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.92493549360756,32.50459174571384,-84.92493549360756,32.50459174571384",
+    "geom:latitude":32.504592,
+    "geom:longitude":-84.924935,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357401: name \"Kenwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357401"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357401: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357401"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357401: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357401"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936243 (Columbus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936243 (Columbus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kenwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936243,
+        102084429,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357401
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79a6ad57c1e89f5ba2ae504f0faf18c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":9895001293,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001293,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Kenwood",
+    "wof:parent_id":85936243,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.92493549360756,
+    32.50459174571384,
+    -84.92493549360756,
+    32.50459174571384
+],
+  "geometry": {"coordinates":[-84.92493549360756,32.50459174571384],"type":"Point"}
+}

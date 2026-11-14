@@ -1,0 +1,80 @@
+{
+  "id": 9895002326,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.78920351042703,34.560067157175396,-106.78920351042703,34.560067157175396",
+    "geom:latitude":34.560067,
+    "geom:longitude":-106.789204,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 899545: name \"Bosque\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/899545"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 899545: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/899545"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 899545: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/899545"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081561 (Valencia).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081561 (Valencia), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bosque"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081561,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":899545
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e08dc002ea6365a84968c8f20c681c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081561,
+            "locality_id":9895002326,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002326,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Bosque",
+    "wof:parent_id":102081561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.78920351042703,
+    34.560067157175396,
+    -106.78920351042703,
+    34.560067157175396
+],
+  "geometry": {"coordinates":[-106.78920351042703,34.560067157175396],"type":"Point"}
+}

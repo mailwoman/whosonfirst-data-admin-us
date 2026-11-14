@@ -1,0 +1,82 @@
+{
+  "id": 9895007266,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.67818677262213,41.19843686225268,-73.67818677262213,41.19843686225268",
+    "geom:latitude":41.198437,
+    "geom:longitude":-73.678187,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2063103: name \"Bedford Four Corners\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2063103"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2063103: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2063103"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2063103: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2063103"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404523353 (Bedford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404523353 (Bedford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bedford Four Corners"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102082373,
+        102191575,
+        404523353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2063103
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f87070c54990276c5c504954ecde4a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523353,
+            "locality_id":9895007266,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895007266,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Bedford Four Corners",
+    "wof:parent_id":404523353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.67818677262213,
+    41.19843686225268,
+    -73.67818677262213,
+    41.19843686225268
+],
+  "geometry": {"coordinates":[-73.67818677262213,41.19843686225268],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000992,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.96667778260377,38.497139961049974,-122.96667778260377,38.497139961049974",
+    "geom:latitude":38.49714,
+    "geom:longitude":-122.966678,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 232555: name \"Santa Nella\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/232555"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 232555: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/232555"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 232555: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/232555"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081671 (Sonoma).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081671 (Sonoma), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Santa Nella"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102081671,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":232555
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63ebee0877677e6ca66a59ff81ff3984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":9895000992,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895000992,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Santa Nella",
+    "wof:parent_id":102081671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.96667778260377,
+    38.497139961049974,
+    -122.96667778260377,
+    38.497139961049974
+],
+  "geometry": {"coordinates":[-122.96667778260377,38.497139961049974],"type":"Point"}
+}

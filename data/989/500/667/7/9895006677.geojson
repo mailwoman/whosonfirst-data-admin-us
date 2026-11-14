@@ -1,0 +1,82 @@
+{
+  "id": 9895006677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.7274959590709,39.67038121299446,-77.7274959590709,39.67038121299446",
+    "geom:latitude":39.670381,
+    "geom:longitude":-77.727496,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1713771: name \"Hyde Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1713771"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1713771: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1713771"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1713771: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1713771"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949165 (Hagerstown).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949165 (Hagerstown), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hyde Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949165,
+        102082189,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1713771
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db68dfff33a12ba670f19896406590d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949165,
+            "neighbourhood_id":9895006677,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006677,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Hyde Park",
+    "wof:parent_id":85949165,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.7274959590709,
+    39.67038121299446,
+    -77.7274959590709,
+    39.67038121299446
+],
+  "geometry": {"coordinates":[-77.7274959590709,39.67038121299446],"type":"Point"}
+}

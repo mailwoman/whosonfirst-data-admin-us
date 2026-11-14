@@ -1,0 +1,82 @@
+{
+  "id": 9895002176,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.28065198540476,32.352928616895845,-90.28065198540476,32.352928616895845",
+    "geom:latitude":32.352929,
+    "geom:longitude":-90.280652,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688352: name \"Forest Green\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688352"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688352: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688352"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688352: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688352"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969677 (Clinton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969677 (Clinton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Forest Green"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969677,
+        102081407,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":688352
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9bbf6375eb0b606bcad59623cfd73e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":9895002176,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002176,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Forest Green",
+    "wof:parent_id":85969677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.28065198540476,
+    32.352928616895845,
+    -90.28065198540476,
+    32.352928616895845
+],
+  "geometry": {"coordinates":[-90.28065198540476,32.352928616895845],"type":"Point"}
+}

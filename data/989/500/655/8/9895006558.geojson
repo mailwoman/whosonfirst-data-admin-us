@@ -1,0 +1,82 @@
+{
+  "id": 9895006558,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.38437520114498,33.73789103224528,-84.38437520114498,33.73789103224528",
+    "geom:latitude":33.737891,
+    "geom:longitude":-84.384375,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1704579: name \"Summerhill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1704579"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1704579: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1704579"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1704579: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1704579"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936429 (Atlanta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936429 (Atlanta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Summerhill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936429,
+        102083603,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1704579
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea88eeb7d98921ee56ee99da0678b4c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":9895006558,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006558,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Summerhill",
+    "wof:parent_id":85936429,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.38437520114498,
+    33.73789103224528,
+    -84.38437520114498,
+    33.73789103224528
+],
+  "geometry": {"coordinates":[-84.38437520114498,33.73789103224528],"type":"Point"}
+}

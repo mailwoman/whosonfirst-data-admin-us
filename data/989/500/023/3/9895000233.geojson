@@ -1,0 +1,80 @@
+{
+  "id": 9895000233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.02101579075584,36.4736842037833,-93.02101579075584,36.4736842037833",
+    "geom:latitude":36.473684,
+    "geom:longitude":-93.021016,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 57410: name \"Boone\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/57410"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 57410: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/57410"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 57410: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/57410"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083249 (Boone).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083249 (Boone), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Boone"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        102083249,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":57410
+    },
+    "wof:country":"US",
+    "wof:geomhash":"46cc6acdeaae4efe918eac77b4270e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083249,
+            "locality_id":9895000233,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000233,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Boone",
+    "wof:parent_id":102083249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.02101579075584,
+    36.4736842037833,
+    -93.02101579075584,
+    36.4736842037833
+],
+  "geometry": {"coordinates":[-93.02101579075584,36.4736842037833],"type":"Point"}
+}

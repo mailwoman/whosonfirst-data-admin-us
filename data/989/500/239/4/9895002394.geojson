@@ -1,0 +1,82 @@
+{
+  "id": 9895002394,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.26891358836929,43.1825673516087,-78.26891358836929,43.1825673516087",
+    "geom:latitude":43.182567,
+    "geom:longitude":-78.268914,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 960468: name \"Pine Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/960468"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 960468: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/960468"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 960468: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/960468"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404522929 (Barre).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404522929 (Barre), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pine Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102082411,
+        102191575,
+        404522929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":960468
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af1f888d7970aba63cae1ee59624c513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082411,
+            "localadmin_id":404522929,
+            "locality_id":9895002394,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002394,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Pine Hill",
+    "wof:parent_id":404522929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.26891358836929,
+    43.1825673516087,
+    -78.26891358836929,
+    43.1825673516087
+],
+  "geometry": {"coordinates":[-78.26891358836929,43.1825673516087],"type":"Point"}
+}

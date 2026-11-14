@@ -1,0 +1,82 @@
+{
+  "id": 9895000610,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.59305339171082,34.752875259220865,-86.59305339171082,34.752875259220865",
+    "geom:latitude":34.752875,
+    "geom:longitude":-86.593053,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147187: name \"Pearsall Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147187"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147187: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147187"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147187: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147187"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913601 (Huntsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913601 (Huntsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pearsall Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913601,
+        102085487,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147187
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a15f8071a23e0ad23d4568c7f535a219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085487,
+            "locality_id":85913601,
+            "neighbourhood_id":9895000610,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000610,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Pearsall Gardens",
+    "wof:parent_id":85913601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.59305339171082,
+    34.752875259220865,
+    -86.59305339171082,
+    34.752875259220865
+],
+  "geometry": {"coordinates":[-86.59305339171082,34.752875259220865],"type":"Point"}
+}

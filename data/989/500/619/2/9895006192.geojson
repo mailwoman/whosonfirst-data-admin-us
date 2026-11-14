@@ -1,0 +1,82 @@
+{
+  "id": 9895006192,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.58462582603032,32.870977672925925,-83.58462582603032,32.870977672925925",
+    "geom:latitude":32.870978,
+    "geom:longitude":-83.584626,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672144: name \"Groveland\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672144"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672144: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672144"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672144: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672144"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936517 (Macon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936517 (Macon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Groveland"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936517,
+        102084373,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1672144
+    },
+    "wof:country":"US",
+    "wof:geomhash":"80d734e330e149d32b273f927bf4165c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":9895006192,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006192,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Groveland",
+    "wof:parent_id":85936517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.58462582603032,
+    32.870977672925925,
+    -83.58462582603032,
+    32.870977672925925
+],
+  "geometry": {"coordinates":[-83.58462582603032,32.870977672925925],"type":"Point"}
+}

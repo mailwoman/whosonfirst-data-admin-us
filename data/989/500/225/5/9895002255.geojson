@@ -1,0 +1,82 @@
+{
+  "id": 9895002255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.90537191807512,36.19007420075856,-89.90537191807512,36.19007420075856",
+    "geom:latitude":36.190074,
+    "geom:longitude":-89.905372,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740805: name \"Deering Junction\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740805"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740805: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740805"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740805: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740805"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404515831 (Braggadocio Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404515831 (Braggadocio Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Deering Junction"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102085321,
+        102191575,
+        404515831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":740805
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f64df3f3d8906403efcae2885edd097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085321,
+            "localadmin_id":404515831,
+            "locality_id":9895002255,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002255,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Deering Junction",
+    "wof:parent_id":404515831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.90537191807512,
+    36.19007420075856,
+    -89.90537191807512,
+    36.19007420075856
+],
+  "geometry": {"coordinates":[-89.90537191807512,36.19007420075856],"type":"Point"}
+}

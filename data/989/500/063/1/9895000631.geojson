@@ -1,0 +1,82 @@
+{
+  "id": 9895000631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.3627530955335,32.361811264088246,-86.3627530955335,32.361811264088246",
+    "geom:latitude":32.361811,
+    "geom:longitude":-86.362753,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147727: name \"Brickdale Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147727"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147727: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147727"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147727: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147727"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brickdale Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147727
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fa590f6ad43e8b73e812942c11671ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000631,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000631,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Brickdale Estates",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.3627530955335,
+    32.361811264088246,
+    -86.3627530955335,
+    32.361811264088246
+],
+  "geometry": {"coordinates":[-86.3627530955335,32.361811264088246],"type":"Point"}
+}

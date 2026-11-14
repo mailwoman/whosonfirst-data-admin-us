@@ -1,0 +1,82 @@
+{
+  "id": 9895007585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.57220705812696,29.828405203870037,-95.57220705812696,29.828405203870037",
+    "geom:latitude":29.828405,
+    "geom:longitude":-95.572207,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2472660: name \"Spring Meadows\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2472660"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2472660: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2472660"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2472660: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2472660"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101725629 (Houston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101725629 (Houston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Spring Meadows"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        101725629,
+        102081111,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2472660
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d114e5335932e90134d43b517887fa4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081111,
+            "locality_id":101725629,
+            "neighbourhood_id":9895007585,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007585,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Spring Meadows",
+    "wof:parent_id":101725629,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.57220705812696,
+    29.828405203870037,
+    -95.57220705812696,
+    29.828405203870037
+],
+  "geometry": {"coordinates":[-95.57220705812696,29.828405203870037],"type":"Point"}
+}

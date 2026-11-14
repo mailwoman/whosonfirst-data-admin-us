@@ -1,0 +1,80 @@
+{
+  "id": 9895000545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.73809032182676,34.83537162848143,-87.73809032182676,34.83537162848143",
+    "geom:latitude":34.835372,
+    "geom:longitude":-87.73809,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 145200: name \"Glendale Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/145200"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 145200: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/145200"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 145200: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/145200"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085527 (Lauderdale).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085527 (Lauderdale), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Glendale Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085527,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":145200
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49fb2bb4e94600d4d3b87c7122c6c885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085527,
+            "locality_id":9895000545,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000545,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Glendale Estates",
+    "wof:parent_id":102085527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.73809032182676,
+    34.83537162848143,
+    -87.73809032182676,
+    34.83537162848143
+],
+  "geometry": {"coordinates":[-87.73809032182676,34.83537162848143],"type":"Point"}
+}

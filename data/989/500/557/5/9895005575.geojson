@@ -1,0 +1,82 @@
+{
+  "id": 9895005575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.42800499599562,36.97876621079719,-76.42800499599562,36.97876621079719",
+    "geom:latitude":36.978766,
+    "geom:longitude":-76.428005,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1497043: name \"Newport News\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1497043"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1497043: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1497043"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1497043: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1497043"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101729041 (Newport News).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101729041 (Newport News), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Newport News"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101729041,
+        102085961,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1497043
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d944b06933c485953cceb524166c781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":9895005575,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005575,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Newport News",
+    "wof:parent_id":101729041,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.42800499599562,
+    36.97876621079719,
+    -76.42800499599562,
+    36.97876621079719
+],
+  "geometry": {"coordinates":[-76.42800499599562,36.97876621079719],"type":"Point"}
+}

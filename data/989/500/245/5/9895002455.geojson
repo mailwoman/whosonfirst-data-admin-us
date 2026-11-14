@@ -1,0 +1,80 @@
+{
+  "id": 9895002455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.18171790756465,36.36958934729254,-80.18171790756465,36.36958934729254",
+    "geom:latitude":36.369589,
+    "geom:longitude":-80.181718,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 989684: name \"Meadows\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/989684"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 989684: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/989684"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 989684: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/989684"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087767 (Stokes).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087767 (Stokes), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meadows"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087767,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":989684
+    },
+    "wof:country":"US",
+    "wof:geomhash":"387a5998be76e69a78dbccae36720c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087767,
+            "locality_id":9895002455,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002455,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Meadows",
+    "wof:parent_id":102087767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.18171790756465,
+    36.36958934729254,
+    -80.18171790756465,
+    36.36958934729254
+],
+  "geometry": {"coordinates":[-80.18171790756465,36.36958934729254],"type":"Point"}
+}

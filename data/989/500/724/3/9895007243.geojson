@@ -1,0 +1,84 @@
+{
+  "id": 9895007243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.020636095041,42.17308858161485,-88.020636095041,42.17308858161485",
+    "geom:latitude":42.173089,
+    "geom:longitude":-88.020636,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2037943: name \"Marden Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2037943"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2037943: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2037943"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2037943: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2037943"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85938335 (Long Grove).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85938335 (Long Grove), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Marden Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85938335,
+        102086215,
+        102191575,
+        404498371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2037943
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a96858853b446d6ec9ef213652381e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498371,
+            "locality_id":85938335,
+            "neighbourhood_id":9895007243,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007243,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Marden Estates",
+    "wof:parent_id":85938335,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.020636095041,
+    42.17308858161485,
+    -88.020636095041,
+    42.17308858161485
+],
+  "geometry": {"coordinates":[-88.020636095041,42.17308858161485],"type":"Point"}
+}

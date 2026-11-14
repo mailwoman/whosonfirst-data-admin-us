@@ -1,0 +1,82 @@
+{
+  "id": 9895007094,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-133.4131819070214,57.40516537408268,-133.4131819070214,57.40516537408268",
+    "geom:latitude":57.405165,
+    "geom:longitude":-133.413182,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1866951: name \"Hobart Bay\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1866951"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1866951: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1866951"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1866951: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1866951"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85917149 (Hobart Bay).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85917149 (Hobart Bay), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hobart Bay"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85917149,
+        102191575,
+        1108960989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1866951
+    },
+    "wof:country":"US",
+    "wof:geomhash":"886af4af02e4733c2b15a9d6b43147bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":1108960989,
+            "locality_id":85917149,
+            "neighbourhood_id":9895007094,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895007094,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Hobart Bay",
+    "wof:parent_id":85917149,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -133.4131819070214,
+    57.40516537408268,
+    -133.4131819070214,
+    57.40516537408268
+],
+  "geometry": {"coordinates":[-133.4131819070214,57.40516537408268],"type":"Point"}
+}

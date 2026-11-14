@@ -1,0 +1,82 @@
+{
+  "id": 9895005636,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.04818659412112,47.37982893521435,-122.04818659412112,47.37982893521435",
+    "geom:latitude":47.379829,
+    "geom:longitude":-122.048187,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1512905: name \"Wilderness\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1512905"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1512905: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1512905"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1512905: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1512905"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101730423 (Maple Valley).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101730423 (Maple Valley), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wilderness"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        101730423,
+        102086191,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1512905
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d4c88385e64a7cecc0a7dd94b87d042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730423,
+            "neighbourhood_id":9895005636,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005636,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Wilderness",
+    "wof:parent_id":101730423,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.04818659412112,
+    47.37982893521435,
+    -122.04818659412112,
+    47.37982893521435
+],
+  "geometry": {"coordinates":[-122.04818659412112,47.37982893521435],"type":"Point"}
+}

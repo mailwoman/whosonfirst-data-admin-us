@@ -1,0 +1,82 @@
+{
+  "id": 9895002872,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.95498711106536,35.96654974235177,-77.95498711106536,35.96654974235177",
+    "geom:latitude":35.96655,
+    "geom:longitude":-77.954987,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005249: name \"Birchwood Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005249"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005249: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005249"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005249: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005249"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980525 (Nashville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980525 (Nashville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Birchwood Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980525,
+        102080949,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005249
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a2ebe588cd48c65d43925c7806e72c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080949,
+            "locality_id":85980525,
+            "neighbourhood_id":9895002872,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002872,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Birchwood Homes",
+    "wof:parent_id":85980525,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.95498711106536,
+    35.96654974235177,
+    -77.95498711106536,
+    35.96654974235177
+],
+  "geometry": {"coordinates":[-77.95498711106536,35.96654974235177],"type":"Point"}
+}

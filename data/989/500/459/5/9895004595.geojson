@@ -1,0 +1,82 @@
+{
+  "id": 9895004595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.00133954667146,40.678285919470895,-112.00133954667146,40.678285919470895",
+    "geom:latitude":40.678286,
+    "geom:longitude":-112.00134,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452370: name \"Condie Park Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452370"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452370: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452370"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452370: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452370"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728063 (West Valley City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728063 (West Valley City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Condie Park Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728063,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1452370
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f5a7668aaab2aec56a97c955edcc1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":9895004595,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004595,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Condie Park Estates",
+    "wof:parent_id":101728063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.00133954667146,
+    40.678285919470895,
+    -112.00133954667146,
+    40.678285919470895
+],
+  "geometry": {"coordinates":[-112.00133954667146,40.678285919470895],"type":"Point"}
+}

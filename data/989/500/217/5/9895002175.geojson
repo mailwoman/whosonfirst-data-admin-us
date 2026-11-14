@@ -1,0 +1,82 @@
+{
+  "id": 9895002175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.28759658688013,32.354317517322094,-90.28759658688013,32.354317517322094",
+    "geom:latitude":32.354318,
+    "geom:longitude":-90.287597,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688316: name \"Edgewood Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688316"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688316: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688316"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688316: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688316"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969677 (Clinton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969677 (Clinton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Edgewood Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969677,
+        102081407,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":688316
+    },
+    "wof:country":"US",
+    "wof:geomhash":"802c657fad040dfdb7565b2ee3c9425d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":9895002175,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002175,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Edgewood Acres",
+    "wof:parent_id":85969677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.28759658688013,
+    32.354317517322094,
+    -90.28759658688013,
+    32.354317517322094
+],
+  "geometry": {"coordinates":[-90.28759658688013,32.354317517322094],"type":"Point"}
+}

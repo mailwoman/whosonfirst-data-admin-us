@@ -1,0 +1,84 @@
+{
+  "id": 9895003315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.61385673186476,39.99955032105807,-76.61385673186476,39.99955032105807",
+    "geom:latitude":39.99955,
+    "geom:longitude":-76.613857,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1196353: name \"Brigadoon\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1196353"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1196353: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1196353"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1196353: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1196353"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101717247 (Hallam).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101717247 (Hallam), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brigadoon"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101717247,
+        102080953,
+        102191575,
+        404487769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1196353
+    },
+    "wof:country":"US",
+    "wof:geomhash":"60c70fc5e9464d4d5963c67e78301573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080953,
+            "localadmin_id":404487769,
+            "locality_id":101717247,
+            "neighbourhood_id":9895003315,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003315,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Brigadoon",
+    "wof:parent_id":101717247,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.61385673186476,
+    39.99955032105807,
+    -76.61385673186476,
+    39.99955032105807
+],
+  "geometry": {"coordinates":[-76.61385673186476,39.99955032105807],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895004665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.02050675076838,40.67606351768419,-112.02050675076838,40.67606351768419",
+    "geom:latitude":40.676064,
+    "geom:longitude":-112.020507,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452715: name \"Mac Sweeney Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452715"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452715: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452715"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452715: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452715"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728063 (West Valley City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728063 (West Valley City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mac Sweeney Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728063,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1452715
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ea3e4b12d25b6fddfdf32d757720d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":9895004665,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004665,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Mac Sweeney Estates",
+    "wof:parent_id":101728063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.02050675076838,
+    40.67606351768419,
+    -112.02050675076838,
+    40.67606351768419
+],
+  "geometry": {"coordinates":[-112.02050675076838,40.67606351768419],"type":"Point"}
+}

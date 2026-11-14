@@ -1,0 +1,82 @@
+{
+  "id": 9895000434,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.25413936837897,32.400977076018144,-86.25413936837897,32.400977076018144",
+    "geom:latitude":32.400977,
+    "geom:longitude":-86.254139,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142610: name \"Highpoint Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142610"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142610: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142610"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142610: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142610"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Highpoint Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142610
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab11895969e24e0d11c0679472f336d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000434,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000434,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Highpoint Estates",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.25413936837897,
+    32.400977076018144,
+    -86.25413936837897,
+    32.400977076018144
+],
+  "geometry": {"coordinates":[-86.25413936837897,32.400977076018144],"type":"Point"}
+}

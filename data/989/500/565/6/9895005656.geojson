@@ -1,0 +1,80 @@
+{
+  "id": 9895005656,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.21073424087571,46.42933158321922,-117.21073424087571,46.42933158321922",
+    "geom:latitude":46.429332,
+    "geom:longitude":-117.210734,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1533426: name \"Moses\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1533426"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1533426: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1533426"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1533426: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1533426"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085369 (Whitman).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085369 (Whitman), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Moses"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102085369,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1533426
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4cb6c07518983f8beb8174278c728335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085369,
+            "locality_id":9895005656,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005656,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Moses",
+    "wof:parent_id":102085369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.21073424087571,
+    46.42933158321922,
+    -117.21073424087571,
+    46.42933158321922
+],
+  "geometry": {"coordinates":[-117.21073424087571,46.42933158321922],"type":"Point"}
+}

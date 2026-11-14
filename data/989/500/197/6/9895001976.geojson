@@ -1,0 +1,84 @@
+{
+  "id": 9895001976,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.70087075241602,41.99372271450189,-70.70087075241602,41.99372271450189",
+    "geom:latitude":41.993723,
+    "geom:longitude":-70.700871,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 615333: name \"Rocky Nook Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/615333"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 615333: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/615333"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 615333: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/615333"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950455 (Kingston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950455 (Kingston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rocky Nook Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688645,
+        85950455,
+        102084367,
+        102191575,
+        404476039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":615333
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b76091e7aefc233208026d03f4d465dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476039,
+            "locality_id":85950455,
+            "neighbourhood_id":9895001976,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":9895001976,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Rocky Nook Park",
+    "wof:parent_id":85950455,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.70087075241602,
+    41.99372271450189,
+    -70.70087075241602,
+    41.99372271450189
+],
+  "geometry": {"coordinates":[-70.70087075241602,41.99372271450189],"type":"Point"}
+}

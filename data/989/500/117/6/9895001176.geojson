@@ -1,0 +1,82 @@
+{
+  "id": 9895001176,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.84188845634465,34.16899230662755,-84.84188845634465,34.16899230662755",
+    "geom:latitude":34.168992,
+    "geom:longitude":-84.841888,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 334313: name \"Mission Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/334313"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 334313: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/334313"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 334313: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/334313"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936223 (Cartersville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936223 (Cartersville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mission Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936223,
+        102082937,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":334313
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be2d6f9604d9a367191f8a80fcf60523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082937,
+            "locality_id":85936223,
+            "neighbourhood_id":9895001176,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001176,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Mission Hills",
+    "wof:parent_id":85936223,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.84188845634465,
+    34.16899230662755,
+    -84.84188845634465,
+    34.16899230662755
+],
+  "geometry": {"coordinates":[-84.84188845634465,34.16899230662755],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895005641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.64543615146475,47.63898948416282,-122.64543615146475,47.63898948416282",
+    "geom:latitude":47.638989,
+    "geom:longitude":-122.645436,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1514374: name \"Parkwood East\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1514374"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1514374: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1514374"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1514374: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1514374"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081243 (Kitsap).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081243 (Kitsap), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Parkwood East"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102081243,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1514374
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26cc0263fda5eb83012b3ea53aec5665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":9895005641,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005641,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Parkwood East",
+    "wof:parent_id":102081243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.64543615146475,
+    47.63898948416282,
+    -122.64543615146475,
+    47.63898948416282
+],
+  "geometry": {"coordinates":[-122.64543615146475,47.63898948416282],"type":"Point"}
+}

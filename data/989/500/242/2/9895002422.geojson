@@ -1,0 +1,118 @@
+{
+  "id": 9895002422,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.11208817798968,40.63455633748952,-74.11208817798968,40.63455633748952",
+    "geom:latitude":40.634556,
+    "geom:longitude":-74.112088,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 970826: name \"West New Brighton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/970826"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 970826: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/970826"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 970826: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/970826"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85977539 (New York).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85977539 (New York), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "West New Brighton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        85977539,
+        102081779,
+        102081863,
+        102082361,
+        102082377,
+        102083063,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":970826
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9176dbb4d5cd2c57b136562d4ac70309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002422,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002422,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002422,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002422,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":9895002422,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002422,
+    "wof:lastmodified":1794681130,
+    "wof:name":"West New Brighton",
+    "wof:parent_id":85977539,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.11208817798968,
+    40.63455633748952,
+    -74.11208817798968,
+    40.63455633748952
+],
+  "geometry": {"coordinates":[-74.11208817798968,40.63455633748952],"type":"Point"}
+}

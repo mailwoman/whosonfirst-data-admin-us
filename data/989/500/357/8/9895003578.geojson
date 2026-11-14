@@ -1,0 +1,82 @@
+{
+  "id": 9895003578,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.7550702471994,33.85600272123771,-79.7550702471994,33.85600272123771",
+    "geom:latitude":33.856003,
+    "geom:longitude":-79.75507,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242119: name \"Palmetto Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242119"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242119: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242119"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242119: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242119"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721119 (Lake City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721119 (Lake City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Palmetto Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721119,
+        102085723,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1242119
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af031cdcb8e2ba9bd988404910aeeda2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085723,
+            "locality_id":101721119,
+            "neighbourhood_id":9895003578,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003578,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Palmetto Estates",
+    "wof:parent_id":101721119,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.7550702471994,
+    33.85600272123771,
+    -79.7550702471994,
+    33.85600272123771
+],
+  "geometry": {"coordinates":[-79.7550702471994,33.85600272123771],"type":"Point"}
+}

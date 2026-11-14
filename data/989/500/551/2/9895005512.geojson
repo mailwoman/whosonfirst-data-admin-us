@@ -1,0 +1,80 @@
+{
+  "id": 9895005512,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.56693537104958,37.40737856036259,-77.56693537104958,37.40737856036259",
+    "geom:latitude":37.407379,
+    "geom:longitude":-77.566935,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1466626: name \"Five Forks\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1466626"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1466626: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1466626"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1466626: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1466626"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084955 (Chesterfield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084955 (Chesterfield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Five Forks"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102084955,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1466626
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a66591a962eec5ec17a53d61c51310a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":9895005512,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005512,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Five Forks",
+    "wof:parent_id":102084955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.56693537104958,
+    37.40737856036259,
+    -77.56693537104958,
+    37.40737856036259
+],
+  "geometry": {"coordinates":[-77.56693537104958,37.40737856036259],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895004237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.02884331513268,41.13522786768139,-112.02884331513268,41.13522786768139",
+    "geom:latitude":41.135228,
+    "geom:longitude":-112.028843,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451457: name \"Suburban Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451457"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451457: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451457"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451457: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451457"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727893 (Sunset).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727893 (Sunset), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Suburban Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727893,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451457
+    },
+    "wof:country":"US",
+    "wof:geomhash":"21da6e22da339d305e5cb6f9bf0dbb13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727893,
+            "neighbourhood_id":9895004237,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004237,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Suburban Heights",
+    "wof:parent_id":101727893,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.02884331513268,
+    41.13522786768139,
+    -112.02884331513268,
+    41.13522786768139
+],
+  "geometry": {"coordinates":[-112.02884331513268,41.13522786768139],"type":"Point"}
+}

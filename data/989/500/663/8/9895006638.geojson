@@ -1,0 +1,82 @@
+{
+  "id": 9895006638,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.31748853292518,39.70427203540929,-77.31748853292518,39.70427203540929",
+    "geom:latitude":39.704272,
+    "geom:longitude":-77.317489,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711254: name \"Silo Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711254"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711254: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711254"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711254: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711254"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949387 (Emmitsburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949387 (Emmitsburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Silo Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949387,
+        102081593,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1711254
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b85a214ed05beef4d2d458046a257da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949387,
+            "neighbourhood_id":9895006638,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006638,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Silo Hill",
+    "wof:parent_id":85949387,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.31748853292518,
+    39.70427203540929,
+    -77.31748853292518,
+    39.70427203540929
+],
+  "geometry": {"coordinates":[-77.31748853292518,39.70427203540929],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895007852,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.31413438249896,35.405652635892956,-119.31413438249896,35.405652635892956",
+    "geom:latitude":35.405653,
+    "geom:longitude":-119.314134,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804562: name \"Stebbins\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804562"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804562: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804562"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804562: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804562"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081727 (Kern).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081727 (Kern), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stebbins"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102081727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804562
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b88f3a6f64dda2555981d68b94922bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081727,
+            "locality_id":9895007852,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007852,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Stebbins",
+    "wof:parent_id":102081727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.31413438249896,
+    35.405652635892956,
+    -119.31413438249896,
+    35.405652635892956
+],
+  "geometry": {"coordinates":[-119.31413438249896,35.405652635892956],"type":"Point"}
+}

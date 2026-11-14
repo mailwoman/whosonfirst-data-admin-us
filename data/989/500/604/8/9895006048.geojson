@@ -1,0 +1,80 @@
+{
+  "id": 9895006048,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.6779858420718,38.41484743631736,-75.6779858420718,38.41484743631736",
+    "geom:latitude":38.414847,
+    "geom:longitude":-75.677986,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668364: name \"Farmhouse Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668364"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668364: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668364"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668364: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668364"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082715 (Wicomico).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082715 (Wicomico), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Farmhouse Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082715,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1668364
+    },
+    "wof:country":"US",
+    "wof:geomhash":"273ada498d7f6336add90f9e3161d4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":9895006048,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006048,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Farmhouse Acres",
+    "wof:parent_id":102082715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.6779858420718,
+    38.41484743631736,
+    -75.6779858420718,
+    38.41484743631736
+],
+  "geometry": {"coordinates":[-75.6779858420718,38.41484743631736],"type":"Point"}
+}

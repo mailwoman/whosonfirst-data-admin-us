@@ -1,0 +1,82 @@
+{
+  "id": 9895007181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-157.87683790107624,21.34427432133509,-157.87683790107624,21.34427432133509",
+    "geom:latitude":21.344274,
+    "geom:longitude":-157.876838,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1946824: name \"Hauiki Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1946824"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1946824: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1946824"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1946824: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1946824"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937601 (Honolulu).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937601 (Honolulu), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hauiki Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688671,
+        85937601,
+        102085417,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1946824
+    },
+    "wof:country":"US",
+    "wof:geomhash":"69ef6fdb62dffb0703dcf5843eadc8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":9895007181,
+            "region_id":85688671
+        }
+    ],
+    "wof:id":9895007181,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Hauiki Homes",
+    "wof:parent_id":85937601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.87683790107624,
+    21.34427432133509,
+    -157.87683790107624,
+    21.34427432133509
+],
+  "geometry": {"coordinates":[-157.87683790107624,21.34427432133509],"type":"Point"}
+}

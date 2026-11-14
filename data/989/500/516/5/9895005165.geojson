@@ -1,0 +1,82 @@
+{
+  "id": 9895005165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.8668933477772,40.883284552404,-111.8668933477772,40.883284552404",
+    "geom:latitude":40.883285,
+    "geom:longitude":-111.866893,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453786: name \"Cottonwood Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453786"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453786: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453786"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453786: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453786"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727881 (Bountiful).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727881 (Bountiful), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cottonwood Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727881,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453786
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b081d4815b3234ca114037e4a129797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":9895005165,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005165,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Cottonwood Heights",
+    "wof:parent_id":101727881,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.8668933477772,
+    40.883284552404,
+    -111.8668933477772,
+    40.883284552404
+],
+  "geometry": {"coordinates":[-111.8668933477772,40.883284552404],"type":"Point"}
+}

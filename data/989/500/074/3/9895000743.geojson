@@ -1,0 +1,80 @@
+{
+  "id": 9895000743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.55834468557374,33.36817743313777,-87.55834468557374,33.36817743313777",
+    "geom:latitude":33.368177,
+    "geom:longitude":-87.558345,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148380: name \"North Haven\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148380"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148380: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148380"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148380: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148380"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North Haven"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148380
+    },
+    "wof:country":"US",
+    "wof:geomhash":"799971fe141194fd321ef70f2022a234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000743,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000743,
+    "wof:lastmodified":1794681123,
+    "wof:name":"North Haven",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.55834468557374,
+    33.36817743313777,
+    -87.55834468557374,
+    33.36817743313777
+],
+  "geometry": {"coordinates":[-87.55834468557374,33.36817743313777],"type":"Point"}
+}

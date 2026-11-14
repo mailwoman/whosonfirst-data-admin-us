@@ -1,0 +1,82 @@
+{
+  "id": 9895008025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.66788309182171,41.556936431843674,-73.66788309182171,41.556936431843674",
+    "geom:latitude":41.556936,
+    "geom:longitude":-73.667883,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806930: name \"Shorehaven\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806930"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806930: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806930"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806930: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806930"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404522301 (Pawling).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404522301 (Pawling), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shorehaven"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102082363,
+        102191575,
+        404522301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806930
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ae905c7e3dc47864b9aba6c9b93661c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082363,
+            "localadmin_id":404522301,
+            "locality_id":9895008025,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895008025,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Shorehaven",
+    "wof:parent_id":404522301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.66788309182171,
+    41.556936431843674,
+    -73.66788309182171,
+    41.556936431843674
+],
+  "geometry": {"coordinates":[-73.66788309182171,41.556936431843674],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.55251127225706,33.15901488987698,-87.55251127225706,33.15901488987698",
+    "geom:latitude":33.159015,
+    "geom:longitude":-87.552511,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157856: name \"Morayshire Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157856"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157856: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157856"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157856: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157856"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914453 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914453 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Morayshire Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914453,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":157856
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f0606f1667dfee4a74654bd621ae4fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85914453,
+            "neighbourhood_id":9895000859,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000859,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Morayshire Estates",
+    "wof:parent_id":85914453,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.55251127225706,
+    33.15901488987698,
+    -87.55251127225706,
+    33.15901488987698
+],
+  "geometry": {"coordinates":[-87.55251127225706,33.15901488987698],"type":"Point"}
+}

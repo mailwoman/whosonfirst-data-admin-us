@@ -1,0 +1,82 @@
+{
+  "id": 9895006546,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.5816633166322,38.42658308518841,-122.5816633166322,38.42658308518841",
+    "geom:latitude":38.426583,
+    "geom:longitude":-122.581663,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701275: name \"Los Guilicos\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701275"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701275: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701275"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1701275: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1701275"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922693 (Santa Rosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922693 (Santa Rosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Los Guilicos"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922693,
+        102081671,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1701275
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cb501d91af26ba1b17cf3c240961ae6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922693,
+            "neighbourhood_id":9895006546,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006546,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Los Guilicos",
+    "wof:parent_id":85922693,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.5816633166322,
+    38.42658308518841,
+    -122.5816633166322,
+    38.42658308518841
+],
+  "geometry": {"coordinates":[-122.5816633166322,38.42658308518841],"type":"Point"}
+}

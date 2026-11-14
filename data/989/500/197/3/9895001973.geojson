@@ -1,0 +1,84 @@
+{
+  "id": 9895001973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.98282756677378,42.3751062786768,-70.98282756677378,42.3751062786768",
+    "geom:latitude":42.375106,
+    "geom:longitude":-70.982828,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 613454: name \"Winthrop\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/613454"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 613454: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/613454"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 613454: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/613454"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950355 (Winthrop Town).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950355 (Winthrop Town), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Winthrop"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688645,
+        85950355,
+        102084423,
+        102191575,
+        404476525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":613454
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d0949179698b2c8edce5a334fe68d6f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476525,
+            "locality_id":85950355,
+            "neighbourhood_id":9895001973,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":9895001973,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Winthrop",
+    "wof:parent_id":85950355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.98282756677378,
+    42.3751062786768,
+    -70.98282756677378,
+    42.3751062786768
+],
+  "geometry": {"coordinates":[-70.98282756677378,42.3751062786768],"type":"Point"}
+}

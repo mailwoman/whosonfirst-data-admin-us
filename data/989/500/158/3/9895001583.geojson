@@ -1,0 +1,80 @@
+{
+  "id": 9895001583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.43287103419172,30.49214181833442,-90.43287103419172,30.49214181833442",
+    "geom:latitude":30.492142,
+    "geom:longitude":-90.432871,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 549615: name \"Avalon Terrace\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/549615"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 549615: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/549615"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 549615: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/549615"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083809 (Tangipahoa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083809 (Tangipahoa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Avalon Terrace"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        102083809,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":549615
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e8ff5f3315b03ad90b2d77a7dab06dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":9895001583,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001583,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Avalon Terrace",
+    "wof:parent_id":102083809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.43287103419172,
+    30.49214181833442,
+    -90.43287103419172,
+    30.49214181833442
+],
+  "geometry": {"coordinates":[-90.43287103419172,30.49214181833442],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003902,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.48275864800303,35.95701615064047,-85.48275864800303,35.95701615064047",
+    "geom:latitude":35.957016,
+    "geom:longitude":-85.482759,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312220: name \"Whispering Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312220"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312220: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312220"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312220: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312220"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722911 (Sparta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722911 (Sparta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Whispering Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722911,
+        102086369,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312220
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d3d98219a1e6addc122bb7cca6820d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":9895003902,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003902,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Whispering Hills",
+    "wof:parent_id":101722911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.48275864800303,
+    35.95701615064047,
+    -85.48275864800303,
+    35.95701615064047
+],
+  "geometry": {"coordinates":[-85.48275864800303,35.95701615064047],"type":"Point"}
+}

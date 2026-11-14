@@ -1,0 +1,82 @@
+{
+  "id": 9895007766,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.78759098770311,40.2602941034619,-75.78759098770311,40.2602941034619",
+    "geom:latitude":40.260294,
+    "geom:longitude":-75.787591,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2488660: name \"Mount Airy\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2488660"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2488660: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2488660"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2488660: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2488660"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404484601 (Union Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404484601 (Union Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mount Airy"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080991,
+        102191575,
+        404484601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2488660
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6ea20ee27dfbf4928d09069675b879b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080991,
+            "localadmin_id":404484601,
+            "locality_id":9895007766,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895007766,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Mount Airy",
+    "wof:parent_id":404484601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.78759098770311,
+    40.2602941034619,
+    -75.78759098770311,
+    40.2602941034619
+],
+  "geometry": {"coordinates":[-75.78759098770311,40.2602941034619],"type":"Point"}
+}

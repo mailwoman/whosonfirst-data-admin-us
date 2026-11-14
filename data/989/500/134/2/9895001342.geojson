@@ -1,0 +1,80 @@
+{
+  "id": 9895001342,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-156.2142921610522,20.891735925518667,-156.2142921610522,20.891735925518667",
+    "geom:latitude":20.891736,
+    "geom:longitude":-156.214292,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 359893: name \"Kailua\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/359893"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 359893: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/359893"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 359893: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/359893"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085577 (Maui).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085577 (Maui), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kailua"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688671,
+        102085577,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":359893
+    },
+    "wof:country":"US",
+    "wof:geomhash":"298fd840f7c6b7cfe7f19a0ff27c7836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":9895001342,
+            "region_id":85688671
+        }
+    ],
+    "wof:id":9895001342,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Kailua",
+    "wof:parent_id":102085577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.2142921610522,
+    20.891735925518667,
+    -156.2142921610522,
+    20.891735925518667
+],
+  "geometry": {"coordinates":[-156.2142921610522,20.891735925518667],"type":"Point"}
+}

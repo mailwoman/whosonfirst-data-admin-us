@@ -1,0 +1,80 @@
+{
+  "id": 9895000896,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.35996196006649,40.568599976978646,-104.35996196006649,40.568599976978646",
+    "geom:latitude":40.5686,
+    "geom:longitude":-104.359962,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 180560: name \"Fosston\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/180560"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 180560: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/180560"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 180560: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/180560"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086117 (Weld).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086117 (Weld), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fosston"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102086117,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":180560
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70c11e01ca3f5e25324c750e25287c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086117,
+            "locality_id":9895000896,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000896,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Fosston",
+    "wof:parent_id":102086117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.35996196006649,
+    40.568599976978646,
+    -104.35996196006649,
+    40.568599976978646
+],
+  "geometry": {"coordinates":[-104.35996196006649,40.568599976978646],"type":"Point"}
+}

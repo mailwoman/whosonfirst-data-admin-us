@@ -1,0 +1,82 @@
+{
+  "id": 9895001149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.35687409259529,33.730113231119915,-84.35687409259529,33.730113231119915",
+    "geom:latitude":33.730113,
+    "geom:longitude":-84.356874,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 332582: name \"Ormewood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/332582"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 332582: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/332582"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 332582: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/332582"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936429 (Atlanta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936429 (Atlanta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ormewood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936429,
+        102083603,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":332582
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8bbb18f61f1669ad7799db48b7f305e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":9895001149,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001149,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Ormewood",
+    "wof:parent_id":85936429,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.35687409259529,
+    33.730113231119915,
+    -84.35687409259529,
+    33.730113231119915
+],
+  "geometry": {"coordinates":[-84.35687409259529,33.730113231119915],"type":"Point"}
+}

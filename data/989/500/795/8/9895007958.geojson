@@ -1,0 +1,84 @@
+{
+  "id": 9895007958,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.4539365670617,40.30578636082725,-74.4539365670617,40.30578636082725",
+    "geom:latitude":40.305786,
+    "geom:longitude":-74.453937,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806199: name \"The Ponds\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806199"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806199: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806199"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806199: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806199"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85976287 (Concordia).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85976287 (Concordia), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "The Ponds"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        85976287,
+        102087417,
+        102191575,
+        404478287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806199
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1eee81fcc53ba68bb4dd3aa5ab2a12d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478287,
+            "locality_id":85976287,
+            "neighbourhood_id":9895007958,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895007958,
+    "wof:lastmodified":1794681145,
+    "wof:name":"The Ponds",
+    "wof:parent_id":85976287,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.4539365670617,
+    40.30578636082725,
+    -74.4539365670617,
+    40.30578636082725
+],
+  "geometry": {"coordinates":[-74.4539365670617,40.30578636082725],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895003706,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.88288544031661,35.034573601775406,-81.88288544031661,35.034573601775406",
+    "geom:latitude":35.034574,
+    "geom:longitude":-81.882885,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1248354: name \"Lakeview Manor\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1248354"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1248354: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1248354"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1248354: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1248354"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085437 (Spartanburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085437 (Spartanburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lakeview Manor"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085437,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1248354
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1cb735f99ebb00e071f5bb07fcdb4d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085437,
+            "locality_id":9895003706,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003706,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Lakeview Manor",
+    "wof:parent_id":102085437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.88288544031661,
+    35.034573601775406,
+    -81.88288544031661,
+    35.034573601775406
+],
+  "geometry": {"coordinates":[-81.88288544031661,35.034573601775406],"type":"Point"}
+}

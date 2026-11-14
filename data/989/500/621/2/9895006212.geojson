@@ -1,0 +1,80 @@
+{
+  "id": 9895006212,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.29353776622733,33.57372820032597,-84.29353776622733,33.57372820032597",
+    "geom:latitude":33.573728,
+    "geom:longitude":-84.293538,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672386: name \"Bretton Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672386"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672386: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672386"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672386: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672386"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082333 (Clayton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082333 (Clayton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bretton Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102082333,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1672386
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67e5ec3fd87e960642046b2144cd5fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082333,
+            "locality_id":9895006212,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006212,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Bretton Woods",
+    "wof:parent_id":102082333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.29353776622733,
+    33.57372820032597,
+    -84.29353776622733,
+    33.57372820032597
+],
+  "geometry": {"coordinates":[-84.29353776622733,33.57372820032597],"type":"Point"}
+}

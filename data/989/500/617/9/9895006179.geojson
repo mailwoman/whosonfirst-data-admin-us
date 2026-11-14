@@ -1,0 +1,82 @@
+{
+  "id": 9895006179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.64852073113019,32.60654031272924,-83.64852073113019,32.60654031272924",
+    "geom:latitude":32.60654,
+    "geom:longitude":-83.648521,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671771: name \"Shirley Hills Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671771"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671771: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671771"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671771: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671771"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936249 (Warner Robins).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936249 (Warner Robins), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shirley Hills Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936249,
+        102083617,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671771
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16c687dfc120a8f9afb07d7419cc3f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":9895006179,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006179,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Shirley Hills Estates",
+    "wof:parent_id":85936249,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.64852073113019,
+    32.60654031272924,
+    -83.64852073113019,
+    32.60654031272924
+],
+  "geometry": {"coordinates":[-83.64852073113019,32.60654031272924],"type":"Point"}
+}

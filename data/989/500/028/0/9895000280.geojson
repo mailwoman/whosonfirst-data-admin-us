@@ -1,0 +1,82 @@
+{
+  "id": 9895000280,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.43044031083303,34.78343091336162,-92.43044031083303,34.78343091336162",
+    "geom:latitude":34.783431,
+    "geom:longitude":-92.43044,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 68456: name \"Pebble Beach Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/68456"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 68456: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/68456"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 68456: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/68456"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921265 (Little Rock).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921265 (Little Rock), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pebble Beach Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        85921265,
+        102082497,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":68456
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df5d4ecb9943b27296099933edf610b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082497,
+            "locality_id":85921265,
+            "neighbourhood_id":9895000280,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000280,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Pebble Beach Park",
+    "wof:parent_id":85921265,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.43044031083303,
+    34.78343091336162,
+    -92.43044031083303,
+    34.78343091336162
+],
+  "geometry": {"coordinates":[-92.43044031083303,34.78343091336162],"type":"Point"}
+}

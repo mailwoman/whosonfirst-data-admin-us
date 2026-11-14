@@ -1,0 +1,82 @@
+{
+  "id": 9895002274,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-114.31402087017925,47.31660274730317,-114.31402087017925,47.31660274730317",
+    "geom:latitude":47.316603,
+    "geom:longitude":-114.314021,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 770675: name \"S\u010dil\u00edp\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/770675"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 770675: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/770675"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 770675: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/770675"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85972933 (Dixon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85972933 (Dixon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "S\u010dil\u00edp"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        85972933,
+        102085063,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":770675
+    },
+    "wof:country":"US",
+    "wof:geomhash":"98120ce042a38ecbcfa0e375ffbee5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085063,
+            "locality_id":85972933,
+            "neighbourhood_id":9895002274,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895002274,
+    "wof:lastmodified":1794681129,
+    "wof:name":"S\u010dil\u00edp",
+    "wof:parent_id":85972933,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.31402087017925,
+    47.31660274730317,
+    -114.31402087017925,
+    47.31660274730317
+],
+  "geometry": {"coordinates":[-114.31402087017925,47.31660274730317],"type":"Point"}
+}

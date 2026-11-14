@@ -1,0 +1,82 @@
+{
+  "id": 9895006826,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.82328227836905,38.68185353935684,-120.82328227836905,38.68185353935684",
+    "geom:latitude":38.681854,
+    "geom:longitude":-120.823282,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1744690: name \"Deer Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1744690"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1744690: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1744690"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1744690: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1744690"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85924069 (Diamond Springs).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85924069 (Diamond Springs), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Deer Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85924069,
+        102086953,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1744690
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be16cb34cdbd34e1830dd3e466046a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086953,
+            "locality_id":85924069,
+            "neighbourhood_id":9895006826,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006826,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Deer Park",
+    "wof:parent_id":85924069,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.82328227836905,
+    38.68185353935684,
+    -120.82328227836905,
+    38.68185353935684
+],
+  "geometry": {"coordinates":[-120.82328227836905,38.68185353935684],"type":"Point"}
+}

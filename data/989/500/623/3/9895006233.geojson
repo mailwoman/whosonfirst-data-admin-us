@@ -1,0 +1,82 @@
+{
+  "id": 9895006233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.87407624814766,33.62789812689945,-83.87407624814766,33.62789812689945",
+    "geom:latitude":33.627898,
+    "geom:longitude":-83.874076,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673441: name \"Cedar Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673441"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673441: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673441"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673441: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673441"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936979 (Oxford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936979 (Oxford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cedar Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936979,
+        102082963,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1673441
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e85cd3b9d7c32220c4a6349d3eb76d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082963,
+            "locality_id":85936979,
+            "neighbourhood_id":9895006233,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006233,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Cedar Ridge",
+    "wof:parent_id":85936979,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.87407624814766,
+    33.62789812689945,
+    -83.87407624814766,
+    33.62789812689945
+],
+  "geometry": {"coordinates":[-83.87407624814766,33.62789812689945],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.49528421835478,32.441808839924676,-87.49528421835478,32.441808839924676",
+    "geom:latitude":32.441809,
+    "geom:longitude":-87.495284,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 149796: name \"The Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/149796"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 149796: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/149796"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 149796: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/149796"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914385 (Uniontown).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914385 (Uniontown), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "The Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914385,
+        102085621,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":149796
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e20fe36489235e89eb81cb7a63ddbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085621,
+            "locality_id":85914385,
+            "neighbourhood_id":9895000813,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000813,
+    "wof:lastmodified":1794681123,
+    "wof:name":"The Village",
+    "wof:parent_id":85914385,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.49528421835478,
+    32.441808839924676,
+    -87.49528421835478,
+    32.441808839924676
+],
+  "geometry": {"coordinates":[-87.49528421835478,32.441808839924676],"type":"Point"}
+}

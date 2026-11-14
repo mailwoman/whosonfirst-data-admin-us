@@ -1,0 +1,80 @@
+{
+  "id": 9895005527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.98274840849182,37.71014974480329,-76.98274840849182,37.71014974480329",
+    "geom:latitude":37.71015,
+    "geom:longitude":-76.982748,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1480213: name \"Hillsboro\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1480213"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1480213: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1480213"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1480213: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1480213"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086715 (King and Queen).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086715 (King and Queen), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hillsboro"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102086715,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1480213
+    },
+    "wof:country":"US",
+    "wof:geomhash":"977a594f77f95b458d9cad5975702a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086715,
+            "locality_id":9895005527,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005527,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Hillsboro",
+    "wof:parent_id":102086715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.98274840849182,
+    37.71014974480329,
+    -76.98274840849182,
+    37.71014974480329
+],
+  "geometry": {"coordinates":[-76.98274840849182,37.71014974480329],"type":"Point"}
+}

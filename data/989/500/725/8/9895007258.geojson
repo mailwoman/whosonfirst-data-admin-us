@@ -1,0 +1,82 @@
+{
+  "id": 9895007258,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.43424042636532,28.601116456091756,-81.43424042636532,28.601116456091756",
+    "geom:latitude":28.601116,
+    "geom:longitude":-81.43424,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2045915: name \"Rosemont\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2045915"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2045915: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2045915"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2045915: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2045915"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933091 (Orlando).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933091 (Orlando), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rosemont"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933091,
+        102085847,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2045915
+    },
+    "wof:country":"US",
+    "wof:geomhash":"205e31eb4dc80eaa0784d76e8fbd7306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085847,
+            "locality_id":85933091,
+            "neighbourhood_id":9895007258,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007258,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Rosemont",
+    "wof:parent_id":85933091,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.43424042636532,
+    28.601116456091756,
+    -81.43424042636532,
+    28.601116456091756
+],
+  "geometry": {"coordinates":[-81.43424042636532,28.601116456091756],"type":"Point"}
+}

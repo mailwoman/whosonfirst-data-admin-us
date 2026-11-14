@@ -1,0 +1,82 @@
+{
+  "id": 9895002377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.47105252402373,43.36452146154159,-76.47105252402373,43.36452146154159",
+    "geom:latitude":43.364521,
+    "geom:longitude":-76.471053,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 955247: name \"Lewis Corners\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/955247"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 955247: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/955247"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 955247: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/955247"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404522957 (Granby).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404522957 (Granby), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lewis Corners"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102081783,
+        102191575,
+        404522957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":955247
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3fd95fe9d2a38a92785f9359b18469cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081783,
+            "localadmin_id":404522957,
+            "locality_id":9895002377,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002377,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Lewis Corners",
+    "wof:parent_id":404522957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.47105252402373,
+    43.36452146154159,
+    -76.47105252402373,
+    43.36452146154159
+],
+  "geometry": {"coordinates":[-76.47105252402373,43.36452146154159],"type":"Point"}
+}

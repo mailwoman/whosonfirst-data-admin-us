@@ -1,0 +1,82 @@
+{
+  "id": 9895004148,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-161.81640986259745,59.01305553675701,-161.81640986259745,59.01305553675701",
+    "geom:latitude":59.013056,
+    "geom:longitude":-161.81641,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1408072: name \"Platinum\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1408072"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1408072: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1408072"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1408072: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1408072"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85915955 (Platinum).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85915955 (Platinum), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Platinum"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85915955,
+        102085877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1408072
+    },
+    "wof:country":"US",
+    "wof:geomhash":"53cf0c19a9460245a2596ff6c7f4df84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085877,
+            "locality_id":85915955,
+            "neighbourhood_id":9895004148,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004148,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Platinum",
+    "wof:parent_id":85915955,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -161.81640986259745,
+    59.01305553675701,
+    -161.81640986259745,
+    59.01305553675701
+],
+  "geometry": {"coordinates":[-161.81640986259745,59.01305553675701],"type":"Point"}
+}

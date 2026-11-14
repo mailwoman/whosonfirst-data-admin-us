@@ -1,0 +1,82 @@
+{
+  "id": 9895004151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-157.1697452846882,61.702500417667224,-157.1697452846882,61.702500417667224",
+    "geom:latitude":61.7025,
+    "geom:longitude":-157.169745,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1409747: name \"Sleetmute\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1409747"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1409747: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1409747"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1409747: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1409747"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85916775 (Sleetmute).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85916775 (Sleetmute), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sleetmute"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85916775,
+        102085877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1409747
+    },
+    "wof:country":"US",
+    "wof:geomhash":"71a41275a8a7fee9cd6fd8195e9fdeeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085877,
+            "locality_id":85916775,
+            "neighbourhood_id":9895004151,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004151,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Sleetmute",
+    "wof:parent_id":85916775,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.1697452846882,
+    61.702500417667224,
+    -157.1697452846882,
+    61.702500417667224
+],
+  "geometry": {"coordinates":[-157.1697452846882,61.702500417667224],"type":"Point"}
+}

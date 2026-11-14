@@ -1,0 +1,82 @@
+{
+  "id": 9895000411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.70225571306622,34.87037073760381,-87.70225571306622,34.87037073760381",
+    "geom:latitude":34.870371,
+    "geom:longitude":-87.702256,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142117: name \"New Castle Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142117"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142117: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142117"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142117: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142117"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85915141 (Underwood-Petersville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85915141 (Underwood-Petersville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "New Castle Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85915141,
+        102085527,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142117
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ce78af1eb1e787f402bf4baedc442a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085527,
+            "locality_id":85915141,
+            "neighbourhood_id":9895000411,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000411,
+    "wof:lastmodified":1794681121,
+    "wof:name":"New Castle Estates",
+    "wof:parent_id":85915141,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.70225571306622,
+    34.87037073760381,
+    -87.70225571306622,
+    34.87037073760381
+],
+  "geometry": {"coordinates":[-87.70225571306622,34.87037073760381],"type":"Point"}
+}

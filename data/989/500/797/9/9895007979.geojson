@@ -1,0 +1,84 @@
+{
+  "id": 9895007979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.55371818579073,41.45789128502799,-87.55371818579073,41.45789128502799",
+    "geom:latitude":41.457891,
+    "geom:longitude":-87.553718,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806544: name \"Plum Valley\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806544"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806544: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806544"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806544: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806544"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85941267 (Willowbrook).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85941267 (Willowbrook), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Plum Valley"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85941267,
+        102080845,
+        102191575,
+        404499129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806544
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0c3382c023b31f23d781a2c3e1bd616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499129,
+            "locality_id":85941267,
+            "neighbourhood_id":9895007979,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007979,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Plum Valley",
+    "wof:parent_id":85941267,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.55371818579073,
+    41.45789128502799,
+    -87.55371818579073,
+    41.45789128502799
+],
+  "geometry": {"coordinates":[-87.55371818579073,41.45789128502799],"type":"Point"}
+}

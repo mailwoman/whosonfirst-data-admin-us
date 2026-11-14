@@ -1,0 +1,82 @@
+{
+  "id": 9895001753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.18922221724824,44.29035605887991,-70.18922221724824,44.29035605887991",
+    "geom:latitude":44.290356,
+    "geom:longitude":-70.189222,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 569061: name \"Keens Mills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/569061"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 569061: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/569061"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 569061: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/569061"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404475351 (Turner).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404475351 (Turner), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Keens Mills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688769,
+        102087457,
+        102191575,
+        404475351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":569061
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c7ce0399b4e89ffd3637e9ae5a9e5a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475351,
+            "locality_id":9895001753,
+            "region_id":85688769
+        }
+    ],
+    "wof:id":9895001753,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Keens Mills",
+    "wof:parent_id":404475351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.18922221724824,
+    44.29035605887991,
+    -70.18922221724824,
+    44.29035605887991
+],
+  "geometry": {"coordinates":[-70.18922221724824,44.29035605887991],"type":"Point"}
+}

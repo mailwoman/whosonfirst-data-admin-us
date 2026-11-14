@@ -1,0 +1,82 @@
+{
+  "id": 9895001495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.40615212062393,39.5097269822636,-97.40615212062393,39.5097269822636",
+    "geom:latitude":39.509727,
+    "geom:longitude":-97.406152,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 473344: name \"Saint Joseph\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/473344"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 473344: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/473344"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 473344: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/473344"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404503301 (Shirley Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404503301 (Shirley Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Joseph"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688555,
+        102082683,
+        102191575,
+        404503301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":473344
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fae4469ecb8e1886cfa3b7a5660940d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082683,
+            "localadmin_id":404503301,
+            "locality_id":9895001495,
+            "region_id":85688555
+        }
+    ],
+    "wof:id":9895001495,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Saint Joseph",
+    "wof:parent_id":404503301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.40615212062393,
+    39.5097269822636,
+    -97.40615212062393,
+    39.5097269822636
+],
+  "geometry": {"coordinates":[-97.40615212062393,39.5097269822636],"type":"Point"}
+}

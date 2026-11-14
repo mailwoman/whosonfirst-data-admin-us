@@ -1,0 +1,80 @@
+{
+  "id": 9895005611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.86640365677584,46.50208871901469,-118.86640365677584,46.50208871901469",
+    "geom:latitude":46.502089,
+    "geom:longitude":-118.866404,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1510970: name \"Five Corners\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1510970"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1510970: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1510970"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1510970: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1510970"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084247 (Franklin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084247 (Franklin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Five Corners"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102084247,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1510970
+    },
+    "wof:country":"US",
+    "wof:geomhash":"caddc757e52396a29a38a3920518c650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084247,
+            "locality_id":9895005611,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005611,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Five Corners",
+    "wof:parent_id":102084247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.86640365677584,
+    46.50208871901469,
+    -118.86640365677584,
+    46.50208871901469
+],
+  "geometry": {"coordinates":[-118.86640365677584,46.50208871901469],"type":"Point"}
+}

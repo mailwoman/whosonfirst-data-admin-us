@@ -1,0 +1,82 @@
+{
+  "id": 9895002924,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.44143749923043,34.78711193603259,-79.44143749923043,34.78711193603259",
+    "geom:latitude":34.787112,
+    "geom:longitude":-79.441437,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005399: name \"Glynn Fields\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005399"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005399: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005399"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005399: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005399"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981251 (Laurinburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981251 (Laurinburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Glynn Fields"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981251,
+        102087849,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005399
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1742ddfa2fc5fac04ec45b1390f969a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087849,
+            "locality_id":85981251,
+            "neighbourhood_id":9895002924,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002924,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Glynn Fields",
+    "wof:parent_id":85981251,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.44143749923043,
+    34.78711193603259,
+    -79.44143749923043,
+    34.78711193603259
+],
+  "geometry": {"coordinates":[-79.44143749923043,34.78711193603259],"type":"Point"}
+}

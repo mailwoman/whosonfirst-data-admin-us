@@ -1,0 +1,82 @@
+{
+  "id": 9895003403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.24228507735631,40.229522918636896,-80.24228507735631,40.229522918636896",
+    "geom:latitude":40.229523,
+    "geom:longitude":-80.242285,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1214301: name \"Allison Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1214301"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1214301: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1214301"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1214301: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1214301"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404487739 (Chartiers Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404487739 (Chartiers Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Allison Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081343,
+        102191575,
+        404487739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1214301
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dccbff0de09e71e7d4d5f6eaf1846570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081343,
+            "localadmin_id":404487739,
+            "locality_id":9895003403,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003403,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Allison Park",
+    "wof:parent_id":404487739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.24228507735631,
+    40.229522918636896,
+    -80.24228507735631,
+    40.229522918636896
+],
+  "geometry": {"coordinates":[-80.24228507735631,40.229522918636896],"type":"Point"}
+}

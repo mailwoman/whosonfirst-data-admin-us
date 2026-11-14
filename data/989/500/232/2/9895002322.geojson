@@ -1,0 +1,80 @@
+{
+  "id": 9895002322,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.01832478749648,32.395379357329354,-106.01832478749648,32.395379357329354",
+    "geom:latitude":32.395379,
+    "geom:longitude":-106.018325,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 886231: name \"Benton Well\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/886231"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 886231: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/886231"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 886231: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/886231"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081169 (Otero).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081169 (Otero), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Benton Well"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081169,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":886231
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a7fbd82d5abdfb4b1fd574c95a014cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081169,
+            "locality_id":9895002322,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002322,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Benton Well",
+    "wof:parent_id":102081169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.01832478749648,
+    32.395379357329354,
+    -106.01832478749648,
+    32.395379357329354
+],
+  "geometry": {"coordinates":[-106.01832478749648,32.395379357329354],"type":"Point"}
+}

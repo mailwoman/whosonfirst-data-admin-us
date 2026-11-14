@@ -1,0 +1,82 @@
+{
+  "id": 9895006060,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.06212795041729,38.423176459637034,-75.06212795041729,38.423176459637034",
+    "geom:latitude":38.423176,
+    "geom:longitude":-75.062128,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668733: name \"Caine Harbor Mile\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668733"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668733: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668733"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668733: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668733"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949245 (Ocean City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949245 (Ocean City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Caine Harbor Mile"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949245,
+        102081599,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1668733
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a526d5a2b25063f224bc6f93769992b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "neighbourhood_id":9895006060,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006060,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Caine Harbor Mile",
+    "wof:parent_id":85949245,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.06212795041729,
+    38.423176459637034,
+    -75.06212795041729,
+    38.423176459637034
+],
+  "geometry": {"coordinates":[-75.06212795041729,38.423176459637034],"type":"Point"}
+}

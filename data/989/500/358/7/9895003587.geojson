@@ -1,0 +1,82 @@
+{
+  "id": 9895003587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.8228723486368,33.52321551158726,-80.8228723486368,33.52321551158726",
+    "geom:latitude":33.523216,
+    "geom:longitude":-80.822872,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242524: name \"Bonneville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242524"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242524: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242524"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242524: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242524"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721315 (Brookdale).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721315 (Brookdale), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bonneville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721315,
+        102085413,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1242524
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b2adde596b179a37f8433d6ac494509c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085413,
+            "locality_id":101721315,
+            "neighbourhood_id":9895003587,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003587,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Bonneville",
+    "wof:parent_id":101721315,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.8228723486368,
+    33.52321551158726,
+    -80.8228723486368,
+    33.52321551158726
+],
+  "geometry": {"coordinates":[-80.8228723486368,33.52321551158726],"type":"Point"}
+}

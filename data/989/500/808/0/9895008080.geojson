@@ -1,0 +1,82 @@
+{
+  "id": 9895008080,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.489844950827,34.323864871477305,-118.489844950827,34.323864871477305",
+    "geom:latitude":34.323865,
+    "geom:longitude":-118.489845,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830275: name \"Rancho Cascades\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830275"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830275: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830275"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830275: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830275"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923517 (Los Angeles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923517 (Los Angeles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rancho Cascades"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923517,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2830275
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ed97f25304a148766868b1bdd36d581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":9895008080,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895008080,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Rancho Cascades",
+    "wof:parent_id":85923517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.489844950827,
+    34.323864871477305,
+    -118.489844950827,
+    34.323864871477305
+],
+  "geometry": {"coordinates":[-118.489844950827,34.323864871477305],"type":"Point"}
+}

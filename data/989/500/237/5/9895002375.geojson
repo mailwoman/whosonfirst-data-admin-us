@@ -1,0 +1,82 @@
+{
+  "id": 9895002375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.74542344112162,44.80754872677742,-73.74542344112162,44.80754872677742",
+    "geom:latitude":44.807549,
+    "geom:longitude":-73.745423,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 954011: name \"Jerusalem\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/954011"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 954011: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/954011"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 954011: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/954011"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404522161 (Altona).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404522161 (Altona), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jerusalem"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102081797,
+        102191575,
+        404522161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":954011
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5e065f21c21ebb9f139764f8aec598d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081797,
+            "localadmin_id":404522161,
+            "locality_id":9895002375,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002375,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Jerusalem",
+    "wof:parent_id":404522161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.74542344112162,
+    44.80754872677742,
+    -73.74542344112162,
+    44.80754872677742
+],
+  "geometry": {"coordinates":[-73.74542344112162,44.80754872677742],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895001846,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.93688999348876,39.60012116669773,-75.93688999348876,39.60012116669773",
+    "geom:latitude":39.600121,
+    "geom:longitude":-75.93689,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589597: name \"Westover\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589597"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589597: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589597"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589597: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589597"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082183 (Cecil).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082183 (Cecil), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westover"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082183,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":589597
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a82f97e027a28f117d84d9837861d057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "locality_id":9895001846,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001846,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Westover",
+    "wof:parent_id":102082183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.93688999348876,
+    39.60012116669773,
+    -75.93688999348876,
+    39.60012116669773
+],
+  "geometry": {"coordinates":[-75.93688999348876,39.60012116669773],"type":"Point"}
+}

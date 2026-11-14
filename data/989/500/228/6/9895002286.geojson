@@ -1,0 +1,82 @@
+{
+  "id": 9895002286,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.75395074711871,41.631962589046296,-97.75395074711871,41.631962589046296",
+    "geom:latitude":41.631963,
+    "geom:longitude":-97.753951,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 832722: name \"Rosenborg\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/832722"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 832722: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/832722"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 832722: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/832722"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404520853 (Walker Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404520853 (Walker Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rosenborg"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688563,
+        102084277,
+        102191575,
+        404520853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":832722
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29f1f7c433fc06579a80503264063797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084277,
+            "localadmin_id":404520853,
+            "locality_id":9895002286,
+            "region_id":85688563
+        }
+    ],
+    "wof:id":9895002286,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Rosenborg",
+    "wof:parent_id":404520853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.75395074711871,
+    41.631962589046296,
+    -97.75395074711871,
+    41.631962589046296
+],
+  "geometry": {"coordinates":[-97.75395074711871,41.631962589046296],"type":"Point"}
+}

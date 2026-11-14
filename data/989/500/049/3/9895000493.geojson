@@ -1,0 +1,82 @@
+{
+  "id": 9895000493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.16556352585327,30.774082255773656,-88.16556352585327,30.774082255773656",
+    "geom:latitude":30.774082,
+    "geom:longitude":-88.165564,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143419: name \"Henry Road Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143419"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143419: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143419"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143419: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143419"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913741 (Prichard).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913741 (Prichard), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Henry Road Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913741,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143419
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5aecc936c2a0cac58c3ebdcbf8f1304f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":85913741,
+            "neighbourhood_id":9895000493,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000493,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Henry Road Estates",
+    "wof:parent_id":85913741,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.16556352585327,
+    30.774082255773656,
+    -88.16556352585327,
+    30.774082255773656
+],
+  "geometry": {"coordinates":[-88.16556352585327,30.774082255773656],"type":"Point"}
+}

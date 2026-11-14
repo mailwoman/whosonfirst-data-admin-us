@@ -1,0 +1,80 @@
+{
+  "id": 9895002328,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.85362887160046,32.427317224086764,-106.85362887160046,32.427317224086764",
+    "geom:latitude":32.427317,
+    "geom:longitude":-106.853629,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 899673: name \"Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/899673"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 899673: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/899673"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 899673: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/899673"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081557 (Do\u00f1a Ana).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081557 (Do\u00f1a Ana), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081557,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":899673
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0792b21552fe335fdf2a371073e88262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081557,
+            "locality_id":9895002328,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002328,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Hill",
+    "wof:parent_id":102081557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.85362887160046,
+    32.427317224086764,
+    -106.85362887160046,
+    32.427317224086764
+],
+  "geometry": {"coordinates":[-106.85362887160046,32.427317224086764],"type":"Point"}
+}

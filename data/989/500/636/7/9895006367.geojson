@@ -1,0 +1,82 @@
+{
+  "id": 9895006367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.99963619636874,33.85205707083024,-83.99963619636874,33.85205707083024",
+    "geom:latitude":33.852057,
+    "geom:longitude":-83.999636,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688009: name \"Abington Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688009"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688009: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688009"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688009: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688009"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936303 (Snellville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936303 (Snellville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Abington Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936303,
+        102082967,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1688009
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36cd1a4dbeffd3dab3eeb985a07601d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":9895006367,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006367,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Abington Park",
+    "wof:parent_id":85936303,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.99963619636874,
+    33.85205707083024,
+    -83.99963619636874,
+    33.85205707083024
+],
+  "geometry": {"coordinates":[-83.99963619636874,33.85205707083024],"type":"Point"}
+}

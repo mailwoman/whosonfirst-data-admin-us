@@ -1,0 +1,80 @@
+{
+  "id": 9895003199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-123.01789448921437,45.30178941823987,-123.01789448921437,45.30178941823987",
+    "geom:latitude":45.301789,
+    "geom:longitude":-123.017894,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1127731: name \"Sunnycrest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1127731"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1127731: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1127731"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1127731: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1127731"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081613 (Yamhill).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081613 (Yamhill), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunnycrest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688513,
+        102081613,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1127731
+    },
+    "wof:country":"US",
+    "wof:geomhash":"020987972d20eedd0ce489c52ae9fb0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081613,
+            "locality_id":9895003199,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":9895003199,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Sunnycrest",
+    "wof:parent_id":102081613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.01789448921437,
+    45.30178941823987,
+    -123.01789448921437,
+    45.30178941823987
+],
+  "geometry": {"coordinates":[-123.01789448921437,45.30178941823987],"type":"Point"}
+}

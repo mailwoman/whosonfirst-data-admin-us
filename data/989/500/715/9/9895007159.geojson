@@ -1,0 +1,82 @@
+{
+  "id": 9895007159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-157.86584770168454,21.331670122324283,-157.86584770168454,21.331670122324283",
+    "geom:latitude":21.33167,
+    "geom:longitude":-157.865848,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1904989: name \"Puahala Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1904989"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1904989: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1904989"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1904989: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1904989"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937601 (Honolulu).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937601 (Honolulu), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Puahala Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688671,
+        85937601,
+        102085417,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1904989
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0751dcda1511fbaec27b08c07ec8b4aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":9895007159,
+            "region_id":85688671
+        }
+    ],
+    "wof:id":9895007159,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Puahala Homes",
+    "wof:parent_id":85937601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.86584770168454,
+    21.331670122324283,
+    -157.86584770168454,
+    21.331670122324283
+],
+  "geometry": {"coordinates":[-157.86584770168454,21.331670122324283],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895002914,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.49505171321462,34.74350082514411,-79.49505171321462,34.74350082514411",
+    "geom:latitude":34.743501,
+    "geom:longitude":-79.495052,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005382: name \"Sunny Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005382"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005382: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005382"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005382: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005382"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981251 (Laurinburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981251 (Laurinburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunny Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981251,
+        102087849,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005382
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70be547fe548166171bf2d4c533310b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087849,
+            "locality_id":85981251,
+            "neighbourhood_id":9895002914,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002914,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Sunny Acres",
+    "wof:parent_id":85981251,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.49505171321462,
+    34.74350082514411,
+    -79.49505171321462,
+    34.74350082514411
+],
+  "geometry": {"coordinates":[-79.49505171321462,34.74350082514411],"type":"Point"}
+}

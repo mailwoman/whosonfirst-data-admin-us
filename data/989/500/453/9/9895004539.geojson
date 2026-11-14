@@ -1,0 +1,82 @@
+{
+  "id": 9895004539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.87189081494161,40.63578692458031,-111.87189081494161,40.63578692458031",
+    "geom:latitude":40.635787,
+    "geom:longitude":-111.871891,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452155: name \"Litson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452155"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452155: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452155"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452155: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452155"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728069 (Murray).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728069 (Murray), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Litson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728069,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1452155
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e997f064a8c0eee497387989fe3bf6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":9895004539,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004539,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Litson",
+    "wof:parent_id":101728069,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.87189081494161,
+    40.63578692458031,
+    -111.87189081494161,
+    40.63578692458031
+],
+  "geometry": {"coordinates":[-111.87189081494161,40.63578692458031],"type":"Point"}
+}

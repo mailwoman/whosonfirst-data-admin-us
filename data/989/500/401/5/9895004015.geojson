@@ -1,0 +1,82 @@
+{
+  "id": 9895004015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.73666903157833,36.303669866224126,-86.73666903157833,36.303669866224126",
+    "geom:latitude":36.30367,
+    "geom:longitude":-86.736669,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313491: name \"Solitude Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313491"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313491: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313491"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313491: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313491"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723171 (Goodlettsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723171 (Goodlettsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Solitude Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723171,
+        102086357,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1313491
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d3199ac8852a8711c2b3f7644931c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723171,
+            "neighbourhood_id":9895004015,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895004015,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Solitude Acres",
+    "wof:parent_id":101723171,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.73666903157833,
+    36.303669866224126,
+    -86.73666903157833,
+    36.303669866224126
+],
+  "geometry": {"coordinates":[-86.73666903157833,36.303669866224126],"type":"Point"}
+}

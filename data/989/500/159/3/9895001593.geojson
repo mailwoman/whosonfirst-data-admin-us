@@ -1,0 +1,82 @@
+{
+  "id": 9895001593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.28794982798732,31.141303153799,-93.28794982798732,31.141303153799",
+    "geom:latitude":31.141303,
+    "geom:longitude":-93.28795,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 550091: name \"Westwood Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/550091"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 550091: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/550091"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 550091: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/550091"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948063 (Leesville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948063 (Leesville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westwood Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948063,
+        102086691,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":550091
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2dde9eb54b048a789cf8b7dfe7928e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":9895001593,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001593,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Westwood Village",
+    "wof:parent_id":85948063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.28794982798732,
+    31.141303153799,
+    -93.28794982798732,
+    31.141303153799
+],
+  "geometry": {"coordinates":[-93.28794982798732,31.141303153799],"type":"Point"}
+}

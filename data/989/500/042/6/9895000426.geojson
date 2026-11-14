@@ -1,0 +1,82 @@
+{
+  "id": 9895000426,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.34580809078584,32.35708916379547,-86.34580809078584,32.35708916379547",
+    "geom:latitude":32.357089,
+    "geom:longitude":-86.345808,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142566: name \"Gibbs Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142566"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142566: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142566"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142566: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142566"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gibbs Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142566
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5c16b47ddd7e07430690b16ed1d55dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000426,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000426,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Gibbs Village",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.34580809078584,
+    32.35708916379547,
+    -86.34580809078584,
+    32.35708916379547
+],
+  "geometry": {"coordinates":[-86.34580809078584,32.35708916379547],"type":"Point"}
+}

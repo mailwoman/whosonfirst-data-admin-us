@@ -1,0 +1,82 @@
+{
+  "id": 9895000634,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.23247145844864,32.35764506793753,-86.23247145844864,32.35764506793753",
+    "geom:latitude":32.357645,
+    "geom:longitude":-86.232471,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147731: name \"Brookwood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147731"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147731: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147731"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147731: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147731"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brookwood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147731
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9543d5b28094bd5eb6efbab1212ff89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000634,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000634,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Brookwood Estates",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.23247145844864,
+    32.35764506793753,
+    -86.23247145844864,
+    32.35764506793753
+],
+  "geometry": {"coordinates":[-86.23247145844864,32.35764506793753],"type":"Point"}
+}

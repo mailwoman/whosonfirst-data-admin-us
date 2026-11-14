@@ -1,0 +1,82 @@
+{
+  "id": 9895004154,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-160.37641002736925,59.06194455038556,-160.37641002736925,59.06194455038556",
+    "geom:latitude":59.061945,
+    "geom:longitude":-160.37641,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1411039: name \"Togiak\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1411039"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1411039: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1411039"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1411039: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1411039"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85915631 (Togiak).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85915631 (Togiak), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Togiak"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85915631,
+        102080995,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1411039
+    },
+    "wof:country":"US",
+    "wof:geomhash":"784bf2e3c0ad356c79e4cbedefe1b90f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080995,
+            "locality_id":85915631,
+            "neighbourhood_id":9895004154,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004154,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Togiak",
+    "wof:parent_id":85915631,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -160.37641002736925,
+    59.06194455038556,
+    -160.37641002736925,
+    59.06194455038556
+],
+  "geometry": {"coordinates":[-160.37641002736925,59.06194455038556],"type":"Point"}
+}

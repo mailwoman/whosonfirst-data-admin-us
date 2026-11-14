@@ -1,0 +1,82 @@
+{
+  "id": 9895007067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.58923097401515,34.023072889541915,-117.58923097401515,34.023072889541915",
+    "geom:latitude":34.023073,
+    "geom:longitude":-117.589231,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1842091: name \"Creekside\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1842091"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1842091: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1842091"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1842091: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1842091"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923933 (Ontario).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923933 (Ontario), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Creekside"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923933,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1842091
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7f26f7f90ee2edc5053a8691aea561a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85923933,
+            "neighbourhood_id":9895007067,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007067,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Creekside",
+    "wof:parent_id":85923933,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.58923097401515,
+    34.023072889541915,
+    -117.58923097401515,
+    34.023072889541915
+],
+  "geometry": {"coordinates":[-117.58923097401515,34.023072889541915],"type":"Point"}
+}

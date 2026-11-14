@@ -1,0 +1,80 @@
+{
+  "id": 9895001009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.23854874671689,36.010249872032155,-121.23854874671689,36.010249872032155",
+    "geom:latitude":36.01025,
+    "geom:longitude":-121.238549,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252404: name \"Hunter-Liggett\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252404"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252404: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252404"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252404: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252404"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080859 (Monterey).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080859 (Monterey), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hunter-Liggett"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102080859,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":252404
+    },
+    "wof:country":"US",
+    "wof:geomhash":"afb0d8021fde16c2ee7981a79bf62b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080859,
+            "locality_id":9895001009,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001009,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Hunter-Liggett",
+    "wof:parent_id":102080859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.23854874671689,
+    36.010249872032155,
+    -121.23854874671689,
+    36.010249872032155
+],
+  "geometry": {"coordinates":[-121.23854874671689,36.010249872032155],"type":"Point"}
+}

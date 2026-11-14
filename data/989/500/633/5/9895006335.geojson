@@ -1,0 +1,82 @@
+{
+  "id": 9895006335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.73966220450941,33.76066952401097,-84.73966220450941,33.76066952401097",
+    "geom:latitude":33.76067,
+    "geom:longitude":-84.739662,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686631: name \"Malone Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686631"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686631: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686631"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686631: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686631"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936271 (Douglasville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936271 (Douglasville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Malone Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936271,
+        102084441,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1686631
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4c83b27055e8190b28f6980d68668c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084441,
+            "locality_id":85936271,
+            "neighbourhood_id":9895006335,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006335,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Malone Park",
+    "wof:parent_id":85936271,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.73966220450941,
+    33.76066952401097,
+    -84.73966220450941,
+    33.76066952401097
+],
+  "geometry": {"coordinates":[-84.73966220450941,33.76066952401097],"type":"Point"}
+}

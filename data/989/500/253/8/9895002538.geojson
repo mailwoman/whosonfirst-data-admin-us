@@ -1,0 +1,80 @@
+{
+  "id": 9895002538,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.56534794571587,34.974045537339734,-80.56534794571587,34.974045537339734",
+    "geom:latitude":34.974046,
+    "geom:longitude":-80.565348,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002268: name \"Stewart Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002268"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002268: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002268"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002268: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002268"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080895 (Union).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080895 (Union), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stewart Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080895,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1002268
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eabb42b9b34928047e8cfc99283c7b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080895,
+            "locality_id":9895002538,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002538,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Stewart Park",
+    "wof:parent_id":102080895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.56534794571587,
+    34.974045537339734,
+    -80.56534794571587,
+    34.974045537339734
+],
+  "geometry": {"coordinates":[-80.56534794571587,34.974045537339734],"type":"Point"}
+}

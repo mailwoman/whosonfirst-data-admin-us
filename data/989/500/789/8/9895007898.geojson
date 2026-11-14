@@ -1,0 +1,82 @@
+{
+  "id": 9895007898,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.80000366856973,40.95137695895174,-77.80000366856973,40.95137695895174",
+    "geom:latitude":40.951377,
+    "geom:longitude":-77.800004,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805530: name \"Moose Run\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805530"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805530: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805530"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805530: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805530"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404485735 (Boggs Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404485735 (Boggs Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Moose Run"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081369,
+        102191575,
+        404485735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805530
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df62d26292c2160317c856b2c9efb8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081369,
+            "localadmin_id":404485735,
+            "locality_id":9895007898,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895007898,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Moose Run",
+    "wof:parent_id":404485735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.80000366856973,
+    40.95137695895174,
+    -77.80000366856973,
+    40.95137695895174
+],
+  "geometry": {"coordinates":[-77.80000366856973,40.95137695895174],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.83194450422396,33.800108251928194,-86.83194450422396,33.800108251928194",
+    "geom:latitude":33.800108,
+    "geom:longitude":-86.831945,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700541: name \"Parker Hudson Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700541"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700541: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700541"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700541: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700541"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914779 (Warrior).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914779 (Warrior), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Parker Hudson Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914779,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700541
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab5adb52d0df3769627a9655bc193d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914779,
+            "neighbourhood_id":9895006541,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006541,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Parker Hudson Estates",
+    "wof:parent_id":85914779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.83194450422396,
+    33.800108251928194,
+    -86.83194450422396,
+    33.800108251928194
+],
+  "geometry": {"coordinates":[-86.83194450422396,33.800108251928194],"type":"Point"}
+}

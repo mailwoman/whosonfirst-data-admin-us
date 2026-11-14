@@ -1,0 +1,84 @@
+{
+  "id": 9895007810,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.09222814997413,42.49917463276784,-88.09222814997413,42.49917463276784",
+    "geom:latitude":42.499175,
+    "geom:longitude":-88.092228,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2791519: name \"Cross Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2791519"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2791519: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2791519"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2791519: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2791519"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 1729403563 (Salem Lakes).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 1729403563 (Salem Lakes), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cross Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688517,
+        102081309,
+        102191575,
+        1729395989,
+        1729403563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2791519
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0932b9aac76b4f7b136ee91774758d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":1729395989,
+            "locality_id":1729403563,
+            "neighbourhood_id":9895007810,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":9895007810,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Cross Lake",
+    "wof:parent_id":1729403563,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.09222814997413,
+    42.49917463276784,
+    -88.09222814997413,
+    42.49917463276784
+],
+  "geometry": {"coordinates":[-88.09222814997413,42.49917463276784],"type":"Point"}
+}

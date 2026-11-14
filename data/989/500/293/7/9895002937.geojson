@@ -1,0 +1,82 @@
+{
+  "id": 9895002937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.22863577123842,35.48377099428258,-79.22863577123842,35.48377099428258",
+    "geom:latitude":35.483771,
+    "geom:longitude":-79.228636,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005447: name \"Westcroft\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005447"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005447: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005447"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005447: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005447"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981169 (Sanford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981169 (Sanford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westcroft"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981169,
+        102087817,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005447
+    },
+    "wof:country":"US",
+    "wof:geomhash":"74e71aae4c1d8fa9f0e48fbd851e7d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087817,
+            "locality_id":85981169,
+            "neighbourhood_id":9895002937,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002937,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Westcroft",
+    "wof:parent_id":85981169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.22863577123842,
+    35.48377099428258,
+    -79.22863577123842,
+    35.48377099428258
+],
+  "geometry": {"coordinates":[-79.22863577123842,35.48377099428258],"type":"Point"}
+}

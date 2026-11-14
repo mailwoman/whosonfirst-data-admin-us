@@ -1,0 +1,82 @@
+{
+  "id": 9895002319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.07600683082708,39.75095582811705,-75.07600683082708,39.75095582811705",
+    "geom:latitude":39.750956,
+    "geom:longitude":-75.076007,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 882964: name \"Green Tree\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/882964"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 882964: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/882964"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 882964: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/882964"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404478197 (Washington Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404478197 (Washington Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Green Tree"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102085999,
+        102191575,
+        404478197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":882964
+    },
+    "wof:country":"US",
+    "wof:geomhash":"08467df195f9b467914a6b3b564b0be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085999,
+            "localadmin_id":404478197,
+            "locality_id":9895002319,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895002319,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Green Tree",
+    "wof:parent_id":404478197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.07600683082708,
+    39.75095582811705,
+    -75.07600683082708,
+    39.75095582811705
+],
+  "geometry": {"coordinates":[-75.07600683082708,39.75095582811705],"type":"Point"}
+}

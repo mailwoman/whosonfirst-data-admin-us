@@ -1,0 +1,80 @@
+{
+  "id": 9895007911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.16081769890332,32.47952016492055,-97.16081769890332,32.47952016492055",
+    "geom:latitude":32.47952,
+    "geom:longitude":-97.160818,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805800: name \"The Homesteads\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805800"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805800: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805800"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805800: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805800"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081065 (Johnson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081065 (Johnson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "The Homesteads"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102081065,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805800
+    },
+    "wof:country":"US",
+    "wof:geomhash":"765f63d282ee56f0a29fc3586637e199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081065,
+            "locality_id":9895007911,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007911,
+    "wof:lastmodified":1794681145,
+    "wof:name":"The Homesteads",
+    "wof:parent_id":102081065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.16081769890332,
+    32.47952016492055,
+    -97.16081769890332,
+    32.47952016492055
+],
+  "geometry": {"coordinates":[-97.16081769890332,32.47952016492055],"type":"Point"}
+}

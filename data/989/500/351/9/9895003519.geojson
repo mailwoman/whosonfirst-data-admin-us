@@ -1,0 +1,82 @@
+{
+  "id": 9895003519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.97345228739933,33.506531068734006,-81.97345228739933,33.506531068734006",
+    "geom:latitude":33.506531,
+    "geom:longitude":-81.973452,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1236316: name \"Fairview Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1236316"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1236316: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1236316"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1236316: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1236316"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721165 (North Augusta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721165 (North Augusta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fairview Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721165,
+        102085721,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1236316
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89030dc8c5297bdb5c109ec41085441c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085721,
+            "locality_id":101721165,
+            "neighbourhood_id":9895003519,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003519,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Fairview Gardens",
+    "wof:parent_id":101721165,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.97345228739933,
+    33.506531068734006,
+    -81.97345228739933,
+    33.506531068734006
+],
+  "geometry": {"coordinates":[-81.97345228739933,33.506531068734006],"type":"Point"}
+}

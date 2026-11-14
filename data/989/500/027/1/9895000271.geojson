@@ -1,0 +1,82 @@
+{
+  "id": 9895000271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.62097796099766,35.76397233899616,-91.62097796099766,35.76397233899616",
+    "geom:latitude":35.763972,
+    "geom:longitude":-91.620978,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 68003: name \"Eastwood Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/68003"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 68003: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/68003"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 68003: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/68003"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85920683 (Batesville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85920683 (Batesville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Eastwood Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        85920683,
+        102083875,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":68003
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f94695c6b42461093f35c8e7bc12109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083875,
+            "locality_id":85920683,
+            "neighbourhood_id":9895000271,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000271,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Eastwood Addition",
+    "wof:parent_id":85920683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.62097796099766,
+    35.76397233899616,
+    -91.62097796099766,
+    35.76397233899616
+],
+  "geometry": {"coordinates":[-91.62097796099766,35.76397233899616],"type":"Point"}
+}

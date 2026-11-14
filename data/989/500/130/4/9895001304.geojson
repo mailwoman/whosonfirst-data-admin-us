@@ -1,0 +1,82 @@
+{
+  "id": 9895001304,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.91660229433234,32.54181275319154,-84.91660229433234,32.54181275319154",
+    "geom:latitude":32.541813,
+    "geom:longitude":-84.916602,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357433: name \"North Oaks\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357433"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357433: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357433"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357433: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357433"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936243 (Columbus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936243 (Columbus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North Oaks"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936243,
+        102084429,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357433
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f71083e7fe8ee4c277346ccd58f09652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":9895001304,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001304,
+    "wof:lastmodified":1794681125,
+    "wof:name":"North Oaks",
+    "wof:parent_id":85936243,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.91660229433234,
+    32.54181275319154,
+    -84.91660229433234,
+    32.54181275319154
+],
+  "geometry": {"coordinates":[-84.91660229433234,32.54181275319154],"type":"Point"}
+}

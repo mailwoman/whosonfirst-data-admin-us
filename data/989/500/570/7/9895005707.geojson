@@ -1,0 +1,84 @@
+{
+  "id": 9895005707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.21388129334186,43.5925351330557,-84.21388129334186,43.5925351330557",
+    "geom:latitude":43.592535,
+    "geom:longitude":-84.213881,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1617517: name \"Dean\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1617517"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1617517: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1617517"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1617517: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1617517"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85951267 (Midland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85951267 (Midland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dean"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688599,
+        85951267,
+        102082997,
+        102191575,
+        404508883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1617517
+    },
+    "wof:country":"US",
+    "wof:geomhash":"360de1bfb31976a6899ae47c2d48480b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082997,
+            "localadmin_id":404508883,
+            "locality_id":85951267,
+            "neighbourhood_id":9895005707,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":9895005707,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Dean",
+    "wof:parent_id":85951267,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.21388129334186,
+    43.5925351330557,
+    -84.21388129334186,
+    43.5925351330557
+],
+  "geometry": {"coordinates":[-84.21388129334186,43.5925351330557],"type":"Point"}
+}

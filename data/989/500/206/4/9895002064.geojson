@@ -1,0 +1,82 @@
+{
+  "id": 9895002064,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.7397812674589,34.26539077122429,-88.7397812674589,34.26539077122429",
+    "geom:latitude":34.265391,
+    "geom:longitude":-88.739781,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684508: name \"Lar-Eli-Do\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684508"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684508: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684508"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684508: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684508"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969769 (Tupelo).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969769 (Tupelo), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lar-Eli-Do"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969769,
+        102083171,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":684508
+    },
+    "wof:country":"US",
+    "wof:geomhash":"34dd4018708ca1d7aaccef55f4dba168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":9895002064,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002064,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Lar-Eli-Do",
+    "wof:parent_id":85969769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.7397812674589,
+    34.26539077122429,
+    -88.7397812674589,
+    34.26539077122429
+],
+  "geometry": {"coordinates":[-88.7397812674589,34.26539077122429],"type":"Point"}
+}

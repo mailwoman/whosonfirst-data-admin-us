@@ -1,0 +1,82 @@
+{
+  "id": 9895003608,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.8637061601069,33.52071560999558,-80.8637061601069,33.52071560999558",
+    "geom:latitude":33.520716,
+    "geom:longitude":-80.863706,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242688: name \"Marshall Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242688"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242688: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242688"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242688: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242688"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720859 (Orangeburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720859 (Orangeburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Marshall Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720859,
+        102085413,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1242688
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c01bea3869a4e6f90cbcd3f506e4809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085413,
+            "locality_id":101720859,
+            "neighbourhood_id":9895003608,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003608,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Marshall Heights",
+    "wof:parent_id":101720859,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.8637061601069,
+    33.52071560999558,
+    -80.8637061601069,
+    33.52071560999558
+],
+  "geometry": {"coordinates":[-80.8637061601069,33.52071560999558],"type":"Point"}
+}

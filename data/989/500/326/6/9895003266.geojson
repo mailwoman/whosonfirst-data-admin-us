@@ -1,0 +1,82 @@
+{
+  "id": 9895003266,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.57502820996132,40.924234721783144,-78.57502820996132,40.924234721783144",
+    "geom:latitude":40.924235,
+    "geom:longitude":-78.575028,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1180076: name \"Lumber City\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1180076"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1180076: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1180076"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1180076: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1180076"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 1729395919 (Ferguson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1729395919 (Ferguson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lumber City"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080967,
+        102191575,
+        1729395919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1180076
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5537af0ac530dc03a40852827b6f426d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080967,
+            "localadmin_id":1729395919,
+            "locality_id":9895003266,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003266,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Lumber City",
+    "wof:parent_id":1729395919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.57502820996132,
+    40.924234721783144,
+    -78.57502820996132,
+    40.924234721783144
+],
+  "geometry": {"coordinates":[-78.57502820996132,40.924234721783144],"type":"Point"}
+}

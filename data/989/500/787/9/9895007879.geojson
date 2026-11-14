@@ -1,0 +1,80 @@
+{
+  "id": 9895007879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.7528450754618,34.94439213620523,-111.7528450754618,34.94439213620523",
+    "geom:latitude":34.944392,
+    "geom:longitude":-111.752845,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805224: name \"Oak Creek Canyon\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805224"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805224: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805224"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805224: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805224"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086831 (Coconino).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086831 (Coconino), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oak Creek Canyon"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688719,
+        102086831,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805224
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81c520c4819c47ad7678d48b6e84b248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086831,
+            "locality_id":9895007879,
+            "region_id":85688719
+        }
+    ],
+    "wof:id":9895007879,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Oak Creek Canyon",
+    "wof:parent_id":102086831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.7528450754618,
+    34.94439213620523,
+    -111.7528450754618,
+    34.94439213620523
+],
+  "geometry": {"coordinates":[-111.7528450754618,34.94439213620523],"type":"Point"}
+}

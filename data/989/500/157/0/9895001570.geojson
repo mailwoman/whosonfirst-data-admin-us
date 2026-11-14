@@ -1,0 +1,82 @@
+{
+  "id": 9895001570,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.88451636992757,30.142981561566394,-89.88451636992757,30.142981561566394",
+    "geom:latitude":30.142982,
+    "geom:longitude":-89.884516,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 543684: name \"South Point\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/543684"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 543684: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/543684"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 543684: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/543684"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948111 (New Orleans).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948111 (New Orleans), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South Point"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948111,
+        102086693,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":543684
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6dd36e625f3366b04eedc5402d1f7f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":9895001570,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001570,
+    "wof:lastmodified":1794681126,
+    "wof:name":"South Point",
+    "wof:parent_id":85948111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.88451636992757,
+    30.142981561566394,
+    -89.88451636992757,
+    30.142981561566394
+],
+  "geometry": {"coordinates":[-89.88451636992757,30.142981561566394],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895003579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.75812136338382,34.168218390164455,-79.75812136338382,34.168218390164455",
+    "geom:latitude":34.168218,
+    "geom:longitude":-79.758121,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242191: name \"Siesta Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242191"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242191: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242191"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242191: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242191"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085723 (Florence).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085723 (Florence), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Siesta Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085723,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1242191
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7ad803485b4fd56f74bfab3431afa46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085723,
+            "locality_id":9895003579,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003579,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Siesta Village",
+    "wof:parent_id":102085723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.75812136338382,
+    34.168218390164455,
+    -79.75812136338382,
+    34.168218390164455
+],
+  "geometry": {"coordinates":[-79.75812136338382,34.168218390164455],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895008013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.06028073399528,35.58394275309674,-106.06028073399528,35.58394275309674",
+    "geom:latitude":35.583943,
+    "geom:longitude":-106.060281,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806777: name \"Valle Vista\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806777"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806777: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806777"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806777: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806777"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081571 (Santa Fe).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081571 (Santa Fe), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Valle Vista"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081571,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806777
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c01080352da6888344e10a466eba14c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081571,
+            "locality_id":9895008013,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895008013,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Valle Vista",
+    "wof:parent_id":102081571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.06028073399528,
+    35.58394275309674,
+    -106.06028073399528,
+    35.58394275309674
+],
+  "geometry": {"coordinates":[-106.06028073399528,35.58394275309674],"type":"Point"}
+}

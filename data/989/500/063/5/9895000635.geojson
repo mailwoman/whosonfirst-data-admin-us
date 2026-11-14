@@ -1,0 +1,82 @@
+{
+  "id": 9895000635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.32636298477094,32.34653396150259,-86.32636298477094,32.34653396150259",
+    "geom:latitude":32.346534,
+    "geom:longitude":-86.326363,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147752: name \"Carver Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147752"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147752: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147752"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147752: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147752"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Carver Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147752
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f0e0b7804b8e8c698d0ab3cb631755d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000635,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000635,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Carver Park",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.32636298477094,
+    32.34653396150259,
+    -86.32636298477094,
+    32.34653396150259
+],
+  "geometry": {"coordinates":[-86.32636298477094,32.34653396150259],"type":"Point"}
+}

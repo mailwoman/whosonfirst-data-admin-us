@@ -1,0 +1,82 @@
+{
+  "id": 9895007484,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.07389903733527,39.8163953236394,-105.07389903733527,39.8163953236394",
+    "geom:latitude":39.816395,
+    "geom:longitude":-105.073899,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354753: name \"Lyndale Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354753"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354753: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354753"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354753: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354753"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929333 (Arvada).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929333 (Arvada), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lyndale Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929333,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354753
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b07d91115f9b1ecc7612b0353e5c62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":85929333,
+            "neighbourhood_id":9895007484,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007484,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Lyndale Park",
+    "wof:parent_id":85929333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.07389903733527,
+    39.8163953236394,
+    -105.07389903733527,
+    39.8163953236394
+],
+  "geometry": {"coordinates":[-105.07389903733527,39.8163953236394],"type":"Point"}
+}

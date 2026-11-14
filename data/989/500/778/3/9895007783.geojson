@@ -1,0 +1,82 @@
+{
+  "id": 9895007783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.75989623234082,45.364253616712205,-110.75989623234082,45.364253616712205",
+    "geom:latitude":45.364254,
+    "geom:longitude":-110.759896,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2652370: name \"North Glastonbury\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2652370"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2652370: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2652370"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2652370: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2652370"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85973411 (Emigrant).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85973411 (Emigrant), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North Glastonbury"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        85973411,
+        102085059,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2652370
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31535ed52cdd53c719611d7010ce9aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85973411,
+            "neighbourhood_id":9895007783,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895007783,
+    "wof:lastmodified":1794681145,
+    "wof:name":"North Glastonbury",
+    "wof:parent_id":85973411,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.75989623234082,
+    45.364253616712205,
+    -110.75989623234082,
+    45.364253616712205
+],
+  "geometry": {"coordinates":[-110.75989623234082,45.364253616712205],"type":"Point"}
+}

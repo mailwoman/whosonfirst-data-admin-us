@@ -1,0 +1,82 @@
+{
+  "id": 9895004145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-149.3497343207807,65.15041247165419,-149.3497343207807,65.15041247165419",
+    "geom:latitude":65.150412,
+    "geom:longitude":-149.349734,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1406419: name \"Minto\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1406419"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1406419: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1406419"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1406419: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1406419"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85916683 (Minto).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85916683 (Minto), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Minto"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85916683,
+        102081905,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1406419
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a8682c3c5dac05f2c545ff0f5f6951b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081905,
+            "locality_id":85916683,
+            "neighbourhood_id":9895004145,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004145,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Minto",
+    "wof:parent_id":85916683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.3497343207807,
+    65.15041247165419,
+    -149.3497343207807,
+    65.15041247165419
+],
+  "geometry": {"coordinates":[-149.3497343207807,65.15041247165419],"type":"Point"}
+}

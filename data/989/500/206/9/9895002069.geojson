@@ -1,0 +1,80 @@
+{
+  "id": 9895002069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.77589277382093,34.20094745646457,-88.77589277382093,34.20094745646457",
+    "geom:latitude":34.200947,
+    "geom:longitude":-88.775893,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684549: name \"Palmetto Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684549"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684549: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684549"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684549: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684549"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083171 (Lee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083171 (Lee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Palmetto Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102083171,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":684549
+    },
+    "wof:country":"US",
+    "wof:geomhash":"34dde0b5a787d0a4d5e4e78ba783143a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":9895002069,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002069,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Palmetto Estates",
+    "wof:parent_id":102083171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.77589277382093,
+    34.20094745646457,
+    -88.77589277382093,
+    34.20094745646457
+],
+  "geometry": {"coordinates":[-88.77589277382093,34.20094745646457],"type":"Point"}
+}

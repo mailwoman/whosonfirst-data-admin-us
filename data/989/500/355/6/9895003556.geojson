@@ -1,0 +1,80 @@
+{
+  "id": 9895003556,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.04201395824563,34.37599432612625,-80.04201395824563,34.37599432612625",
+    "geom:latitude":34.375994,
+    "geom:longitude":-80.042014,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241286: name \"Belair Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241286"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241286: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241286"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241286: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241286"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085743 (Darlington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085743 (Darlington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Belair Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085743,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1241286
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d24e2f9c00ca4d8b3c8996ef657255b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085743,
+            "locality_id":9895003556,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003556,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Belair Estates",
+    "wof:parent_id":102085743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.04201395824563,
+    34.37599432612625,
+    -80.04201395824563,
+    34.37599432612625
+],
+  "geometry": {"coordinates":[-80.04201395824563,34.37599432612625],"type":"Point"}
+}

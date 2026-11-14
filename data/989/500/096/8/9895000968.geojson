@@ -1,0 +1,80 @@
+{
+  "id": 9895000968,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.48769876252221,39.77095481731501,-75.48769876252221,39.77095481731501",
+    "geom:latitude":39.770955,
+    "geom:longitude":-75.487699,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215816: name \"Seton Villa\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215816"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215816: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215816"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215816: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215816"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083891 (New Castle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083891 (New Castle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Seton Villa"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        102083891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":215816
+    },
+    "wof:country":"US",
+    "wof:geomhash":"46ca7ffc40133b5aa82e0a91d815c9b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":9895000968,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000968,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Seton Villa",
+    "wof:parent_id":102083891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.48769876252221,
+    39.77095481731501,
+    -75.48769876252221,
+    39.77095481731501
+],
+  "geometry": {"coordinates":[-75.48769876252221,39.77095481731501],"type":"Point"}
+}

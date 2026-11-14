@@ -1,0 +1,82 @@
+{
+  "id": 9895005737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.80145895352985,30.287144495065437,-89.80145895352985,30.287144495065437",
+    "geom:latitude":30.287144,
+    "geom:longitude":-89.801459,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628878: name \"Carolyn Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628878"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628878: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628878"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628878: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628878"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948031 (Slidell).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948031 (Slidell), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Carolyn Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948031,
+        102082453,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1628878
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ec10541258bf55fb9c959ac93df8839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":9895005737,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895005737,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Carolyn Park",
+    "wof:parent_id":85948031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.80145895352985,
+    30.287144495065437,
+    -89.80145895352985,
+    30.287144495065437
+],
+  "geometry": {"coordinates":[-89.80145895352985,30.287144495065437],"type":"Point"}
+}

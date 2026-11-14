@@ -1,0 +1,80 @@
+{
+  "id": 9895000879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.53193350649113,33.570110015265755,-86.53193350649113,33.570110015265755",
+    "geom:latitude":33.57011,
+    "geom:longitude":-86.531934,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 165087: name \"Heathermoor Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/165087"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 165087: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/165087"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 165087: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/165087"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085647 (St. Clair).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085647 (St. Clair), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Heathermoor Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085647,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":165087
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2043ef82eb07fa9a90d405d7728a0e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085647,
+            "locality_id":9895000879,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000879,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Heathermoor Estates",
+    "wof:parent_id":102085647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.53193350649113,
+    33.570110015265755,
+    -86.53193350649113,
+    33.570110015265755
+],
+  "geometry": {"coordinates":[-86.53193350649113,33.570110015265755],"type":"Point"}
+}

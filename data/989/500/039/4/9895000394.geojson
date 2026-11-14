@@ -1,0 +1,82 @@
+{
+  "id": 9895000394,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.92691916066491,34.039548437898006,-85.92691916066491,34.039548437898006",
+    "geom:latitude":34.039548,
+    "geom:longitude":-85.926919,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 140530: name \"Edwardsville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/140530"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 140530: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/140530"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 140530: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/140530"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85915273 (Tidmore Bend).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85915273 (Tidmore Bend), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Edwardsville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85915273,
+        102085545,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":140530
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0716e3b3f9adc7b57fb5da3861b1e4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085545,
+            "locality_id":85915273,
+            "neighbourhood_id":9895000394,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000394,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Edwardsville",
+    "wof:parent_id":85915273,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.92691916066491,
+    34.039548437898006,
+    -85.92691916066491,
+    34.039548437898006
+],
+  "geometry": {"coordinates":[-85.92691916066491,34.039548437898006],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9895007177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.95371524454293,41.291216605749746,-72.95371524454293,41.291216605749746",
+    "geom:latitude":41.291217,
+    "geom:longitude":-72.953715,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1932465: name \"New Halville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1932465"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1932465: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1932465"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1932465: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1932465"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85930885 (West Haven).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85930885 (West Haven), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "New Halville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688629,
+        85930885,
+        102086923,
+        102191575,
+        404495805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1932465
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d1e3b82a09cc857a3af5b7d9e5e09ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495805,
+            "locality_id":85930885,
+            "neighbourhood_id":9895007177,
+            "region_id":85688629
+        }
+    ],
+    "wof:id":9895007177,
+    "wof:lastmodified":1794681143,
+    "wof:name":"New Halville",
+    "wof:parent_id":85930885,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.95371524454293,
+    41.291216605749746,
+    -72.95371524454293,
+    41.291216605749746
+],
+  "geometry": {"coordinates":[-72.95371524454293,41.291216605749746],"type":"Point"}
+}

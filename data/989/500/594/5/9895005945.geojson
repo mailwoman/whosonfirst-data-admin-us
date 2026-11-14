@@ -1,0 +1,82 @@
+{
+  "id": 9895005945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.0136881401708,33.94474005666499,-118.0136881401708,33.94474005666499",
+    "geom:latitude":33.94474,
+    "geom:longitude":-118.013688,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660501: name \"Colima\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660501"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660501: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660501"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660501: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660501"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923757 (Whittier).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923757 (Whittier), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Colima"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923757,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1660501
+    },
+    "wof:country":"US",
+    "wof:geomhash":"98a3247e3fcf9105c0e010df30cc9a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923757,
+            "neighbourhood_id":9895005945,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005945,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Colima",
+    "wof:parent_id":85923757,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.0136881401708,
+    33.94474005666499,
+    -118.0136881401708,
+    33.94474005666499
+],
+  "geometry": {"coordinates":[-118.0136881401708,33.94474005666499],"type":"Point"}
+}

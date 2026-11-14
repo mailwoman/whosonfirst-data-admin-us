@@ -1,0 +1,82 @@
+{
+  "id": 9895004787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.9563366144419,40.50162150308734,-111.9563366144419,40.50162150308734",
+    "geom:latitude":40.501622,
+    "geom:longitude":-111.956337,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452999: name \"Meadowbrook Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452999"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452999: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452999"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452999: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452999"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728073 (Riverton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728073 (Riverton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meadowbrook Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728073,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1452999
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83e8905ef4905d241eb58066fb6e12c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728073,
+            "neighbourhood_id":9895004787,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004787,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Meadowbrook Estates",
+    "wof:parent_id":101728073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.9563366144419,
+    40.50162150308734,
+    -111.9563366144419,
+    40.50162150308734
+],
+  "geometry": {"coordinates":[-111.9563366144419,40.50162150308734],"type":"Point"}
+}

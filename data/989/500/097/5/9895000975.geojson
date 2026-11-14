@@ -1,0 +1,80 @@
+{
+  "id": 9895000975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.54131428175847,39.80789812308486,-75.54131428175847,39.80789812308486",
+    "geom:latitude":39.807898,
+    "geom:longitude":-75.541314,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215865: name \"Colonial Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215865"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215865: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215865"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215865: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215865"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083891 (New Castle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083891 (New Castle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Colonial Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        102083891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":215865
+    },
+    "wof:country":"US",
+    "wof:geomhash":"862c9f52b152ec2783d1f76975ca674f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":9895000975,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000975,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Colonial Woods",
+    "wof:parent_id":102083891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.54131428175847,
+    39.80789812308486,
+    -75.54131428175847,
+    39.80789812308486
+],
+  "geometry": {"coordinates":[-75.54131428175847,39.80789812308486],"type":"Point"}
+}

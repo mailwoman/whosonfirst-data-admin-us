@@ -1,0 +1,82 @@
+{
+  "id": 9895003903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.19464326786454,35.86980788615201,-84.19464326786454,35.86980788615201",
+    "geom:latitude":35.869808,
+    "geom:longitude":-84.194643,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312273: name \"Fox Den\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312273"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312273: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312273"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312273: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312273"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722867 (Farragut).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722867 (Farragut), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fox Den"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722867,
+        102086455,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312273
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f9ea2954b18cc2e07ea44d48fbcf469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722867,
+            "neighbourhood_id":9895003903,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003903,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Fox Den",
+    "wof:parent_id":101722867,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.19464326786454,
+    35.86980788615201,
+    -84.19464326786454,
+    35.86980788615201
+],
+  "geometry": {"coordinates":[-84.19464326786454,35.86980788615201],"type":"Point"}
+}

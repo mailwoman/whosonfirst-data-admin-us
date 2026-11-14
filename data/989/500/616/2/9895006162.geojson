@@ -1,0 +1,82 @@
+{
+  "id": 9895006162,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.54815543809987,30.755241861841295,-81.54815543809987,30.755241861841295",
+    "geom:latitude":30.755242,
+    "geom:longitude":-81.548155,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671398: name \"North River Marshes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671398"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671398: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671398"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671398: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671398"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937041 (St. Marys).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937041 (St. Marys), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North River Marshes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85937041,
+        102081693,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671398
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e31490cebda7c152237e62c28529e018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937041,
+            "neighbourhood_id":9895006162,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006162,
+    "wof:lastmodified":1794681140,
+    "wof:name":"North River Marshes",
+    "wof:parent_id":85937041,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.54815543809987,
+    30.755241861841295,
+    -81.54815543809987,
+    30.755241861841295
+],
+  "geometry": {"coordinates":[-81.54815543809987,30.755241861841295],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9895001970,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.01199407191015,42.29594066257515,-71.01199407191015,42.29594066257515",
+    "geom:latitude":42.295941,
+    "geom:longitude":-71.011994,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 613008: name \"Squantum\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/613008"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 613008: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/613008"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 613008: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/613008"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950429 (Quincy).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950429 (Quincy), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Squantum"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688645,
+        85950429,
+        102084403,
+        102191575,
+        404476591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":613008
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c090863950d1b873826f7696c0ec8d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476591,
+            "locality_id":85950429,
+            "neighbourhood_id":9895001970,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":9895001970,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Squantum",
+    "wof:parent_id":85950429,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.01199407191015,
+    42.29594066257515,
+    -71.01199407191015,
+    42.29594066257515
+],
+  "geometry": {"coordinates":[-71.01199407191015,42.29594066257515],"type":"Point"}
+}

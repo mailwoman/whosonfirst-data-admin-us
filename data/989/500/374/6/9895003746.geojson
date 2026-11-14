@@ -1,0 +1,82 @@
+{
+  "id": 9895003746,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.98314766669776,32.8210156825977,-79.98314766669776,32.8210156825977",
+    "geom:latitude":32.821016,
+    "geom:longitude":-79.983148,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1252901: name \"Grove Creek Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1252901"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1252901: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1252901"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1252901: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1252901"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720747 (Charleston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720747 (Charleston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Grove Creek Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720747,
+        102085591,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1252901
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6cef21d9450847c50b705da31a2d3ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085591,
+            "locality_id":101720747,
+            "neighbourhood_id":9895003746,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003746,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Grove Creek Village",
+    "wof:parent_id":101720747,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.98314766669776,
+    32.8210156825977,
+    -79.98314766669776,
+    32.8210156825977
+],
+  "geometry": {"coordinates":[-79.98314766669776,32.8210156825977],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895005531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.09442510869417,38.830398369910476,-77.09442510869417,38.830398369910476",
+    "geom:latitude":38.830398,
+    "geom:longitude":-77.094425,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1492617: name \"Brad Lee\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1492617"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1492617: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1492617"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1492617: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1492617"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728581 (Alexandria).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728581 (Alexandria), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brad Lee"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728581,
+        102080641,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1492617
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1514bd7d8eeb9e4772699f10c5f8d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":9895005531,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005531,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Brad Lee",
+    "wof:parent_id":101728581,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.09442510869417,
+    38.830398369910476,
+    -77.09442510869417,
+    38.830398369910476
+],
+  "geometry": {"coordinates":[-77.09442510869417,38.830398369910476],"type":"Point"}
+}

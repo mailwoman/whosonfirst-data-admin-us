@@ -1,0 +1,82 @@
+{
+  "id": 9895000817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.93471911196309,33.38817206166109,-86.93471911196309,33.38817206166109",
+    "geom:latitude":33.388172,
+    "geom:longitude":-86.934719,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 154256: name \"New Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/154256"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 154256: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/154256"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 154256: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/154256"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914885 (Bessemer).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914885 (Bessemer), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "New Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914885,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":154256
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e8b69a826d716520a03254a03ed0eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914885,
+            "neighbourhood_id":9895000817,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000817,
+    "wof:lastmodified":1794681123,
+    "wof:name":"New Village",
+    "wof:parent_id":85914885,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.93471911196309,
+    33.38817206166109,
+    -86.93471911196309,
+    33.38817206166109
+],
+  "geometry": {"coordinates":[-86.93471911196309,33.38817206166109],"type":"Point"}
+}

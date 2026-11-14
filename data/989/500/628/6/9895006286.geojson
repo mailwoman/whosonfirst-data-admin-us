@@ -1,0 +1,82 @@
+{
+  "id": 9895006286,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.98664285677675,38.526239912274136,-76.98664285677675,38.526239912274136",
+    "geom:latitude":38.52624,
+    "geom:longitude":-76.986643,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676716: name \"Haldane\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676716"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676716: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676716"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676716: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676716"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949349 (La Plata).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949349 (La Plata), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Haldane"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949349,
+        102081211,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1676716
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f1a3e21e8d7b63d3db1474f17a8461d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949349,
+            "neighbourhood_id":9895006286,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006286,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Haldane",
+    "wof:parent_id":85949349,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.98664285677675,
+    38.526239912274136,
+    -76.98664285677675,
+    38.526239912274136
+],
+  "geometry": {"coordinates":[-76.98664285677675,38.526239912274136],"type":"Point"}
+}

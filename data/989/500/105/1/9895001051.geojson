@@ -1,0 +1,82 @@
+{
+  "id": 9895001051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.82342098038396,26.715351786341834,-81.82342098038396,26.715351786341834",
+    "geom:latitude":26.715352,
+    "geom:longitude":-81.823421,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 278250: name \"Bayshore\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/278250"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 278250: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/278250"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 278250: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/278250"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85934599 (North Fort Myers).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85934599 (North Fort Myers), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bayshore"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85934599,
+        102084769,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":278250
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7646f07c880071da85a1c01a8e2216c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084769,
+            "locality_id":85934599,
+            "neighbourhood_id":9895001051,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001051,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Bayshore",
+    "wof:parent_id":85934599,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.82342098038396,
+    26.715351786341834,
+    -81.82342098038396,
+    26.715351786341834
+],
+  "geometry": {"coordinates":[-81.82342098038396,26.715351786341834],"type":"Point"}
+}

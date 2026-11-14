@@ -1,0 +1,82 @@
+{
+  "id": 9895000341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.177748948881,32.476530695587,-86.177748948881,32.476530695587",
+    "geom:latitude":32.476531,
+    "geom:longitude":-86.177749,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137140: name \"Azalea Woods Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137140"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137140: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137140"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137140: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137140"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85915121 (Blue Ridge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85915121 (Blue Ridge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Azalea Woods Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85915121,
+        102085631,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":137140
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e2db6a93810a76fe67375862e10d7b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085631,
+            "locality_id":85915121,
+            "neighbourhood_id":9895000341,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000341,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Azalea Woods Estates",
+    "wof:parent_id":85915121,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.177748948881,
+    32.476530695587,
+    -86.177748948881,
+    32.476530695587
+],
+  "geometry": {"coordinates":[-86.177748948881,32.476530695587],"type":"Point"}
+}

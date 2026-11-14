@@ -1,0 +1,80 @@
+{
+  "id": 9895001044,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.2887004482746,34.68971182279359,-118.2887004482746,34.68971182279359",
+    "geom:latitude":34.689712,
+    "geom:longitude":-118.2887,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 270824: name \"Del Sur\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/270824"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 270824: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/270824"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 270824: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/270824"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086957 (Los Angeles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086957 (Los Angeles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Del Sur"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":270824
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5a0c0156c405eb77197828059e469b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":9895001044,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001044,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Del Sur",
+    "wof:parent_id":102086957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.2887004482746,
+    34.68971182279359,
+    -118.2887004482746,
+    34.68971182279359
+],
+  "geometry": {"coordinates":[-118.2887004482746,34.68971182279359],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.27970494166468,33.681496748571725,-86.27970494166468,33.681496748571725",
+    "geom:latitude":33.681497,
+    "geom:longitude":-86.279705,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 164904: name \"Wattsville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/164904"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 164904: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/164904"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 164904: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/164904"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085647 (St. Clair).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085647 (St. Clair), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wattsville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085647,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":164904
+    },
+    "wof:country":"US",
+    "wof:geomhash":"081c028501bc31f9fa37b24da038f8ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085647,
+            "locality_id":9895000873,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000873,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Wattsville",
+    "wof:parent_id":102085647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.27970494166468,
+    33.681496748571725,
+    -86.27970494166468,
+    33.681496748571725
+],
+  "geometry": {"coordinates":[-86.27970494166468,33.681496748571725],"type":"Point"}
+}

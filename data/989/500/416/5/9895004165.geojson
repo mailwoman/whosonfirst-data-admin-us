@@ -1,0 +1,82 @@
+{
+  "id": 9895004165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-130.02474098699886,55.91694927245253,-130.02474098699886,55.91694927245253",
+    "geom:latitude":55.916949,
+    "geom:longitude":-130.024741,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1422711: name \"Hyder\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1422711"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1422711: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1422711"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1422711: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1422711"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85917111 (Hyder).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85917111 (Hyder), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hyder"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85917111,
+        102191575,
+        1108960991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1422711
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e9f80f7f021424e6d1c49a826a1c30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":1108960991,
+            "locality_id":85917111,
+            "neighbourhood_id":9895004165,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004165,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Hyder",
+    "wof:parent_id":85917111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -130.02474098699886,
+    55.91694927245253,
+    -130.02474098699886,
+    55.91694927245253
+],
+  "geometry": {"coordinates":[-130.02474098699886,55.91694927245253],"type":"Point"}
+}

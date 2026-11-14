@@ -1,0 +1,80 @@
+{
+  "id": 9895003173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.94827854276879,34.72905720694092,-76.94827854276879,34.72905720694092",
+    "geom:latitude":34.729057,
+    "geom:longitude":-76.948279,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1024934: name \"Rollingwoood Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1024934"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1024934: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1024934"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1024934: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1024934"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080875 (Carteret).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080875 (Carteret), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rollingwoood Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080875,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1024934
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f8f41fd18dd2018552686fc14ac8731f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080875,
+            "locality_id":9895003173,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003173,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Rollingwoood Acres",
+    "wof:parent_id":102080875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.94827854276879,
+    34.72905720694092,
+    -76.94827854276879,
+    34.72905720694092
+],
+  "geometry": {"coordinates":[-76.94827854276879,34.72905720694092],"type":"Point"}
+}

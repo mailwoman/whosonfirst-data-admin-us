@@ -1,0 +1,80 @@
+{
+  "id": 9895005726,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.70867642617189,30.234089486613023,-89.70867642617189,30.234089486613023",
+    "geom:latitude":30.234089,
+    "geom:longitude":-89.708676,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628845: name \"Avery Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628845"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628845: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628845"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628845: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628845"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082453 (St. Tammany).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082453 (St. Tammany), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Avery Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        102082453,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1628845
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a5421281fce1c8f1ebe361fb4a9b104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":9895005726,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895005726,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Avery Estates",
+    "wof:parent_id":102082453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.70867642617189,
+    30.234089486613023,
+    -89.70867642617189,
+    30.234089486613023
+],
+  "geometry": {"coordinates":[-89.70867642617189,30.234089486613023],"type":"Point"}
+}

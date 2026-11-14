@@ -1,0 +1,80 @@
+{
+  "id": 9895004104,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.81273407373938,30.96491612448021,-95.81273407373938,30.96491612448021",
+    "geom:latitude":30.964916,
+    "geom:longitude":-95.812734,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1379586: name \"Connor\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1379586"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1379586: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1379586"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1379586: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1379586"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085009 (Madison).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085009 (Madison), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Connor"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102085009,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1379586
+    },
+    "wof:country":"US",
+    "wof:geomhash":"efe3380ab01f91950dfce3f3ff0a50e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085009,
+            "locality_id":9895004104,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004104,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Connor",
+    "wof:parent_id":102085009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.81273407373938,
+    30.96491612448021,
+    -95.81273407373938,
+    30.96491612448021
+],
+  "geometry": {"coordinates":[-95.81273407373938,30.96491612448021],"type":"Point"}
+}

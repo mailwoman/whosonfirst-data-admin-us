@@ -1,0 +1,84 @@
+{
+  "id": 9895003350,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.16920648663734,40.79507257231611,-79.16920648663734,40.79507257231611",
+    "geom:latitude":40.795073,
+    "geom:longitude":-79.169206,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1200782: name \"East Plumville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1200782"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1200782: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1200782"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1200782: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1200782"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101716693 (Plumville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101716693 (Plumville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "East Plumville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101716693,
+        102081387,
+        102191575,
+        404483489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1200782
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28cfba52c9853a40d91d70102b5c1643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081387,
+            "localadmin_id":404483489,
+            "locality_id":101716693,
+            "neighbourhood_id":9895003350,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003350,
+    "wof:lastmodified":1794681133,
+    "wof:name":"East Plumville",
+    "wof:parent_id":101716693,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.16920648663734,
+    40.79507257231611,
+    -79.16920648663734,
+    40.79507257231611
+],
+  "geometry": {"coordinates":[-79.16920648663734,40.79507257231611],"type":"Point"}
+}

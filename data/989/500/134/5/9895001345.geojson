@@ -1,0 +1,82 @@
+{
+  "id": 9895001345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-156.9529470364388,21.066715826333485,-156.9529470364388,21.066715826333485",
+    "geom:latitude":21.066716,
+    "geom:longitude":-156.952947,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 362408: name \"Kawela\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/362408"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 362408: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/362408"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 362408: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/362408"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937675 (Kaunakakai).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937675 (Kaunakakai), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kawela"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688671,
+        85937675,
+        102085577,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":362408
+    },
+    "wof:country":"US",
+    "wof:geomhash":"411a33d5cd3f77dca10051c5674082b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937675,
+            "neighbourhood_id":9895001345,
+            "region_id":85688671
+        }
+    ],
+    "wof:id":9895001345,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Kawela",
+    "wof:parent_id":85937675,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.9529470364388,
+    21.066715826333485,
+    -156.9529470364388,
+    21.066715826333485
+],
+  "geometry": {"coordinates":[-156.9529470364388,21.066715826333485],"type":"Point"}
+}

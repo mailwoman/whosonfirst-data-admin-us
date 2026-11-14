@@ -1,0 +1,82 @@
+{
+  "id": 9895001543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.94358766522095,38.892064187895656,-76.94358766522095,38.892064187895656",
+    "geom:latitude":38.892064,
+    "geom:longitude":-76.943588,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 528758: name \"East Washington Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/528758"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 528758: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/528758"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 528758: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/528758"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931779 (Washington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931779 (Washington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "East Washington Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688741,
+        85931779,
+        102191575,
+        1377370667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":528758
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5abffa506b5dbcb438f6a29612d89085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":1377370667,
+            "locality_id":85931779,
+            "neighbourhood_id":9895001543,
+            "region_id":85688741
+        }
+    ],
+    "wof:id":9895001543,
+    "wof:lastmodified":1794681126,
+    "wof:name":"East Washington Heights",
+    "wof:parent_id":85931779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.94358766522095,
+    38.892064187895656,
+    -76.94358766522095,
+    38.892064187895656
+],
+  "geometry": {"coordinates":[-76.94358766522095,38.892064187895656],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000592,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.51610657189553,34.79093027016524,-86.51610657189553,34.79093027016524",
+    "geom:latitude":34.79093,
+    "geom:longitude":-86.516107,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146825: name \"Country Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146825"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146825: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146825"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146825: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146825"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085487 (Madison).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085487 (Madison), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Country Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085487,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146825
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f7bce1653c4c88169338114f15088683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085487,
+            "locality_id":9895000592,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000592,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Country Village",
+    "wof:parent_id":102085487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.51610657189553,
+    34.79093027016524,
+    -86.51610657189553,
+    34.79093027016524
+],
+  "geometry": {"coordinates":[-86.51610657189553,34.79093027016524],"type":"Point"}
+}

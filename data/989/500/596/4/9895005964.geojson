@@ -1,0 +1,82 @@
+{
+  "id": 9895005964,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.20480657727818,34.01224045407503,-118.20480657727818,34.01224045407503",
+    "geom:latitude":34.01224,
+    "geom:longitude":-118.204807,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660752: name \"Hobart\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660752"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660752: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660752"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660752: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660752"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923779 (Vernon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923779 (Vernon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hobart"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923779,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1660752
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5352abdb92cbf3ff7d4764c09fdd95fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923779,
+            "neighbourhood_id":9895005964,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005964,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Hobart",
+    "wof:parent_id":85923779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.20480657727818,
+    34.01224045407503,
+    -118.20480657727818,
+    34.01224045407503
+],
+  "geometry": {"coordinates":[-118.20480657727818,34.01224045407503],"type":"Point"}
+}

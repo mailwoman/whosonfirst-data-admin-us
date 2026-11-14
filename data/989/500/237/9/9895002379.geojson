@@ -1,0 +1,82 @@
+{
+  "id": 9895002379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.49680553965575,42.757027728010186,-74.49680553965575,42.757027728010186",
+    "geom:latitude":42.757028,
+    "geom:longitude":-74.496806,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 955737: name \"Little York\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/955737"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 955737: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/955737"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 955737: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/955737"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404521403 (Carlisle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404521403 (Carlisle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Little York"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102083101,
+        102191575,
+        404521403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":955737
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba2f155a90c52b655c17256182f3c6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083101,
+            "localadmin_id":404521403,
+            "locality_id":9895002379,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002379,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Little York",
+    "wof:parent_id":404521403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.49680553965575,
+    42.757027728010186,
+    -74.49680553965575,
+    42.757027728010186
+],
+  "geometry": {"coordinates":[-74.49680553965575,42.757027728010186],"type":"Point"}
+}

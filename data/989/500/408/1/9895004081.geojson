@@ -1,0 +1,80 @@
+{
+  "id": 9895004081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.25367407149174,31.676824026964795,-99.25367407149174,31.676824026964795",
+    "geom:latitude":31.676824,
+    "geom:longitude":-99.253674,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378131: name \"Cleveland\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378131"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378131: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378131"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378131: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378131"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080675 (Coleman).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080675 (Coleman), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cleveland"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102080675,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1378131
+    },
+    "wof:country":"US",
+    "wof:geomhash":"096419d162a63180295418b11d0859e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080675,
+            "locality_id":9895004081,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004081,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Cleveland",
+    "wof:parent_id":102080675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.25367407149174,
+    31.676824026964795,
+    -99.25367407149174,
+    31.676824026964795
+],
+  "geometry": {"coordinates":[-99.25367407149174,31.676824026964795],"type":"Point"}
+}

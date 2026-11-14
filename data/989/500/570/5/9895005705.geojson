@@ -1,0 +1,80 @@
+{
+  "id": 9895005705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.80922716382426,43.02969410482702,-106.80922716382426,43.02969410482702",
+    "geom:latitude":43.029694,
+    "geom:longitude":-106.809227,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1597426: name \"Natrona\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1597426"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1597426: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1597426"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1597426: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1597426"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080753 (Natrona).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080753 (Natrona), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Natrona"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688475,
+        102080753,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1597426
+    },
+    "wof:country":"US",
+    "wof:geomhash":"939dca1989c9f9d91c9c6d9705cf413a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080753,
+            "locality_id":9895005705,
+            "region_id":85688475
+        }
+    ],
+    "wof:id":9895005705,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Natrona",
+    "wof:parent_id":102080753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.80922716382426,
+    43.02969410482702,
+    -106.80922716382426,
+    43.02969410482702
+],
+  "geometry": {"coordinates":[-106.80922716382426,43.02969410482702],"type":"Point"}
+}

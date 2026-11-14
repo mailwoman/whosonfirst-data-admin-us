@@ -1,0 +1,82 @@
+{
+  "id": 9895003073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.79160419512567,34.72822361166076,-76.79160419512567,34.72822361166076",
+    "geom:latitude":34.728224,
+    "geom:longitude":-76.791604,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017465: name \"Mitchell Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017465"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017465: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017465"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017465: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017465"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981393 (Morehead City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981393 (Morehead City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mitchell Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981393,
+        102080875,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1017465
+    },
+    "wof:country":"US",
+    "wof:geomhash":"27f930eed4ca8190cbab8fa850a9a392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080875,
+            "locality_id":85981393,
+            "neighbourhood_id":9895003073,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003073,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Mitchell Village",
+    "wof:parent_id":85981393,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.79160419512567,
+    34.72822361166076,
+    -76.79160419512567,
+    34.72822361166076
+],
+  "geometry": {"coordinates":[-76.79160419512567,34.72822361166076],"type":"Point"}
+}

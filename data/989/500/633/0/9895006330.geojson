@@ -1,0 +1,82 @@
+{
+  "id": 9895006330,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.7443843039033,33.724836915652375,-84.7443843039033,33.724836915652375",
+    "geom:latitude":33.724837,
+    "geom:longitude":-84.744384,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686533: name \"Springwood Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686533"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686533: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686533"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686533: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686533"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936271 (Douglasville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936271 (Douglasville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Springwood Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936271,
+        102084441,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1686533
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1efddc76ed89a30fc448619c66df4c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084441,
+            "locality_id":85936271,
+            "neighbourhood_id":9895006330,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006330,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Springwood Village",
+    "wof:parent_id":85936271,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.7443843039033,
+    33.724836915652375,
+    -84.7443843039033,
+    33.724836915652375
+],
+  "geometry": {"coordinates":[-84.7443843039033,33.724836915652375],"type":"Point"}
+}

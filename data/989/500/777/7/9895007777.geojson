@@ -1,0 +1,84 @@
+{
+  "id": 9895007777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.84916812606136,41.1694527510074,-73.84916812606136,41.1694527510074",
+    "geom:latitude":41.169453,
+    "geom:longitude":-73.849168,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2556769: name \"Forest Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2556769"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2556769: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2556769"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2556769: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2556769"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85978717 (Ossining).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85978717 (Ossining), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Forest Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        85978717,
+        102082373,
+        102191575,
+        404523379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2556769
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2dbaa152cd9d76b94082b75c01febb11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523379,
+            "locality_id":85978717,
+            "neighbourhood_id":9895007777,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895007777,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Forest Park",
+    "wof:parent_id":85978717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.84916812606136,
+    41.1694527510074,
+    -73.84916812606136,
+    41.1694527510074
+],
+  "geometry": {"coordinates":[-73.84916812606136,41.1694527510074],"type":"Point"}
+}

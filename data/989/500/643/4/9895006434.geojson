@@ -1,0 +1,82 @@
+{
+  "id": 9895006434,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0441508390212,39.56538681859809,-77.0441508390212,39.56538681859809",
+    "geom:latitude":39.565387,
+    "geom:longitude":-77.044151,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695759: name \"Carroll Lutheran Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695759"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695759: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695759"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695759: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695759"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949353 (Westminster).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949353 (Westminster), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Carroll Lutheran Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949353,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695759
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92265d8b98399be305a3e721eb69d2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "neighbourhood_id":9895006434,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006434,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Carroll Lutheran Village",
+    "wof:parent_id":85949353,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0441508390212,
+    39.56538681859809,
+    -77.0441508390212,
+    39.56538681859809
+],
+  "geometry": {"coordinates":[-77.0441508390212,39.56538681859809],"type":"Point"}
+}

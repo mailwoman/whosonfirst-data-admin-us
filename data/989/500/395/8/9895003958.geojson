@@ -1,0 +1,82 @@
+{
+  "id": 9895003958,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.51222146159797,36.22478296081918,-86.51222146159797,36.22478296081918",
+    "geom:latitude":36.224783,
+    "geom:longitude":-86.512221,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312826: name \"Creekmont\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312826"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312826: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312826"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312826: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312826"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723073 (Mount Juliet).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723073 (Mount Juliet), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Creekmont"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723073,
+        102087205,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312826
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5f469e5fef363e2a06f47c15ac079da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":9895003958,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003958,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Creekmont",
+    "wof:parent_id":101723073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.51222146159797,
+    36.22478296081918,
+    -86.51222146159797,
+    36.22478296081918
+],
+  "geometry": {"coordinates":[-86.51222146159797,36.22478296081918],"type":"Point"}
+}

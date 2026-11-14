@@ -1,0 +1,82 @@
+{
+  "id": 9895003940,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.24579402382066,35.048969074964916,-85.24579402382066,35.048969074964916",
+    "geom:latitude":35.048969,
+    "geom:longitude":-85.245794,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312660: name \"Foxwood Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312660"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312660: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312660"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312660: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312660"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723043 (Chattanooga).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723043 (Chattanooga), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Foxwood Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723043,
+        102087185,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312660
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0276178eb2c436ccbf0ea4c5019046b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":9895003940,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003940,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Foxwood Heights",
+    "wof:parent_id":101723043,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.24579402382066,
+    35.048969074964916,
+    -85.24579402382066,
+    35.048969074964916
+],
+  "geometry": {"coordinates":[-85.24579402382066,35.048969074964916],"type":"Point"}
+}

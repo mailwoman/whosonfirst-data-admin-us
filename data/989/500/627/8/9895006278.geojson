@@ -1,0 +1,82 @@
+{
+  "id": 9895006278,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.53495802565067,38.68762656160486,-76.53495802565067,38.68762656160486",
+    "geom:latitude":38.687627,
+    "geom:longitude":-76.534958,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676178: name \"Chesapeake Station\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676178"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676178: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676178"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676178: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676178"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949251 (Chesapeake Beach).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949251 (Chesapeake Beach), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Chesapeake Station"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949251,
+        102084241,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1676178
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10e3cc4284faef9b7067ddc61ecba507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949251,
+            "neighbourhood_id":9895006278,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006278,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Chesapeake Station",
+    "wof:parent_id":85949251,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.53495802565067,
+    38.68762656160486,
+    -76.53495802565067,
+    38.68762656160486
+],
+  "geometry": {"coordinates":[-76.53495802565067,38.68762656160486],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000528,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.95916683069237,33.620111709395104,-86.95916683069237,33.620111709395104",
+    "geom:latitude":33.620112,
+    "geom:longitude":-86.959167,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144243: name \"Graysville Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144243"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144243: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144243"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144243: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144243"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914851 (Graysville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914851 (Graysville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Graysville Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914851,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":144243
+    },
+    "wof:country":"US",
+    "wof:geomhash":"596ec019d22d2c9ae39fe8852b04df3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914851,
+            "neighbourhood_id":9895000528,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000528,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Graysville Heights",
+    "wof:parent_id":85914851,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.95916683069237,
+    33.620111709395104,
+    -86.95916683069237,
+    33.620111709395104
+],
+  "geometry": {"coordinates":[-86.95916683069237,33.620111709395104],"type":"Point"}
+}

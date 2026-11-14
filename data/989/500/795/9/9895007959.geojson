@@ -1,0 +1,82 @@
+{
+  "id": 9895007959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.24366382835983,40.771917059407905,-74.24366382835983,40.771917059407905",
+    "geom:latitude":40.771917,
+    "geom:longitude":-74.243664,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806201: name \"The Valley\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806201"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806201: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806201"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806201: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806201"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404478061 (West Orange Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404478061 (West Orange Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "The Valley"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102085043,
+        102191575,
+        404478061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806201
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92a6f0d6a6994ee9d930fb585de8131c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478061,
+            "locality_id":9895007959,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895007959,
+    "wof:lastmodified":1794681145,
+    "wof:name":"The Valley",
+    "wof:parent_id":404478061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.24366382835983,
+    40.771917059407905,
+    -74.24366382835983,
+    40.771917059407905
+],
+  "geometry": {"coordinates":[-74.24366382835983,40.771917059407905],"type":"Point"}
+}

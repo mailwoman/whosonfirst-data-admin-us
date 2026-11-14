@@ -1,0 +1,82 @@
+{
+  "id": 9895003515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.97539678695155,33.50292006755994,-81.97539678695155,33.50292006755994",
+    "geom:latitude":33.50292,
+    "geom:longitude":-81.975397,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1236220: name \"Bahama Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1236220"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1236220: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1236220"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1236220: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1236220"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721165 (North Augusta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721165 (North Augusta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bahama Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721165,
+        102085721,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1236220
+    },
+    "wof:country":"US",
+    "wof:geomhash":"326954c31f55198e96a763ff0c93eadd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085721,
+            "locality_id":101721165,
+            "neighbourhood_id":9895003515,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003515,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Bahama Heights",
+    "wof:parent_id":101721165,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.97539678695155,
+    33.50292006755994,
+    -81.97539678695155,
+    33.50292006755994
+],
+  "geometry": {"coordinates":[-81.97539678695155,33.50292006755994],"type":"Point"}
+}

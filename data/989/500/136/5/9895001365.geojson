@@ -1,0 +1,84 @@
+{
+  "id": 9895001365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.991752316674,42.465861333199044,-87.991752316674,42.465861333199044",
+    "geom:latitude":42.465861,
+    "geom:longitude":-87.991752,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 405618: name \"Carney Corners\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/405618"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 405618: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/405618"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 405618: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/405618"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85938323 (Old Mill Creek).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85938323 (Old Mill Creek), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Carney Corners"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85938323,
+        102086215,
+        102191575,
+        404496573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":405618
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d2a06b61dbe6ecc46a286690b1156b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404496573,
+            "locality_id":85938323,
+            "neighbourhood_id":9895001365,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001365,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Carney Corners",
+    "wof:parent_id":85938323,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.991752316674,
+    42.465861333199044,
+    -87.991752316674,
+    42.465861333199044
+],
+  "geometry": {"coordinates":[-87.991752316674,42.465861333199044],"type":"Point"}
+}

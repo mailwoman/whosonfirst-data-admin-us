@@ -1,0 +1,82 @@
+{
+  "id": 9895002220,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.54037222212135,33.54873475184405,-90.54037222212135,33.54873475184405",
+    "geom:latitude":33.548735,
+    "geom:longitude":-90.540372,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 707759: name \"Pine Land\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/707759"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 707759: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/707759"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 707759: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/707759"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969799 (Sunflower).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969799 (Sunflower), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pine Land"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969799,
+        102083795,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":707759
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e2f905f0ae96ac8ba03f98f264fb7b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083795,
+            "locality_id":85969799,
+            "neighbourhood_id":9895002220,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002220,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Pine Land",
+    "wof:parent_id":85969799,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.54037222212135,
+    33.54873475184405,
+    -90.54037222212135,
+    33.54873475184405
+],
+  "geometry": {"coordinates":[-90.54037222212135,33.54873475184405],"type":"Point"}
+}

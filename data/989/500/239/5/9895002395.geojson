@@ -1,0 +1,82 @@
+{
+  "id": 9895002395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.16350481371033,42.15537149053917,-75.16350481371033,42.15537149053917",
+    "geom:latitude":42.155371,
+    "geom:longitude":-75.163505,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 960583: name \"Pinesville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/960583"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 960583: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/960583"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 960583: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/960583"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404522211 (Walton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404522211 (Walton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pinesville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102082375,
+        102191575,
+        404522211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":960583
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5488d5e20ec7b2d8007b28be6f4d8bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082375,
+            "localadmin_id":404522211,
+            "locality_id":9895002395,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002395,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Pinesville",
+    "wof:parent_id":404522211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.16350481371033,
+    42.15537149053917,
+    -75.16350481371033,
+    42.15537149053917
+],
+  "geometry": {"coordinates":[-75.16350481371033,42.15537149053917],"type":"Point"}
+}

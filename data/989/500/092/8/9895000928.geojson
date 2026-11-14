@@ -1,0 +1,82 @@
+{
+  "id": 9895000928,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.03721473011377,39.836659229086344,-105.03721473011377,39.836659229086344",
+    "geom:latitude":39.836659,
+    "geom:longitude":-105.037215,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 204703: name \"Westminster\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/204703"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 204703: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/204703"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 204703: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/204703"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929351 (Westminster).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929351 (Westminster), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westminster"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929351,
+        102084053,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":204703
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ed5ef1b1d128b2902aa7bec96e250a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084053,
+            "locality_id":85929351,
+            "neighbourhood_id":9895000928,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000928,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Westminster",
+    "wof:parent_id":85929351,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.03721473011377,
+    39.836659229086344,
+    -105.03721473011377,
+    39.836659229086344
+],
+  "geometry": {"coordinates":[-105.03721473011377,39.836659229086344],"type":"Point"}
+}

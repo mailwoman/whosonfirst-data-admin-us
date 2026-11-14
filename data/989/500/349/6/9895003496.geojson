@@ -1,0 +1,82 @@
+{
+  "id": 9895003496,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.04064489251498,33.00851172325844,-80.04064489251498,33.00851172325844",
+    "geom:latitude":33.008512,
+    "geom:longitude":-80.040645,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234624: name \"Shannon Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234624"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234624: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234624"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234624: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234624"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720749 (Goose Creek).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720749 (Goose Creek), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shannon Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720749,
+        102085397,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1234624
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b940f7e705fca6d6ef665319f96af1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085397,
+            "locality_id":101720749,
+            "neighbourhood_id":9895003496,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003496,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Shannon Park",
+    "wof:parent_id":101720749,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.04064489251498,
+    33.00851172325844,
+    -80.04064489251498,
+    33.00851172325844
+],
+  "geometry": {"coordinates":[-80.04064489251498,33.00851172325844],"type":"Point"}
+}

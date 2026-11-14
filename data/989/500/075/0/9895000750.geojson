@@ -1,0 +1,82 @@
+{
+  "id": 9895000750,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.58529028583318,33.25345700861048,-87.58529028583318,33.25345700861048",
+    "geom:latitude":33.253457,
+    "geom:longitude":-87.58529,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148405: name \"Northwood Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148405"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148405: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148405"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148405: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148405"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914425 (Northport).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914425 (Northport), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Northwood Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914425,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148405
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d3029de097d53e43c6bac173e3439d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85914425,
+            "neighbourhood_id":9895000750,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000750,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Northwood Lake",
+    "wof:parent_id":85914425,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.58529028583318,
+    33.25345700861048,
+    -87.58529028583318,
+    33.25345700861048
+],
+  "geometry": {"coordinates":[-87.58529028583318,33.25345700861048],"type":"Point"}
+}

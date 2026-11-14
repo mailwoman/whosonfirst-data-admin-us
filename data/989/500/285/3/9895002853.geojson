@@ -1,0 +1,82 @@
+{
+  "id": 9895002853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.42302078982183,34.79628090609114,-77.42302078982183,34.79628090609114",
+    "geom:latitude":34.796281,
+    "geom:longitude":-77.423021,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005192: name \"Cardinal Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005192"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005192: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005192"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005192: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005192"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981263 (Jacksonville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981263 (Jacksonville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cardinal Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981263,
+        102087881,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005192
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bbefc376a3544ce509fc679e620ebaba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087881,
+            "locality_id":85981263,
+            "neighbourhood_id":9895002853,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002853,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Cardinal Village",
+    "wof:parent_id":85981263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.42302078982183,
+    34.79628090609114,
+    -77.42302078982183,
+    34.79628090609114
+],
+  "geometry": {"coordinates":[-77.42302078982183,34.79628090609114],"type":"Point"}
+}

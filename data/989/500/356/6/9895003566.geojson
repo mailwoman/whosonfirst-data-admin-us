@@ -1,0 +1,80 @@
+{
+  "id": 9895003566,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.85563183373696,35.01265493504457,-80.85563183373696,35.01265493504457",
+    "geom:latitude":35.012655,
+    "geom:longitude":-80.855632,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241624: name \"Colonial Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241624"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241624: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241624"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241624: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241624"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085719 (Lancaster).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085719 (Lancaster), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Colonial Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085719,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1241624
+    },
+    "wof:country":"US",
+    "wof:geomhash":"650bf6f7aa543e5a3f7c7c29e52806c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085719,
+            "locality_id":9895003566,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003566,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Colonial Village",
+    "wof:parent_id":102085719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.85563183373696,
+    35.01265493504457,
+    -80.85563183373696,
+    35.01265493504457
+],
+  "geometry": {"coordinates":[-80.85563183373696,35.01265493504457],"type":"Point"}
+}

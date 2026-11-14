@@ -1,0 +1,80 @@
+{
+  "id": 9895003798,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.05304923186758,36.26311548792763,-86.05304923186758,36.26311548792763",
+    "geom:latitude":36.263115,
+    "geom:longitude":-86.053049,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1299736: name \"Rock City\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1299736"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1299736: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1299736"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1299736: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1299736"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086345 (Smith).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086345 (Smith), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rock City"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086345,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1299736
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc9dee63b04a011305fcf69a49c083b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086345,
+            "locality_id":9895003798,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003798,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Rock City",
+    "wof:parent_id":102086345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.05304923186758,
+    36.26311548792763,
+    -86.05304923186758,
+    36.26311548792763
+],
+  "geometry": {"coordinates":[-86.05304923186758,36.26311548792763],"type":"Point"}
+}

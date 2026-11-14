@@ -1,0 +1,82 @@
+{
+  "id": 9895001030,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.542768661535,38.01159405437237,-122.542768661535,38.01159405437237",
+    "geom:latitude":38.011594,
+    "geom:longitude":-122.542769,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 255914: name \"Terra Lindo\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/255914"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 255914: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/255914"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 255914: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/255914"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922003 (San Rafael).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922003 (San Rafael), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Terra Lindo"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922003,
+        102084353,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":255914
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5283f1a47307caf5938f1e078822e6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922003,
+            "neighbourhood_id":9895001030,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001030,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Terra Lindo",
+    "wof:parent_id":85922003,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.542768661535,
+    38.01159405437237,
+    -122.542768661535,
+    38.01159405437237
+],
+  "geometry": {"coordinates":[-122.542768661535,38.01159405437237],"type":"Point"}
+}

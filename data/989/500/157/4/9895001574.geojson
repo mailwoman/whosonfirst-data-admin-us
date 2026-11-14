@@ -1,0 +1,82 @@
+{
+  "id": 9895001574,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.4654592951901,31.55156863119259,-93.4654592951901,31.55156863119259",
+    "geom:latitude":31.551569,
+    "geom:longitude":-93.465459,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 546071: name \"Alford Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/546071"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 546071: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/546071"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 546071: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/546071"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85947887 (Many).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85947887 (Many), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Alford Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85947887,
+        102081409,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":546071
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8981e00b9a5d6e511cf63727b67050b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":9895001574,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001574,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Alford Heights",
+    "wof:parent_id":85947887,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.4654592951901,
+    31.55156863119259,
+    -93.4654592951901,
+    31.55156863119259
+],
+  "geometry": {"coordinates":[-93.4654592951901,31.55156863119259],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.42099540956276,34.7898197155607,-92.42099540956276,34.7898197155607",
+    "geom:latitude":34.78982,
+    "geom:longitude":-92.420995,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 68475: name \"Pleasant View\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/68475"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 68475: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/68475"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 68475: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/68475"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921265 (Little Rock).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921265 (Little Rock), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pleasant View"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        85921265,
+        102082497,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":68475
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b65a5b909ac299edb9da09d65e818ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082497,
+            "locality_id":85921265,
+            "neighbourhood_id":9895000283,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000283,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Pleasant View",
+    "wof:parent_id":85921265,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.42099540956276,
+    34.7898197155607,
+    -92.42099540956276,
+    34.7898197155607
+],
+  "geometry": {"coordinates":[-92.42099540956276,34.7898197155607],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895007833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-113.1137277386904,45.42589740275756,-113.1137277386904,45.42589740275756",
+    "geom:latitude":45.425897,
+    "geom:longitude":-113.113728,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804264: name \"Maverick Mountain\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804264"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804264: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804264"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804264: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804264"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085131 (Beaverhead).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085131 (Beaverhead), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Maverick Mountain"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        102085131,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804264
+    },
+    "wof:country":"US",
+    "wof:geomhash":"adbae124b3e29b449577f398b8fea9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085131,
+            "locality_id":9895007833,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895007833,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Maverick Mountain",
+    "wof:parent_id":102085131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.1137277386904,
+    45.42589740275756,
+    -113.1137277386904,
+    45.42589740275756
+],
+  "geometry": {"coordinates":[-113.1137277386904,45.42589740275756],"type":"Point"}
+}

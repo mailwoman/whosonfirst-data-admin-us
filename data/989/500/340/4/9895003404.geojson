@@ -1,0 +1,84 @@
+{
+  "id": 9895003404,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.22200637338531,40.24341172192041,-80.22200637338531,40.24341172192041",
+    "geom:latitude":40.243412,
+    "geom:longitude":-80.222006,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1214305: name \"Moniger Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1214305"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1214305: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1214305"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1214305: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1214305"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720337 (McGovern).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720337 (McGovern), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Moniger Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101720337,
+        102081343,
+        102191575,
+        404487739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1214305
+    },
+    "wof:country":"US",
+    "wof:geomhash":"614bd264783ba8762b78e322cb9958de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081343,
+            "localadmin_id":404487739,
+            "locality_id":101720337,
+            "neighbourhood_id":9895003404,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003404,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Moniger Heights",
+    "wof:parent_id":101720337,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.22200637338531,
+    40.24341172192041,
+    -80.22200637338531,
+    40.24341172192041
+],
+  "geometry": {"coordinates":[-80.22200637338531,40.24341172192041],"type":"Point"}
+}

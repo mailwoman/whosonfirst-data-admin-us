@@ -1,0 +1,82 @@
+{
+  "id": 9895000558,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.85416088144933,33.26456463894699,-86.85416088144933,33.26456463894699",
+    "geom:latitude":33.264565,
+    "geom:longitude":-86.854161,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146416: name \"Dunaway Farms\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146416"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146416: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146416"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146416: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146416"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914471 (Helena).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914471 (Helena), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dunaway Farms"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914471,
+        102085499,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146416
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3d9b1aff3e0f5b2b9b731933b0f3b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085499,
+            "locality_id":85914471,
+            "neighbourhood_id":9895000558,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000558,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Dunaway Farms",
+    "wof:parent_id":85914471,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.85416088144933,
+    33.26456463894699,
+    -86.85416088144933,
+    33.26456463894699
+],
+  "geometry": {"coordinates":[-86.85416088144933,33.26456463894699],"type":"Point"}
+}

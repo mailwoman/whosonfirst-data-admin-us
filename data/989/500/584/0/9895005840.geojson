@@ -1,0 +1,82 @@
+{
+  "id": 9895005840,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.04315258335397,35.13287448907226,-90.04315258335397,35.13287448907226",
+    "geom:latitude":35.132874,
+    "geom:longitude":-90.043153,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1648038: name \"Foote Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1648038"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1648038: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1648038"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1648038: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1648038"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722645 (Memphis).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722645 (Memphis), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Foote Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722645,
+        102087213,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1648038
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cbe3829bb2e7d6f4eb05753a79cbed2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":9895005840,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895005840,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Foote Homes",
+    "wof:parent_id":101722645,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.04315258335397,
+    35.13287448907226,
+    -90.04315258335397,
+    35.13287448907226
+],
+  "geometry": {"coordinates":[-90.04315258335397,35.13287448907226],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.8164835447092,33.493215505276474,-80.8164835447092,33.493215505276474",
+    "geom:latitude":33.493216,
+    "geom:longitude":-80.816484,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242894: name \"Whittaker Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242894"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242894: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242894"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242894: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242894"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721319 (Wilkinson Heights).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721319 (Wilkinson Heights), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Whittaker Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721319,
+        102085413,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1242894
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f28996aea027e238016dfbb793c2f314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085413,
+            "locality_id":101721319,
+            "neighbourhood_id":9895003621,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003621,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Whittaker Estates",
+    "wof:parent_id":101721319,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.8164835447092,
+    33.493215505276474,
+    -80.8164835447092,
+    33.493215505276474
+],
+  "geometry": {"coordinates":[-80.8164835447092,33.493215505276474],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.6716596477909,33.60205411700262,-86.6716596477909,33.60205411700262",
+    "geom:latitude":33.602054,
+    "geom:longitude":-86.67166,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700105: name \"Paragon Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700105"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700105: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700105"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700105: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700105"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914465 (Birmingham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914465 (Birmingham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Paragon Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914465,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700105
+    },
+    "wof:country":"US",
+    "wof:geomhash":"74f2e4db35b74c68740d6d52b558422d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":9895006501,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006501,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Paragon Estates",
+    "wof:parent_id":85914465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.6716596477909,
+    33.60205411700262,
+    -86.6716596477909,
+    33.60205411700262
+],
+  "geometry": {"coordinates":[-86.6716596477909,33.60205411700262],"type":"Point"}
+}

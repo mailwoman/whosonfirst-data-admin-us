@@ -1,0 +1,80 @@
+{
+  "id": 9895005570,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.48919752815361,36.88709318161862,-79.48919752815361,36.88709318161862",
+    "geom:latitude":36.887093,
+    "geom:longitude":-79.489198,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1496847: name \"Climax\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1496847"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1496847: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1496847"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1496847: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1496847"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083813 (Pittsylvania).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083813 (Pittsylvania), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Climax"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102083813,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1496847
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7723d1e8ebd4ddfe5643bdd96120d83d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083813,
+            "locality_id":9895005570,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005570,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Climax",
+    "wof:parent_id":102083813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.48919752815361,
+    36.88709318161862,
+    -79.48919752815361,
+    36.88709318161862
+],
+  "geometry": {"coordinates":[-79.48919752815361,36.88709318161862],"type":"Point"}
+}

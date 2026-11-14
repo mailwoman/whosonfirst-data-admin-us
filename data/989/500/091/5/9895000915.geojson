@@ -1,0 +1,80 @@
+{
+  "id": 9895000915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.97535538517114,38.93165420320583,-107.97535538517114,38.93165420320583",
+    "geom:latitude":38.931654,
+    "geom:longitude":-107.975355,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 186253: name \"Colby\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/186253"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 186253: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/186253"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 186253: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/186253"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084073 (Delta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084073 (Delta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Colby"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102084073,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":186253
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b89fd9d7bb65908d2436c8b21cebf04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084073,
+            "locality_id":9895000915,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000915,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Colby",
+    "wof:parent_id":102084073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.97535538517114,
+    38.93165420320583,
+    -107.97535538517114,
+    38.93165420320583
+],
+  "geometry": {"coordinates":[-107.97535538517114,38.93165420320583],"type":"Point"}
+}

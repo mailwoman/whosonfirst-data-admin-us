@@ -1,0 +1,80 @@
+{
+  "id": 9895001774,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.79807798788484,39.60815195864353,-78.79807798788484,39.60815195864353",
+    "geom:latitude":39.608152,
+    "geom:longitude":-78.798078,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 583991: name \"Cumberland Fair Grounds\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/583991"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 583991: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/583991"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 583991: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/583991"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081587 (Allegany).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081587 (Allegany), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cumberland Fair Grounds"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102081587,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":583991
+    },
+    "wof:country":"US",
+    "wof:geomhash":"870083e920095d6f05a9aa822ac9f7c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081587,
+            "locality_id":9895001774,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001774,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Cumberland Fair Grounds",
+    "wof:parent_id":102081587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.79807798788484,
+    39.60815195864353,
+    -78.79807798788484,
+    39.60815195864353
+],
+  "geometry": {"coordinates":[-78.79807798788484,39.60815195864353],"type":"Point"}
+}

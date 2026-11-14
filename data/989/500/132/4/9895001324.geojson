@@ -1,0 +1,80 @@
+{
+  "id": 9895001324,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.98539567027439,30.832738466270847,-81.98539567027439,30.832738466270847",
+    "geom:latitude":30.832738,
+    "geom:longitude":-81.985396,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357784: name \"Pinehurst\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357784"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357784: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357784"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357784: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357784"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082917 (Charlton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082917 (Charlton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pinehurst"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102082917,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357784
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79ca4c392f42eb171ae87b7b1a5730f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082917,
+            "locality_id":9895001324,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001324,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Pinehurst",
+    "wof:parent_id":102082917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.98539567027439,
+    30.832738466270847,
+    -81.98539567027439,
+    30.832738466270847
+],
+  "geometry": {"coordinates":[-81.98539567027439,30.832738466270847],"type":"Point"}
+}

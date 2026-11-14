@@ -1,0 +1,82 @@
+{
+  "id": 9895004013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.70166852203383,36.32089127166962,-86.70166852203383,36.32089127166962",
+    "geom:latitude":36.320891,
+    "geom:longitude":-86.701669,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313473: name \"Northcreek Commons\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313473"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313473: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313473"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313473: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313473"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723171 (Goodlettsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723171 (Goodlettsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Northcreek Commons"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723171,
+        102086357,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1313473
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3db1a48cf33f332d64ea19fe9de20c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723171,
+            "neighbourhood_id":9895004013,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895004013,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Northcreek Commons",
+    "wof:parent_id":101723171,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.70166852203383,
+    36.32089127166962,
+    -86.70166852203383,
+    36.32089127166962
+],
+  "geometry": {"coordinates":[-86.70166852203383,36.32089127166962],"type":"Point"}
+}

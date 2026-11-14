@@ -1,0 +1,82 @@
+{
+  "id": 9895001145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.36881929994868,33.796778345523045,-84.36881929994868,33.796778345523045",
+    "geom:latitude":33.796778,
+    "geom:longitude":-84.368819,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 332419: name \"Morningside\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/332419"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 332419: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/332419"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 332419: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/332419"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936429 (Atlanta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936429 (Atlanta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Morningside"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936429,
+        102083603,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":332419
+    },
+    "wof:country":"US",
+    "wof:geomhash":"644bff9f135dea41e7e1b76b8997f989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":9895001145,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001145,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Morningside",
+    "wof:parent_id":85936429,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.36881929994868,
+    33.796778345523045,
+    -84.36881929994868,
+    33.796778345523045
+],
+  "geometry": {"coordinates":[-84.36881929994868,33.796778345523045],"type":"Point"}
+}

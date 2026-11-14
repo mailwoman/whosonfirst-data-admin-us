@@ -1,0 +1,80 @@
+{
+  "id": 9895001171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.6757283996024,31.750741021333877,-83.6757283996024,31.750741021333877",
+    "geom:latitude":31.750741,
+    "geom:longitude":-83.675728,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 333470: name \"Worth\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/333470"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 333470: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/333470"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 333470: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/333470"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083583 (Turner).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083583 (Turner), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Worth"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102083583,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":333470
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d16e835840f4538cbc985b2f333272b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083583,
+            "locality_id":9895001171,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001171,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Worth",
+    "wof:parent_id":102083583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.6757283996024,
+    31.750741021333877,
+    -83.6757283996024,
+    31.750741021333877
+],
+  "geometry": {"coordinates":[-83.6757283996024,31.750741021333877],"type":"Point"}
+}

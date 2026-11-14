@@ -1,0 +1,82 @@
+{
+  "id": 9895000512,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.19306332465928,30.58353201348601,-88.19306332465928,30.58353201348601",
+    "geom:latitude":30.583532,
+    "geom:longitude":-88.193063,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143685: name \"Rabbit Creek Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143685"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143685: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143685"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143685: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143685"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85915079 (Tillmans Corner).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85915079 (Tillmans Corner), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rabbit Creek Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85915079,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143685
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1aa60904287ee28d536d58721fc1179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":85915079,
+            "neighbourhood_id":9895000512,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000512,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Rabbit Creek Estates",
+    "wof:parent_id":85915079,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.19306332465928,
+    30.58353201348601,
+    -88.19306332465928,
+    30.58353201348601
+],
+  "geometry": {"coordinates":[-88.19306332465928,30.58353201348601],"type":"Point"}
+}

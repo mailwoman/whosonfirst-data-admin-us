@@ -1,0 +1,82 @@
+{
+  "id": 9895007529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.21917259428751,41.59278557155657,-88.21917259428751,41.59278557155657",
+    "geom:latitude":41.592786,
+    "geom:longitude":-88.219173,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355592: name \"Park Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355592"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355592: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355592"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355592: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355592"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404499219 (Plainfield Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404499219 (Plainfield Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Park Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102080845,
+        102191575,
+        404499219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2355592
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25ab71487b482ce273b36b4b82b3071a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499219,
+            "locality_id":9895007529,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007529,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Park Place",
+    "wof:parent_id":404499219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.21917259428751,
+    41.59278557155657,
+    -88.21917259428751,
+    41.59278557155657
+],
+  "geometry": {"coordinates":[-88.21917259428751,41.59278557155657],"type":"Point"}
+}

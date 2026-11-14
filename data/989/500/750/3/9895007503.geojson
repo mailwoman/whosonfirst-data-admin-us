@@ -1,0 +1,82 @@
+{
+  "id": 9895007503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.14223235116731,39.806950817448595,-105.14223235116731,39.806950817448595",
+    "geom:latitude":39.806951,
+    "geom:longitude":-105.142232,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354923: name \"Meadow Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354923"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354923: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354923"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354923: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354923"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929333 (Arvada).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929333 (Arvada), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meadow Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929333,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354923
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f0f4fa1697084c6769015ab257a0aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":85929333,
+            "neighbourhood_id":9895007503,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007503,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Meadow Lake",
+    "wof:parent_id":85929333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.14223235116731,
+    39.806950817448595,
+    -105.14223235116731,
+    39.806950817448595
+],
+  "geometry": {"coordinates":[-105.14223235116731,39.806950817448595],"type":"Point"}
+}

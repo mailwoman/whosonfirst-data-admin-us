@@ -1,0 +1,82 @@
+{
+  "id": 9895001376,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.53704823093086,37.74505821319348,-89.53704823093086,37.74505821319348",
+    "geom:latitude":37.745058,
+    "geom:longitude":-89.537048,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 411015: name \"Jacob\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/411015"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 411015: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/411015"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 411015: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/411015"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404498041 (Fountain Bluff Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404498041 (Fountain Bluff Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jacob"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102082841,
+        102191575,
+        404498041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":411015
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a014fbe21e279518b3c5135a98e891b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082841,
+            "localadmin_id":404498041,
+            "locality_id":9895001376,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001376,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Jacob",
+    "wof:parent_id":404498041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.53704823093086,
+    37.74505821319348,
+    -89.53704823093086,
+    37.74505821319348
+],
+  "geometry": {"coordinates":[-89.53704823093086,37.74505821319348],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.03467881398298,38.70157482491896,-121.03467881398298,38.70157482491896",
+    "geom:latitude":38.701575,
+    "geom:longitude":-121.034679,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733978: name \"Green Springs Ranch\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733978"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733978: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733978"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733978: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733978"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85924065 (El Dorado Hills).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85924065 (El Dorado Hills), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Green Springs Ranch"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85924065,
+        102086953,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1733978
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a98dfbbfc1fbc7194c4d98857262d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086953,
+            "locality_id":85924065,
+            "neighbourhood_id":9895006745,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006745,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Green Springs Ranch",
+    "wof:parent_id":85924065,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.03467881398298,
+    38.70157482491896,
+    -121.03467881398298,
+    38.70157482491896
+],
+  "geometry": {"coordinates":[-121.03467881398298,38.70157482491896],"type":"Point"}
+}

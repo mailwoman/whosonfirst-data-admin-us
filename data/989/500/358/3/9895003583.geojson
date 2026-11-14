@@ -1,0 +1,80 @@
+{
+  "id": 9895003583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.76506626489648,34.157107487594644,-79.76506626489648,34.157107487594644",
+    "geom:latitude":34.157107,
+    "geom:longitude":-79.765066,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242256: name \"Woodland Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242256"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242256: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242256"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242256: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242256"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085723 (Florence).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085723 (Florence), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodland Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085723,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1242256
+    },
+    "wof:country":"US",
+    "wof:geomhash":"199ac3e196dbc0fe152eec0eab0fb1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085723,
+            "locality_id":9895003583,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003583,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Woodland Park",
+    "wof:parent_id":102085723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.76506626489648,
+    34.157107487594644,
+    -79.76506626489648,
+    34.157107487594644
+],
+  "geometry": {"coordinates":[-79.76506626489648,34.157107487594644],"type":"Point"}
+}

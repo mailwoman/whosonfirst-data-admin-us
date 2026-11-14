@@ -1,0 +1,82 @@
+{
+  "id": 9895003314,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.63135813153986,39.913163403493314,-76.63135813153986,39.913163403493314",
+    "geom:latitude":39.913163,
+    "geom:longitude":-76.631358,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1196322: name \"Appleton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1196322"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1196322: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1196322"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1196322: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1196322"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404488031 (York Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404488031 (York Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Appleton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080953,
+        102191575,
+        404488031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1196322
+    },
+    "wof:country":"US",
+    "wof:geomhash":"abd7bf7594a759747a515b6369c1e5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080953,
+            "localadmin_id":404488031,
+            "locality_id":9895003314,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003314,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Appleton",
+    "wof:parent_id":404488031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.63135813153986,
+    39.913163403493314,
+    -76.63135813153986,
+    39.913163403493314
+],
+  "geometry": {"coordinates":[-76.63135813153986,39.913163403493314],"type":"Point"}
+}

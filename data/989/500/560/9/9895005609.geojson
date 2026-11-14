@@ -1,0 +1,80 @@
+{
+  "id": 9895005609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.4296257059731,48.79317206560103,-122.4296257059731,48.79317206560103",
+    "geom:latitude":48.793172,
+    "geom:longitude":-122.429626,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1510913: name \"Dewey\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1510913"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1510913: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1510913"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1510913: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1510913"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085363 (Whatcom).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085363 (Whatcom), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dewey"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102085363,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1510913
+    },
+    "wof:country":"US",
+    "wof:geomhash":"555999d0f1b340dc1a2e84aebf74a920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":9895005609,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005609,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Dewey",
+    "wof:parent_id":102085363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.4296257059731,
+    48.79317206560103,
+    -122.4296257059731,
+    48.79317206560103
+],
+  "geometry": {"coordinates":[-122.4296257059731,48.79317206560103],"type":"Point"}
+}

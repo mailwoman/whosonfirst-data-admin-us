@@ -1,0 +1,82 @@
+{
+  "id": 9895006152,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.09963261317479,31.565180866209875,-84.09963261317479,31.565180866209875",
+    "geom:latitude":31.565181,
+    "geom:longitude":-84.099633,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671265: name \"Tompkins Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671265"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671265: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671265"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671265: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671265"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85935991 (Albany).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85935991 (Albany), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tompkins Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85935991,
+        102084427,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671265
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f8b38a064402defba93ae4d80609fd46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":9895006152,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006152,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Tompkins Village",
+    "wof:parent_id":85935991,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.09963261317479,
+    31.565180866209875,
+    -84.09963261317479,
+    31.565180866209875
+],
+  "geometry": {"coordinates":[-84.09963261317479,31.565180866209875],"type":"Point"}
+}

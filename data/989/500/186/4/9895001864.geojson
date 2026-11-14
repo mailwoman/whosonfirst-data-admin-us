@@ -1,0 +1,82 @@
+{
+  "id": 9895001864,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.08275872133699,39.097338223764694,-77.08275872133699,39.097338223764694",
+    "geom:latitude":39.097338,
+    "geom:longitude":-77.082759,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590730: name \"Manor Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590730"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590730: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590730"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590730: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590730"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950245 (Aspen Hill).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950245 (Aspen Hill), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Manor Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85950245,
+        102082719,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":590730
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5b8aafc4da36b96f003e8a0a17b4f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950245,
+            "neighbourhood_id":9895001864,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001864,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Manor Park",
+    "wof:parent_id":85950245,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.08275872133699,
+    39.097338223764694,
+    -77.08275872133699,
+    39.097338223764694
+],
+  "geometry": {"coordinates":[-77.08275872133699,39.097338223764694],"type":"Point"}
+}

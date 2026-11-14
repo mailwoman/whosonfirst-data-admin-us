@@ -1,0 +1,80 @@
+{
+  "id": 9895008062,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.35653949039023,38.830801759935675,-77.35653949039023,38.830801759935675",
+    "geom:latitude":38.830802,
+    "geom:longitude":-77.356539,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2813257: name \"Braddock\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2813257"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2813257: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2813257"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2813257: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2813257"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084863 (Fairfax).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084863 (Fairfax), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Braddock"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102084863,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2813257
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dbfd5ca3e0f98e6b2ccbcdd1037b81c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":9895008062,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895008062,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Braddock",
+    "wof:parent_id":102084863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.35653949039023,
+    38.830801759935675,
+    -77.35653949039023,
+    38.830801759935675
+],
+  "geometry": {"coordinates":[-77.35653949039023,38.830801759935675],"type":"Point"}
+}

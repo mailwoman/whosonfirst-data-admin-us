@@ -1,0 +1,80 @@
+{
+  "id": 9895004069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.09809817479488,32.388305865045545,-99.09809817479488,32.388305865045545",
+    "geom:latitude":32.388306,
+    "geom:longitude":-99.098098,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1377166: name \"Dothan\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1377166"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1377166: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1377166"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1377166: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1377166"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083191 (Eastland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083191 (Eastland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dothan"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102083191,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1377166
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d48342c8112b9a6e96f72eec0190b40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083191,
+            "locality_id":9895004069,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004069,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Dothan",
+    "wof:parent_id":102083191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.09809817479488,
+    32.388305865045545,
+    -99.09809817479488,
+    32.388305865045545
+],
+  "geometry": {"coordinates":[-99.09809817479488,32.388305865045545],"type":"Point"}
+}

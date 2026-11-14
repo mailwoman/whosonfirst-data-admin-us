@@ -1,0 +1,82 @@
+{
+  "id": 9895001139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.36270789578082,33.75761253745374,-84.36270789578082,33.75761253745374",
+    "geom:latitude":33.757613,
+    "geom:longitude":-84.362708,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 332062: name \"Inman Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/332062"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 332062: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/332062"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 332062: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/332062"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936429 (Atlanta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936429 (Atlanta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Inman Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936429,
+        102083603,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":332062
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de6e28a72032acf74778bd18db0c3b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":9895001139,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001139,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Inman Park",
+    "wof:parent_id":85936429,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.36270789578082,
+    33.75761253745374,
+    -84.36270789578082,
+    33.75761253745374
+],
+  "geometry": {"coordinates":[-84.36270789578082,33.75761253745374],"type":"Point"}
+}

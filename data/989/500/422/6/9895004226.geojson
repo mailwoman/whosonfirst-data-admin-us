@@ -1,0 +1,82 @@
+{
+  "id": 9895004226,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.04328772004814,41.151616768669946,-112.04328772004814,41.151616768669946",
+    "geom:latitude":41.151617,
+    "geom:longitude":-112.043288,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451440: name \"Eves Garden\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451440"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451440: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451440"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451440: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451440"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727905 (Clinton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727905 (Clinton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Eves Garden"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727905,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451440
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4c1cca394a84972b06d5e3adae9c09cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727905,
+            "neighbourhood_id":9895004226,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004226,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Eves Garden",
+    "wof:parent_id":101727905,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.04328772004814,
+    41.151616768669946,
+    -112.04328772004814,
+    41.151616768669946
+],
+  "geometry": {"coordinates":[-112.04328772004814,41.151616768669946],"type":"Point"}
+}

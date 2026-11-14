@@ -1,0 +1,82 @@
+{
+  "id": 9895007972,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.6033492708847,38.25469405280581,-90.6033492708847,38.25469405280581",
+    "geom:latitude":38.254694,
+    "geom:longitude":-90.603349,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806407: name \"Raintree Plantation\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806407"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806407: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806407"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806407: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806407"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404518157 (Central Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404518157 (Central Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Raintree Plantation"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102080787,
+        102191575,
+        404518157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806407
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bbfa3f1ff6e53af210d02873f7d37fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518157,
+            "locality_id":9895007972,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895007972,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Raintree Plantation",
+    "wof:parent_id":404518157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.6033492708847,
+    38.25469405280581,
+    -90.6033492708847,
+    38.25469405280581
+],
+  "geometry": {"coordinates":[-90.6033492708847,38.25469405280581],"type":"Point"}
+}

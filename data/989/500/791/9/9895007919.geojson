@@ -1,0 +1,80 @@
+{
+  "id": 9895007919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.36473921351316,41.528594536761915,-122.36473921351316,41.528594536761915",
+    "geom:latitude":41.528595,
+    "geom:longitude":-122.364739,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805903: name \"Lake Shastina\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805903"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805903: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805903"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805903: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805903"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081669 (Siskiyou).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081669 (Siskiyou), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lake Shastina"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102081669,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805903
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c993a106492a7988d5b64f9014795827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081669,
+            "locality_id":9895007919,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007919,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Lake Shastina",
+    "wof:parent_id":102081669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.36473921351316,
+    41.528594536761915,
+    -122.36473921351316,
+    41.528594536761915
+],
+  "geometry": {"coordinates":[-122.36473921351316,41.528594536761915],"type":"Point"}
+}

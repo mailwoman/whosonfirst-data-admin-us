@@ -1,0 +1,82 @@
+{
+  "id": 9895006952,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.5241553631097,37.52154358559599,-77.5241553631097,37.52154358559599",
+    "geom:latitude":37.521544,
+    "geom:longitude":-77.524155,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1780818: name \"Westover Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1780818"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1780818: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1780818"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1780818: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1780818"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728675 (Richmond).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728675 (Richmond), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westover Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728675,
+        102085959,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1780818
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d4c5236c8c0f8e2707f31a081c759bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":9895006952,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006952,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Westover Gardens",
+    "wof:parent_id":101728675,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.5241553631097,
+    37.52154358559599,
+    -77.5241553631097,
+    37.52154358559599
+],
+  "geometry": {"coordinates":[-77.5241553631097,37.52154358559599],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000366,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.50773196381851,32.56903053935591,-85.50773196381851,32.56903053935591",
+    "geom:latitude":32.569031,
+    "geom:longitude":-85.507732,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138137: name \"Conner Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138137"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138137: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138137"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138137: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138137"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913825 (Auburn).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913825 (Auburn), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Conner Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913825,
+        102085751,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":138137
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e652b4fe9f83780eb09b25ae78209ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085751,
+            "locality_id":85913825,
+            "neighbourhood_id":9895000366,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000366,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Conner Estates",
+    "wof:parent_id":85913825,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.50773196381851,
+    32.56903053935591,
+    -85.50773196381851,
+    32.56903053935591
+],
+  "geometry": {"coordinates":[-85.50773196381851,32.56903053935591],"type":"Point"}
+}

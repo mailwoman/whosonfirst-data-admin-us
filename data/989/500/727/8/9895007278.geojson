@@ -1,0 +1,82 @@
+{
+  "id": 9895007278,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.13290400074206,47.66529008001217,-117.13290400074206,47.66529008001217",
+    "geom:latitude":47.66529,
+    "geom:longitude":-117.132904,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2081989: name \"Chatnwaqhi'\u0142pm Grove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2081989"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2081989: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2081989"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2081989: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2081989"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101730007 (Liberty Lake).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101730007 (Liberty Lake), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Chatnwaqhi'\u0142pm Grove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        101730007,
+        102087555,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2081989
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00274fd3f68fdc14b6c75e9f3eac4d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730007,
+            "neighbourhood_id":9895007278,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895007278,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Chatnwaqhi'\u0142pm Grove",
+    "wof:parent_id":101730007,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.13290400074206,
+    47.66529008001217,
+    -117.13290400074206,
+    47.66529008001217
+],
+  "geometry": {"coordinates":[-117.13290400074206,47.66529008001217],"type":"Point"}
+}

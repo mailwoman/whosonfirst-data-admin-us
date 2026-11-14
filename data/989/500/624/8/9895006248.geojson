@@ -1,0 +1,82 @@
+{
+  "id": 9895006248,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.39699711724504,37.12902589700212,-80.39699711724504,37.12902589700212",
+    "geom:latitude":37.129026,
+    "geom:longitude":-80.396997,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674453: name \"Alleghany Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674453"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674453: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674453"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674453: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674453"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728703 (Christiansburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728703 (Christiansburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Alleghany Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728703,
+        102087271,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1674453
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a39c8d933c20181c566b675e36987c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087271,
+            "locality_id":101728703,
+            "neighbourhood_id":9895006248,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006248,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Alleghany Addition",
+    "wof:parent_id":101728703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.39699711724504,
+    37.12902589700212,
+    -80.39699711724504,
+    37.12902589700212
+],
+  "geometry": {"coordinates":[-80.39699711724504,37.12902589700212],"type":"Point"}
+}

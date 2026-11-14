@@ -1,0 +1,80 @@
+{
+  "id": 9895002451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.80973097327632,36.02209652409911,-78.80973097327632,36.02209652409911",
+    "geom:latitude":36.022097,
+    "geom:longitude":-78.809731,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 985724: name \"Glen Forest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/985724"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 985724: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/985724"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 985724: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/985724"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080909 (Durham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080909 (Durham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Glen Forest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080909,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":985724
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9fff63e7a312701a39dcb81ebac9dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":9895002451,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002451,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Glen Forest",
+    "wof:parent_id":102080909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.80973097327632,
+    36.02209652409911,
+    -78.80973097327632,
+    36.02209652409911
+],
+  "geometry": {"coordinates":[-78.80973097327632,36.02209652409911],"type":"Point"}
+}

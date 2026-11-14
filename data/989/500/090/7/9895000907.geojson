@@ -1,0 +1,80 @@
+{
+  "id": 9895000907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.1352136879675,40.71666138427247,-103.1352136879675,40.71666138427247",
+    "geom:latitude":40.716661,
+    "geom:longitude":-103.135214,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 182760: name \"Ford\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/182760"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 182760: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/182760"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 182760: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/182760"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085241 (Logan).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085241 (Logan), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ford"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102085241,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":182760
+    },
+    "wof:country":"US",
+    "wof:geomhash":"992d4605022ccd497b7f1bd199856614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085241,
+            "locality_id":9895000907,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000907,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Ford",
+    "wof:parent_id":102085241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.1352136879675,
+    40.71666138427247,
+    -103.1352136879675,
+    40.71666138427247
+],
+  "geometry": {"coordinates":[-103.1352136879675,40.71666138427247],"type":"Point"}
+}

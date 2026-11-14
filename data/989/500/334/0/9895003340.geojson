@@ -1,0 +1,84 @@
+{
+  "id": 9895003340,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.07635940173066,41.814248951229665,-77.07635940173066,41.814248951229665",
+    "geom:latitude":41.814249,
+    "geom:longitude":-77.076359,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1198021: name \"Northeast\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1198021"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1198021: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1198021"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1198021: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1198021"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101717063 (Mansfield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101717063 (Mansfield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Northeast"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101717063,
+        102080937,
+        102191575,
+        404483897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1198021
+    },
+    "wof:country":"US",
+    "wof:geomhash":"172a3bbf549d0c0bb8df5ab9a897f650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080937,
+            "localadmin_id":404483897,
+            "locality_id":101717063,
+            "neighbourhood_id":9895003340,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003340,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Northeast",
+    "wof:parent_id":101717063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.07635940173066,
+    41.814248951229665,
+    -77.07635940173066,
+    41.814248951229665
+],
+  "geometry": {"coordinates":[-77.07635940173066,41.814248951229665],"type":"Point"}
+}

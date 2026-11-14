@@ -1,0 +1,80 @@
+{
+  "id": 9895007151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.74500597383928,33.777887926428846,-96.74500597383928,33.777887926428846",
+    "geom:latitude":33.777888,
+    "geom:longitude":-96.745006,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1889632: name \"Willow Spring\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1889632"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1889632: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1889632"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1889632: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1889632"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081955 (Grayson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081955 (Grayson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Willow Spring"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102081955,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1889632
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11e174f6ce9e8027eee979a89d09265c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081955,
+            "locality_id":9895007151,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007151,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Willow Spring",
+    "wof:parent_id":102081955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.74500597383928,
+    33.777887926428846,
+    -96.74500597383928,
+    33.777887926428846
+],
+  "geometry": {"coordinates":[-96.74500597383928,33.777887926428846],"type":"Point"}
+}

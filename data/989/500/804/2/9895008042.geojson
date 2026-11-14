@@ -1,0 +1,80 @@
+{
+  "id": 9895008042,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.34270342076634,44.202962728781145,-103.34270342076634,44.202962728781145",
+    "geom:latitude":44.202963,
+    "geom:longitude":-103.342703,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807115: name \"Wonderland Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807115"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807115: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807115"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807115: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807115"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086083 (Meade).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086083 (Meade), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wonderland Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688693,
+        102086083,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807115
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be6ca9abfe537d8683219da8e2b35d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086083,
+            "locality_id":9895008042,
+            "region_id":85688693
+        }
+    ],
+    "wof:id":9895008042,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Wonderland Homes",
+    "wof:parent_id":102086083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.34270342076634,
+    44.202962728781145,
+    -103.34270342076634,
+    44.202962728781145
+],
+  "geometry": {"coordinates":[-103.34270342076634,44.202962728781145],"type":"Point"}
+}

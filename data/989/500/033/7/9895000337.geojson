@@ -1,0 +1,80 @@
+{
+  "id": 9895000337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.59024457804757,34.262599497637275,-85.59024457804757,34.262599497637275",
+    "geom:latitude":34.262599,
+    "geom:longitude":-85.590245,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136942: name \"Mountain Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136942"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136942: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136942"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 136942: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/136942"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085467 (Cherokee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085467 (Cherokee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mountain Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085467,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":136942
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3876fe36333e1452a5d4dd875c3d5370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085467,
+            "locality_id":9895000337,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000337,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Mountain Acres",
+    "wof:parent_id":102085467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.59024457804757,
+    34.262599497637275,
+    -85.59024457804757,
+    34.262599497637275
+],
+  "geometry": {"coordinates":[-85.59024457804757,34.262599497637275],"type":"Point"}
+}

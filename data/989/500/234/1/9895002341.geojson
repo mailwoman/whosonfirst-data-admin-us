@@ -1,0 +1,80 @@
+{
+  "id": 9895002341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.60863280476278,36.39697580082931,-105.60863280476278,36.39697580082931",
+    "geom:latitude":36.396976,
+    "geom:longitude":-105.608633,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 908284: name \"Lower Ranchito\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/908284"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 908284: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/908284"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 908284: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/908284"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081181 (Taos).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081181 (Taos), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lower Ranchito"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081181,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":908284
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f961f5931a02dd965d29c9fdb5974c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081181,
+            "locality_id":9895002341,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002341,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Lower Ranchito",
+    "wof:parent_id":102081181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.60863280476278,
+    36.39697580082931,
+    -105.60863280476278,
+    36.39697580082931
+],
+  "geometry": {"coordinates":[-105.60863280476278,36.39697580082931],"type":"Point"}
+}

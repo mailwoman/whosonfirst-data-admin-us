@@ -1,0 +1,82 @@
+{
+  "id": 9895006482,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.25801358420286,39.43317202170883,-76.25801358420286,39.43317202170883",
+    "geom:latitude":39.433172,
+    "geom:longitude":-76.258014,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698730: name \"Harford Landing\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698730"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698730: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698730"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698730: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698730"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949835 (Edgewood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949835 (Edgewood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Harford Landing"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949835,
+        102082727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1698730
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3de45badf2b2f3eb019e573cedc75f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "neighbourhood_id":9895006482,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006482,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Harford Landing",
+    "wof:parent_id":85949835,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.25801358420286,
+    39.43317202170883,
+    -76.25801358420286,
+    39.43317202170883
+],
+  "geometry": {"coordinates":[-76.25801358420286,39.43317202170883],"type":"Point"}
+}

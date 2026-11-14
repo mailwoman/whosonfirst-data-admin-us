@@ -1,0 +1,82 @@
+{
+  "id": 9895000623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.57694219063347,34.815096472876,-86.57694219063347,34.815096472876",
+    "geom:latitude":34.815096,
+    "geom:longitude":-86.576942,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147340: name \"Valley View Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147340"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147340: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147340"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147340: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147340"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913601 (Huntsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913601 (Huntsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Valley View Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913601,
+        102085487,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147340
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11b653bd2a8e4be106d7ae810db89899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085487,
+            "locality_id":85913601,
+            "neighbourhood_id":9895000623,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000623,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Valley View Estates",
+    "wof:parent_id":85913601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.57694219063347,
+    34.815096472876,
+    -86.57694219063347,
+    34.815096472876
+],
+  "geometry": {"coordinates":[-86.57694219063347,34.815096472876],"type":"Point"}
+}

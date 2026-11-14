@@ -1,0 +1,82 @@
+{
+  "id": 9895006408,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.49371473902,31.139958952419104,-81.49371473902,31.139958952419104",
+    "geom:latitude":31.139959,
+    "geom:longitude":-81.493715,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695111: name \"Gordon Oaks Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695111"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695111: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695111"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695111: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695111"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937005 (Brunswick).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937005 (Brunswick), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gordon Oaks Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85937005,
+        102081695,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695111
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11880eaf0779ff142d65135909821bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":9895006408,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006408,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Gordon Oaks Homes",
+    "wof:parent_id":85937005,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.49371473902,
+    31.139958952419104,
+    -81.49371473902,
+    31.139958952419104
+],
+  "geometry": {"coordinates":[-81.49371473902,31.139958952419104],"type":"Point"}
+}

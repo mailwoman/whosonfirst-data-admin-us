@@ -1,0 +1,80 @@
+{
+  "id": 9895008004,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.9461743641581,36.87680382750572,-107.9461743641581,36.87680382750572",
+    "geom:latitude":36.876804,
+    "geom:longitude":-107.946174,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806748: name \"Center Point\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806748"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806748: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806748"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806748: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806748"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081171 (San Juan).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081171 (San Juan), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Center Point"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081171,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806748
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dcbc5b53034e031b618d90656efe5166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081171,
+            "locality_id":9895008004,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895008004,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Center Point",
+    "wof:parent_id":102081171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.9461743641581,
+    36.87680382750572,
+    -107.9461743641581,
+    36.87680382750572
+],
+  "geometry": {"coordinates":[-107.9461743641581,36.87680382750572],"type":"Point"}
+}

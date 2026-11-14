@@ -1,0 +1,82 @@
+{
+  "id": 9895005216,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.9121742843327,41.08522767145144,-111.9121742843327,41.08522767145144",
+    "geom:latitude":41.085228,
+    "geom:longitude":-111.912174,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453876: name \"Cottonwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453876"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453876: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453876"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453876: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453876"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727897 (Layton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727897 (Layton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cottonwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727897,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453876
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e705d983fef2585116b03f2a541d84a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":9895005216,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005216,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Cottonwood",
+    "wof:parent_id":101727897,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.9121742843327,
+    41.08522767145144,
+    -111.9121742843327,
+    41.08522767145144
+],
+  "geometry": {"coordinates":[-111.9121742843327,41.08522767145144],"type":"Point"}
+}

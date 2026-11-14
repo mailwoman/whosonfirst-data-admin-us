@@ -1,0 +1,82 @@
+{
+  "id": 9895001961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.2258845220939,41.948719590536626,-71.2258845220939,41.948719590536626",
+    "geom:latitude":41.94872,
+    "geom:longitude":-71.225885,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 612431: name \"Chartley\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/612431"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 612431: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/612431"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 612431: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/612431"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404476135 (Norton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404476135 (Norton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Chartley"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688645,
+        102084407,
+        102191575,
+        404476135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":612431
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0be4f1f3b4399a351d346f3544536ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476135,
+            "locality_id":9895001961,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":9895001961,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Chartley",
+    "wof:parent_id":404476135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.2258845220939,
+    41.948719590536626,
+    -71.2258845220939,
+    41.948719590536626
+],
+  "geometry": {"coordinates":[-71.2258845220939,41.948719590536626],"type":"Point"}
+}

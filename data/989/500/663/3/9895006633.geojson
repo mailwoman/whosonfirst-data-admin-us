@@ -1,0 +1,82 @@
+{
+  "id": 9895006633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.47746323247124,39.10150674695197,-76.47746323247124,39.10150674695197",
+    "geom:latitude":39.101507,
+    "geom:longitude":-76.477463,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1710848: name \"Boulevard Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1710848"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1710848: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1710848"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1710848: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1710848"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949723 (Lake Shore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949723 (Lake Shore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Boulevard Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949723,
+        102083469,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1710848
+    },
+    "wof:country":"US",
+    "wof:geomhash":"228fbc83cf3edee8ec817f610af77c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949723,
+            "neighbourhood_id":9895006633,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006633,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Boulevard Park",
+    "wof:parent_id":85949723,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.47746323247124,
+    39.10150674695197,
+    -76.47746323247124,
+    39.10150674695197
+],
+  "geometry": {"coordinates":[-76.47746323247124,39.10150674695197],"type":"Point"}
+}

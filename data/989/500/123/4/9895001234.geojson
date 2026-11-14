@@ -1,0 +1,82 @@
+{
+  "id": 9895001234,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.28912701668315,34.7270303059525,-85.28912701668315,34.7270303059525",
+    "geom:latitude":34.72703,
+    "geom:longitude":-85.289127,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 354232: name \"Winwood Forest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/354232"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 354232: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/354232"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 354232: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/354232"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936063 (LaFayette).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936063 (LaFayette), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Winwood Forest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936063,
+        102082321,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":354232
+    },
+    "wof:country":"US",
+    "wof:geomhash":"801bcae67e224a842db9b4f807d8c19e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082321,
+            "locality_id":85936063,
+            "neighbourhood_id":9895001234,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001234,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Winwood Forest",
+    "wof:parent_id":85936063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.28912701668315,
+    34.7270303059525,
+    -85.28912701668315,
+    34.7270303059525
+],
+  "geometry": {"coordinates":[-85.28912701668315,34.7270303059525],"type":"Point"}
+}

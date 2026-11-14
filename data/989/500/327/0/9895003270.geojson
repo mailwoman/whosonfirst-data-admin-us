@@ -1,0 +1,84 @@
+{
+  "id": 9895003270,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.53713179047433,41.524256656923164,-75.53713179047433,41.524256656923164",
+    "geom:latitude":41.524257,
+    "geom:longitude":-75.537132,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1182205: name \"Nebraska\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1182205"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1182205: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1182205"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1182205: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1182205"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101718209 (Archbald).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101718209 (Archbald), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Nebraska"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101718209,
+        102081345,
+        102191575,
+        404486861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1182205
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5a6a04e4b0de80a2b141c04873d326c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081345,
+            "localadmin_id":404486861,
+            "locality_id":101718209,
+            "neighbourhood_id":9895003270,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003270,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Nebraska",
+    "wof:parent_id":101718209,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.53713179047433,
+    41.524256656923164,
+    -75.53713179047433,
+    41.524256656923164
+],
+  "geometry": {"coordinates":[-75.53713179047433,41.524256656923164],"type":"Point"}
+}

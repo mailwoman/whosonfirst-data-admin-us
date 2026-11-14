@@ -1,0 +1,82 @@
+{
+  "id": 9895002427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.76512184060562,43.328691061108344,-73.76512184060562,43.328691061108344",
+    "geom:latitude":43.328691,
+    "geom:longitude":-73.765122,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 972207: name \"Beartown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/972207"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 972207: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/972207"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 972207: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/972207"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404523291 (Lake Luzerne).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404523291 (Lake Luzerne), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Beartown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102081791,
+        102191575,
+        404523291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":972207
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae160525c2eb11150450feb5fd907d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081791,
+            "localadmin_id":404523291,
+            "locality_id":9895002427,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002427,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Beartown",
+    "wof:parent_id":404523291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.76512184060562,
+    43.328691061108344,
+    -73.76512184060562,
+    43.328691061108344
+],
+  "geometry": {"coordinates":[-73.76512184060562,43.328691061108344],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.86395450110341,34.2890495132723,-79.86395450110341,34.2890495132723",
+    "geom:latitude":34.28905,
+    "geom:longitude":-79.863955,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1240958: name \"Pine Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1240958"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1240958: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1240958"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1240958: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1240958"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720825 (Darlington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720825 (Darlington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pine Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720825,
+        102085743,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1240958
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc453d802905209989e9c56e2197596d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085743,
+            "locality_id":101720825,
+            "neighbourhood_id":9895003539,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003539,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Pine Village",
+    "wof:parent_id":101720825,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.86395450110341,
+    34.2890495132723,
+    -79.86395450110341,
+    34.2890495132723
+],
+  "geometry": {"coordinates":[-79.86395450110341,34.2890495132723],"type":"Point"}
+}

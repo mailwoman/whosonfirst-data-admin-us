@@ -1,0 +1,82 @@
+{
+  "id": 9895001231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.27440401185875,34.70897540284443,-85.27440401185875,34.70897540284443",
+    "geom:latitude":34.708975,
+    "geom:longitude":-85.274404,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 354154: name \"Oak Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/354154"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 354154: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/354154"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 354154: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/354154"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936063 (LaFayette).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936063 (LaFayette), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oak Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936063,
+        102082321,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":354154
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d144cdcaa03a7c27deb49fa60c0f4a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082321,
+            "locality_id":85936063,
+            "neighbourhood_id":9895001231,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001231,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Oak Park",
+    "wof:parent_id":85936063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.27440401185875,
+    34.70897540284443,
+    -85.27440401185875,
+    34.70897540284443
+],
+  "geometry": {"coordinates":[-85.27440401185875,34.70897540284443],"type":"Point"}
+}

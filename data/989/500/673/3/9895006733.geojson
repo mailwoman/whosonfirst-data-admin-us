@@ -1,0 +1,82 @@
+{
+  "id": 9895006733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.033845407368,38.64935392059545,-121.033845407368,38.64935392059545",
+    "geom:latitude":38.649354,
+    "geom:longitude":-121.033845,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733918: name \"Marble Mountain\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733918"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733918: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733918"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733918: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733918"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85924065 (El Dorado Hills).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85924065 (El Dorado Hills), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Marble Mountain"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85924065,
+        102086953,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1733918
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0854de44c5c563988656152da61ceeda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086953,
+            "locality_id":85924065,
+            "neighbourhood_id":9895006733,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006733,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Marble Mountain",
+    "wof:parent_id":85924065,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.033845407368,
+    38.64935392059545,
+    -121.033845407368,
+    38.64935392059545
+],
+  "geometry": {"coordinates":[-121.033845407368,38.64935392059545],"type":"Point"}
+}

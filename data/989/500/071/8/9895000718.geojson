@@ -1,0 +1,80 @@
+{
+  "id": 9895000718,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.45139754617199,33.20151340294886,-87.45139754617199,33.20151340294886",
+    "geom:latitude":33.201513,
+    "geom:longitude":-87.451398,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148266: name \"Hurricane Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148266"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148266: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148266"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148266: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148266"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hurricane Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148266
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1adaabd492def18358dd8b473b9591d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000718,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000718,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Hurricane Hills",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.45139754617199,
+    33.20151340294886,
+    -87.45139754617199,
+    33.20151340294886
+],
+  "geometry": {"coordinates":[-87.45139754617199,33.20151340294886],"type":"Point"}
+}

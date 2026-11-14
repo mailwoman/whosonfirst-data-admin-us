@@ -1,0 +1,82 @@
+{
+  "id": 9895007956,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.23232786298412,39.450592762208885,-75.23232786298412,39.450592762208885",
+    "geom:latitude":39.450593,
+    "geom:longitude":-75.232328,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806194: name \"Sunset Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806194"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806194: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806194"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806194: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806194"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404478095 (Upper Deerfield Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404478095 (Upper Deerfield Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunset Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102080721,
+        102191575,
+        404478095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806194
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81f4d025fc5b346c93afa5a03a45f75a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080721,
+            "localadmin_id":404478095,
+            "locality_id":9895007956,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895007956,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Sunset Lake",
+    "wof:parent_id":404478095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.23232786298412,
+    39.450592762208885,
+    -75.23232786298412,
+    39.450592762208885
+],
+  "geometry": {"coordinates":[-75.23232786298412,39.450592762208885],"type":"Point"}
+}

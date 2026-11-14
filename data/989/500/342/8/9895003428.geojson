@@ -1,0 +1,82 @@
+{
+  "id": 9895003428,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.66926798006286,35.093745022570815,-81.66926798006286,35.093745022570815",
+    "geom:latitude":35.093745,
+    "geom:longitude":-81.669268,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228630: name \"Pleasant Meadows\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228630"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228630: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228630"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228630: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228630"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720717 (Gaffney).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720717 (Gaffney), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pleasant Meadows"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720717,
+        102085403,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1228630
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9ee8161e9829e7681ecce2a8cd62e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085403,
+            "locality_id":101720717,
+            "neighbourhood_id":9895003428,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003428,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Pleasant Meadows",
+    "wof:parent_id":101720717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.66926798006286,
+    35.093745022570815,
+    -81.66926798006286,
+    35.093745022570815
+],
+  "geometry": {"coordinates":[-81.66926798006286,35.093745022570815],"type":"Point"}
+}

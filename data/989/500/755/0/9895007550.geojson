@@ -1,0 +1,82 @@
+{
+  "id": 9895007550,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-144.6998576899106,63.987233143315514,-144.6998576899106,63.987233143315514",
+    "geom:latitude":63.987233,
+    "geom:longitude":-144.699858,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2419534: name \"Healy Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2419534"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2419534: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2419534"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2419534: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2419534"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85916479 (Healy Lake).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85916479 (Healy Lake), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Healy Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85916479,
+        102080993,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2419534
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d545a0bbe24861ca0b8dfe20d71afdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080993,
+            "locality_id":85916479,
+            "neighbourhood_id":9895007550,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895007550,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Healy Lake",
+    "wof:parent_id":85916479,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -144.6998576899106,
+    63.987233143315514,
+    -144.6998576899106,
+    63.987233143315514
+],
+  "geometry": {"coordinates":[-144.6998576899106,63.987233143315514],"type":"Point"}
+}

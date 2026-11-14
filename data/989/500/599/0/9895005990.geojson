@@ -1,0 +1,82 @@
+{
+  "id": 9895005990,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.19699120999138,32.75422146358253,-117.19699120999138,32.75422146358253",
+    "geom:latitude":32.754221,
+    "geom:longitude":-117.196991,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661142: name \"Old Town San Diego\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661142"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661142: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661142"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661142: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661142"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922227 (San Diego).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922227 (San Diego), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Old Town San Diego"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922227,
+        102083569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661142
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ea4422ad6baef8a3e538c7854fcf166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":9895005990,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005990,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Old Town San Diego",
+    "wof:parent_id":85922227,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.19699120999138,
+    32.75422146358253,
+    -117.19699120999138,
+    32.75422146358253
+],
+  "geometry": {"coordinates":[-117.19699120999138,32.75422146358253],"type":"Point"}
+}

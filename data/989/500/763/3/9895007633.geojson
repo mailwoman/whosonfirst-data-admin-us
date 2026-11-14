@@ -1,0 +1,82 @@
+{
+  "id": 9895007633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.42860339830489,28.09980520957373,-82.42860339830489,28.09980520957373",
+    "geom:latitude":28.099805,
+    "geom:longitude":-82.428603,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2483078: name \"Livingston Oaks\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2483078"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2483078: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2483078"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2483078: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2483078"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933801 (Lutz).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933801 (Lutz), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Livingston Oaks"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933801,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2483078
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fa69d6af0caf9150445692b13052a47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85933801,
+            "neighbourhood_id":9895007633,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007633,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Livingston Oaks",
+    "wof:parent_id":85933801,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.42860339830489,
+    28.09980520957373,
+    -82.42860339830489,
+    28.09980520957373
+],
+  "geometry": {"coordinates":[-82.42860339830489,28.09980520957373],"type":"Point"}
+}

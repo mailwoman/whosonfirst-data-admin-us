@@ -1,0 +1,82 @@
+{
+  "id": 9895000368,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.35689412239161,32.61069675404214,-85.35689412239161,32.61069675404214",
+    "geom:latitude":32.610697,
+    "geom:longitude":-85.356894,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138153: name \"Edgewood Forest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138153"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138153: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138153"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138153: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138153"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913815 (Opelika).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913815 (Opelika), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Edgewood Forest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913815,
+        102085751,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":138153
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c7b5b401fa0b591eba8d78e2759a152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085751,
+            "locality_id":85913815,
+            "neighbourhood_id":9895000368,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000368,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Edgewood Forest",
+    "wof:parent_id":85913815,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.35689412239161,
+    32.61069675404214,
+    -85.35689412239161,
+    32.61069675404214
+],
+  "geometry": {"coordinates":[-85.35689412239161,32.61069675404214],"type":"Point"}
+}

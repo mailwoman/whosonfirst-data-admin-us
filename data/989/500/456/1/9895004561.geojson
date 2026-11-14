@@ -1,0 +1,82 @@
+{
+  "id": 9895004561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.97161542759383,40.57995381086536,-111.97161542759383,40.57995381086536",
+    "geom:latitude":40.579954,
+    "geom:longitude":-111.971615,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452267: name \"Chattel Estates Number Four\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452267"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452267: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452267"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452267: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452267"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728055 (South Jordan).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728055 (South Jordan), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Chattel Estates Number Four"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728055,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1452267
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9a80f4f8aeb99da1a5d144eac5dcfa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":9895004561,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004561,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Chattel Estates Number Four",
+    "wof:parent_id":101728055,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.97161542759383,
+    40.57995381086536,
+    -111.97161542759383,
+    40.57995381086536
+],
+  "geometry": {"coordinates":[-111.97161542759383,40.57995381086536],"type":"Point"}
+}

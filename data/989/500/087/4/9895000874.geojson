@@ -1,0 +1,80 @@
+{
+  "id": 9895000874,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.53221130689948,33.572054315942715,-86.53221130689948,33.572054315942715",
+    "geom:latitude":33.572054,
+    "geom:longitude":-86.532211,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 165009: name \"Austin Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/165009"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 165009: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/165009"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 165009: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/165009"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085647 (St. Clair).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085647 (St. Clair), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Austin Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085647,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":165009
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61e0b65df97eb88cb30899bae34a3a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085647,
+            "locality_id":9895000874,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000874,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Austin Hill",
+    "wof:parent_id":102085647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.53221130689948,
+    33.572054315942715,
+    -86.53221130689948,
+    33.572054315942715
+],
+  "geometry": {"coordinates":[-86.53221130689948,33.572054315942715],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000688,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.53028867060507,33.23790170733356,-87.53028867060507,33.23790170733356",
+    "geom:latitude":33.237902,
+    "geom:longitude":-87.530289,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148069: name \"Dunbrook\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148069"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148069: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148069"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148069: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148069"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dunbrook"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148069
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab10aed1286023077dcb3257a894d67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000688,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000688,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Dunbrook",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.53028867060507,
+    33.23790170733356,
+    -87.53028867060507,
+    33.23790170733356
+],
+  "geometry": {"coordinates":[-87.53028867060507,33.23790170733356],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895007792,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.46170479855314,38.2367673014229,-85.46170479855314,38.2367673014229",
+    "geom:latitude":38.236767,
+    "geom:longitude":-85.461705,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2743842: name \"Old Eastwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2743842"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2743842: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2743842"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2743842: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2743842"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85947523 (Louisville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85947523 (Louisville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Old Eastwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688641,
+        85947523,
+        102084449,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2743842
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9899c05316bea3c46fb1b4371de09842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":9895007792,
+            "region_id":85688641
+        }
+    ],
+    "wof:id":9895007792,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Old Eastwood",
+    "wof:parent_id":85947523,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.46170479855314,
+    38.2367673014229,
+    -85.46170479855314,
+    38.2367673014229
+],
+  "geometry": {"coordinates":[-85.46170479855314,38.2367673014229],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000466,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.23969325756282,32.31181295743926,-86.23969325756282,32.31181295743926",
+    "geom:latitude":32.311813,
+    "geom:longitude":-86.239693,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142931: name \"Virginia Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142931"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142931: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142931"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142931: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142931"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Virginia Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142931
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b6b2914299c858def7d79acf294846f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000466,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000466,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Virginia Estates",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.23969325756282,
+    32.31181295743926,
+    -86.23969325756282,
+    32.31181295743926
+],
+  "geometry": {"coordinates":[-86.23969325756282,32.31181295743926],"type":"Point"}
+}

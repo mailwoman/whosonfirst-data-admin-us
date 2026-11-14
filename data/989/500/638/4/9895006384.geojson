@@ -1,0 +1,82 @@
+{
+  "id": 9895006384,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.35298438651674,33.62817151003382,-84.35298438651674,33.62817151003382",
+    "geom:latitude":33.628172,
+    "geom:longitude":-84.352984,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688500: name \"Woodland Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688500"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688500: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688500"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688500: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688500"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936965 (Forest Park).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936965 (Forest Park), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodland Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936965,
+        102082333,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1688500
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef8c8eb2ce26a1fcdc0595e847f6db4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082333,
+            "locality_id":85936965,
+            "neighbourhood_id":9895006384,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006384,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Woodland Park",
+    "wof:parent_id":85936965,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.35298438651674,
+    33.62817151003382,
+    -84.35298438651674,
+    33.62817151003382
+],
+  "geometry": {"coordinates":[-84.35298438651674,33.62817151003382],"type":"Point"}
+}

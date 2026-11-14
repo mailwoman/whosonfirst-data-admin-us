@@ -1,0 +1,82 @@
+{
+  "id": 9895000811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.11386892167889,34.176768058831634,-86.11386892167889,34.176768058831634",
+    "geom:latitude":34.176768,
+    "geom:longitude":-86.113869,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 149081: name \"Midway\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/149081"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 149081: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/149081"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 149081: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/149081"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85899829 (Sardis City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85899829 (Sardis City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Midway"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85899829,
+        102085545,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":149081
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad9624af6621c0dc53606c46b808fd57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085545,
+            "locality_id":85899829,
+            "neighbourhood_id":9895000811,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000811,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Midway",
+    "wof:parent_id":85899829,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.11386892167889,
+    34.176768058831634,
+    -86.11386892167889,
+    34.176768058831634
+],
+  "geometry": {"coordinates":[-86.11386892167889,34.176768058831634],"type":"Point"}
+}

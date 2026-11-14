@@ -1,0 +1,82 @@
+{
+  "id": 9895007604,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.2467033405908,27.94340517605834,-82.2467033405908,27.94340517605834",
+    "geom:latitude":27.943405,
+    "geom:longitude":-82.246703,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2482368: name \"East Brandon Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2482368"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2482368: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2482368"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2482368: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2482368"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933725 (Valrico).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933725 (Valrico), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "East Brandon Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933725,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2482368
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe9909c7c931fcca76c0b27f647e9d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85933725,
+            "neighbourhood_id":9895007604,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007604,
+    "wof:lastmodified":1794681144,
+    "wof:name":"East Brandon Estates",
+    "wof:parent_id":85933725,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.2467033405908,
+    27.94340517605834,
+    -82.2467033405908,
+    27.94340517605834
+],
+  "geometry": {"coordinates":[-82.2467033405908,27.94340517605834],"type":"Point"}
+}

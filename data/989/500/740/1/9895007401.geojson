@@ -1,0 +1,82 @@
+{
+  "id": 9895007401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.70862114116241,39.72195083605181,-104.70862114116241,39.72195083605181",
+    "geom:latitude":39.721951,
+    "geom:longitude":-104.708621,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354580: name \"Cross Creek\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354580"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354580: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354580"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354580: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354580"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929235 (Aurora).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929235 (Aurora), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cross Creek"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929235,
+        102086877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354580
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a8342008eeebbf6d63c0084cc3d2d35f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086877,
+            "locality_id":85929235,
+            "neighbourhood_id":9895007401,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007401,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Cross Creek",
+    "wof:parent_id":85929235,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.70862114116241,
+    39.72195083605181,
+    -104.70862114116241,
+    39.72195083605181
+],
+  "geometry": {"coordinates":[-104.70862114116241,39.72195083605181],"type":"Point"}
+}

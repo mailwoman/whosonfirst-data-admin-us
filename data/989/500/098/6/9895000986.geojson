@@ -1,0 +1,82 @@
+{
+  "id": 9895000986,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.69271262790525,39.78011941176365,-75.69271262790525,39.78011941176365",
+    "geom:latitude":39.780119,
+    "geom:longitude":-75.692713,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 217465: name \"Hickory Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/217465"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 217465: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/217465"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 217465: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/217465"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931749 (Hockessin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931749 (Hockessin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hickory Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        85931749,
+        102083891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":217465
+    },
+    "wof:country":"US",
+    "wof:geomhash":"841bb49796d27b432af2924ea09dac98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":9895000986,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000986,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Hickory Hill",
+    "wof:parent_id":85931749,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.69271262790525,
+    39.78011941176365,
+    -75.69271262790525,
+    39.78011941176365
+],
+  "geometry": {"coordinates":[-75.69271262790525,39.78011941176365],"type":"Point"}
+}

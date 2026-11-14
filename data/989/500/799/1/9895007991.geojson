@@ -1,0 +1,80 @@
+{
+  "id": 9895007991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.87155969927944,35.22897329612593,-107.87155969927944,35.22897329612593",
+    "geom:latitude":35.228973,
+    "geom:longitude":-107.87156,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806687: name \"Broadview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806687"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806687: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806687"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806687: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806687"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081189 (Cibola).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081189 (Cibola), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Broadview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081189,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806687
+    },
+    "wof:country":"US",
+    "wof:geomhash":"985fda6fc6a0c21e613d0e6f57cfc891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081189,
+            "locality_id":9895007991,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895007991,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Broadview",
+    "wof:parent_id":102081189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.87155969927944,
+    35.22897329612593,
+    -107.87155969927944,
+    35.22897329612593
+],
+  "geometry": {"coordinates":[-107.87155969927944,35.22897329612593],"type":"Point"}
+}

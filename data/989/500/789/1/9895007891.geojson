@@ -1,0 +1,82 @@
+{
+  "id": 9895007891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.4310833321523,40.458592738601965,-78.4310833321523,40.458592738601965",
+    "geom:latitude":40.458593,
+    "geom:longitude":-78.431083,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805470: name \"Canan Station\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805470"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805470: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805470"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805470: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805470"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404484617 (Allegheny Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404484617 (Allegheny Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Canan Station"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081325,
+        102191575,
+        404484617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805470
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b554b04342be74a9d861121f1a4fe984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081325,
+            "localadmin_id":404484617,
+            "locality_id":9895007891,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895007891,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Canan Station",
+    "wof:parent_id":404484617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.4310833321523,
+    40.458592738601965,
+    -78.4310833321523,
+    40.458592738601965
+],
+  "geometry": {"coordinates":[-78.4310833321523,40.458592738601965],"type":"Point"}
+}

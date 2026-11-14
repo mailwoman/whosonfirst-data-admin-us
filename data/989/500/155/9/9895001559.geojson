@@ -1,0 +1,80 @@
+{
+  "id": 9895001559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.01369893982188,30.907689122143346,-90.01369893982188,30.907689122143346",
+    "geom:latitude":30.907689,
+    "geom:longitude":-90.013699,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 538156: name \"Pine\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/538156"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 538156: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/538156"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 538156: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/538156"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084875 (Washington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084875 (Washington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pine"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        102084875,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":538156
+    },
+    "wof:country":"US",
+    "wof:geomhash":"65029cf46573c8ae28ba3943d440f734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084875,
+            "locality_id":9895001559,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001559,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Pine",
+    "wof:parent_id":102084875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.01369893982188,
+    30.907689122143346,
+    -90.01369893982188,
+    30.907689122143346
+],
+  "geometry": {"coordinates":[-90.01369893982188,30.907689122143346],"type":"Point"}
+}

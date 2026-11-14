@@ -1,0 +1,82 @@
+{
+  "id": 9895003670,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.11065405219753,33.90849238647165,-81.11065405219753,33.90849238647165",
+    "geom:latitude":33.908492,
+    "geom:longitude":-81.110654,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1244084: name \"Apollo Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1244084"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1244084: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1244084"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1244084: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1244084"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721003 (Pine Ridge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721003 (Pine Ridge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Apollo Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721003,
+        102085573,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1244084
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e1ca7e98dc00d12a62f0f72bdde7c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085573,
+            "locality_id":101721003,
+            "neighbourhood_id":9895003670,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003670,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Apollo Gardens",
+    "wof:parent_id":101721003,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.11065405219753,
+    33.90849238647165,
+    -81.11065405219753,
+    33.90849238647165
+],
+  "geometry": {"coordinates":[-81.11065405219753,33.90849238647165],"type":"Point"}
+}

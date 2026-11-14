@@ -1,0 +1,82 @@
+{
+  "id": 9895005734,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.76617994468769,30.30519950068766,-89.76617994468769,30.30519950068766",
+    "geom:latitude":30.3052,
+    "geom:longitude":-89.76618,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628871: name \"Brookwood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628871"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628871: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628871"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628871: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628871"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948031 (Slidell).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948031 (Slidell), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brookwood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948031,
+        102082453,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1628871
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e9742aa59a00607c18ef8798dd544501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":9895005734,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895005734,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Brookwood Estates",
+    "wof:parent_id":85948031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.76617994468769,
+    30.30519950068766,
+    -89.76617994468769,
+    30.30519950068766
+],
+  "geometry": {"coordinates":[-89.76617994468769,30.30519950068766],"type":"Point"}
+}

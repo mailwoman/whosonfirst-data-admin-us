@@ -1,0 +1,82 @@
+{
+  "id": 9895007173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.97788349109912,43.46369051418207,-72.97788349109912,43.46369051418207",
+    "geom:latitude":43.463691,
+    "geom:longitude":-72.977883,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1922155: name \"Timber Hill Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1922155"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1922155: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1922155"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1922155: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1922155"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404527411 (Wallingford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404527411 (Wallingford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Timber Hill Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688763,
+        102080771,
+        102191575,
+        404527411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1922155
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f17ea824351a0321ec950dd362b29a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080771,
+            "localadmin_id":404527411,
+            "locality_id":9895007173,
+            "region_id":85688763
+        }
+    ],
+    "wof:id":9895007173,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Timber Hill Estates",
+    "wof:parent_id":404527411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.97788349109912,
+    43.46369051418207,
+    -72.97788349109912,
+    43.46369051418207
+],
+  "geometry": {"coordinates":[-72.97788349109912,43.46369051418207],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006730,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.08301331732697,38.662131317999716,-121.08301331732697,38.662131317999716",
+    "geom:latitude":38.662131,
+    "geom:longitude":-121.083013,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733910: name \"La Cresta Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733910"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733910: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733910"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733910: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733910"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85924065 (El Dorado Hills).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85924065 (El Dorado Hills), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "La Cresta Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85924065,
+        102086953,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1733910
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7f9d0420e5d7649b4c6b2dce6324150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086953,
+            "locality_id":85924065,
+            "neighbourhood_id":9895006730,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006730,
+    "wof:lastmodified":1794681141,
+    "wof:name":"La Cresta Village",
+    "wof:parent_id":85924065,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.08301331732697,
+    38.662131317999716,
+    -121.08301331732697,
+    38.662131317999716
+],
+  "geometry": {"coordinates":[-121.08301331732697,38.662131317999716],"type":"Point"}
+}

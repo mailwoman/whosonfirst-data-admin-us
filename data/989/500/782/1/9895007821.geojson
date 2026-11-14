@@ -1,0 +1,80 @@
+{
+  "id": 9895007821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.94420102036678,35.388397957712584,-118.94420102036678,35.388397957712584",
+    "geom:latitude":35.388398,
+    "geom:longitude":-118.944201,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804179: name \"Bakersfield Country Club\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804179"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804179: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804179"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804179: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804179"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081727 (Kern).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081727 (Kern), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bakersfield Country Club"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102081727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804179
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3dc18d4ffd46362c92806c21a140dd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081727,
+            "locality_id":9895007821,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007821,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Bakersfield Country Club",
+    "wof:parent_id":102081727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.94420102036678,
+    35.388397957712584,
+    -118.94420102036678,
+    35.388397957712584
+],
+  "geometry": {"coordinates":[-118.94420102036678,35.388397957712584],"type":"Point"}
+}

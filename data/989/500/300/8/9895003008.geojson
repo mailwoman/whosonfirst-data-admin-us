@@ -1,0 +1,82 @@
+{
+  "id": 9895003008,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.6717382895416,35.20015118209522,-80.6717382895416,35.20015118209522",
+    "geom:latitude":35.200151,
+    "geom:longitude":-80.671738,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005666: name \"Planters Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005666"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005666: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005666"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005666: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005666"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981325 (Mint Hill).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981325 (Mint Hill), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Planters Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981325,
+        102080981,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005666
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5c03b71894659591c7a7e55e436c7c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981325,
+            "neighbourhood_id":9895003008,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003008,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Planters Ridge",
+    "wof:parent_id":85981325,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.6717382895416,
+    35.20015118209522,
+    -80.6717382895416,
+    35.20015118209522
+],
+  "geometry": {"coordinates":[-80.6717382895416,35.20015118209522],"type":"Point"}
+}

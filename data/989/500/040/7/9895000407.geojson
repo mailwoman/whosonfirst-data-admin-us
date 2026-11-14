@@ -1,0 +1,82 @@
+{
+  "id": 9895000407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.92362158904777,34.78953985340872,-86.92362158904777,34.78953985340872",
+    "geom:latitude":34.78954,
+    "geom:longitude":-86.923622,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 141211: name \"Yorkshire\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/141211"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 141211: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/141211"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 141211: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/141211"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913543 (Athens).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913543 (Athens), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Yorkshire"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913543,
+        102085489,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":141211
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4598af04674dd1cab515f6932968ef43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085489,
+            "locality_id":85913543,
+            "neighbourhood_id":9895000407,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000407,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Yorkshire",
+    "wof:parent_id":85913543,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.92362158904777,
+    34.78953985340872,
+    -86.92362158904777,
+    34.78953985340872
+],
+  "geometry": {"coordinates":[-86.92362158904777,34.78953985340872],"type":"Point"}
+}

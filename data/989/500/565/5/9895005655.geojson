@@ -1,0 +1,82 @@
+{
+  "id": 9895005655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.1823582427117,47.49482792700789,-122.1823582427117,47.49482792700789",
+    "geom:latitude":47.494828,
+    "geom:longitude":-122.182358,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1531794: name \"Highlands Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1531794"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1531794: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1531794"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1531794: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1531794"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101730407 (Renton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101730407 (Renton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Highlands Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        101730407,
+        102086191,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1531794
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b12b441380ef7c7edd9a17bd0bd01a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":9895005655,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005655,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Highlands Park",
+    "wof:parent_id":101730407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.1823582427117,
+    47.49482792700789,
+    -122.1823582427117,
+    47.49482792700789
+],
+  "geometry": {"coordinates":[-122.1823582427117,47.49482792700789],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895007063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.4503385600289,34.14168131080531,-117.4503385600289,34.14168131080531",
+    "geom:latitude":34.141681,
+    "geom:longitude":-117.450339,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1841779: name \"La Cuesta Fontana\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1841779"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1841779: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1841779"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1841779: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1841779"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923901 (Fontana).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923901 (Fontana), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "La Cuesta Fontana"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923901,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1841779
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed128ca39834973b8d309ce4e5008af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85923901,
+            "neighbourhood_id":9895007063,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007063,
+    "wof:lastmodified":1794681142,
+    "wof:name":"La Cuesta Fontana",
+    "wof:parent_id":85923901,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.4503385600289,
+    34.14168131080531,
+    -117.4503385600289,
+    34.14168131080531
+],
+  "geometry": {"coordinates":[-117.4503385600289,34.14168131080531],"type":"Point"}
+}

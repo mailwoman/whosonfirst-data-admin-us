@@ -1,0 +1,80 @@
+{
+  "id": 9895007820,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.2525737487666,38.052118399864476,-119.2525737487666,38.052118399864476",
+    "geom:latitude":38.052118,
+    "geom:longitude":-119.252574,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804178: name \"Virginia Lakes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804178"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804178: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804178"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804178: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804178"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080857 (Mono).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080857 (Mono), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Virginia Lakes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102080857,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804178
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df1f290ae3da4acb6dc162b0dc3f7696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080857,
+            "locality_id":9895007820,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007820,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Virginia Lakes",
+    "wof:parent_id":102080857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.2525737487666,
+    38.052118399864476,
+    -119.2525737487666,
+    38.052118399864476
+],
+  "geometry": {"coordinates":[-119.2525737487666,38.052118399864476],"type":"Point"}
+}

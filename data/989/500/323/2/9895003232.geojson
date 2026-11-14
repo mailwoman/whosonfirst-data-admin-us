@@ -1,0 +1,82 @@
+{
+  "id": 9895003232,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.95436790132085,41.19870157911603,-75.95436790132085,41.19870157911603",
+    "geom:latitude":41.198702,
+    "geom:longitude":-75.954368,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1168467: name \"Askam\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1168467"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1168467: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1168467"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1168467: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1168467"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486233 (Hanover Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486233 (Hanover Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Askam"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081351,
+        102191575,
+        404486233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1168467
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f5d4ea80ea64bf45e5289f2e8947942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081351,
+            "localadmin_id":404486233,
+            "locality_id":9895003232,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003232,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Askam",
+    "wof:parent_id":404486233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.95436790132085,
+    41.19870157911603,
+    -75.95436790132085,
+    41.19870157911603
+],
+  "geometry": {"coordinates":[-75.95436790132085,41.19870157911603],"type":"Point"}
+}

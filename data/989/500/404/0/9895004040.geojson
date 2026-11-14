@@ -1,0 +1,80 @@
+{
+  "id": 9895004040,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.40974057044417,27.34559860884805,-98.40974057044417,27.34559860884805",
+    "geom:latitude":27.345599,
+    "geom:longitude":-98.409741,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1344730: name \"Ramirez\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1344730"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1344730: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1344730"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1344730: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1344730"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080681 (Duval).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080681 (Duval), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ramirez"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102080681,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1344730
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c97a5a8334acd4737a3b5d238bf2530d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080681,
+            "locality_id":9895004040,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004040,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Ramirez",
+    "wof:parent_id":102080681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.40974057044417,
+    27.34559860884805,
+    -98.40974057044417,
+    27.34559860884805
+],
+  "geometry": {"coordinates":[-98.40974057044417,27.34559860884805],"type":"Point"}
+}

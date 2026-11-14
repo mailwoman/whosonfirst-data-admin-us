@@ -1,0 +1,82 @@
+{
+  "id": 9895007482,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.08501013918442,39.81278422236102,-105.08501013918442,39.81278422236102",
+    "geom:latitude":39.812784,
+    "geom:longitude":-105.08501,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354745: name \"Scenic Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354745"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354745: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354745"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354745: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354745"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929333 (Arvada).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929333 (Arvada), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Scenic Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929333,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354745
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36a285b74b053e92e7cec3372456f141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":85929333,
+            "neighbourhood_id":9895007482,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007482,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Scenic Heights",
+    "wof:parent_id":85929333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.08501013918442,
+    39.81278422236102,
+    -105.08501013918442,
+    39.81278422236102
+],
+  "geometry": {"coordinates":[-105.08501013918442,39.81278422236102],"type":"Point"}
+}

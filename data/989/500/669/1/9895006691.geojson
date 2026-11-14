@@ -1,0 +1,80 @@
+{
+  "id": 9895006691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.95391880135224,39.09039274972215,-78.95391880135224,39.09039274972215",
+    "geom:latitude":39.090393,
+    "geom:longitude":-78.953919,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1718568: name \"Meadow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1718568"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1718568: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1718568"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1718568: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1718568"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082645 (Hardy).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082645 (Hardy), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meadow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        102082645,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1718568
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f0e5339086fc26ea64f39ec59086f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082645,
+            "locality_id":9895006691,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895006691,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Meadow",
+    "wof:parent_id":102082645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.95391880135224,
+    39.09039274972215,
+    -78.95391880135224,
+    39.09039274972215
+],
+  "geometry": {"coordinates":[-78.95391880135224,39.09039274972215],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895002034,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.80922564099053,33.47235010606042,-88.80922564099053,33.47235010606042",
+    "geom:latitude":33.47235,
+    "geom:longitude":-88.809226,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 682950: name \"Hillcrest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/682950"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 682950: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/682950"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 682950: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/682950"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969577 (Starkville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969577 (Starkville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hillcrest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969577,
+        102083159,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":682950
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b9e15b0f45c20855aef5de91286ce9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":9895002034,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002034,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Hillcrest",
+    "wof:parent_id":85969577,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.80922564099053,
+    33.47235010606042,
+    -88.80922564099053,
+    33.47235010606042
+],
+  "geometry": {"coordinates":[-88.80922564099053,33.47235010606042],"type":"Point"}
+}

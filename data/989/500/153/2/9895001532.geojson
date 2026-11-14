@@ -1,0 +1,80 @@
+{
+  "id": 9895001532,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.8400273466832,37.70477258836753,-87.8400273466832,37.70477258836753",
+    "geom:latitude":37.704773,
+    "geom:longitude":-87.840027,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 509000: name \"Saint Vincent\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/509000"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 509000: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/509000"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 509000: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/509000"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084675 (Union).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084675 (Union), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Vincent"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688641,
+        102084675,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":509000
+    },
+    "wof:country":"US",
+    "wof:geomhash":"204bb44a690f45020f2e6df4762240cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084675,
+            "locality_id":9895001532,
+            "region_id":85688641
+        }
+    ],
+    "wof:id":9895001532,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Saint Vincent",
+    "wof:parent_id":102084675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.8400273466832,
+    37.70477258836753,
+    -87.8400273466832,
+    37.70477258836753
+],
+  "geometry": {"coordinates":[-87.8400273466832,37.70477258836753],"type":"Point"}
+}

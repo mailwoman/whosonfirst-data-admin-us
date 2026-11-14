@@ -1,0 +1,80 @@
+{
+  "id": 9895003769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.68826068684686,43.43053830398838,-103.68826068684686,43.43053830398838",
+    "geom:latitude":43.430538,
+    "geom:longitude":-103.688261,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1262082: name \"Minnekahta\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1262082"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1262082: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1262082"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1262082: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1262082"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086081 (Fall River).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086081 (Fall River), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Minnekahta"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688693,
+        102086081,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1262082
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df51f791548c0890b45fed9cb9576009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086081,
+            "locality_id":9895003769,
+            "region_id":85688693
+        }
+    ],
+    "wof:id":9895003769,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Minnekahta",
+    "wof:parent_id":102086081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.68826068684686,
+    43.43053830398838,
+    -103.68826068684686,
+    43.43053830398838
+],
+  "geometry": {"coordinates":[-103.68826068684686,43.43053830398838],"type":"Point"}
+}

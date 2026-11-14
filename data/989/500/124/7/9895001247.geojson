@@ -1,0 +1,82 @@
+{
+  "id": 9895001247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.57900389397699,31.839383509746284,-81.57900389397699,31.839383509746284",
+    "geom:latitude":31.839384,
+    "geom:longitude":-81.579004,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357065: name \"Doe Run Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357065"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357065: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357065"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357065: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357065"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936767 (Hinesville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936767 (Hinesville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Doe Run Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936767,
+        102082901,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357065
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4c8ef25fd6147722d7375b93abb3383e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082901,
+            "locality_id":85936767,
+            "neighbourhood_id":9895001247,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001247,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Doe Run Estates",
+    "wof:parent_id":85936767,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.57900389397699,
+    31.839383509746284,
+    -81.57900389397699,
+    31.839383509746284
+],
+  "geometry": {"coordinates":[-81.57900389397699,31.839383509746284],"type":"Point"}
+}

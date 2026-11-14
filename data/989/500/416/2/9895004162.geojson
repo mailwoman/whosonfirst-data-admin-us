@@ -1,0 +1,80 @@
+{
+  "id": 9895004162,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-160.50506298919962,55.184091997488025,-160.50506298919962,55.184091997488025",
+    "geom:latitude":55.184092,
+    "geom:longitude":-160.505063,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1419430: name \"Unga\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1419430"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1419430: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1419430"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1419430: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1419430"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080625 (Aleutians East).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080625 (Aleutians East), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Unga"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102080625,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1419430
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3bab473506eddcff62780b287f1fbdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080625,
+            "locality_id":9895004162,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004162,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Unga",
+    "wof:parent_id":102080625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -160.50506298919962,
+    55.184091997488025,
+    -160.50506298919962,
+    55.184091997488025
+],
+  "geometry": {"coordinates":[-160.50506298919962,55.184091997488025],"type":"Point"}
+}

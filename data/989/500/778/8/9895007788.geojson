@@ -1,0 +1,80 @@
+{
+  "id": 9895007788,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.55332057223491,40.03583538097598,-111.55332057223491,40.03583538097598",
+    "geom:latitude":40.035835,
+    "geom:longitude":-111.553321,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2708039: name \"Covered Bridge Canyon\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2708039"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2708039: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2708039"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2708039: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2708039"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083567 (Utah).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083567 (Utah), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Covered Bridge Canyon"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        102083567,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2708039
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e2447928a17f649d4e314be794b627e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":9895007788,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895007788,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Covered Bridge Canyon",
+    "wof:parent_id":102083567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.55332057223491,
+    40.03583538097598,
+    -111.55332057223491,
+    40.03583538097598
+],
+  "geometry": {"coordinates":[-111.55332057223491,40.03583538097598],"type":"Point"}
+}

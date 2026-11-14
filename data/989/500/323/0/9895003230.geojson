@@ -1,0 +1,82 @@
+{
+  "id": 9895003230,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.6210806267485,39.88288629765779,-76.6210806267485,39.88288629765779",
+    "geom:latitude":39.882886,
+    "geom:longitude":-76.621081,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1168076: name \"Adamsville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1168076"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1168076: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1168076"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1168076: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1168076"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404488031 (York Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404488031 (York Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Adamsville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080953,
+        102191575,
+        404488031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1168076
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aedaa48a40d98db760b0f43fe473761c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080953,
+            "localadmin_id":404488031,
+            "locality_id":9895003230,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003230,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Adamsville",
+    "wof:parent_id":404488031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.6210806267485,
+    39.88288629765779,
+    -76.6210806267485,
+    39.88288629765779
+],
+  "geometry": {"coordinates":[-76.6210806267485,39.88288629765779],"type":"Point"}
+}

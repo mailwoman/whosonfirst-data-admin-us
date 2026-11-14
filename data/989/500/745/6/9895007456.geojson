@@ -1,0 +1,82 @@
+{
+  "id": 9895007456,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.74973223830622,39.61278421810115,-104.74973223830622,39.61278421810115",
+    "geom:latitude":39.612784,
+    "geom:longitude":-104.749732,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354686: name \"Park View\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354686"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354686: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354686"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354686: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354686"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929851 (Centennial).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929851 (Centennial), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Park View"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929851,
+        102086877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354686
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e9ae070fd327ff699264db0f7e286b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086877,
+            "locality_id":85929851,
+            "neighbourhood_id":9895007456,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007456,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Park View",
+    "wof:parent_id":85929851,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.74973223830622,
+    39.61278421810115,
+    -104.74973223830622,
+    39.61278421810115
+],
+  "geometry": {"coordinates":[-104.74973223830622,39.61278421810115],"type":"Point"}
+}

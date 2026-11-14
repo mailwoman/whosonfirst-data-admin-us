@@ -1,0 +1,82 @@
+{
+  "id": 9895004144,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-148.5447488994369,65.52444598704248,-148.5447488994369,65.52444598704248",
+    "geom:latitude":65.524446,
+    "geom:longitude":-148.544749,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1405579: name \"Livengood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1405579"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1405579: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1405579"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1405579: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1405579"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85916695 (Livengood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85916695 (Livengood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Livengood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85916695,
+        102081905,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1405579
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f66c4d573f162ec25ef67c9ebc16d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081905,
+            "locality_id":85916695,
+            "neighbourhood_id":9895004144,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004144,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Livengood",
+    "wof:parent_id":85916695,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -148.5447488994369,
+    65.52444598704248,
+    -148.5447488994369,
+    65.52444598704248
+],
+  "geometry": {"coordinates":[-148.5447488994369,65.52444598704248],"type":"Point"}
+}

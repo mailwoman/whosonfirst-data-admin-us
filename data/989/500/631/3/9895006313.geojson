@@ -1,0 +1,80 @@
+{
+  "id": 9895006313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.04412918509502,39.248510169626186,-121.04412918509502,39.248510169626186",
+    "geom:latitude":39.24851,
+    "geom:longitude":-121.044129,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682977: name \"Timber Trails\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682977"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682977: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682977"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682977: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682977"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085391 (Nevada).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085391 (Nevada), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Timber Trails"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102085391,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1682977
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c771cb5b7f794ede298d65fa1823a338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085391,
+            "locality_id":9895006313,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006313,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Timber Trails",
+    "wof:parent_id":102085391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.04412918509502,
+    39.248510169626186,
+    -121.04412918509502,
+    39.248510169626186
+],
+  "geometry": {"coordinates":[-121.04412918509502,39.248510169626186],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001026,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.04108561841268,37.426611542759424,-122.04108561841268,37.426611542759424",
+    "geom:latitude":37.426612,
+    "geom:longitude":-122.041086,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 253347: name \"South Shore Port\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/253347"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 253347: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/253347"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 253347: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/253347"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922333 (Sunnyvale).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922333 (Sunnyvale), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South Shore Port"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922333,
+        102081673,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":253347
+    },
+    "wof:country":"US",
+    "wof:geomhash":"87b3971b997d9e2a8de085753030ecc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922333,
+            "neighbourhood_id":9895001026,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001026,
+    "wof:lastmodified":1794681124,
+    "wof:name":"South Shore Port",
+    "wof:parent_id":85922333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.04108561841268,
+    37.426611542759424,
+    -122.04108561841268,
+    37.426611542759424
+],
+  "geometry": {"coordinates":[-122.04108561841268,37.426611542759424],"type":"Point"}
+}

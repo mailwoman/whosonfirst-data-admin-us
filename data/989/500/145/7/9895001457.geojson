@@ -1,0 +1,82 @@
+{
+  "id": 9895001457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.40000361626845,40.01671508991581,-86.40000361626845,40.01671508991581",
+    "geom:latitude":40.016715,
+    "geom:longitude":-86.400004,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 446669: name \"Dale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/446669"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 446669: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/446669"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 446669: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/446669"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404501079 (Center Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404501079 (Center Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102086453,
+        102191575,
+        404501079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":446669
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9e6a4b0179264f7fa7dd038086096d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086453,
+            "localadmin_id":404501079,
+            "locality_id":9895001457,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895001457,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Dale",
+    "wof:parent_id":404501079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.40000361626845,
+    40.01671508991581,
+    -86.40000361626845,
+    40.01671508991581
+],
+  "geometry": {"coordinates":[-86.40000361626845,40.01671508991581],"type":"Point"}
+}

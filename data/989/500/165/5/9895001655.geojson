@@ -1,0 +1,82 @@
+{
+  "id": 9895001655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.12094491823635,30.459918088438588,-91.12094491823635,30.459918088438588",
+    "geom:latitude":30.459918,
+    "geom:longitude":-91.120945,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558971: name \"Executive Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558971"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558971: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558971"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558971: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558971"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948205 (Baton Rouge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948205 (Baton Rouge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Executive Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948205,
+        102087229,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":558971
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a793e04ed8dceadb3a10d69bb759656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":9895001655,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001655,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Executive Park",
+    "wof:parent_id":85948205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.12094491823635,
+    30.459918088438588,
+    -91.12094491823635,
+    30.459918088438588
+],
+  "geometry": {"coordinates":[-91.12094491823635,30.459918088438588],"type":"Point"}
+}

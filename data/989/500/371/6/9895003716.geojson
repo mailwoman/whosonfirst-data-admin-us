@@ -1,0 +1,80 @@
+{
+  "id": 9895003716,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.92953760209228,33.97405070726189,-80.92953760209228,33.97405070726189",
+    "geom:latitude":33.974051,
+    "geom:longitude":-80.929538,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1248985: name \"Capitol View\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1248985"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1248985: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1248985"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1248985: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1248985"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085405 (Richland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085405 (Richland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Capitol View"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085405,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1248985
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f2cd0616bc7d8b44b2e9cfc64c8cd2bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":9895003716,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003716,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Capitol View",
+    "wof:parent_id":102085405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.92953760209228,
+    33.97405070726189,
+    -80.92953760209228,
+    33.97405070726189
+],
+  "geometry": {"coordinates":[-80.92953760209228,33.97405070726189],"type":"Point"}
+}

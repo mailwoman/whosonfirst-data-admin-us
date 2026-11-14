@@ -1,0 +1,82 @@
+{
+  "id": 9895008024,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.74767642124408,41.61323043992667,-73.74767642124408,41.61323043992667",
+    "geom:latitude":41.61323,
+    "geom:longitude":-73.747676,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806925: name \"Chelsea Cove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806925"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806925: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806925"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806925: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806925"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404522215 (Beekman).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404522215 (Beekman), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Chelsea Cove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102082363,
+        102191575,
+        404522215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806925
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f55d6d753f3dd5ff0954b85fbdd9681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082363,
+            "localadmin_id":404522215,
+            "locality_id":9895008024,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895008024,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Chelsea Cove",
+    "wof:parent_id":404522215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.74767642124408,
+    41.61323043992667,
+    -73.74767642124408,
+    41.61323043992667
+],
+  "geometry": {"coordinates":[-73.74767642124408,41.61323043992667],"type":"Point"}
+}

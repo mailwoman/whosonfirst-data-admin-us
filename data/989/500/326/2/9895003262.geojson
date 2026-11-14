@@ -1,0 +1,82 @@
+{
+  "id": 9895003262,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.24279470317425,40.884232428117706,-78.24279470317425,40.884232428117706",
+    "geom:latitude":40.884232,
+    "geom:longitude":-78.242795,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1177550: name \"Hudson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1177550"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1177550: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1177550"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1177550: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1177550"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486911 (Decatur Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486911 (Decatur Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hudson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080967,
+        102191575,
+        404486911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1177550
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28c1fe7d7efbec4c7ae466ec469c3005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080967,
+            "localadmin_id":404486911,
+            "locality_id":9895003262,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003262,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Hudson",
+    "wof:parent_id":404486911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.24279470317425,
+    40.884232428117706,
+    -78.24279470317425,
+    40.884232428117706
+],
+  "geometry": {"coordinates":[-78.24279470317425,40.884232428117706],"type":"Point"}
+}

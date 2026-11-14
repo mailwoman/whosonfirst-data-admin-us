@@ -1,0 +1,82 @@
+{
+  "id": 9895001863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.04998000959479,39.07011651952812,-77.04998000959479,39.07011651952812",
+    "geom:latitude":39.070117,
+    "geom:longitude":-77.04998,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590710: name \"Lutes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590710"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590710: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590710"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 590710: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/590710"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950259 (Glenmont).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950259 (Glenmont), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lutes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85950259,
+        102082719,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":590710
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf4c3af5f573f747526c5732566a1293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950259,
+            "neighbourhood_id":9895001863,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001863,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Lutes",
+    "wof:parent_id":85950259,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.04998000959479,
+    39.07011651952812,
+    -77.04998000959479,
+    39.07011651952812
+],
+  "geometry": {"coordinates":[-77.04998000959479,39.07011651952812],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895003998,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.50416444037367,35.94118200441844,-86.50416444037367,35.94118200441844",
+    "geom:latitude":35.941182,
+    "geom:longitude":-86.504164,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313162: name \"Rosewood Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313162"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313162: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313162"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1313162: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1313162"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086355 (Rutherford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086355 (Rutherford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rosewood Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086355,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1313162
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f888d170621d2b907bbbf8d081013971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":9895003998,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003998,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Rosewood Park",
+    "wof:parent_id":102086355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.50416444037367,
+    35.94118200441844,
+    -86.50416444037367,
+    35.94118200441844
+],
+  "geometry": {"coordinates":[-86.50416444037367,35.94118200441844],"type":"Point"}
+}

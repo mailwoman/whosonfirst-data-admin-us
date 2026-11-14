@@ -1,0 +1,82 @@
+{
+  "id": 9895005374,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.91689659123737,41.1243942757995,-111.91689659123737,41.1243942757995",
+    "geom:latitude":41.124394,
+    "geom:longitude":-111.916897,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454048: name \"Royal Farms Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454048"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454048: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454048"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454048: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454048"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727911 (South Weber).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727911 (South Weber), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Royal Farms Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727911,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1454048
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce9ae34739093fa80177d61214c0e66b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":9895005374,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005374,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Royal Farms Estates",
+    "wof:parent_id":101727911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.91689659123737,
+    41.1243942757995,
+    -111.91689659123737,
+    41.1243942757995
+],
+  "geometry": {"coordinates":[-111.91689659123737,41.1243942757995],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895002330,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.52331111635905,33.34010598174768,-104.52331111635905,33.34010598174768",
+    "geom:latitude":33.340106,
+    "geom:longitude":-104.523311,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 899807: name \"Mountain View\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/899807"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 899807: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/899807"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 899807: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/899807"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85976609 (Roswell).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85976609 (Roswell), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mountain View"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        85976609,
+        102081559,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":899807
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba183d5bac3b1a12e8724bc3f0a1efac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081559,
+            "locality_id":85976609,
+            "neighbourhood_id":9895002330,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002330,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Mountain View",
+    "wof:parent_id":85976609,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.52331111635905,
+    33.34010598174768,
+    -104.52331111635905,
+    33.34010598174768
+],
+  "geometry": {"coordinates":[-104.52331111635905,33.34010598174768],"type":"Point"}
+}

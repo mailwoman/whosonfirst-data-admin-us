@@ -1,0 +1,82 @@
+{
+  "id": 9895003521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.98484149059244,33.50680876808925,-81.98484149059244,33.50680876808925",
+    "geom:latitude":33.506809,
+    "geom:longitude":-81.984841,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1236357: name \"Hammond Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1236357"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1236357: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1236357"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1236357: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1236357"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721165 (North Augusta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721165 (North Augusta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hammond Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721165,
+        102085721,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1236357
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5682a677214c85f07001e3e8bcff2040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085721,
+            "locality_id":101721165,
+            "neighbourhood_id":9895003521,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003521,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Hammond Hills",
+    "wof:parent_id":101721165,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.98484149059244,
+    33.50680876808925,
+    -81.98484149059244,
+    33.50680876808925
+],
+  "geometry": {"coordinates":[-81.98484149059244,33.50680876808925],"type":"Point"}
+}

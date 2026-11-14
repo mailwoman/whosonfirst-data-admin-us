@@ -1,0 +1,84 @@
+{
+  "id": 9895007201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.59504345464408,42.64538194234405,-70.59504345464408,42.64538194234405",
+    "geom:latitude":42.645382,
+    "geom:longitude":-70.595043,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1979220: name \"Eden Square\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1979220"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1979220: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1979220"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1979220: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1979220"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950803 (Rockport).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950803 (Rockport), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Eden Square"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688645,
+        85950803,
+        102084463,
+        102191575,
+        404476255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1979220
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89d3811944cce5c793ee8a826c2c1a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476255,
+            "locality_id":85950803,
+            "neighbourhood_id":9895007201,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":9895007201,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Eden Square",
+    "wof:parent_id":85950803,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.59504345464408,
+    42.64538194234405,
+    -70.59504345464408,
+    42.64538194234405
+],
+  "geometry": {"coordinates":[-70.59504345464408,42.64538194234405],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.78054896819312,33.39928187009946,-86.78054896819312,33.39928187009946",
+    "geom:latitude":33.399282,
+    "geom:longitude":-86.780549,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700250: name \"Cedar Crest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700250"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700250: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700250"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700250: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700250"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914475 (Hoover).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914475 (Hoover), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cedar Crest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914475,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700250
+    },
+    "wof:country":"US",
+    "wof:geomhash":"45214555747a7586640da3456c3a038e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914475,
+            "neighbourhood_id":9895006531,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006531,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Cedar Crest",
+    "wof:parent_id":85914475,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.78054896819312,
+    33.39928187009946,
+    -86.78054896819312,
+    33.39928187009946
+],
+  "geometry": {"coordinates":[-86.78054896819312,33.39928187009946],"type":"Point"}
+}

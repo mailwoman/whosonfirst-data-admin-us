@@ -1,0 +1,82 @@
+{
+  "id": 9895002187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.26398477837049,32.342928815147246,-90.26398477837049,32.342928815147246",
+    "geom:latitude":32.342929,
+    "geom:longitude":-90.263985,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688556: name \"Queens Lane\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688556"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688556: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688556"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688556: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688556"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969693 (Jackson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969693 (Jackson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Queens Lane"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969693,
+        102081407,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":688556
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3c9405f1f9e57b434f1ea1a682f9683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":9895002187,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002187,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Queens Lane",
+    "wof:parent_id":85969693,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.26398477837049,
+    32.342928815147246,
+    -90.26398477837049,
+    32.342928815147246
+],
+  "geometry": {"coordinates":[-90.26398477837049,32.342928815147246],"type":"Point"}
+}

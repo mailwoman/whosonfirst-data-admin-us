@@ -1,0 +1,84 @@
+{
+  "id": 9895007180,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.67037128316447,41.79371901185041,-72.67037128316447,41.79371901185041",
+    "geom:latitude":41.793719,
+    "geom:longitude":-72.670371,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1944214: name \"Stowe Village Housing Project\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1944214"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1944214: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1944214"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1944214: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1944214"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85930819 (Hartford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85930819 (Hartford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stowe Village Housing Project"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688629,
+        85930819,
+        102085381,
+        102191575,
+        404495981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1944214
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dacf549e84dd06efe7db0c3ce24e1189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":9895007180,
+            "region_id":85688629
+        }
+    ],
+    "wof:id":9895007180,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Stowe Village Housing Project",
+    "wof:parent_id":85930819,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.67037128316447,
+    41.79371901185041,
+    -72.67037128316447,
+    41.79371901185041
+],
+  "geometry": {"coordinates":[-72.67037128316447,41.79371901185041],"type":"Point"}
+}

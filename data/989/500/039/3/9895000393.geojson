@@ -1,0 +1,80 @@
+{
+  "id": 9895000393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.76304856295305,33.39094866848385,-86.76304856295305,33.39094866848385",
+    "geom:latitude":33.390949,
+    "geom:longitude":-86.763049,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 140410: name \"Wine Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/140410"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 140410: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/140410"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 140410: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/140410"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085481 (Jefferson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085481 (Jefferson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wine Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":140410
+    },
+    "wof:country":"US",
+    "wof:geomhash":"265f50bf92bd38db4a4e4d13391f724f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":9895000393,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000393,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Wine Ridge",
+    "wof:parent_id":102085481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.76304856295305,
+    33.39094866848385,
+    -86.76304856295305,
+    33.39094866848385
+],
+  "geometry": {"coordinates":[-86.76304856295305,33.39094866848385],"type":"Point"}
+}

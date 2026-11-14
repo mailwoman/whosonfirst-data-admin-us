@@ -1,0 +1,82 @@
+{
+  "id": 9895002053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.34117947475329,31.311291631836895,-89.34117947475329,31.311291631836895",
+    "geom:latitude":31.311292,
+    "geom:longitude":-89.341179,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 683912: name \"Heatherwood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/683912"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 683912: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/683912"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 683912: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/683912"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969939 (Hattiesburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969939 (Hattiesburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Heatherwood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969939,
+        102086673,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":683912
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f843ba62f153d751295ee6fab8afd48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":9895002053,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002053,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Heatherwood Estates",
+    "wof:parent_id":85969939,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.34117947475329,
+    31.311291631836895,
+    -89.34117947475329,
+    31.311291631836895
+],
+  "geometry": {"coordinates":[-89.34117947475329,31.311291631836895],"type":"Point"}
+}

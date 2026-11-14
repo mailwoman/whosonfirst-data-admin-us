@@ -1,0 +1,82 @@
+{
+  "id": 9895001993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.1911161820822,42.493100392471625,-85.1911161820822,42.493100392471625",
+    "geom:latitude":42.4931,
+    "geom:longitude":-85.191116,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 629927: name \"Lacey\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/629927"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 629927: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/629927"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 629927: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/629927"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404506905 (Johnstown Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404506905 (Johnstown Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lacey"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688599,
+        102083125,
+        102191575,
+        404506905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":629927
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9c825f719bf8cb6138ab355745f4791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083125,
+            "localadmin_id":404506905,
+            "locality_id":9895001993,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":9895001993,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Lacey",
+    "wof:parent_id":404506905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.1911161820822,
+    42.493100392471625,
+    -85.1911161820822,
+    42.493100392471625
+],
+  "geometry": {"coordinates":[-85.1911161820822,42.493100392471625],"type":"Point"}
+}

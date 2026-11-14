@@ -1,0 +1,82 @@
+{
+  "id": 9895005408,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.91328537547332,41.01800566435621,-111.91328537547332,41.01800566435621",
+    "geom:latitude":41.018006,
+    "geom:longitude":-111.913285,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454108: name \"Creek View Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454108"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454108: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454108"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454108: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454108"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727903 (Fruit Heights).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727903 (Fruit Heights), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Creek View Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727903,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1454108
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82c8551bf8c6c268f47779c208d4f6de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727903,
+            "neighbourhood_id":9895005408,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005408,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Creek View Estates",
+    "wof:parent_id":101727903,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.91328537547332,
+    41.01800566435621,
+    -111.91328537547332,
+    41.01800566435621
+],
+  "geometry": {"coordinates":[-111.91328537547332,41.01800566435621],"type":"Point"}
+}

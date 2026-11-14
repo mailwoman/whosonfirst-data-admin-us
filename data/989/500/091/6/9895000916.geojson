@@ -1,0 +1,80 @@
+{
+  "id": 9895000916,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.87757505737379,37.949721678872564,-107.87757505737379,37.949721678872564",
+    "geom:latitude":37.949722,
+    "geom:longitude":-107.877575,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 187082: name \"Keystone\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/187082"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 187082: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/187082"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 187082: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/187082"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084125 (San Miguel).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084125 (San Miguel), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Keystone"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102084125,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":187082
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19507e20392d6717231b33e1b103a3f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084125,
+            "locality_id":9895000916,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000916,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Keystone",
+    "wof:parent_id":102084125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.87757505737379,
+    37.949721678872564,
+    -107.87757505737379,
+    37.949721678872564
+],
+  "geometry": {"coordinates":[-107.87757505737379,37.949721678872564],"type":"Point"}
+}

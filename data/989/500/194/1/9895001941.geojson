@@ -1,0 +1,82 @@
+{
+  "id": 9895001941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.69497331563328,39.33678098624264,-76.69497331563328,39.33678098624264",
+    "geom:latitude":39.336781,
+    "geom:longitude":-76.694973,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 598233: name \"West Arlington\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/598233"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 598233: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/598233"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 598233: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/598233"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949461 (Baltimore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949461 (Baltimore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "West Arlington"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949461,
+        102081589,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":598233
+    },
+    "wof:country":"US",
+    "wof:geomhash":"56001876c4d37c79e5dc01eb04915917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "neighbourhood_id":9895001941,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001941,
+    "wof:lastmodified":1794681127,
+    "wof:name":"West Arlington",
+    "wof:parent_id":85949461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.69497331563328,
+    39.33678098624264,
+    -76.69497331563328,
+    39.33678098624264
+],
+  "geometry": {"coordinates":[-76.69497331563328,39.33678098624264],"type":"Point"}
+}

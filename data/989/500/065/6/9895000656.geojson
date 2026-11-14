@@ -1,0 +1,82 @@
+{
+  "id": 9895000656,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.48917635804071,33.22790180803639,-87.48917635804071,33.22790180803639",
+    "geom:latitude":33.227902,
+    "geom:longitude":-87.489176,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147928: name \"Cadillac Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147928"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147928: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147928"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147928: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147928"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85915285 (Holt).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85915285 (Holt), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cadillac Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85915285,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147928
+    },
+    "wof:country":"US",
+    "wof:geomhash":"02fe95440e9262d8e347bd54f0552502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85915285,
+            "neighbourhood_id":9895000656,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000656,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Cadillac Estates",
+    "wof:parent_id":85915285,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.48917635804071,
+    33.22790180803639,
+    -87.48917635804071,
+    33.22790180803639
+],
+  "geometry": {"coordinates":[-87.48917635804071,33.22790180803639],"type":"Point"}
+}

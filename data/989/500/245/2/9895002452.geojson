@@ -1,0 +1,80 @@
+{
+  "id": 9895002452,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.76034826547401,36.09847546903198,-80.76034826547401,36.09847546903198",
+    "geom:latitude":36.098475,
+    "geom:longitude":-80.760348,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 986345: name \"Hamptonville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/986345"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 986345: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/986345"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 986345: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/986345"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087797 (Yadkin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087797 (Yadkin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hamptonville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087797,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":986345
+    },
+    "wof:country":"US",
+    "wof:geomhash":"32a4a67151f62fb5bc71c45f82a1630b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087797,
+            "locality_id":9895002452,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002452,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Hamptonville",
+    "wof:parent_id":102087797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.76034826547401,
+    36.09847546903198,
+    -80.76034826547401,
+    36.09847546903198
+],
+  "geometry": {"coordinates":[-80.76034826547401,36.09847546903198],"type":"Point"}
+}

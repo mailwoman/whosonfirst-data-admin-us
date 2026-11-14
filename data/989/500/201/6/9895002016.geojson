@@ -1,0 +1,80 @@
+{
+  "id": 9895002016,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.93399788450758,32.7776368788757,-90.93399788450758,32.7776368788757",
+    "geom:latitude":32.777637,
+    "geom:longitude":-90.933998,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 671744: name \"Issaquena\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/671744"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 671744: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/671744"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 671744: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/671744"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083797 (Sharkey).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083797 (Sharkey), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Issaquena"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102083797,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":671744
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9b4530022379835556c52a6014cab97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083797,
+            "locality_id":9895002016,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002016,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Issaquena",
+    "wof:parent_id":102083797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.93399788450758,
+    32.7776368788757,
+    -90.93399788450758,
+    32.7776368788757
+],
+  "geometry": {"coordinates":[-90.93399788450758,32.7776368788757],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895007647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.48840340953889,27.9245051659749,-82.48840340953889,27.9245051659749",
+    "geom:latitude":27.924505,
+    "geom:longitude":-82.488403,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2483288: name \"Glenwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2483288"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2483288: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2483288"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2483288: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2483288"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931789 (Tampa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931789 (Tampa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Glenwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85931789,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2483288
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a23690106bf8ec48b7f3df7dadffa7b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85931789,
+            "neighbourhood_id":9895007647,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007647,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Glenwood",
+    "wof:parent_id":85931789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.48840340953889,
+    27.9245051659749,
+    -82.48840340953889,
+    27.9245051659749
+],
+  "geometry": {"coordinates":[-82.48840340953889,27.9245051659749],"type":"Point"}
+}

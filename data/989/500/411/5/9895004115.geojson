@@ -1,0 +1,80 @@
+{
+  "id": 9895004115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.13027820689007,30.947413071675335,-97.13027820689007,30.947413071675335",
+    "geom:latitude":30.947413,
+    "geom:longitude":-97.130278,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380575: name \"South Elm\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380575"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380575: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380575"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380575: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380575"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080713 (Milam).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080713 (Milam), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South Elm"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102080713,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1380575
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2bb312b211c9bedc9ee1dd233c577e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080713,
+            "locality_id":9895004115,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004115,
+    "wof:lastmodified":1794681135,
+    "wof:name":"South Elm",
+    "wof:parent_id":102080713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.13027820689007,
+    30.947413071675335,
+    -97.13027820689007,
+    30.947413071675335
+],
+  "geometry": {"coordinates":[-97.13027820689007,30.947413071675335],"type":"Point"}
+}

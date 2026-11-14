@@ -1,0 +1,80 @@
+{
+  "id": 9895007913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.30102171147405,30.31474441245572,-95.30102171147405,30.31474441245572",
+    "geom:latitude":30.314744,
+    "geom:longitude":-95.301022,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805822: name \"Deerwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805822"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805822: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805822"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805822: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805822"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081435 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081435 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Deerwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102081435,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805822
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4eaf92b994c828fa88eef48a68bba3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081435,
+            "locality_id":9895007913,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007913,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Deerwood",
+    "wof:parent_id":102081435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.30102171147405,
+    30.31474441245572,
+    -95.30102171147405,
+    30.31474441245572
+],
+  "geometry": {"coordinates":[-95.30102171147405,30.31474441245572],"type":"Point"}
+}

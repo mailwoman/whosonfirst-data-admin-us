@@ -1,0 +1,82 @@
+{
+  "id": 9895000930,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.02205180039485,41.83927190896757,-73.02205180039485,41.83927190896757",
+    "geom:latitude":41.839272,
+    "geom:longitude":-73.022052,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 208707: name \"Maple Hollow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/208707"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 208707: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/208707"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 208707: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/208707"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404496029 (New Hartford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404496029 (New Hartford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Maple Hollow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688629,
+        102085375,
+        102191575,
+        404496029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":208707
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8c518ad4e69c836e20336a473f40ecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496029,
+            "locality_id":9895000930,
+            "region_id":85688629
+        }
+    ],
+    "wof:id":9895000930,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Maple Hollow",
+    "wof:parent_id":404496029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.02205180039485,
+    41.83927190896757,
+    -73.02205180039485,
+    41.83927190896757
+],
+  "geometry": {"coordinates":[-73.02205180039485,41.83927190896757],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003762,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.84091982512953,32.828515089278554,-79.84091982512953,32.828515089278554",
+    "geom:latitude":32.828515,
+    "geom:longitude":-79.84092,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1253311: name \"Wando Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1253311"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1253311: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1253311"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1253311: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1253311"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720773 (Mount Pleasant).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720773 (Mount Pleasant), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wando Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720773,
+        102085591,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1253311
+    },
+    "wof:country":"US",
+    "wof:geomhash":"739efb9d5c3c507672ce01239ba9eece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085591,
+            "locality_id":101720773,
+            "neighbourhood_id":9895003762,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003762,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Wando Estates",
+    "wof:parent_id":101720773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.84091982512953,
+    32.828515089278554,
+    -79.84091982512953,
+    32.828515089278554
+],
+  "geometry": {"coordinates":[-79.84091982512953,32.828515089278554],"type":"Point"}
+}

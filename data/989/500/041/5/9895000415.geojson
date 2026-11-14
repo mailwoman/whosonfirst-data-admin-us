@@ -1,0 +1,82 @@
+{
+  "id": 9895000415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.68947790847994,34.853426534582354,-87.68947790847994,34.853426534582354",
+    "geom:latitude":34.853427,
+    "geom:longitude":-87.689478,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142243: name \"Vestavia Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142243"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142243: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142243"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142243: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142243"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914011 (Florence).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914011 (Florence), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Vestavia Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914011,
+        102085527,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142243
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41db29e8ba7ae7ddbd648b87b8c57de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085527,
+            "locality_id":85914011,
+            "neighbourhood_id":9895000415,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000415,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Vestavia Gardens",
+    "wof:parent_id":85914011,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.68947790847994,
+    34.853426534582354,
+    -87.68947790847994,
+    34.853426534582354
+],
+  "geometry": {"coordinates":[-87.68947790847994,34.853426534582354],"type":"Point"}
+}

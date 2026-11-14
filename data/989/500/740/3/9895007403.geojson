@@ -1,0 +1,80 @@
+{
+  "id": 9895007403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.7116767399401,39.700006433052785,-104.7116767399401,39.700006433052785",
+    "geom:latitude":39.700006,
+    "geom:longitude":-104.711677,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354582: name \"Gun Club Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354582"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354582: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354582"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354582: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354582"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086877 (Arapahoe).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086877 (Arapahoe), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gun Club Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102086877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354582
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a3b788f6e436cad7dbcf718225cf3b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086877,
+            "locality_id":9895007403,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007403,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Gun Club Estates",
+    "wof:parent_id":102086877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.7116767399401,
+    39.700006433052785,
+    -104.7116767399401,
+    39.700006433052785
+],
+  "geometry": {"coordinates":[-104.7116767399401,39.700006433052785],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003694,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.35956836998024,34.83679134226005,-82.35956836998024,34.83679134226005",
+    "geom:latitude":34.836791,
+    "geom:longitude":-82.359568,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1245458: name \"East Highland Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1245458"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1245458: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1245458"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1245458: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1245458"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721075 (Greenville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721075 (Greenville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "East Highland Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721075,
+        102085747,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1245458
+    },
+    "wof:country":"US",
+    "wof:geomhash":"71147e085a11de3781f15295ddba4c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085747,
+            "locality_id":101721075,
+            "neighbourhood_id":9895003694,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003694,
+    "wof:lastmodified":1794681134,
+    "wof:name":"East Highland Estates",
+    "wof:parent_id":101721075,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.35956836998024,
+    34.83679134226005,
+    -82.35956836998024,
+    34.83679134226005
+],
+  "geometry": {"coordinates":[-82.35956836998024,34.83679134226005],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895003189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.22834327002936,35.595373882921905,-96.22834327002936,35.595373882921905",
+    "geom:latitude":35.595374,
+    "geom:longitude":-96.228343,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1100689: name \"Okfuskee\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1100689"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1100689: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1100689"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1100689: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1100689"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083269 (Okfuskee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083269 (Okfuskee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Okfuskee"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688585,
+        102083269,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1100689
+    },
+    "wof:country":"US",
+    "wof:geomhash":"afd8be85d56e6242a3b6bdf647b6207a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083269,
+            "locality_id":9895003189,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":9895003189,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Okfuskee",
+    "wof:parent_id":102083269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.22834327002936,
+    35.595373882921905,
+    -96.22834327002936,
+    35.595373882921905
+],
+  "geometry": {"coordinates":[-96.22834327002936,35.595373882921905],"type":"Point"}
+}

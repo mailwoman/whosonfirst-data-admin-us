@@ -1,0 +1,82 @@
+{
+  "id": 9895004139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-141.93613624986796,64.07333611085821,-141.93613624986796,64.07333611085821",
+    "geom:latitude":64.073336,
+    "geom:longitude":-141.936136,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1400245: name \"Chicken\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1400245"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1400245: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1400245"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1400245: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1400245"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85916515 (Chicken).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85916515 (Chicken), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Chicken"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85916515,
+        102080993,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1400245
+    },
+    "wof:country":"US",
+    "wof:geomhash":"adae4c59189a7ef662a758de84cf561e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080993,
+            "locality_id":85916515,
+            "neighbourhood_id":9895004139,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004139,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Chicken",
+    "wof:parent_id":85916515,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -141.93613624986796,
+    64.07333611085821,
+    -141.93613624986796,
+    64.07333611085821
+],
+  "geometry": {"coordinates":[-141.93613624986796,64.07333611085821],"type":"Point"}
+}

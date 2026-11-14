@@ -1,0 +1,82 @@
+{
+  "id": 9895003546,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.85700999844272,34.29016061332682,-79.85700999844272,34.29016061332682",
+    "geom:latitude":34.290161,
+    "geom:longitude":-79.85701,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241015: name \"Washington Terrace\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241015"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241015: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241015"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241015: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241015"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720825 (Darlington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720825 (Darlington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Washington Terrace"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720825,
+        102085743,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1241015
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f2d1c31eff5eab12d39d946299d6ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085743,
+            "locality_id":101720825,
+            "neighbourhood_id":9895003546,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003546,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Washington Terrace",
+    "wof:parent_id":101720825,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.85700999844272,
+    34.29016061332682,
+    -79.85700999844272,
+    34.29016061332682
+],
+  "geometry": {"coordinates":[-79.85700999844272,34.29016061332682],"type":"Point"}
+}

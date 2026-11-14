@@ -1,0 +1,82 @@
+{
+  "id": 9895008094,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.00987529895917,28.747477375746573,-82.00987529895917,28.747477375746573",
+    "geom:latitude":28.747477,
+    "geom:longitude":-82.009875,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2831028: name \"Middleton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2831028"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2831028: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2831028"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2831028: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2831028"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933195 (Wildwood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933195 (Wildwood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Middleton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933195,
+        102085855,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2831028
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d6728a1df154c20b9fe2d60973b5812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085855,
+            "locality_id":85933195,
+            "neighbourhood_id":9895008094,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895008094,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Middleton",
+    "wof:parent_id":85933195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.00987529895917,
+    28.747477375746573,
+    -82.00987529895917,
+    28.747477375746573
+],
+  "geometry": {"coordinates":[-82.00987529895917,28.747477375746573],"type":"Point"}
+}

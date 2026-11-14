@@ -1,0 +1,84 @@
+{
+  "id": 9895002268,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.32928793101877,38.68561424511492,-90.32928793101877,38.68561424511492",
+    "geom:latitude":38.685614,
+    "geom:longitude":-90.329288,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 756855: name \"Vinita Terrace\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/756855"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 756855: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/756855"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 756855: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/756855"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 1729403597 (Vinita Park).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 1729403597 (Vinita Park), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Vinita Terrace"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102086173,
+        102191575,
+        404517385,
+        1729403597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":756855
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c92215b33622985fbdb3ecbbae0450cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517385,
+            "locality_id":1729403597,
+            "neighbourhood_id":9895002268,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002268,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Vinita Terrace",
+    "wof:parent_id":1729403597,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.32928793101877,
+    38.68561424511492,
+    -90.32928793101877,
+    38.68561424511492
+],
+  "geometry": {"coordinates":[-90.32928793101877,38.68561424511492],"type":"Point"}
+}

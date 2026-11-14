@@ -1,0 +1,80 @@
+{
+  "id": 9895005645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-123.22516954442328,47.226765299167994,-123.22516954442328,47.226765299167994",
+    "geom:latitude":47.226765,
+    "geom:longitude":-123.22517,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1518522: name \"Dayton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1518522"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1518522: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1518522"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1518522: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1518522"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084215 (Mason).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084215 (Mason), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dayton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102084215,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1518522
+    },
+    "wof:country":"US",
+    "wof:geomhash":"747692cecb5ddfddfe82d8f7e2d62263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084215,
+            "locality_id":9895005645,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005645,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Dayton",
+    "wof:parent_id":102084215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.22516954442328,
+    47.226765299167994,
+    -123.22516954442328,
+    47.226765299167994
+],
+  "geometry": {"coordinates":[-123.22516954442328,47.226765299167994],"type":"Point"}
+}

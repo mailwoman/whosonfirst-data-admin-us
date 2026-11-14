@@ -1,0 +1,80 @@
+{
+  "id": 9895001471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.39491162334251,42.77332161697822,-92.39491162334251,42.77332161697822",
+    "geom:latitude":42.773322,
+    "geom:longitude":-92.394912,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 454816: name \"Bremer\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/454816"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 454816: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/454816"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 454816: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/454816"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086623 (Bremer).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086623 (Bremer), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bremer"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688713,
+        102086623,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":454816
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b6b236b9c8c8cf9276e7d50bd34d5f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086623,
+            "locality_id":9895001471,
+            "region_id":85688713
+        }
+    ],
+    "wof:id":9895001471,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Bremer",
+    "wof:parent_id":102086623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.39491162334251,
+    42.77332161697822,
+    -92.39491162334251,
+    42.77332161697822
+],
+  "geometry": {"coordinates":[-92.39491162334251,42.77332161697822],"type":"Point"}
+}

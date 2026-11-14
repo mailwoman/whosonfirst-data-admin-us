@@ -1,0 +1,82 @@
+{
+  "id": 9895007576,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.19150696869966,30.014305254884146,-95.19150696869966,30.014305254884146",
+    "geom:latitude":30.014305,
+    "geom:longitude":-95.191507,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2472395: name \"Atascocita North\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2472395"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2472395: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2472395"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2472395: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2472395"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727509 (Atascocita).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727509 (Atascocita), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Atascocita North"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        101727509,
+        102081111,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2472395
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90882a396c6f6b9369895a4347051d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081111,
+            "locality_id":101727509,
+            "neighbourhood_id":9895007576,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007576,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Atascocita North",
+    "wof:parent_id":101727509,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.19150696869966,
+    30.014305254884146,
+    -95.19150696869966,
+    30.014305254884146
+],
+  "geometry": {"coordinates":[-95.19150696869966,30.014305254884146],"type":"Point"}
+}

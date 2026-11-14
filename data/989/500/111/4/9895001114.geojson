@@ -1,0 +1,80 @@
+{
+  "id": 9895001114,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.25368101348293,29.72414402898977,-81.25368101348293,29.72414402898977",
+    "geom:latitude":29.724144,
+    "geom:longitude":-81.253681,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 307914: name \"Cedar Landing\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/307914"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 307914: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/307914"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 307914: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/307914"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085787 (St. Johns).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085787 (St. Johns), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cedar Landing"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102085787,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":307914
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4762d86bf9d8483067bbbaa4c98a737e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085787,
+            "locality_id":9895001114,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001114,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Cedar Landing",
+    "wof:parent_id":102085787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.25368101348293,
+    29.72414402898977,
+    -81.25368101348293,
+    29.72414402898977
+],
+  "geometry": {"coordinates":[-81.25368101348293,29.72414402898977],"type":"Point"}
+}

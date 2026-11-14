@@ -1,0 +1,80 @@
+{
+  "id": 9895001780,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.72388445315099,39.59399399823056,-77.72388445315099,39.59399399823056",
+    "geom:latitude":39.593994,
+    "geom:longitude":-77.723884,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 584371: name \"Fiery Siding\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/584371"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 584371: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/584371"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 584371: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/584371"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082189 (Washington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082189 (Washington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fiery Siding"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082189,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":584371
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf9734cf289fb756bcfcab533a5bdde3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":9895001780,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001780,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Fiery Siding",
+    "wof:parent_id":102082189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.72388445315099,
+    39.59399399823056,
+    -77.72388445315099,
+    39.59399399823056
+],
+  "geometry": {"coordinates":[-77.72388445315099,39.59399399823056],"type":"Point"}
+}

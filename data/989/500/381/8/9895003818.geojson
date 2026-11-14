@@ -1,0 +1,82 @@
+{
+  "id": 9895003818,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.57632655259053,35.42646908007146,-84.57632655259053,35.42646908007146",
+    "geom:latitude":35.426469,
+    "geom:longitude":-84.576327,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1307526: name \"Heritage Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1307526"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1307526: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1307526"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1307526: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1307526"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722747 (Athens).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722747 (Athens), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Heritage Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722747,
+        102086293,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1307526
+    },
+    "wof:country":"US",
+    "wof:geomhash":"835a0403949751029d7ddd05c2da6101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":9895003818,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003818,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Heritage Park",
+    "wof:parent_id":101722747,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.57632655259053,
+    35.42646908007146,
+    -84.57632655259053,
+    35.42646908007146
+],
+  "geometry": {"coordinates":[-84.57632655259053,35.42646908007146],"type":"Point"}
+}

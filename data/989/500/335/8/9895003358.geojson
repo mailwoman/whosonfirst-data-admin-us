@@ -1,0 +1,84 @@
+{
+  "id": 9895003358,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.87803123257831,40.279263765618474,-76.87803123257831,40.279263765618474",
+    "geom:latitude":40.279264,
+    "geom:longitude":-76.878031,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201966: name \"Hillside Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201966"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201966: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201966"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201966: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201966"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101717693 (Harrisburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101717693 (Harrisburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hillside Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101717693,
+        102081347,
+        102191575,
+        404486075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1201966
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95ae84e439a7715daf9e3a64b9ff4583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081347,
+            "localadmin_id":404486075,
+            "locality_id":101717693,
+            "neighbourhood_id":9895003358,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003358,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Hillside Village",
+    "wof:parent_id":101717693,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.87803123257831,
+    40.279263765618474,
+    -76.87803123257831,
+    40.279263765618474
+],
+  "geometry": {"coordinates":[-76.87803123257831,40.279263765618474],"type":"Point"}
+}

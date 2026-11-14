@@ -1,0 +1,82 @@
+{
+  "id": 9895006631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.57468886585198,39.14206125213157,-76.57468886585198,39.14206125213157",
+    "geom:latitude":39.142061,
+    "geom:longitude":-76.574689,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1710463: name \"Freetown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1710463"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1710463: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1710463"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1710463: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1710463"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949717 (Glen Burnie).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949717 (Glen Burnie), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Freetown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949717,
+        102083469,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1710463
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16acc45b4fbae7192e5076563c2909ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "neighbourhood_id":9895006631,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006631,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Freetown",
+    "wof:parent_id":85949717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.57468886585198,
+    39.14206125213157,
+    -76.57468886585198,
+    39.14206125213157
+],
+  "geometry": {"coordinates":[-76.57468886585198,39.14206125213157],"type":"Point"}
+}

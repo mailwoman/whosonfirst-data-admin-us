@@ -1,0 +1,82 @@
+{
+  "id": 9895005708,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.40282697623026,43.77086359766818,-85.40282697623026,43.77086359766818",
+    "geom:latitude":43.770864,
+    "geom:longitude":-85.402827,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1617595: name \"Grant Center\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1617595"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1617595: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1617595"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1617595: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1617595"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404508751 (Grant Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404508751 (Grant Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Grant Center"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688599,
+        102083129,
+        102191575,
+        404508751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1617595
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5a78ddcdc174ad6581efe3ec8fcd702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083129,
+            "localadmin_id":404508751,
+            "locality_id":9895005708,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":9895005708,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Grant Center",
+    "wof:parent_id":404508751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.40282697623026,
+    43.77086359766818,
+    -85.40282697623026,
+    43.77086359766818
+],
+  "geometry": {"coordinates":[-85.40282697623026,43.77086359766818],"type":"Point"}
+}

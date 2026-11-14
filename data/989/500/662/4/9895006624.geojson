@@ -1,0 +1,80 @@
+{
+  "id": 9895006624,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.49079693970815,39.14595045591053,-76.49079693970815,39.14595045591053",
+    "geom:latitude":39.14595,
+    "geom:longitude":-76.490797,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1709427: name \"Rock Creek Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1709427"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1709427: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1709427"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1709427: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1709427"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083469 (Anne Arundel).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083469 (Anne Arundel), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rock Creek Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102083469,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1709427
+    },
+    "wof:country":"US",
+    "wof:geomhash":"deb6922787f975f253ef09a124aa6aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":9895006624,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006624,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Rock Creek Park",
+    "wof:parent_id":102083469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.49079693970815,
+    39.14595045591053,
+    -76.49079693970815,
+    39.14595045591053
+],
+  "geometry": {"coordinates":[-76.49079693970815,39.14595045591053],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006750,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.07523552123905,38.70685232210647,-121.07523552123905,38.70685232210647",
+    "geom:latitude":38.706852,
+    "geom:longitude":-121.075236,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733987: name \"Oak Tree Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733987"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733987: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733987"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733987: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733987"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85924065 (El Dorado Hills).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85924065 (El Dorado Hills), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oak Tree Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85924065,
+        102086953,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1733987
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00122f9d2c997c87a13b604a0d825db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086953,
+            "locality_id":85924065,
+            "neighbourhood_id":9895006750,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006750,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Oak Tree Village",
+    "wof:parent_id":85924065,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.07523552123905,
+    38.70685232210647,
+    -121.07523552123905,
+    38.70685232210647
+],
+  "geometry": {"coordinates":[-121.07523552123905,38.70685232210647],"type":"Point"}
+}

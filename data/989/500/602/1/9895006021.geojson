@@ -1,0 +1,82 @@
+{
+  "id": 9895006021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.3195316942275,33.982518444384915,-118.3195316942275,33.982518444384915",
+    "geom:latitude":33.982518,
+    "geom:longitude":-118.319532,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661623: name \"Van Ness\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661623"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661623: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661623"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661623: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661623"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923517 (Los Angeles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923517 (Los Angeles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Van Ness"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923517,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661623
+    },
+    "wof:country":"US",
+    "wof:geomhash":"362a8745c4b3b59db6e0b31341bf5a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":9895006021,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006021,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Van Ness",
+    "wof:parent_id":85923517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.3195316942275,
+    33.982518444384915,
+    -118.3195316942275,
+    33.982518444384915
+],
+  "geometry": {"coordinates":[-118.3195316942275,33.982518444384915],"type":"Point"}
+}

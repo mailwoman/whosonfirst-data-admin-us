@@ -1,0 +1,82 @@
+{
+  "id": 9895004930,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.08995453250822,41.170783166845666,-112.08995453250822,41.170783166845666",
+    "geom:latitude":41.170783,
+    "geom:longitude":-112.089955,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453320: name \"Western Willows Cluster\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453320"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453320: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453320"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453320: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453320"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728011 (Hooper).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728011 (Hooper), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Western Willows Cluster"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728011,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453320
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1b1639b63c9c1fdd470c24431e4d28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728011,
+            "neighbourhood_id":9895004930,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004930,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Western Willows Cluster",
+    "wof:parent_id":101728011,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.08995453250822,
+    41.170783166845666,
+    -112.08995453250822,
+    41.170783166845666
+],
+  "geometry": {"coordinates":[-112.08995453250822,41.170783166845666],"type":"Point"}
+}

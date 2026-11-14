@@ -1,0 +1,82 @@
+{
+  "id": 9895008019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-155.21996221477573,19.429085877401207,-155.21996221477573,19.429085877401207",
+    "geom:latitude":19.429086,
+    "geom:longitude":-155.219962,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806899: name \"Mauna Loa Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806899"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806899: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806899"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806899: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806899"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937385 (Volcano).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937385 (Volcano), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mauna Loa Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688671,
+        85937385,
+        102085433,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806899
+    },
+    "wof:country":"US",
+    "wof:geomhash":"80613a7ff819f4e326b6492420073df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937385,
+            "neighbourhood_id":9895008019,
+            "region_id":85688671
+        }
+    ],
+    "wof:id":9895008019,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Mauna Loa Estates",
+    "wof:parent_id":85937385,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.21996221477573,
+    19.429085877401207,
+    -155.21996221477573,
+    19.429085877401207
+],
+  "geometry": {"coordinates":[-155.21996221477573,19.429085877401207],"type":"Point"}
+}

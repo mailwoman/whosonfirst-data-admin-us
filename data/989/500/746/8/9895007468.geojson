@@ -1,0 +1,82 @@
+{
+  "id": 9895007468,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.07612123937946,39.836950826637974,-105.07612123937946,39.836950826637974",
+    "geom:latitude":39.836951,
+    "geom:longitude":-105.076121,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354731: name \"Parkway Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354731"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354731: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354731"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354731: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354731"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929333 (Arvada).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929333 (Arvada), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Parkway Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929333,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354731
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b255d3772660afaf17fa7d736da0ee09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":85929333,
+            "neighbourhood_id":9895007468,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007468,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Parkway Estates",
+    "wof:parent_id":85929333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.07612123937946,
+    39.836950826637974,
+    -105.07612123937946,
+    39.836950826637974
+],
+  "geometry": {"coordinates":[-105.07612123937946,39.836950826637974],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895001631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.43317531519843,30.734356235333788,-91.43317531519843,30.734356235333788",
+    "geom:latitude":30.734356,
+    "geom:longitude":-91.433175,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 555694: name \"Pointe Coupee\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/555694"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 555694: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/555694"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 555694: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/555694"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083807 (Pointe Coupee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083807 (Pointe Coupee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pointe Coupee"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        102083807,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":555694
+    },
+    "wof:country":"US",
+    "wof:geomhash":"813fc3da6e1a43453c6c432170fbc615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083807,
+            "locality_id":9895001631,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001631,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Pointe Coupee",
+    "wof:parent_id":102083807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.43317531519843,
+    30.734356235333788,
+    -91.43317531519843,
+    30.734356235333788
+],
+  "geometry": {"coordinates":[-91.43317531519843,30.734356235333788],"type":"Point"}
+}

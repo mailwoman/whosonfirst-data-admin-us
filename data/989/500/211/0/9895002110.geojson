@@ -1,0 +1,80 @@
+{
+  "id": 9895002110,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.0217561146581,32.37792773218743,-90.0217561146581,32.37792773218743",
+    "geom:latitude":32.377928,
+    "geom:longitude":-90.021756,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687039: name \"Forest Point\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687039"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687039: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687039"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687039: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687039"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084869 (Rankin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084869 (Rankin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Forest Point"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102084869,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":687039
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d76f76f80e0e82cea888eba913722897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":9895002110,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002110,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Forest Point",
+    "wof:parent_id":102084869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.0217561146581,
+    32.37792773218743,
+    -90.0217561146581,
+    32.37792773218743
+],
+  "geometry": {"coordinates":[-90.0217561146581,32.37792773218743],"type":"Point"}
+}

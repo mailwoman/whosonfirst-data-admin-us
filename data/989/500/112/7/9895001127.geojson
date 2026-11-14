@@ -1,0 +1,82 @@
+{
+  "id": 9895001127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.46326692295773,33.72233632615213,-84.46326692295773,33.72233632615213",
+    "geom:latitude":33.722336,
+    "geom:longitude":-84.463267,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 331336: name \"Cascade Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/331336"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 331336: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/331336"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 331336: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/331336"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936429 (Atlanta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936429 (Atlanta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cascade Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936429,
+        102083603,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":331336
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b46b51048e817ce1a110a75f943050e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":9895001127,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001127,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Cascade Heights",
+    "wof:parent_id":85936429,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.46326692295773,
+    33.72233632615213,
+    -84.46326692295773,
+    33.72233632615213
+],
+  "geometry": {"coordinates":[-84.46326692295773,33.72233632615213],"type":"Point"}
+}

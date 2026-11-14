@@ -1,0 +1,80 @@
+{
+  "id": 9895008054,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.5570784610675,38.966779779402636,-77.5570784610675,38.966779779402636",
+    "geom:latitude":38.96678,
+    "geom:longitude":-77.557078,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807334: name \"Willowsford\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807334"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807334: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807334"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807334: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807334"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084951 (Loudoun).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084951 (Loudoun), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Willowsford"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102084951,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807334
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6fd5eb334b0d10da188a5842f169aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":9895008054,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895008054,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Willowsford",
+    "wof:parent_id":102084951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.5570784610675,
+    38.966779779402636,
+    -77.5570784610675,
+    38.966779779402636
+],
+  "geometry": {"coordinates":[-77.5570784610675,38.966779779402636],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895003145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.99133615528429,34.71183530211287,-76.99133615528429,34.71183530211287",
+    "geom:latitude":34.711835,
+    "geom:longitude":-76.991336,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1021716: name \"Ocean\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1021716"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1021716: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1021716"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1021716: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1021716"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080875 (Carteret).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080875 (Carteret), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ocean"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080875,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1021716
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2bbed7a5e8355f5d4c4ba044904fa4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080875,
+            "locality_id":9895003145,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003145,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Ocean",
+    "wof:parent_id":102080875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.99133615528429,
+    34.71183530211287,
+    -76.99133615528429,
+    34.71183530211287
+],
+  "geometry": {"coordinates":[-76.99133615528429,34.71183530211287],"type":"Point"}
+}

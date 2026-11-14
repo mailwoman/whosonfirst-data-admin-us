@@ -1,0 +1,80 @@
+{
+  "id": 9895002570,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.15196178414796,36.150146439475606,-79.15196178414796,36.150146439475606",
+    "geom:latitude":36.150146,
+    "geom:longitude":-79.151962,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002523: name \"Walkers Landing\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002523"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002523: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002523"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002523: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002523"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087647 (Orange).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087647 (Orange), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Walkers Landing"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087647,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1002523
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e75263936d38b892d6214cb62869feb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087647,
+            "locality_id":9895002570,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002570,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Walkers Landing",
+    "wof:parent_id":102087647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.15196178414796,
+    36.150146439475606,
+    -79.15196178414796,
+    36.150146439475606
+],
+  "geometry": {"coordinates":[-79.15196178414796,36.150146439475606],"type":"Point"}
+}

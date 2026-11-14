@@ -1,0 +1,80 @@
+{
+  "id": 9895005678,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.60177810882412,37.58234164099528,-81.60177810882412,37.58234164099528",
+    "geom:latitude":37.582342,
+    "geom:longitude":-81.601778,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1556034: name \"Wyoming\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1556034"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1556034: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1556034"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1556034: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1556034"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083379 (Wyoming).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083379 (Wyoming), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wyoming"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        102083379,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1556034
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33223792248fc1234d35c03618667331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083379,
+            "locality_id":9895005678,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895005678,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Wyoming",
+    "wof:parent_id":102083379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.60177810882412,
+    37.58234164099528,
+    -81.60177810882412,
+    37.58234164099528
+],
+  "geometry": {"coordinates":[-81.60177810882412,37.58234164099528],"type":"Point"}
+}

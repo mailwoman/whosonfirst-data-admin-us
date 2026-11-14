@@ -1,0 +1,80 @@
+{
+  "id": 9895003781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.57361153041073,35.46369070493523,-86.57361153041073,35.46369070493523",
+    "geom:latitude":35.463691,
+    "geom:longitude":-86.573612,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1276751: name \"Bedford\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1276751"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1276751: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1276751"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1276751: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1276751"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086459 (Bedford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086459 (Bedford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bedford"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086459,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1276751
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dabb2a313fa354702468961d077dbb1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086459,
+            "locality_id":9895003781,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003781,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Bedford",
+    "wof:parent_id":102086459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.57361153041073,
+    35.46369070493523,
+    -86.57361153041073,
+    35.46369070493523
+],
+  "geometry": {"coordinates":[-86.57361153041073,35.46369070493523],"type":"Point"}
+}

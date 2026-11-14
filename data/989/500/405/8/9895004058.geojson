@@ -1,0 +1,82 @@
+{
+  "id": 9895004058,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.40918680213021,31.444061156812786,-97.40918680213021,31.444061156812786",
+    "geom:latitude":31.444061,
+    "geom:longitude":-97.409187,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1362469: name \"McGregor\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1362469"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1362469: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1362469"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1362469: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1362469"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101724891 (McGregor).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101724891 (McGregor), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "McGregor"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        101724891,
+        102085007,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1362469
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2bf5a02988086f304e8a41003322e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085007,
+            "locality_id":101724891,
+            "neighbourhood_id":9895004058,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004058,
+    "wof:lastmodified":1794681135,
+    "wof:name":"McGregor",
+    "wof:parent_id":101724891,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.40918680213021,
+    31.444061156812786,
+    -97.40918680213021,
+    31.444061156812786
+],
+  "geometry": {"coordinates":[-97.40918680213021,31.444061156812786],"type":"Point"}
+}

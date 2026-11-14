@@ -1,0 +1,82 @@
+{
+  "id": 9895000559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.8583274806378,33.22428823074326,-86.8583274806378,33.22428823074326",
+    "geom:latitude":33.224288,
+    "geom:longitude":-86.858327,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146418: name \"Eaglewood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146418"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146418: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146418"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146418: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146418"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914487 (Alabaster).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914487 (Alabaster), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Eaglewood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914487,
+        102085499,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146418
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c598c18a7d0f49c3fe8d339a7b8c8712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085499,
+            "locality_id":85914487,
+            "neighbourhood_id":9895000559,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000559,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Eaglewood Estates",
+    "wof:parent_id":85914487,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.8583274806378,
+    33.22428823074326,
+    -86.8583274806378,
+    33.22428823074326
+],
+  "geometry": {"coordinates":[-86.8583274806378,33.22428823074326],"type":"Point"}
+}

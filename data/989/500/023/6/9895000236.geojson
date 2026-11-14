@@ -1,0 +1,80 @@
+{
+  "id": 9895000236,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.45566390435235,35.24426109314158,-90.45566390435235,35.24426109314158",
+    "geom:latitude":35.244261,
+    "geom:longitude":-90.455664,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 57608: name \"Crittenden\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/57608"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 57608: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/57608"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 57608: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/57608"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082505 (Crittenden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082505 (Crittenden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Crittenden"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        102082505,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":57608
+    },
+    "wof:country":"US",
+    "wof:geomhash":"39a5f38c1ef705937efbaf94b4428fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082505,
+            "locality_id":9895000236,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000236,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Crittenden",
+    "wof:parent_id":102082505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.45566390435235,
+    35.24426109314158,
+    -90.45566390435235,
+    35.24426109314158
+],
+  "geometry": {"coordinates":[-90.45566390435235,35.24426109314158],"type":"Point"}
+}

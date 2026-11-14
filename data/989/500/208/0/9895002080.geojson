@@ -1,0 +1,82 @@
+{
+  "id": 9895002080,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.36817563680934,31.545450108507303,-91.36817563680934,31.545450108507303",
+    "geom:latitude":31.54545,
+    "geom:longitude":-91.368176,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686063: name \"Saint Catherine\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686063"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686063: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686063"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686063: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686063"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969973 (Natchez).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969973 (Natchez), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Catherine"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969973,
+        102082443,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":686063
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a09b93c5bdeb7232018bc5c886f8ee92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082443,
+            "locality_id":85969973,
+            "neighbourhood_id":9895002080,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002080,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Saint Catherine",
+    "wof:parent_id":85969973,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.36817563680934,
+    31.545450108507303,
+    -91.36817563680934,
+    31.545450108507303
+],
+  "geometry": {"coordinates":[-91.36817563680934,31.545450108507303],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895007785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.83167677501757,39.76667313389839,-104.83167677501757,39.76667313389839",
+    "geom:latitude":39.766673,
+    "geom:longitude":-104.831677,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2677413: name \"Magnolia\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2677413"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2677413: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2677413"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2677413: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2677413"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929235 (Aurora).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929235 (Aurora), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Magnolia"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929235,
+        102086877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2677413
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c6a42df1f74f6035de4e06d21bd673c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086877,
+            "locality_id":85929235,
+            "neighbourhood_id":9895007785,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007785,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Magnolia",
+    "wof:parent_id":85929235,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.83167677501757,
+    39.76667313389839,
+    -104.83167677501757,
+    39.76667313389839
+],
+  "geometry": {"coordinates":[-104.83167677501757,39.76667313389839],"type":"Point"}
+}

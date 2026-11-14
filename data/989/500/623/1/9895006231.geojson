@@ -1,0 +1,82 @@
+{
+  "id": 9895006231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.00688624486406,33.05985246334036,-85.00688624486406,33.05985246334036",
+    "geom:latitude":33.059852,
+    "geom:longitude":-85.006886,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673179: name \"Brookstone Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673179"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673179: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673179"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673179: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673179"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936703 (LaGrange).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936703 (LaGrange), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brookstone Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936703,
+        102083595,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1673179
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aba92c80f26b7d3bb63e13d56b6658de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":9895006231,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006231,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Brookstone Estates",
+    "wof:parent_id":85936703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.00688624486406,
+    33.05985246334036,
+    -85.00688624486406,
+    33.05985246334036
+],
+  "geometry": {"coordinates":[-85.00688624486406,33.05985246334036],"type":"Point"}
+}

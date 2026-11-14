@@ -1,0 +1,82 @@
+{
+  "id": 9895002166,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.30426379032112,32.35153981580337,-90.30426379032112,32.35153981580337",
+    "geom:latitude":32.35154,
+    "geom:longitude":-90.304264,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688232: name \"Breckenridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688232"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688232: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688232"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688232: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688232"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969677 (Clinton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969677 (Clinton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Breckenridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969677,
+        102081407,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":688232
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3eacebd591ea01e07fd456c385855fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":9895002166,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002166,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Breckenridge",
+    "wof:parent_id":85969677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.30426379032112,
+    32.35153981580337,
+    -90.30426379032112,
+    32.35153981580337
+],
+  "geometry": {"coordinates":[-90.30426379032112,32.35153981580337],"type":"Point"}
+}

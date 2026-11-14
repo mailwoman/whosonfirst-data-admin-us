@@ -1,0 +1,82 @@
+{
+  "id": 9895007963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.32456839361203,39.477086364675095,-75.32456839361203,39.477086364675095",
+    "geom:latitude":39.477086,
+    "geom:longitude":-75.324568,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806226: name \"Arrowhead Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806226"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806226: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806226"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806226: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806226"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404478093 (Stow Creek Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404478093 (Stow Creek Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Arrowhead Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102080721,
+        102191575,
+        404478093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806226
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0a8ce3a7cc8e10567c200a975874b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080721,
+            "localadmin_id":404478093,
+            "locality_id":9895007963,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895007963,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Arrowhead Lake",
+    "wof:parent_id":404478093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.32456839361203,
+    39.477086364675095,
+    -75.32456839361203,
+    39.477086364675095
+],
+  "geometry": {"coordinates":[-75.32456839361203,39.477086364675095],"type":"Point"}
+}

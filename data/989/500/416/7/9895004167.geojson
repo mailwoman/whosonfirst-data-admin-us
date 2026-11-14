@@ -1,0 +1,80 @@
+{
+  "id": 9895004167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.45488956676907,39.39386338649172,-110.45488956676907,39.39386338649172",
+    "geom:latitude":39.393863,
+    "geom:longitude":-110.45489,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1437518: name \"Cedar\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1437518"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1437518: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1437518"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1437518: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1437518"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084357 (Emery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084357 (Emery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cedar"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        102084357,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1437518
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae172ecf2eac92c7396833f6a2077c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084357,
+            "locality_id":9895004167,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004167,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Cedar",
+    "wof:parent_id":102084357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.45488956676907,
+    39.39386338649172,
+    -110.45488956676907,
+    39.39386338649172
+],
+  "geometry": {"coordinates":[-110.45488956676907,39.39386338649172],"type":"Point"}
+}

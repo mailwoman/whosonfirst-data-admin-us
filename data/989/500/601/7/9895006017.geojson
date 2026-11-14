@@ -1,0 +1,80 @@
+{
+  "id": 9895006017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.60148916525377,34.27806266047057,-118.60148916525377,34.27806266047057",
+    "geom:latitude":34.278063,
+    "geom:longitude":-118.601489,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661593: name \"Twin Lakes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661593"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661593: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661593"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661593: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661593"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086957 (Los Angeles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086957 (Los Angeles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Twin Lakes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661593
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a97c41dce60b173b59742f3533312ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":9895006017,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006017,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Twin Lakes",
+    "wof:parent_id":102086957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.60148916525377,
+    34.27806266047057,
+    -118.60148916525377,
+    34.27806266047057
+],
+  "geometry": {"coordinates":[-118.60148916525377,34.27806266047057],"type":"Point"}
+}

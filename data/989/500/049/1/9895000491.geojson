@@ -1,0 +1,82 @@
+{
+  "id": 9895000491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.15306251735888,30.667696332727342,-88.15306251735888,30.667696332727342",
+    "geom:latitude":30.667696,
+    "geom:longitude":-88.153063,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143307: name \"Eau Claire Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143307"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143307: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143307"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143307: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143307"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913749 (Mobile).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913749 (Mobile), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Eau Claire Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913749,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143307
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49bd67f73fa7c4d849f63892a22c1bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":85913749,
+            "neighbourhood_id":9895000491,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000491,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Eau Claire Estates",
+    "wof:parent_id":85913749,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.15306251735888,
+    30.667696332727342,
+    -88.15306251735888,
+    30.667696332727342
+],
+  "geometry": {"coordinates":[-88.15306251735888,30.667696332727342],"type":"Point"}
+}

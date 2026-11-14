@@ -1,0 +1,80 @@
+{
+  "id": 9895007886,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.16287401343473,35.87092258635406,-95.16287401343473,35.87092258635406",
+    "geom:latitude":35.870923,
+    "geom:longitude":-95.162874,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805334: name \"Norwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805334"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805334: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805334"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805334: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805334"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083953 (Cherokee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083953 (Cherokee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Norwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688585,
+        102083953,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805334
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49eefc6f385dd68313e336e86831cbe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083953,
+            "locality_id":9895007886,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":9895007886,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Norwood",
+    "wof:parent_id":102083953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.16287401343473,
+    35.87092258635406,
+    -95.16287401343473,
+    35.87092258635406
+],
+  "geometry": {"coordinates":[-95.16287401343473,35.87092258635406],"type":"Point"}
+}

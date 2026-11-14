@@ -1,0 +1,82 @@
+{
+  "id": 9895005535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.18720553848594,38.840675868187525,-77.18720553848594,38.840675868187525",
+    "geom:latitude":38.840676,
+    "geom:longitude":-77.187206,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1492799: name \"Columbia Pines\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1492799"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1492799: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1492799"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1492799: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1492799"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101729723 (Annandale).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101729723 (Annandale), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Columbia Pines"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101729723,
+        102084863,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1492799
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be6b10ba108d4d3b1355c8253ba98394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729723,
+            "neighbourhood_id":9895005535,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005535,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Columbia Pines",
+    "wof:parent_id":101729723,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.18720553848594,
+    38.840675868187525,
+    -77.18720553848594,
+    38.840675868187525
+],
+  "geometry": {"coordinates":[-77.18720553848594,38.840675868187525],"type":"Point"}
+}

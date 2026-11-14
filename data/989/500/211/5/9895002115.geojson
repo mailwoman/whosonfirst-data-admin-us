@@ -1,0 +1,80 @@
+{
+  "id": 9895002115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.00925581134118,32.375427731932184,-90.00925581134118,32.375427731932184",
+    "geom:latitude":32.375428,
+    "geom:longitude":-90.009256,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687061: name \"Millrun\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687061"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687061: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687061"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687061: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687061"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084869 (Rankin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084869 (Rankin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Millrun"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102084869,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":687061
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e37336e29479d29f64fb88ced4c99007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":9895002115,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002115,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Millrun",
+    "wof:parent_id":102084869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.00925581134118,
+    32.375427731932184,
+    -90.00925581134118,
+    32.375427731932184
+],
+  "geometry": {"coordinates":[-90.00925581134118,32.375427731932184],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.27697907047076,41.10032143809999,-87.27697907047076,41.10032143809999",
+    "geom:latitude":41.100321,
+    "geom:longitude":-87.276979,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 446685: name \"Pembroke\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/446685"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 446685: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/446685"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 446685: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/446685"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404501345 (Lincoln Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404501345 (Lincoln Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pembroke"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102086363,
+        102191575,
+        404501345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":446685
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e133f611376237d076a0dc70cb45646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":9895001459,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895001459,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Pembroke",
+    "wof:parent_id":404501345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.27697907047076,
+    41.10032143809999,
+    -87.27697907047076,
+    41.10032143809999
+],
+  "geometry": {"coordinates":[-87.27697907047076,41.10032143809999],"type":"Point"}
+}

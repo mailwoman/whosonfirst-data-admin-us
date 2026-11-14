@@ -1,0 +1,82 @@
+{
+  "id": 9895006134,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.17491203405861,31.561291262836825,-84.17491203405861,31.561291262836825",
+    "geom:latitude":31.561291,
+    "geom:longitude":-84.174912,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671155: name \"Lincoln Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671155"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671155: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671155"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671155: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671155"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85935991 (Albany).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85935991 (Albany), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lincoln Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85935991,
+        102084427,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671155
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7cc0c986842e3d82463b60c10903128c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":9895006134,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006134,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Lincoln Heights",
+    "wof:parent_id":85935991,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.17491203405861,
+    31.561291262836825,
+    -84.17491203405861,
+    31.561291262836825
+],
+  "geometry": {"coordinates":[-84.17491203405861,31.561291262836825],"type":"Point"}
+}

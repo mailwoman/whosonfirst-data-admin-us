@@ -1,0 +1,80 @@
+{
+  "id": 9895007880,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.66065229616454,36.98084316876218,-119.66065229616454,36.98084316876218",
+    "geom:latitude":36.980843,
+    "geom:longitude":-119.660652,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805245: name \"Millerton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805245"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805245: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805245"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805245: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805245"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084347 (Fresno).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084347 (Fresno), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Millerton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102084347,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805245
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29878a37e1e151d6588481d59903df77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084347,
+            "locality_id":9895007880,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007880,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Millerton",
+    "wof:parent_id":102084347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.66065229616454,
+    36.98084316876218,
+    -119.66065229616454,
+    36.98084316876218
+],
+  "geometry": {"coordinates":[-119.66065229616454,36.98084316876218],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895004074,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.31499849579426,29.769122431902794,-97.31499849579426,29.769122431902794",
+    "geom:latitude":29.769122,
+    "geom:longitude":-97.314998,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378054: name \"Brown Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378054"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378054: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378054"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378054: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378054"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084997 (Gonzales).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084997 (Gonzales), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brown Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102084997,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1378054
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2cac9dc6a92921581ed6c709acd22923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084997,
+            "locality_id":9895004074,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004074,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Brown Hill",
+    "wof:parent_id":102084997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.31499849579426,
+    29.769122431902794,
+    -97.31499849579426,
+    29.769122431902794
+],
+  "geometry": {"coordinates":[-97.31499849579426,29.769122431902794],"type":"Point"}
+}

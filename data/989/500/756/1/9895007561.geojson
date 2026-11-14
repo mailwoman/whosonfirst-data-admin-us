@@ -1,0 +1,84 @@
+{
+  "id": 9895007561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.1985061883405,38.61620713943593,-90.1985061883405,38.61620713943593",
+    "geom:latitude":38.616207,
+    "geom:longitude":-90.198506,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2469191: name \"La Salle\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2469191"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2469191: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2469191"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2469191: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2469191"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85971343 (St. Louis).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85971343 (St. Louis), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "La Salle"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        85971343,
+        102080791,
+        102191575,
+        404518053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2469191
+    },
+    "wof:country":"US",
+    "wof:geomhash":"006ca4996a6f9ee1fd56a388d93ac11d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":9895007561,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895007561,
+    "wof:lastmodified":1794681144,
+    "wof:name":"La Salle",
+    "wof:parent_id":85971343,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.1985061883405,
+    38.61620713943593,
+    -90.1985061883405,
+    38.61620713943593
+],
+  "geometry": {"coordinates":[-90.1985061883405,38.61620713943593],"type":"Point"}
+}

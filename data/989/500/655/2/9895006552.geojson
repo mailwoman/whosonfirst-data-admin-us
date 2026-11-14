@@ -1,0 +1,82 @@
+{
+  "id": 9895006552,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.1802767276208,39.751829920334735,-122.1802767276208,39.751829920334735",
+    "geom:latitude":39.75183,
+    "geom:longitude":-122.180277,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1702564: name \"Meadowood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1702564"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1702564: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1702564"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1702564: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1702564"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921937 (Orland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921937 (Orland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meadowood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85921937,
+        102084355,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1702564
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c009935e7faf1ee2987f156ab7e3e01e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084355,
+            "locality_id":85921937,
+            "neighbourhood_id":9895006552,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006552,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Meadowood Estates",
+    "wof:parent_id":85921937,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.1802767276208,
+    39.751829920334735,
+    -122.1802767276208,
+    39.751829920334735
+],
+  "geometry": {"coordinates":[-122.1802767276208,39.751829920334735],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895004071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.18220152381157,25.99202895734817,-97.18220152381157,25.99202895734817",
+    "geom:latitude":25.992029,
+    "geom:longitude":-97.182202,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1377502: name \"Starbase\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1377502"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1377502: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1377502"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1377502: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1377502"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086761 (Cameron).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086761 (Cameron), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Starbase"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102086761,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1377502
+    },
+    "wof:country":"US",
+    "wof:geomhash":"feb95e059ba1e900fd492c8e284e365a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086761,
+            "locality_id":9895004071,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004071,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Starbase",
+    "wof:parent_id":102086761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.18220152381157,
+    25.99202895734817,
+    -97.18220152381157,
+    25.99202895734817
+],
+  "geometry": {"coordinates":[-97.18220152381157,25.99202895734817],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.02278337069805,39.96842896026322,-78.02278337069805,39.96842896026322",
+    "geom:latitude":39.968429,
+    "geom:longitude":-78.022783,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1189038: name \"Summit\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1189038"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1189038: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1189038"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1189038: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1189038"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404485539 (Todd Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404485539 (Todd Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Summit"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081273,
+        102191575,
+        404485539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1189038
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f90298e1fe60d45712397e192d8d154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081273,
+            "localadmin_id":404485539,
+            "locality_id":9895003293,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003293,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Summit",
+    "wof:parent_id":404485539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.02278337069805,
+    39.96842896026322,
+    -78.02278337069805,
+    39.96842896026322
+],
+  "geometry": {"coordinates":[-78.02278337069805,39.96842896026322],"type":"Point"}
+}

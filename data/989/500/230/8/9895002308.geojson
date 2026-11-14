@@ -1,0 +1,82 @@
+{
+  "id": 9895002308,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.2129233939973,40.366783780957526,-74.2129233939973,40.366783780957526",
+    "geom:latitude":40.366784,
+    "geom:longitude":-74.212923,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 879364: name \"Pleasant Valley\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/879364"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 879364: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/879364"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 879364: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/879364"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404478365 (Marlboro Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404478365 (Marlboro Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pleasant Valley"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102085049,
+        102191575,
+        404478365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":879364
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e16c5e515eee47cfb83980c1edee8462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478365,
+            "locality_id":9895002308,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895002308,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Pleasant Valley",
+    "wof:parent_id":404478365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.2129233939973,
+    40.366783780957526,
+    -74.2129233939973,
+    40.366783780957526
+],
+  "geometry": {"coordinates":[-74.2129233939973,40.366783780957526],"type":"Point"}
+}

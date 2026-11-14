@@ -1,0 +1,80 @@
+{
+  "id": 9895000445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.27914057598572,32.43708708333742,-86.27914057598572,32.43708708333742",
+    "geom:latitude":32.437087,
+    "geom:longitude":-86.279141,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142774: name \"Open Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142774"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142774: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142774"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142774: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142774"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085733 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085733 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Open Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142774
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1142bf01977d11cd844b994f51be1e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":9895000445,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000445,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Open Acres",
+    "wof:parent_id":102085733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.27914057598572,
+    32.43708708333742,
+    -86.27914057598572,
+    32.43708708333742
+],
+  "geometry": {"coordinates":[-86.27914057598572,32.43708708333742],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895001197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.00765338263966,33.36125760068237,-83.00765338263966,33.36125760068237",
+    "geom:latitude":33.361258,
+    "geom:longitude":-83.007653,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 348234: name \"Mount Zion\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/348234"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 348234: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/348234"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 348234: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/348234"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084421 (Hancock).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084421 (Hancock), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mount Zion"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102084421,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":348234
+    },
+    "wof:country":"US",
+    "wof:geomhash":"218cd2df1c3cb0a096e0f74b93a1bc37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084421,
+            "locality_id":9895001197,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001197,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Mount Zion",
+    "wof:parent_id":102084421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.00765338263966,
+    33.36125760068237,
+    -83.00765338263966,
+    33.36125760068237
+],
+  "geometry": {"coordinates":[-83.00765338263966,33.36125760068237],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.07748941937126,40.49471141583607,-105.07748941937126,40.49471141583607",
+    "geom:latitude":40.494711,
+    "geom:longitude":-105.077489,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 177728: name \"Trilby Corner\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/177728"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 177728: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/177728"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 177728: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/177728"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929679 (Fort Collins).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929679 (Fort Collins), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Trilby Corner"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929679,
+        102083353,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":177728
+    },
+    "wof:country":"US",
+    "wof:geomhash":"201be8d5de6bfcce8ea140583897e8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083353,
+            "locality_id":85929679,
+            "neighbourhood_id":9895000893,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000893,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Trilby Corner",
+    "wof:parent_id":85929679,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.07748941937126,
+    40.49471141583607,
+    -105.07748941937126,
+    40.49471141583607
+],
+  "geometry": {"coordinates":[-105.07748941937126,40.49471141583607],"type":"Point"}
+}

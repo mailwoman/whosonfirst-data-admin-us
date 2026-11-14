@@ -1,0 +1,82 @@
+{
+  "id": 9895005571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.25216353768036,36.89543259949851,-76.25216353768036,36.89543259949851",
+    "geom:latitude":36.895433,
+    "geom:longitude":-76.252164,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1496928: name \"Green Hill Farms\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1496928"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1496928: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1496928"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1496928: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1496928"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728769 (Norfolk).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728769 (Norfolk), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Green Hill Farms"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728769,
+        102085935,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1496928
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca7b623727902fd768526d1f22922d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":9895005571,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005571,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Green Hill Farms",
+    "wof:parent_id":101728769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.25216353768036,
+    36.89543259949851,
+    -76.25216353768036,
+    36.89543259949851
+],
+  "geometry": {"coordinates":[-76.25216353768036,36.89543259949851],"type":"Point"}
+}

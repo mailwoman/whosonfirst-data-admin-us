@@ -1,0 +1,82 @@
+{
+  "id": 9895001629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.3875868996338,29.985764910648907,-90.3875868996338,29.985764910648907",
+    "geom:latitude":29.985765,
+    "geom:longitude":-90.387587,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 552943: name \"Prospect\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/552943"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 552943: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/552943"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 552943: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/552943"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948535 (Norco).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948535 (Norco), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Prospect"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948535,
+        102081025,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":552943
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ba1cf663b703006f3d80cea29f07702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081025,
+            "locality_id":85948535,
+            "neighbourhood_id":9895001629,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001629,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Prospect",
+    "wof:parent_id":85948535,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.3875868996338,
+    29.985764910648907,
+    -90.3875868996338,
+    29.985764910648907
+],
+  "geometry": {"coordinates":[-90.3875868996338,29.985764910648907],"type":"Point"}
+}

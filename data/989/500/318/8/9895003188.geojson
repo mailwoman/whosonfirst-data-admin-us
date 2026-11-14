@@ -1,0 +1,80 @@
+{
+  "id": 9895003188,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.28942118679686,36.385931972394275,-95.28942118679686,36.385931972394275",
+    "geom:latitude":36.385932,
+    "geom:longitude":-95.289421,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1100463: name \"Green\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1100463"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1100463: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1100463"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1100463: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1100463"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083307 (Mayes).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083307 (Mayes), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Green"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688585,
+        102083307,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1100463
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f29907d6a2a7a006439c78377edb868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083307,
+            "locality_id":9895003188,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":9895003188,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Green",
+    "wof:parent_id":102083307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.28942118679686,
+    36.385931972394275,
+    -95.28942118679686,
+    36.385931972394275
+],
+  "geometry": {"coordinates":[-95.28942118679686,36.385931972394275],"type":"Point"}
+}

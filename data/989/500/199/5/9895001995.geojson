@@ -1,0 +1,82 @@
+{
+  "id": 9895001995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.08558735674995,43.54864907802077,-85.08558735674995,43.54864907802077",
+    "geom:latitude":43.548649,
+    "geom:longitude":-85.085587,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 632350: name \"Millbrook\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/632350"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 632350: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/632350"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 632350: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/632350"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404507759 (Rolland Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404507759 (Rolland Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Millbrook"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688599,
+        102083065,
+        102191575,
+        404507759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":632350
+    },
+    "wof:country":"US",
+    "wof:geomhash":"06e1198bc8a96a4da116a3e465a05369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083065,
+            "localadmin_id":404507759,
+            "locality_id":9895001995,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":9895001995,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Millbrook",
+    "wof:parent_id":404507759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.08558735674995,
+    43.54864907802077,
+    -85.08558735674995,
+    43.54864907802077
+],
+  "geometry": {"coordinates":[-85.08558735674995,43.54864907802077],"type":"Point"}
+}

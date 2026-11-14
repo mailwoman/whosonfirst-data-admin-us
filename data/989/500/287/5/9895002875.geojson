@@ -1,0 +1,82 @@
+{
+  "id": 9895002875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.94526450909972,35.98071624638033,-77.94526450909972,35.98071624638033",
+    "geom:latitude":35.980716,
+    "geom:longitude":-77.945265,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005252: name \"Winwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005252"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005252: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005252"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005252: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005252"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980525 (Nashville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980525 (Nashville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Winwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980525,
+        102080949,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005252
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd0590e02a1f57eb6b8b7de730455df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080949,
+            "locality_id":85980525,
+            "neighbourhood_id":9895002875,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002875,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Winwood",
+    "wof:parent_id":85980525,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.94526450909972,
+    35.98071624638033,
+    -77.94526450909972,
+    35.98071624638033
+],
+  "geometry": {"coordinates":[-77.94526450909972,35.98071624638033],"type":"Point"}
+}

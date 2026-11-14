@@ -1,0 +1,80 @@
+{
+  "id": 9895000530,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.02499873441181,33.349562649776935,-87.02499873441181,33.349562649776935",
+    "geom:latitude":33.349563,
+    "geom:longitude":-87.024999,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144494: name \"Red Hill Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144494"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144494: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144494"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144494: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144494"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085481 (Jefferson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085481 (Jefferson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Red Hill Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":144494
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c276b4fd6071932ed5204ddc183aa417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":9895000530,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000530,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Red Hill Heights",
+    "wof:parent_id":102085481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.02499873441181,
+    33.349562649776935,
+    -87.02499873441181,
+    33.349562649776935
+],
+  "geometry": {"coordinates":[-87.02499873441181,33.349562649776935],"type":"Point"}
+}

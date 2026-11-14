@@ -1,0 +1,82 @@
+{
+  "id": 9895000629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.19885864749043,32.319590660599914,-86.19885864749043,32.319590660599914",
+    "geom:latitude":32.319591,
+    "geom:longitude":-86.198859,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147708: name \"Bellwood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147708"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147708: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147708"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147708: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147708"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bellwood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147708
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e3998bd717f99bf845da5e5fab2a6726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000629,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000629,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Bellwood Estates",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.19885864749043,
+    32.319590660599914,
+    -86.19885864749043,
+    32.319590660599914
+],
+  "geometry": {"coordinates":[-86.19885864749043,32.319590660599914],"type":"Point"}
+}

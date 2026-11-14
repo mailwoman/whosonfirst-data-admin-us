@@ -1,0 +1,82 @@
+{
+  "id": 9895006131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.13518892206366,31.549625161737875,-84.13518892206366,31.549625161737875",
+    "geom:latitude":31.549625,
+    "geom:longitude":-84.135189,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671146: name \"Kalmon\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671146"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671146: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671146"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671146: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671146"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85935991 (Albany).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85935991 (Albany), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kalmon"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85935991,
+        102084427,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671146
+    },
+    "wof:country":"US",
+    "wof:geomhash":"903e9650f0459f0687bbb221edeb4548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":9895006131,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006131,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Kalmon",
+    "wof:parent_id":85935991,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.13518892206366,
+    31.549625161737875,
+    -84.13518892206366,
+    31.549625161737875
+],
+  "geometry": {"coordinates":[-84.13518892206366,31.549625161737875],"type":"Point"}
+}

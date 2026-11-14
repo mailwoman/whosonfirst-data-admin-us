@@ -1,0 +1,80 @@
+{
+  "id": 9895007586,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.07860693735351,29.960505247898276,-95.07860693735351,29.960505247898276",
+    "geom:latitude":29.960505,
+    "geom:longitude":-95.078607,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2472687: name \"Terramare\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2472687"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2472687: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2472687"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2472687: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2472687"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081111 (Harris).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081111 (Harris), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Terramare"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102081111,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2472687
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92f1006cf2b75decd5aeef9efb6d9629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081111,
+            "locality_id":9895007586,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007586,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Terramare",
+    "wof:parent_id":102081111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.07860693735351,
+    29.960505247898276,
+    -95.07860693735351,
+    29.960505247898276
+],
+  "geometry": {"coordinates":[-95.07860693735351,29.960505247898276],"type":"Point"}
+}

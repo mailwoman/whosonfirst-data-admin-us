@@ -1,0 +1,82 @@
+{
+  "id": 9895003741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.04287268297855,32.7951827748718,-80.04287268297855,32.7951827748718",
+    "geom:latitude":32.795183,
+    "geom:longitude":-80.042873,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1252825: name \"Essex Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1252825"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1252825: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1252825"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1252825: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1252825"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720747 (Charleston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720747 (Charleston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Essex Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720747,
+        102085591,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1252825
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b3c0cc343d4e32fa05e57d72e67a9045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085591,
+            "locality_id":101720747,
+            "neighbourhood_id":9895003741,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003741,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Essex Village",
+    "wof:parent_id":101720747,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.04287268297855,
+    32.7951827748718,
+    -80.04287268297855,
+    32.7951827748718
+],
+  "geometry": {"coordinates":[-80.04287268297855,32.7951827748718],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895005913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.83911618478959,38.71129734109239,-120.83911618478959,38.71129734109239",
+    "geom:latitude":38.711297,
+    "geom:longitude":-120.839116,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659373: name \"Perks Corner\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659373"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659373: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659373"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659373: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659373"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85924069 (Diamond Springs).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85924069 (Diamond Springs), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Perks Corner"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85924069,
+        102086953,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1659373
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8705aba667de5832ca740c0a1e748d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086953,
+            "locality_id":85924069,
+            "neighbourhood_id":9895005913,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005913,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Perks Corner",
+    "wof:parent_id":85924069,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.83911618478959,
+    38.71129734109239,
+    -120.83911618478959,
+    38.71129734109239
+],
+  "geometry": {"coordinates":[-120.83911618478959,38.71129734109239],"type":"Point"}
+}

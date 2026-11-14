@@ -1,0 +1,80 @@
+{
+  "id": 9895004170,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.18151386059341,39.06443593629947,-109.18151386059341,39.06443593629947",
+    "geom:latitude":39.064436,
+    "geom:longitude":-109.181514,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1437836: name \"Cottonwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1437836"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1437836: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1437836"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1437836: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1437836"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083547 (Grand).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083547 (Grand), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cottonwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        102083547,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1437836
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0572fc6384c389e5427038abae59aca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083547,
+            "locality_id":9895004170,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004170,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Cottonwood",
+    "wof:parent_id":102083547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.18151386059341,
+    39.06443593629947,
+    -109.18151386059341,
+    39.06443593629947
+],
+  "geometry": {"coordinates":[-109.18151386059341,39.06443593629947],"type":"Point"}
+}

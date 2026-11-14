@@ -1,0 +1,82 @@
+{
+  "id": 9895000424,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.11524462326456,32.3154245624666,-86.11524462326456,32.3154245624666",
+    "geom:latitude":32.315425,
+    "geom:longitude":-86.115245,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142549: name \"Foxchase\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142549"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142549: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142549"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142549: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142549"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913941 (Pike Road).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913941 (Pike Road), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Foxchase"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913941,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142549
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6835e54b2cf0e90e00d41e01ecff2b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913941,
+            "neighbourhood_id":9895000424,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000424,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Foxchase",
+    "wof:parent_id":85913941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.11524462326456,
+    32.3154245624666,
+    -86.11524462326456,
+    32.3154245624666
+],
+  "geometry": {"coordinates":[-86.11524462326456,32.3154245624666],"type":"Point"}
+}

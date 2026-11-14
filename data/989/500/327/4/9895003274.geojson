@@ -1,0 +1,82 @@
+{
+  "id": 9895003274,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.47740722065622,40.75260411117714,-75.47740722065622,40.75260411117714",
+    "geom:latitude":40.752604,
+    "geom:longitude":-75.477407,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1183640: name \"Petersville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1183640"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1183640: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1183640"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1183640: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1183640"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486359 (Lehigh Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486359 (Lehigh Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Petersville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081395,
+        102191575,
+        404486359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1183640
+    },
+    "wof:country":"US",
+    "wof:geomhash":"432f15e060f22c8173805d0b4a21eaf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081395,
+            "localadmin_id":404486359,
+            "locality_id":9895003274,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003274,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Petersville",
+    "wof:parent_id":404486359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.47740722065622,
+    40.75260411117714,
+    -75.47740722065622,
+    40.75260411117714
+],
+  "geometry": {"coordinates":[-75.47740722065622,40.75260411117714],"type":"Point"}
+}

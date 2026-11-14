@@ -1,0 +1,82 @@
+{
+  "id": 9895005099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.8757821451742,40.855784748690226,-111.8757821451742,40.855784748690226",
+    "geom:latitude":40.855785,
+    "geom:longitude":-111.875782,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453643: name \"Menlove Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453643"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453643: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453643"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453643: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453643"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727881 (Bountiful).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727881 (Bountiful), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Menlove Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727881,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453643
+    },
+    "wof:country":"US",
+    "wof:geomhash":"42a9193a214937572ad1acf7e3037133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":9895005099,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005099,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Menlove Estates",
+    "wof:parent_id":101727881,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.8757821451742,
+    40.855784748690226,
+    -111.8757821451742,
+    40.855784748690226
+],
+  "geometry": {"coordinates":[-111.8757821451742,40.855784748690226],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895005640,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.04179627743056,47.31288443341368,-122.04179627743056,47.31288443341368",
+    "geom:latitude":47.312884,
+    "geom:longitude":-122.041796,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1514326: name \"One Hundred One Pines\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1514326"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1514326: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1514326"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1514326: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1514326"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086191 (King).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086191 (King), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "One Hundred One Pines"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102086191,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1514326
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ecc4f25c245d0072e8f1a1fdca90a049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":9895005640,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005640,
+    "wof:lastmodified":1794681138,
+    "wof:name":"One Hundred One Pines",
+    "wof:parent_id":102086191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.04179627743056,
+    47.31288443341368,
+    -122.04179627743056,
+    47.31288443341368
+],
+  "geometry": {"coordinates":[-122.04179627743056,47.31288443341368],"type":"Point"}
+}

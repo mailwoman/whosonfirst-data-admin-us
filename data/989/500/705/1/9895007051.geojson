@@ -1,0 +1,82 @@
+{
+  "id": 9895007051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.0197745513504,34.9166536235045,-117.0197745513504,34.9166536235045",
+    "geom:latitude":34.916654,
+    "geom:longitude":-117.019775,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1839706: name \"North Barstow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1839706"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1839706: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1839706"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1839706: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1839706"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923877 (Barstow).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923877 (Barstow), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North Barstow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923877,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1839706
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c606a47716894cf0986ba299fe65a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85923877,
+            "neighbourhood_id":9895007051,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007051,
+    "wof:lastmodified":1794681142,
+    "wof:name":"North Barstow",
+    "wof:parent_id":85923877,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.0197745513504,
+    34.9166536235045,
+    -117.0197745513504,
+    34.9166536235045
+],
+  "geometry": {"coordinates":[-117.0197745513504,34.9166536235045],"type":"Point"}
+}

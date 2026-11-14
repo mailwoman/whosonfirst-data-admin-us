@@ -1,0 +1,82 @@
+{
+  "id": 9895007770,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.37056917190927,40.57528296717478,-122.37056917190927,40.57528296717478",
+    "geom:latitude":40.575283,
+    "geom:longitude":-122.370569,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2508641: name \"Marina Travel Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2508641"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2508641: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2508641"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2508641: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2508641"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923859 (Redding).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923859 (Redding), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Marina Travel Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923859,
+        102083577,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2508641
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61e7b5383251dc3d4b9a76f4699ec7ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083577,
+            "locality_id":85923859,
+            "neighbourhood_id":9895007770,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007770,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Marina Travel Park",
+    "wof:parent_id":85923859,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.37056917190927,
+    40.57528296717478,
+    -122.37056917190927,
+    40.57528296717478
+],
+  "geometry": {"coordinates":[-122.37056917190927,40.57528296717478],"type":"Point"}
+}

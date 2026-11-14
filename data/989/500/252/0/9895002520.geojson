@@ -1,0 +1,82 @@
+{
+  "id": 9895002520,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.26505400202474,35.82986683074287,-80.26505400202474,35.82986683074287",
+    "geom:latitude":35.829867,
+    "geom:longitude":-80.265054,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002103: name \"Royal Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002103"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002103: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002103"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002103: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002103"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981033 (Lexington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981033 (Lexington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Royal Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981033,
+        102080877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1002103
+    },
+    "wof:country":"US",
+    "wof:geomhash":"817de076fbeab449f6166d43670e1a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080877,
+            "locality_id":85981033,
+            "neighbourhood_id":9895002520,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002520,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Royal Park",
+    "wof:parent_id":85981033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.26505400202474,
+    35.82986683074287,
+    -80.26505400202474,
+    35.82986683074287
+],
+  "geometry": {"coordinates":[-80.26505400202474,35.82986683074287],"type":"Point"}
+}

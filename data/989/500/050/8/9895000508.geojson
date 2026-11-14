@@ -1,0 +1,82 @@
+{
+  "id": 9895000508,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.35695826497911,30.47103648280661,-88.35695826497911,30.47103648280661",
+    "geom:latitude":30.471036,
+    "geom:longitude":-88.356958,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143660: name \"Pinecrest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143660"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143660: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143660"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143660: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143660"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85915069 (Grand Bay).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85915069 (Grand Bay), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pinecrest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85915069,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143660
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5818d2cf74973ba96bda3330613c293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":85915069,
+            "neighbourhood_id":9895000508,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000508,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Pinecrest",
+    "wof:parent_id":85915069,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.35695826497911,
+    30.47103648280661,
+    -88.35695826497911,
+    30.47103648280661
+],
+  "geometry": {"coordinates":[-88.35695826497911,30.47103648280661],"type":"Point"}
+}

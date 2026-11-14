@@ -1,0 +1,82 @@
+{
+  "id": 9895003360,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.31715986625176,41.90841639983184,-76.31715986625176,41.90841639983184",
+    "geom:latitude":41.908416,
+    "geom:longitude":-76.31716,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1202113: name \"Russellville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1202113"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1202113: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1202113"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1202113: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1202113"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404482729 (Orwell Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404482729 (Orwell Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Russellville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081319,
+        102191575,
+        404482729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1202113
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b91280be0a4f139854bb95f29d367b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081319,
+            "localadmin_id":404482729,
+            "locality_id":9895003360,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003360,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Russellville",
+    "wof:parent_id":404482729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.31715986625176,
+    41.90841639983184,
+    -76.31715986625176,
+    41.90841639983184
+],
+  "geometry": {"coordinates":[-76.31715986625176,41.90841639983184],"type":"Point"}
+}

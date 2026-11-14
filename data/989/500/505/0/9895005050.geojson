@@ -1,0 +1,82 @@
+{
+  "id": 9895005050,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.94134242260624,41.316614594520146,-111.94134242260624,41.316614594520146",
+    "geom:latitude":41.316615,
+    "geom:longitude":-111.941342,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453530: name \"Camarren Cove Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453530"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453530: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453530"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453530: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453530"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728037 (North Ogden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728037 (North Ogden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Camarren Cove Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728037,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453530
+    },
+    "wof:country":"US",
+    "wof:geomhash":"938276e189f7ce785c2f59517887b52c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728037,
+            "neighbourhood_id":9895005050,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005050,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Camarren Cove Estates",
+    "wof:parent_id":101728037,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.94134242260624,
+    41.316614594520146,
+    -111.94134242260624,
+    41.316614594520146
+],
+  "geometry": {"coordinates":[-111.94134242260624,41.316614594520146],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895008085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.07100496342034,41.6230079463212,-85.07100496342034,41.6230079463212",
+    "geom:latitude":41.623008,
+    "geom:longitude":-85.071005,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830286: name \"Holiday Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830286"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830286: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830286"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830286: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830286"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404500341 (Pleasant Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404500341 (Pleasant Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Holiday Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102086479,
+        102191575,
+        404500341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2830286
+    },
+    "wof:country":"US",
+    "wof:geomhash":"079d11e41bf092f62832d144a47cf429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086479,
+            "localadmin_id":404500341,
+            "locality_id":9895008085,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895008085,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Holiday Woods",
+    "wof:parent_id":404500341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.07100496342034,
+    41.6230079463212,
+    -85.07100496342034,
+    41.6230079463212
+],
+  "geometry": {"coordinates":[-85.07100496342034,41.6230079463212],"type":"Point"}
+}

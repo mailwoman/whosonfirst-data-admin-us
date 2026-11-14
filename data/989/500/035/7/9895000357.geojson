@@ -1,0 +1,82 @@
+{
+  "id": 9895000357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.9449690087704,32.97596181146466,-85.9449690087704,32.97596181146466",
+    "geom:latitude":32.975962,
+    "geom:longitude":-85.944969,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137460: name \"Indian Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137460"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137460: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137460"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137460: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137460"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913363 (Alexander City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913363 (Alexander City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Indian Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913363,
+        102085567,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":137460
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7705a880ccd0c4b0d751608ba95194de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085567,
+            "locality_id":85913363,
+            "neighbourhood_id":9895000357,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000357,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Indian Hills",
+    "wof:parent_id":85913363,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.9449690087704,
+    32.97596181146466,
+    -85.9449690087704,
+    32.97596181146466
+],
+  "geometry": {"coordinates":[-85.9449690087704,32.97596181146466],"type":"Point"}
+}

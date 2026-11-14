@@ -1,0 +1,82 @@
+{
+  "id": 9895002845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.84915299148716,34.21545476434738,-77.84915299148716,34.21545476434738",
+    "geom:latitude":34.215455,
+    "geom:longitude":-77.849153,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005134: name \"Bradley Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005134"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005134: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005134"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005134: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005134"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980683 (Wilmington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980683 (Wilmington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bradley Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980683,
+        102087757,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005134
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64416925c7760b79d4b1957bd03ee084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087757,
+            "locality_id":85980683,
+            "neighbourhood_id":9895002845,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002845,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Bradley Park",
+    "wof:parent_id":85980683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.84915299148716,
+    34.21545476434738,
+    -77.84915299148716,
+    34.21545476434738
+],
+  "geometry": {"coordinates":[-77.84915299148716,34.21545476434738],"type":"Point"}
+}

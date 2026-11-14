@@ -1,0 +1,82 @@
+{
+  "id": 9895007160,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-158.02419309541915,21.372446721590325,-158.02419309541915,21.372446721590325",
+    "geom:latitude":21.372447,
+    "geom:longitude":-158.024193,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1905262: name \"West Loch Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1905262"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1905262: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1905262"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1905262: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1905262"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937705 (West Loch Estate).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937705 (West Loch Estate), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "West Loch Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688671,
+        85937705,
+        102085417,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1905262
+    },
+    "wof:country":"US",
+    "wof:geomhash":"077014e89381bd87bb7883080ed3d94e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937705,
+            "neighbourhood_id":9895007160,
+            "region_id":85688671
+        }
+    ],
+    "wof:id":9895007160,
+    "wof:lastmodified":1794681143,
+    "wof:name":"West Loch Estates",
+    "wof:parent_id":85937705,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -158.02419309541915,
+    21.372446721590325,
+    -158.02419309541915,
+    21.372446721590325
+],
+  "geometry": {"coordinates":[-158.02419309541915,21.372446721590325],"type":"Point"}
+}

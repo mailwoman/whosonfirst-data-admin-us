@@ -1,0 +1,82 @@
+{
+  "id": 9895003291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.09883388913124,40.31371150237047,-76.09883388913124,40.31371150237047",
+    "geom:latitude":40.313712,
+    "geom:longitude":-76.098834,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1188095: name \"South Mountain Manor\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1188095"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1188095: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1188095"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1188095: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1188095"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404484559 (South Heidelberg Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404484559 (South Heidelberg Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South Mountain Manor"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080991,
+        102191575,
+        404484559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1188095
+    },
+    "wof:country":"US",
+    "wof:geomhash":"656695a028207fa47545cea9f27d24c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080991,
+            "localadmin_id":404484559,
+            "locality_id":9895003291,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003291,
+    "wof:lastmodified":1794681133,
+    "wof:name":"South Mountain Manor",
+    "wof:parent_id":404484559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.09883388913124,
+    40.31371150237047,
+    -76.09883388913124,
+    40.31371150237047
+],
+  "geometry": {"coordinates":[-76.09883388913124,40.31371150237047],"type":"Point"}
+}

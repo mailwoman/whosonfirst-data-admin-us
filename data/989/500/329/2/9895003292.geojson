@@ -1,0 +1,84 @@
+{
+  "id": 9895003292,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.60004347805932,40.21257874236072,-79.60004347805932,40.21257874236072",
+    "geom:latitude":40.212579,
+    "geom:longitude":-79.600043,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1188399: name \"Stanton Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1188399"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1188399: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1188399"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1188399: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1188399"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101717139 (New Stanton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101717139 (New Stanton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stanton Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101717139,
+        102081383,
+        102191575,
+        404487543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1188399
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28a2f661e4fcef1f62072aa196be03f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081383,
+            "localadmin_id":404487543,
+            "locality_id":101717139,
+            "neighbourhood_id":9895003292,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003292,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Stanton Heights",
+    "wof:parent_id":101717139,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.60004347805932,
+    40.21257874236072,
+    -79.60004347805932,
+    40.21257874236072
+],
+  "geometry": {"coordinates":[-79.60004347805932,40.21257874236072],"type":"Point"}
+}

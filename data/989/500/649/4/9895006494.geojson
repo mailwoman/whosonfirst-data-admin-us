@@ -1,0 +1,82 @@
+{
+  "id": 9895006494,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.95083272591532,33.58705640264997,-86.95083272591532,33.58705640264997",
+    "geom:latitude":33.587056,
+    "geom:longitude":-86.950833,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700070: name \"Westwood Garden Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700070"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700070: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700070"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700070: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700070"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914889 (Adamsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914889 (Adamsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westwood Garden Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914889,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700070
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb56a017d10fabf93fb0ab9ee163fabd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914889,
+            "neighbourhood_id":9895006494,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006494,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Westwood Garden Estates",
+    "wof:parent_id":85914889,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.95083272591532,
+    33.58705640264997,
+    -86.95083272591532,
+    33.58705640264997
+],
+  "geometry": {"coordinates":[-86.95083272591532,33.58705640264997],"type":"Point"}
+}

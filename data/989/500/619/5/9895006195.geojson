@@ -1,0 +1,82 @@
+{
+  "id": 9895006195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.71046326204605,32.871533768346154,-83.71046326204605,32.871533768346154",
+    "geom:latitude":32.871534,
+    "geom:longitude":-83.710463,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672162: name \"Idle Hour Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672162"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672162: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672162"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672162: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672162"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936517 (Macon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936517 (Macon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Idle Hour Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936517,
+        102084373,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1672162
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6112115c88869102195d56abb7c2ca9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":9895006195,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006195,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Idle Hour Estates",
+    "wof:parent_id":85936517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.71046326204605,
+    32.871533768346154,
+    -83.71046326204605,
+    32.871533768346154
+],
+  "geometry": {"coordinates":[-83.71046326204605,32.871533768346154],"type":"Point"}
+}

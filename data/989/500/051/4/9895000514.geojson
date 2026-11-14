@@ -1,0 +1,80 @@
+{
+  "id": 9895000514,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.22917664292324,30.779359855137624,-88.22917664292324,30.779359855137624",
+    "geom:latitude":30.77936,
+    "geom:longitude":-88.229177,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143688: name \"Red Creek Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143688"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143688: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143688"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143688: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143688"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085585 (Mobile).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085585 (Mobile), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Red Creek Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143688
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa4a083bbd69264e8236b82014c4b38e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":9895000514,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000514,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Red Creek Heights",
+    "wof:parent_id":102085585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.22917664292324,
+    30.779359855137624,
+    -88.22917664292324,
+    30.779359855137624
+],
+  "geometry": {"coordinates":[-88.22917664292324,30.779359855137624],"type":"Point"}
+}

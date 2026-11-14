@@ -1,0 +1,82 @@
+{
+  "id": 9895000313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.78304947280392,33.472890385171276,-86.78304947280392,33.472890385171276",
+    "geom:latitude":33.47289,
+    "geom:longitude":-86.783049,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 120285: name \"Hollywood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/120285"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 120285: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/120285"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 120285: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/120285"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914847 (Homewood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914847 (Homewood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hollywood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914847,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":120285
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1107e579d37661c90b6c28038e8db468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914847,
+            "neighbourhood_id":9895000313,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000313,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Hollywood",
+    "wof:parent_id":85914847,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.78304947280392,
+    33.472890385171276,
+    -86.78304947280392,
+    33.472890385171276
+],
+  "geometry": {"coordinates":[-86.78304947280392,33.472890385171276],"type":"Point"}
+}

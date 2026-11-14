@@ -1,0 +1,80 @@
+{
+  "id": 9895000767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.61112430177691,33.40428803876289,-87.61112430177691,33.40428803876289",
+    "geom:latitude":33.404288,
+    "geom:longitude":-87.611124,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148539: name \"Searcy Farms\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148539"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148539: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148539"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148539: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148539"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Searcy Farms"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148539
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40420d5e784c681a20a9d742e61b999b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000767,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000767,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Searcy Farms",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.61112430177691,
+    33.40428803876289,
+    -87.61112430177691,
+    33.40428803876289
+],
+  "geometry": {"coordinates":[-87.61112430177691,33.40428803876289],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895002973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.82198540686207,36.50097888862867,-79.82198540686207,36.50097888862867",
+    "geom:latitude":36.500979,
+    "geom:longitude":-79.821985,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005581: name \"Quesenbury\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005581"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005581: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005581"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005581: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005581"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087893 (Rockingham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087893 (Rockingham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Quesenbury"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087893,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005581
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5935a72a982d5af883b6a7e81e087acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087893,
+            "locality_id":9895002973,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002973,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Quesenbury",
+    "wof:parent_id":102087893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.82198540686207,
+    36.50097888862867,
+    -79.82198540686207,
+    36.50097888862867
+],
+  "geometry": {"coordinates":[-79.82198540686207,36.50097888862867],"type":"Point"}
+}

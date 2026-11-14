@@ -1,0 +1,82 @@
+{
+  "id": 9895002022,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.28757417744663,33.5454053018644,-89.28757417744663,33.5454053018644",
+    "geom:latitude":33.545405,
+    "geom:longitude":-89.287574,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 682872: name \"Westwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/682872"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 682872: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/682872"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 682872: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/682872"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969813 (Eupora).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969813 (Eupora), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969813,
+        102085909,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":682872
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2aba4004a0df9992ded083f0b740b5bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085909,
+            "locality_id":85969813,
+            "neighbourhood_id":9895002022,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002022,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Westwood",
+    "wof:parent_id":85969813,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.28757417744663,
+    33.5454053018644,
+    -89.28757417744663,
+    33.5454053018644
+],
+  "geometry": {"coordinates":[-89.28757417744663,33.5454053018644],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001504,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.62656788476421,37.561968916281415,-101.62656788476421,37.561968916281415",
+    "geom:latitude":37.561969,
+    "geom:longitude":-101.626568,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 484961: name \"Julian\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/484961"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 484961: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/484961"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 484961: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/484961"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404505145 (Big Bow Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404505145 (Big Bow Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Julian"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688555,
+        102082155,
+        102191575,
+        404505145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":484961
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da36202f0379cc106ebf26d691afc868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082155,
+            "localadmin_id":404505145,
+            "locality_id":9895001504,
+            "region_id":85688555
+        }
+    ],
+    "wof:id":9895001504,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Julian",
+    "wof:parent_id":404505145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.62656788476421,
+    37.561968916281415,
+    -101.62656788476421,
+    37.561968916281415
+],
+  "geometry": {"coordinates":[-101.62656788476421,37.561968916281415],"type":"Point"}
+}

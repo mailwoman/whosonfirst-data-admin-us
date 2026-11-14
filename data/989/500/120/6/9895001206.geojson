@@ -1,0 +1,80 @@
+{
+  "id": 9895001206,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.75244081308789,33.85094494219257,-84.75244081308789,33.85094494219257",
+    "geom:latitude":33.850945,
+    "geom:longitude":-84.752441,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349822: name \"Deer Run\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349822"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349822: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349822"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349822: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349822"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084665 (Paulding).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084665 (Paulding), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Deer Run"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102084665,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":349822
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49d140f9c168d47c236eced05f458b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":9895001206,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001206,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Deer Run",
+    "wof:parent_id":102084665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.75244081308789,
+    33.85094494219257,
+    -84.75244081308789,
+    33.85094494219257
+],
+  "geometry": {"coordinates":[-84.75244081308789,33.85094494219257],"type":"Point"}
+}

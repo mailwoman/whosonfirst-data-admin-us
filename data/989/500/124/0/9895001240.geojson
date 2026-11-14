@@ -1,0 +1,82 @@
+{
+  "id": 9895001240,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.53655646673064,33.95595391040109,-83.53655646673064,33.95595391040109",
+    "geom:latitude":33.955954,
+    "geom:longitude":-83.536556,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 356720: name \"Deerwood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/356720"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 356720: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/356720"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 356720: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/356720"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936103 (Bogart).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936103 (Bogart), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Deerwood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936103,
+        102082913,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":356720
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55fccef3208d604ec80ec4bf240c0737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082913,
+            "locality_id":85936103,
+            "neighbourhood_id":9895001240,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001240,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Deerwood Estates",
+    "wof:parent_id":85936103,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.53655646673064,
+    33.95595391040109,
+    -83.53655646673064,
+    33.95595391040109
+],
+  "geometry": {"coordinates":[-83.53655646673064,33.95595391040109],"type":"Point"}
+}

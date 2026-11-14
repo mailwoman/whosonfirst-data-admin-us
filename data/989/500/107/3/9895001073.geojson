@@ -1,0 +1,80 @@
+{
+  "id": 9895001073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.09509082889379,28.894434508817323,-82.09509082889379,28.894434508817323",
+    "geom:latitude":28.894435,
+    "geom:longitude":-82.095091,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 290024: name \"Royal\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/290024"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 290024: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/290024"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 290024: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/290024"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085855 (Sumter).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085855 (Sumter), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Royal"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102085855,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":290024
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10e3206487e886c735c462e0fc6f17ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085855,
+            "locality_id":9895001073,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001073,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Royal",
+    "wof:parent_id":102085855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.09509082889379,
+    28.894434508817323,
+    -82.09509082889379,
+    28.894434508817323
+],
+  "geometry": {"coordinates":[-82.09509082889379,28.894434508817323],"type":"Point"}
+}

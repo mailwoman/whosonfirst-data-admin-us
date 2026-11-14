@@ -1,0 +1,80 @@
+{
+  "id": 9895006462,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.33440572038133,39.62928065840969,-76.33440572038133,39.62928065840969",
+    "geom:latitude":39.629281,
+    "geom:longitude":-76.334406,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698029: name \"Saint Anne\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698029"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698029: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698029"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698029: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698029"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082727 (Harford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082727 (Harford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Anne"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1698029
+    },
+    "wof:country":"US",
+    "wof:geomhash":"794b6a08cda6d20b88f2e939154a4878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":9895006462,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006462,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Saint Anne",
+    "wof:parent_id":102082727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.33440572038133,
+    39.62928065840969,
+    -76.33440572038133,
+    39.62928065840969
+],
+  "geometry": {"coordinates":[-76.33440572038133,39.62928065840969],"type":"Point"}
+}

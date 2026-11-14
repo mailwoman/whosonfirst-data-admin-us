@@ -1,0 +1,82 @@
+{
+  "id": 9895004867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.93134139680147,41.14494987640735,-111.93134139680147,41.14494987640735",
+    "geom:latitude":41.14495,
+    "geom:longitude":-111.931341,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453198: name \"Canyon View\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453198"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453198: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453198"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453198: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453198"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728019 (Uintah).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728019 (Uintah), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Canyon View"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728019,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453198
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2138735eff71d8add370d672cf666e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728019,
+            "neighbourhood_id":9895004867,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004867,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Canyon View",
+    "wof:parent_id":101728019,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.93134139680147,
+    41.14494987640735,
+    -111.93134139680147,
+    41.14494987640735
+],
+  "geometry": {"coordinates":[-111.93134139680147,41.14494987640735],"type":"Point"}
+}

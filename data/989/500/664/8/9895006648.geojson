@@ -1,0 +1,82 @@
+{
+  "id": 9895006648,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.42637694962224,39.429831977149114,-77.42637694962224,39.429831977149114",
+    "geom:latitude":39.429832,
+    "geom:longitude":-77.426377,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711855: name \"Village Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711855"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711855: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711855"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711855: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711855"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949385 (Frederick).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949385 (Frederick), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Village Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949385,
+        102081593,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1711855
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3846d34d91e8b63ae8312e6469263b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":9895006648,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006648,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Village Estates",
+    "wof:parent_id":85949385,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.42637694962224,
+    39.429831977149114,
+    -77.42637694962224,
+    39.429831977149114
+],
+  "geometry": {"coordinates":[-77.42637694962224,39.429831977149114],"type":"Point"}
+}

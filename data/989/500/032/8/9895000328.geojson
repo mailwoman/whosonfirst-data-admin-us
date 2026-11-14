@@ -1,0 +1,80 @@
+{
+  "id": 9895000328,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.35752651131966,34.7884274349564,-87.35752651131966,34.7884274349564",
+    "geom:latitude":34.788427,
+    "geom:longitude":-87.357527,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 128831: name \"Wheeler Dam Subdivision\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/128831"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 128831: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/128831"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 128831: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/128831"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085601 (Lawrence).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085601 (Lawrence), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wheeler Dam Subdivision"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085601,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":128831
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4583c900f99844e9579866d7dcb5f94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085601,
+            "locality_id":9895000328,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000328,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Wheeler Dam Subdivision",
+    "wof:parent_id":102085601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.35752651131966,
+    34.7884274349564,
+    -87.35752651131966,
+    34.7884274349564
+],
+  "geometry": {"coordinates":[-87.35752651131966,34.7884274349564],"type":"Point"}
+}

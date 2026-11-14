@@ -1,0 +1,80 @@
+{
+  "id": 9895006720,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.88135901731798,37.62688187104636,-121.88135901731798,37.62688187104636",
+    "geom:latitude":37.626882,
+    "geom:longitude":-121.881359,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1732467: name \"Verona\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1732467"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1732467: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1732467"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1732467: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1732467"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086959 (Alameda).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086959 (Alameda), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Verona"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102086959,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1732467
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d9322b39d969b292b480e17cde12af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":9895006720,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006720,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Verona",
+    "wof:parent_id":102086959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.88135901731798,
+    37.62688187104636,
+    -121.88135901731798,
+    37.62688187104636
+],
+  "geometry": {"coordinates":[-121.88135901731798,37.62688187104636],"type":"Point"}
+}

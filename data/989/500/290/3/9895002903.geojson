@@ -1,0 +1,82 @@
+{
+  "id": 9895002903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.93859829553091,35.75988659884056,-77.93859829553091,35.75988659884056",
+    "geom:latitude":35.759887,
+    "geom:longitude":-77.938598,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005343: name \"Westmoreland\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005343"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005343: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005343"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005343: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005343"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980891 (Wilson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980891 (Wilson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westmoreland"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980891,
+        102087637,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005343
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f742c4df7394696294ace64e1762cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087637,
+            "locality_id":85980891,
+            "neighbourhood_id":9895002903,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002903,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Westmoreland",
+    "wof:parent_id":85980891,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.93859829553091,
+    35.75988659884056,
+    -77.93859829553091,
+    35.75988659884056
+],
+  "geometry": {"coordinates":[-77.93859829553091,35.75988659884056],"type":"Point"}
+}

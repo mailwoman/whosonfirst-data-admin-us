@@ -1,0 +1,80 @@
+{
+  "id": 9895000920,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.9480435721318,38.60222286260357,-104.9480435721318,38.60222286260357",
+    "geom:latitude":38.602223,
+    "geom:longitude":-104.948044,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 193636: name \"Fords Mountaindale Ranch\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/193636"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 193636: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/193636"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 193636: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/193636"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083363 (Fremont).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083363 (Fremont), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fords Mountaindale Ranch"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102083363,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":193636
+    },
+    "wof:country":"US",
+    "wof:geomhash":"506543dce2a1ea9454f1c596d943f3e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083363,
+            "locality_id":9895000920,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000920,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Fords Mountaindale Ranch",
+    "wof:parent_id":102083363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.9480435721318,
+    38.60222286260357,
+    -104.9480435721318,
+    38.60222286260357
+],
+  "geometry": {"coordinates":[-104.9480435721318,38.60222286260357],"type":"Point"}
+}

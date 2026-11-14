@@ -1,0 +1,82 @@
+{
+  "id": 9895001391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.0295587158655,42.42002476517637,-89.0295587158655,42.42002476517637",
+    "geom:latitude":42.420025,
+    "geom:longitude":-89.029559,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 416707: name \"Riverdale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/416707"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 416707: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/416707"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 416707: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/416707"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404499421 (Roscoe Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404499421 (Roscoe Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Riverdale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102080827,
+        102191575,
+        404499421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":416707
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fdf1f00573c4bc31d13f6c9aef24d7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080827,
+            "localadmin_id":404499421,
+            "locality_id":9895001391,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001391,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Riverdale",
+    "wof:parent_id":404499421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.0295587158655,
+    42.42002476517637,
+    -89.0295587158655,
+    42.42002476517637
+],
+  "geometry": {"coordinates":[-89.0295587158655,42.42002476517637],"type":"Point"}
+}

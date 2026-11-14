@@ -1,0 +1,82 @@
+{
+  "id": 9895006603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.5627457740311,39.346503793533564,-76.5627457740311,39.346503793533564",
+    "geom:latitude":39.346504,
+    "geom:longitude":-76.562746,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1707733: name \"Waltherson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1707733"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1707733: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1707733"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1707733: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1707733"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949461 (Baltimore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949461 (Baltimore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Waltherson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949461,
+        102081589,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1707733
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6cd50d5daa6d09141784305fd87513d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "neighbourhood_id":9895006603,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006603,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Waltherson",
+    "wof:parent_id":85949461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.5627457740311,
+    39.346503793533564,
+    -76.5627457740311,
+    39.346503793533564
+],
+  "geometry": {"coordinates":[-76.5627457740311,39.346503793533564],"type":"Point"}
+}

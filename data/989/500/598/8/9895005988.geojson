@@ -1,0 +1,82 @@
+{
+  "id": 9895005988,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.18421982476613,34.26806624064688,-117.18421982476613,34.26806624064688",
+    "geom:latitude":34.268066,
+    "geom:longitude":-117.18422,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661122: name \"North Shore\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661122"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661122: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661122"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661122: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661122"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85928677 (Lake Arrowhead).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85928677 (Lake Arrowhead), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North Shore"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85928677,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661122
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f3d9babea873656c0ab7b9ed7eb6940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85928677,
+            "neighbourhood_id":9895005988,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005988,
+    "wof:lastmodified":1794681139,
+    "wof:name":"North Shore",
+    "wof:parent_id":85928677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.18421982476613,
+    34.26806624064688,
+    -117.18421982476613,
+    34.26806624064688
+],
+  "geometry": {"coordinates":[-117.18421982476613,34.26806624064688],"type":"Point"}
+}

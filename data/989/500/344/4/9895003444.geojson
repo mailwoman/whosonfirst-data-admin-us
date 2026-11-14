@@ -1,0 +1,82 @@
+{
+  "id": 9895003444,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.04480209089442,35.02098472967166,-81.04480209089442,35.02098472967166",
+    "geom:latitude":35.020985,
+    "geom:longitude":-81.044802,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1231462: name \"Lakewood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1231462"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1231462: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1231462"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1231462: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1231462"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721435 (India Hook).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721435 (India Hook), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lakewood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721435,
+        102085661,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1231462
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d1ca32d774a57a49bb41c183385759fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085661,
+            "locality_id":101721435,
+            "neighbourhood_id":9895003444,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003444,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Lakewood",
+    "wof:parent_id":101721435,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.04480209089442,
+    35.02098472967166,
+    -81.04480209089442,
+    35.02098472967166
+],
+  "geometry": {"coordinates":[-81.04480209089442,35.02098472967166],"type":"Point"}
+}

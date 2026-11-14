@@ -1,0 +1,82 @@
+{
+  "id": 9895000401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.9319552922779,34.7973174542623,-86.9319552922779,34.7973174542623",
+    "geom:latitude":34.797317,
+    "geom:longitude":-86.931955,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 141193: name \"Mayflower\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/141193"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 141193: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/141193"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 141193: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/141193"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913543 (Athens).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913543 (Athens), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mayflower"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913543,
+        102085489,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":141193
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d3f198976bec99b5644919afbd84610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085489,
+            "locality_id":85913543,
+            "neighbourhood_id":9895000401,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000401,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Mayflower",
+    "wof:parent_id":85913543,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.9319552922779,
+    34.7973174542623,
+    -86.9319552922779,
+    34.7973174542623
+],
+  "geometry": {"coordinates":[-86.9319552922779,34.7973174542623],"type":"Point"}
+}

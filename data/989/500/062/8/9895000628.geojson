@@ -1,0 +1,82 @@
+{
+  "id": 9895000628,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.47720163198663,32.445419978052556,-86.47720163198663,32.445419978052556",
+    "geom:latitude":32.44542,
+    "geom:longitude":-86.477202,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147547: name \"Country Club Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147547"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147547: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147547"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147547: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147547"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913977 (Prattville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913977 (Prattville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Country Club Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913977,
+        102085509,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147547
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a8915e6cd1ea7e5ba4a44e48acb56327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085509,
+            "locality_id":85913977,
+            "neighbourhood_id":9895000628,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000628,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Country Club Estates",
+    "wof:parent_id":85913977,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.47720163198663,
+    32.445419978052556,
+    -86.47720163198663,
+    32.445419978052556
+],
+  "geometry": {"coordinates":[-86.47720163198663,32.445419978052556],"type":"Point"}
+}

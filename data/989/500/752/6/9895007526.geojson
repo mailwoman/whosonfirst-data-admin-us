@@ -1,0 +1,82 @@
+{
+  "id": 9895007526,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.06362121004871,39.60361749495989,-105.06362121004871,39.60361749495989",
+    "geom:latitude":39.603617,
+    "geom:longitude":-105.063621,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355353: name \"Leawood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355353"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355353: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355353"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355353: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355353"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85930607 (Columbine).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85930607 (Columbine), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Leawood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85930607,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2355353
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cb2b0d37cdd3222271512fc17314dcd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":85930607,
+            "neighbourhood_id":9895007526,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007526,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Leawood",
+    "wof:parent_id":85930607,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.06362121004871,
+    39.60361749495989,
+    -105.06362121004871,
+    39.60361749495989
+],
+  "geometry": {"coordinates":[-105.06362121004871,39.60361749495989],"type":"Point"}
+}

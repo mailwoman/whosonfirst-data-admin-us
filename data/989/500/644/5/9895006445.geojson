@@ -1,0 +1,80 @@
+{
+  "id": 9895006445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.846646278559,39.60011113310776,-76.846646278559,39.60011113310776",
+    "geom:latitude":39.600111,
+    "geom:longitude":-76.846646,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695979: name \"Hampstead Valley\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695979"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695979: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695979"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695979: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695979"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082717 (Carroll).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082717 (Carroll), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hampstead Valley"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695979
+    },
+    "wof:country":"US",
+    "wof:geomhash":"573ed52d29fea11439dda13ad122610d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":9895006445,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006445,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Hampstead Valley",
+    "wof:parent_id":102082717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.846646278559,
+    39.60011113310776,
+    -76.846646278559,
+    39.60011113310776
+],
+  "geometry": {"coordinates":[-76.846646278559,39.60011113310776],"type":"Point"}
+}

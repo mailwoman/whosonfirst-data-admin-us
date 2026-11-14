@@ -1,0 +1,80 @@
+{
+  "id": 9895005832,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.06929135766431,36.13068322550903,-82.06929135766431,36.13068322550903",
+    "geom:latitude":36.130683,
+    "geom:longitude":-82.069291,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1646886: name \"Partridgeberry\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1646886"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1646886: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1646886"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1646886: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1646886"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087053 (Carter).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087053 (Carter), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Partridgeberry"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102087053,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1646886
+    },
+    "wof:country":"US",
+    "wof:geomhash":"239ac351d7d1ea81a9f3bb6b5f81413c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":9895005832,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895005832,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Partridgeberry",
+    "wof:parent_id":102087053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.06929135766431,
+    36.13068322550903,
+    -82.06929135766431,
+    36.13068322550903
+],
+  "geometry": {"coordinates":[-82.06929135766431,36.13068322550903],"type":"Point"}
+}

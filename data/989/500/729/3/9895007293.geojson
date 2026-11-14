@@ -1,0 +1,80 @@
+{
+  "id": 9895007293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.6766687888565,37.26472966237832,-76.6766687888565,37.26472966237832",
+    "geom:latitude":37.26473,
+    "geom:longitude":-76.676669,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2092561: name \"Fort Magruder Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2092561"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2092561: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2092561"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2092561: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2092561"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085967 (James City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085967 (James City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fort Magruder Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102085967,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2092561
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4098235df845cfb803087abaaa0c7778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085967,
+            "locality_id":9895007293,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895007293,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Fort Magruder Heights",
+    "wof:parent_id":102085967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.6766687888565,
+    37.26472966237832,
+    -76.6766687888565,
+    37.26472966237832
+],
+  "geometry": {"coordinates":[-76.6766687888565,37.26472966237832],"type":"Point"}
+}

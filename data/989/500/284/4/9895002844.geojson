@@ -1,0 +1,82 @@
+{
+  "id": 9895002844,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.91471151540776,34.29434267921113,-77.91471151540776,34.29434267921113",
+    "geom:latitude":34.294343,
+    "geom:longitude":-77.914712,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005125: name \"Wrightsboro Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005125"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005125: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005125"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005125: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005125"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981663 (Wrightsboro).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981663 (Wrightsboro), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wrightsboro Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981663,
+        102087757,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005125
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2edc00575cbb6554fe6388fd5c424d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087757,
+            "locality_id":85981663,
+            "neighbourhood_id":9895002844,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002844,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Wrightsboro Acres",
+    "wof:parent_id":85981663,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.91471151540776,
+    34.29434267921113,
+    -77.91471151540776,
+    34.29434267921113
+],
+  "geometry": {"coordinates":[-77.91471151540776,34.29434267921113],"type":"Point"}
+}

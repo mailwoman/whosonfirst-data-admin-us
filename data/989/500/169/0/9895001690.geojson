@@ -1,0 +1,80 @@
+{
+  "id": 9895001690,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.16205763594093,30.606303517607962,-91.16205763594093,30.606303517607962",
+    "geom:latitude":30.606304,
+    "geom:longitude":-91.162058,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559107: name \"North Baker Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559107"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559107: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559107"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559107: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559107"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087229 (East Baton Rouge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087229 (East Baton Rouge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North Baker Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        102087229,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":559107
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe98c7c254f8654856d7427aefc0704d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":9895001690,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001690,
+    "wof:lastmodified":1794681126,
+    "wof:name":"North Baker Park",
+    "wof:parent_id":102087229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.16205763594093,
+    30.606303517607962,
+    -91.16205763594093,
+    30.606303517607962
+],
+  "geometry": {"coordinates":[-91.16205763594093,30.606303517607962],"type":"Point"}
+}

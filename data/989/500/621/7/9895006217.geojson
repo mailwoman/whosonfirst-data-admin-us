@@ -1,0 +1,82 @@
+{
+  "id": 9895006217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.40854099799537,33.552340391440445,-84.40854099799537,33.552340391440445",
+    "geom:latitude":33.55234,
+    "geom:longitude":-84.408541,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672423: name \"Dover Meadows\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672423"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672423: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672423"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672423: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672423"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936953 (Riverdale).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936953 (Riverdale), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dover Meadows"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936953,
+        102082333,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1672423
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9bd8bf8fc2c5a4e6c751c388754371c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082333,
+            "locality_id":85936953,
+            "neighbourhood_id":9895006217,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006217,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Dover Meadows",
+    "wof:parent_id":85936953,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.40854099799537,
+    33.552340391440445,
+    -84.40854099799537,
+    33.552340391440445
+],
+  "geometry": {"coordinates":[-84.40854099799537,33.552340391440445],"type":"Point"}
+}

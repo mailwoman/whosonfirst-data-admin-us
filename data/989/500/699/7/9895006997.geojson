@@ -1,0 +1,82 @@
+{
+  "id": 9895006997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.5203450256478,39.93309616560534,-88.5203450256478,39.93309616560534",
+    "geom:latitude":39.933096,
+    "geom:longitude":-88.520345,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1822198: name \"Piatt\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1822198"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1822198: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1822198"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1822198: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1822198"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404498985 (Bement Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404498985 (Bement Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Piatt"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102082865,
+        102191575,
+        404498985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1822198
+    },
+    "wof:country":"US",
+    "wof:geomhash":"803fdbeac8b9cfa350f545935bd70364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082865,
+            "localadmin_id":404498985,
+            "locality_id":9895006997,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895006997,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Piatt",
+    "wof:parent_id":404498985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.5203450256478,
+    39.93309616560534,
+    -88.5203450256478,
+    39.93309616560534
+],
+  "geometry": {"coordinates":[-88.5203450256478,39.93309616560534],"type":"Point"}
+}

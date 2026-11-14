@@ -1,0 +1,84 @@
+{
+  "id": 9895007195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.03174488821988,42.07781256491106,-88.03174488821988,42.07781256491106",
+    "geom:latitude":42.077813,
+    "geom:longitude":-88.031745,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1962217: name \"Fairfax Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1962217"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1962217: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1962217"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1962217: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1962217"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940719 (Rolling Meadows).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940719 (Rolling Meadows), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fairfax Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940719,
+        102084317,
+        102191575,
+        404497645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1962217
+    },
+    "wof:country":"US",
+    "wof:geomhash":"37f4ad5c8952055c317e223f6ff1ba51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497645,
+            "locality_id":85940719,
+            "neighbourhood_id":9895007195,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007195,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Fairfax Village",
+    "wof:parent_id":85940719,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.03174488821988,
+    42.07781256491106,
+    -88.03174488821988,
+    42.07781256491106
+],
+  "geometry": {"coordinates":[-88.03174488821988,42.07781256491106],"type":"Point"}
+}

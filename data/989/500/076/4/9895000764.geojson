@@ -1,0 +1,80 @@
+{
+  "id": 9895000764,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.62445779341815,33.180403491822915,-87.62445779341815,33.180403491822915",
+    "geom:latitude":33.180403,
+    "geom:longitude":-87.624458,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148510: name \"Royal Pines\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148510"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148510: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148510"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148510: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148510"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Royal Pines"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148510
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51c71f77d1e63e18944f4ea823b7a415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000764,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000764,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Royal Pines",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.62445779341815,
+    33.180403491822915,
+    -87.62445779341815,
+    33.180403491822915
+],
+  "geometry": {"coordinates":[-87.62445779341815,33.180403491822915],"type":"Point"}
+}

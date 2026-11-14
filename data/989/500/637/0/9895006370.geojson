@@ -1,0 +1,82 @@
+{
+  "id": 9895006370,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.21242386303162,33.95010788380183,-84.21242386303162,33.95010788380183",
+    "geom:latitude":33.950108,
+    "geom:longitude":-84.212424,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688304: name \"Peachtree North\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688304"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688304: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688304"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688304: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688304"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936301 (Norcross).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936301 (Norcross), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Peachtree North"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936301,
+        102082967,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1688304
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc0b86ae665346de108d8783dd4e0211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936301,
+            "neighbourhood_id":9895006370,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006370,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Peachtree North",
+    "wof:parent_id":85936301,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.21242386303162,
+    33.95010788380183,
+    -84.21242386303162,
+    33.95010788380183
+],
+  "geometry": {"coordinates":[-84.21242386303162,33.95010788380183],"type":"Point"}
+}

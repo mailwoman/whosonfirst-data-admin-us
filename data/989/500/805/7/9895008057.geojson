@@ -1,0 +1,82 @@
+{
+  "id": 9895008057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.9647368033518,44.28370030818509,-89.9647368033518,44.28370030818509",
+    "geom:latitude":44.2837,
+    "geom:longitude":-89.964737,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807537: name \"Ceex Haci\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807537"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807537: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807537"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807537: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807537"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404493661 (Port Edwards).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404493661 (Port Edwards), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ceex Haci"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688517,
+        102081737,
+        102191575,
+        404493661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807537
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3f7ea775bbebe09ba49dc38ed502b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081737,
+            "localadmin_id":404493661,
+            "locality_id":9895008057,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":9895008057,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Ceex Haci",
+    "wof:parent_id":404493661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.9647368033518,
+    44.28370030818509,
+    -89.9647368033518,
+    44.28370030818509
+],
+  "geometry": {"coordinates":[-89.9647368033518,44.28370030818509],"type":"Point"}
+}

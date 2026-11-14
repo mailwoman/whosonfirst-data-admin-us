@@ -1,0 +1,82 @@
+{
+  "id": 9895007076,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.2483527150839,33.70113852658654,-116.2483527150839,33.70113852658654",
+    "geom:latitude":33.701139,
+    "geom:longitude":-116.248353,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1849518: name \"Sunnyside Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1849518"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1849518: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1849518"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1849518: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1849518"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923393 (Indio).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923393 (Indio), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunnyside Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923393,
+        102086221,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1849518
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be1414359eb6e18317173f08f5428856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923393,
+            "neighbourhood_id":9895007076,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007076,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Sunnyside Estates",
+    "wof:parent_id":85923393,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.2483527150839,
+    33.70113852658654,
+    -116.2483527150839,
+    33.70113852658654
+],
+  "geometry": {"coordinates":[-116.2483527150839,33.70113852658654],"type":"Point"}
+}

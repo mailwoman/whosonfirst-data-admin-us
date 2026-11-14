@@ -1,0 +1,82 @@
+{
+  "id": 9895007730,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.48620340935693,27.926905166227893,-82.48620340935693,27.926905166227893",
+    "geom:latitude":27.926905,
+    "geom:longitude":-82.486203,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484873: name \"Seabreeze\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484873"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484873: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484873"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484873: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484873"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931789 (Tampa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931789 (Tampa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Seabreeze"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85931789,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2484873
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5210e8e2bb4d27cbe5b23822afb76eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85931789,
+            "neighbourhood_id":9895007730,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007730,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Seabreeze",
+    "wof:parent_id":85931789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.48620340935693,
+    27.926905166227893,
+    -82.48620340935693,
+    27.926905166227893
+],
+  "geometry": {"coordinates":[-82.48620340935693,27.926905166227893],"type":"Point"}
+}

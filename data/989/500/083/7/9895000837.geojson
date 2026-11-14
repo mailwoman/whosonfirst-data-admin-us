@@ -1,0 +1,80 @@
+{
+  "id": 9895000837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.80383058828323,31.33073235735012,-85.80383058828323,31.33073235735012",
+    "geom:latitude":31.330732,
+    "geom:longitude":-85.803831,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155776: name \"Rolling Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155776"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155776: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155776"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155776: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155776"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085699 (Coffee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085699 (Coffee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rolling Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085699,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":155776
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d85035a1ffe1167b310bf809f9db241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085699,
+            "locality_id":9895000837,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000837,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Rolling Acres",
+    "wof:parent_id":102085699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.80383058828323,
+    31.33073235735012,
+    -85.80383058828323,
+    31.33073235735012
+],
+  "geometry": {"coordinates":[-85.80383058828323,31.33073235735012],"type":"Point"}
+}

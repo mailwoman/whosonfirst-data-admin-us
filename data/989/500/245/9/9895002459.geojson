@@ -1,0 +1,80 @@
+{
+  "id": 9895002459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.9953198352043,36.07597699283859,-79.9953198352043,36.07597699283859",
+    "geom:latitude":36.075977,
+    "geom:longitude":-79.99532,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 994313: name \"Sandy Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/994313"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 994313: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/994313"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 994313: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/994313"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080985 (Guilford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080985 (Guilford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sandy Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080985,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":994313
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e85a245825c6a15a66ee26f8dd4a6bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080985,
+            "locality_id":9895002459,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002459,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Sandy Ridge",
+    "wof:parent_id":102080985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.9953198352043,
+    36.07597699283859,
+    -79.9953198352043,
+    36.07597699283859
+],
+  "geometry": {"coordinates":[-79.9953198352043,36.07597699283859],"type":"Point"}
+}

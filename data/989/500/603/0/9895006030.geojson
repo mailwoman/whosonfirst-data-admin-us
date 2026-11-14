@@ -1,0 +1,82 @@
+{
+  "id": 9895006030,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.25942660189,37.86576426331059,-122.25942660189,37.86576426331059",
+    "geom:latitude":37.865764,
+    "geom:longitude":-122.259427,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661756: name \"Rochedale Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661756"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661756: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661756"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661756: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661756"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921915 (Berkeley).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921915 (Berkeley), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rochedale Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85921915,
+        102086959,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661756
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5c830e14d03e210bf98bbe89c38341b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "neighbourhood_id":9895006030,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006030,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Rochedale Village",
+    "wof:parent_id":85921915,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.25942660189,
+    37.86576426331059,
+    -122.25942660189,
+    37.86576426331059
+],
+  "geometry": {"coordinates":[-122.25942660189,37.86576426331059],"type":"Point"}
+}

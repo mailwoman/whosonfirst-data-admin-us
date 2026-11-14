@@ -1,0 +1,82 @@
+{
+  "id": 9895005971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.22286026568149,33.82779973211563,-118.22286026568149,33.82779973211563",
+    "geom:latitude":33.8278,
+    "geom:longitude":-118.22286,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660916: name \"Lincoln Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660916"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660916: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660916"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660916: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660916"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923683 (Carson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923683 (Carson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lincoln Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923683,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1660916
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6ed743d2a3bf199eeb8e387c3da90b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923683,
+            "neighbourhood_id":9895005971,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005971,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Lincoln Village",
+    "wof:parent_id":85923683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.22286026568149,
+    33.82779973211563,
+    -118.22286026568149,
+    33.82779973211563
+],
+  "geometry": {"coordinates":[-118.22286026568149,33.82779973211563],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895002248,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.97871220234899,37.06755826406219,-89.97871220234899,37.06755826406219",
+    "geom:latitude":37.067558,
+    "geom:longitude":-89.978712,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740278: name \"Castor\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740278"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740278: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740278"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 740278: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/740278"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404516379 (Wayne Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404516379 (Wayne Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Castor"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102085343,
+        102191575,
+        404516379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":740278
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67159e6f9a12556c22d68d66f8d29da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085343,
+            "localadmin_id":404516379,
+            "locality_id":9895002248,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895002248,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Castor",
+    "wof:parent_id":404516379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.97871220234899,
+    37.06755826406219,
+    -89.97871220234899,
+    37.06755826406219
+],
+  "geometry": {"coordinates":[-89.97871220234899,37.06755826406219],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.02438131950125,32.445149629555644,-85.02438131950125,32.445149629555644",
+    "geom:latitude":32.44515,
+    "geom:longitude":-85.024381,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138723: name \"Rolling Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138723"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138723: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138723"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138723: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138723"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913715 (Phenix City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913715 (Phenix City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rolling Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913715,
+        102085697,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":138723
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eba0c0a85073ba6a09ba9494e7b0d8c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085697,
+            "locality_id":85913715,
+            "neighbourhood_id":9895000385,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000385,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Rolling Hills",
+    "wof:parent_id":85913715,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.02438131950125,
+    32.445149629555644,
+    -85.02438131950125,
+    32.445149629555644
+],
+  "geometry": {"coordinates":[-85.02438131950125,32.445149629555644],"type":"Point"}
+}

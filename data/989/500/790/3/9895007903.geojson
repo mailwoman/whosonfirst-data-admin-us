@@ -1,0 +1,82 @@
+{
+  "id": 9895007903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.20681482856617,40.66593420438698,-75.20681482856617,40.66593420438698",
+    "geom:latitude":40.665934,
+    "geom:longitude":-75.206815,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805584: name \"Morgan Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805584"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805584: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805584"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805584: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805584"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486107 (Williams Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486107 (Williams Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Morgan Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081395,
+        102191575,
+        404486107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805584
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e5f3d72e8e4bc823f83cd5bcc5db82e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081395,
+            "localadmin_id":404486107,
+            "locality_id":9895007903,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895007903,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Morgan Hill",
+    "wof:parent_id":404486107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.20681482856617,
+    40.66593420438698,
+    -75.20681482856617,
+    40.66593420438698
+],
+  "geometry": {"coordinates":[-75.20681482856617,40.66593420438698],"type":"Point"}
+}

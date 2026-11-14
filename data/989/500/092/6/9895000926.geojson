@@ -1,0 +1,82 @@
+{
+  "id": 9895000926,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.25972315809427,39.63277208538456,-105.25972315809427,39.63277208538456",
+    "geom:latitude":39.632772,
+    "geom:longitude":-105.259723,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 202865: name \"Indians Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/202865"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 202865: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/202865"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 202865: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/202865"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85930589 (Indian Hills).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85930589 (Indian Hills), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Indians Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85930589,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":202865
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47fc1cb6e01daf0b87d0579a891b8b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":85930589,
+            "neighbourhood_id":9895000926,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000926,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Indians Hills",
+    "wof:parent_id":85930589,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.25972315809427,
+    39.63277208538456,
+    -105.25972315809427,
+    39.63277208538456
+],
+  "geometry": {"coordinates":[-105.25972315809427,39.63277208538456],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895007338,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.32390110246442,34.07306045373294,-118.32390110246442,34.07306045373294",
+    "geom:latitude":34.07306,
+    "geom:longitude":-118.323901,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2130542: name \"Larchmont Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2130542"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2130542: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2130542"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2130542: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2130542"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923517 (Los Angeles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923517 (Los Angeles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Larchmont Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923517,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2130542
+    },
+    "wof:country":"US",
+    "wof:geomhash":"510a875b283bc9c8012420b8563d9fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":9895007338,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007338,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Larchmont Village",
+    "wof:parent_id":85923517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.32390110246442,
+    34.07306045373294,
+    -118.32390110246442,
+    34.07306045373294
+],
+  "geometry": {"coordinates":[-118.32390110246442,34.07306045373294],"type":"Point"}
+}

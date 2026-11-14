@@ -1,0 +1,82 @@
+{
+  "id": 9895005691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.26649866416491,43.969999063564984,-88.26649866416491,43.969999063564984",
+    "geom:latitude":43.969999,
+    "geom:longitude":-88.266499,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1567156: name \"Jericho\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1567156"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1567156: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1567156"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1567156: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1567156"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404491565 (Brothertown).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404491565 (Brothertown), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jericho"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688517,
+        102081289,
+        102191575,
+        404491565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1567156
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30ea7abc4e3a5cdaa256c6d6ad85713a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081289,
+            "localadmin_id":404491565,
+            "locality_id":9895005691,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":9895005691,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Jericho",
+    "wof:parent_id":404491565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.26649866416491,
+    43.969999063564984,
+    -88.26649866416491,
+    43.969999063564984
+],
+  "geometry": {"coordinates":[-88.26649866416491,43.969999063564984],"type":"Point"}
+}

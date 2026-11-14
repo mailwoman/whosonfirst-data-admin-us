@@ -1,0 +1,82 @@
+{
+  "id": 9895003054,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.96390081970394,36.01820541783901,-78.96390081970394,36.01820541783901",
+    "geom:latitude":36.018205,
+    "geom:longitude":-78.963901,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005953: name \"University Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005953"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005953: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005953"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005953: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005953"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980565 (Durham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980565 (Durham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "University Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980565,
+        102080909,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005953
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c7ac26aea8a6b027bd11f9cdd4b60712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":9895003054,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003054,
+    "wof:lastmodified":1794681131,
+    "wof:name":"University Estates",
+    "wof:parent_id":85980565,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.96390081970394,
+    36.01820541783901,
+    -78.96390081970394,
+    36.01820541783901
+],
+  "geometry": {"coordinates":[-78.96390081970394,36.01820541783901],"type":"Point"}
+}

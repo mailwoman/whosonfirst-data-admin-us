@@ -1,0 +1,82 @@
+{
+  "id": 9895006165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.70232998630969,30.799406567550516,-81.70232998630969,30.799406567550516",
+    "geom:latitude":30.799407,
+    "geom:longitude":-81.70233,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671434: name \"Wolfbay\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671434"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671434: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671434"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671434: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671434"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937043 (Kingsland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937043 (Kingsland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wolfbay"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85937043,
+        102081693,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671434
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e48ac0c0b44695a41d49352a01082f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":9895006165,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006165,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Wolfbay",
+    "wof:parent_id":85937043,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.70232998630969,
+    30.799406567550516,
+    -81.70232998630969,
+    30.799406567550516
+],
+  "geometry": {"coordinates":[-81.70232998630969,30.799406567550516],"type":"Point"}
+}

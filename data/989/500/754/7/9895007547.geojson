@@ -1,0 +1,82 @@
+{
+  "id": 9895007547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.45537815662519,38.51030307669879,-121.45537815662519,38.51030307669879",
+    "geom:latitude":38.510303,
+    "geom:longitude":-121.455378,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2413673: name \"South Sacramento\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2413673"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2413673: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2413673"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2413673: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2413673"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85926651 (Parkway).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85926651 (Parkway), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South Sacramento"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85926651,
+        102082889,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2413673
+    },
+    "wof:country":"US",
+    "wof:geomhash":"889ac6c13edf1fb71ba801720e041fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082889,
+            "locality_id":85926651,
+            "neighbourhood_id":9895007547,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007547,
+    "wof:lastmodified":1794681144,
+    "wof:name":"South Sacramento",
+    "wof:parent_id":85926651,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.45537815662519,
+    38.51030307669879,
+    -121.45537815662519,
+    38.51030307669879
+],
+  "geometry": {"coordinates":[-121.45537815662519,38.51030307669879],"type":"Point"}
+}

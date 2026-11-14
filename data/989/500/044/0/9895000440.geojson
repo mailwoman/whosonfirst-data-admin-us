@@ -1,0 +1,82 @@
+{
+  "id": 9895000440,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.3344186872684,32.34736726183953,-86.3344186872684,32.34736726183953",
+    "geom:latitude":32.347367,
+    "geom:longitude":-86.334419,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142699: name \"Mobile Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142699"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142699: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142699"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142699: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142699"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mobile Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142699
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ea4094f9672ffde9c85a6e0de5d3fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000440,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000440,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Mobile Heights",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.3344186872684,
+    32.34736726183953,
+    -86.3344186872684,
+    32.34736726183953
+],
+  "geometry": {"coordinates":[-86.3344186872684,32.34736726183953],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9895002317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.18709030242002,40.65011133768695,-74.18709030242002,40.65011133768695",
+    "geom:latitude":40.650111,
+    "geom:longitude":-74.18709,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 882288: name \"Elizabethport\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/882288"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 882288: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/882288"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 882288: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/882288"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85975847 (Elizabeth).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85975847 (Elizabeth), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Elizabethport"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        85975847,
+        102085995,
+        102191575,
+        404478497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":882288
+    },
+    "wof:country":"US",
+    "wof:geomhash":"947ed2018a92f10402ae4f7b4413cef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085995,
+            "localadmin_id":404478497,
+            "locality_id":85975847,
+            "neighbourhood_id":9895002317,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895002317,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Elizabethport",
+    "wof:parent_id":85975847,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.18709030242002,
+    40.65011133768695,
+    -74.18709030242002,
+    40.65011133768695
+],
+  "geometry": {"coordinates":[-74.18709030242002,40.65011133768695],"type":"Point"}
+}

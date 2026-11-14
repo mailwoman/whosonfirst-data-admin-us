@@ -1,0 +1,82 @@
+{
+  "id": 9895005419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.90384067362903,41.02106116514739,-111.90384067362903,41.02106116514739",
+    "geom:latitude":41.021061,
+    "geom:longitude":-111.903841,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454121: name \"Harvey Farm Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454121"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454121: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454121"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454121: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454121"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727903 (Fruit Heights).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727903 (Fruit Heights), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Harvey Farm Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727903,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1454121
+    },
+    "wof:country":"US",
+    "wof:geomhash":"961a8dfddcd73dce0cd2bd0242d6c255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727903,
+            "neighbourhood_id":9895005419,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005419,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Harvey Farm Estates",
+    "wof:parent_id":101727903,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.90384067362903,
+    41.02106116514739,
+    -111.90384067362903,
+    41.02106116514739
+],
+  "geometry": {"coordinates":[-111.90384067362903,41.02106116514739],"type":"Point"}
+}

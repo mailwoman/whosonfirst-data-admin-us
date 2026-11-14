@@ -1,0 +1,82 @@
+{
+  "id": 9895000599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.63333270459707,34.773152661377516,-86.63333270459707,34.773152661377516",
+    "geom:latitude":34.773153,
+    "geom:longitude":-86.633333,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146944: name \"Greenbriar\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146944"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146944: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146944"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146944: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146944"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913601 (Huntsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913601 (Huntsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Greenbriar"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913601,
+        102085487,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146944
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25d1cb46c5249e7ba16affd5cef4dae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085487,
+            "locality_id":85913601,
+            "neighbourhood_id":9895000599,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000599,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Greenbriar",
+    "wof:parent_id":85913601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.63333270459707,
+    34.773152661377516,
+    -86.63333270459707,
+    34.773152661377516
+],
+  "geometry": {"coordinates":[-86.63333270459707,34.773152661377516],"type":"Point"}
+}

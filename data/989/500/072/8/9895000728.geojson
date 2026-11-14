@@ -1,0 +1,80 @@
+{
+  "id": 9895000728,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.5627893870045,33.37123293433823,-87.5627893870045,33.37123293433823",
+    "geom:latitude":33.371233,
+    "geom:longitude":-87.562789,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148311: name \"Lake Hills North\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148311"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148311: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148311"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148311: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148311"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lake Hills North"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148311
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f9852a6c217358a867bb39235094e73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000728,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000728,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Lake Hills North",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.5627893870045,
+    33.37123293433823,
+    -87.5627893870045,
+    33.37123293433823
+],
+  "geometry": {"coordinates":[-87.5627893870045,33.37123293433823],"type":"Point"}
+}

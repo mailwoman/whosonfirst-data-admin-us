@@ -1,0 +1,82 @@
+{
+  "id": 9895004941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.05412092447088,41.167450069039624,-112.05412092447088,41.167450069039624",
+    "geom:latitude":41.16745,
+    "geom:longitude":-112.054121,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453334: name \"Fairway Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453334"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453334: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453334"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453334: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453334"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728023 (Roy).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728023 (Roy), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fairway Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728023,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453334
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de816e575eac6fd542474482d12402c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":9895004941,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004941,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Fairway Estates",
+    "wof:parent_id":101728023,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.05412092447088,
+    41.167450069039624,
+    -112.05412092447088,
+    41.167450069039624
+],
+  "geometry": {"coordinates":[-112.05412092447088,41.167450069039624],"type":"Point"}
+}

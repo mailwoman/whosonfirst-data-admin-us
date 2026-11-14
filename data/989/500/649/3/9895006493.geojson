@@ -1,0 +1,82 @@
+{
+  "id": 9895006493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.88083060459343,33.554833898729356,-86.88083060459343,33.554833898729356",
+    "geom:latitude":33.554834,
+    "geom:longitude":-86.880831,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700069: name \"Westchester Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700069"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700069: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700069"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700069: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700069"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914465 (Birmingham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914465 (Birmingham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westchester Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914465,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700069
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f126033e75ae69b8078f9f24a22351f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":9895006493,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006493,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Westchester Estates",
+    "wof:parent_id":85914465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.88083060459343,
+    33.554833898729356,
+    -86.88083060459343,
+    33.554833898729356
+],
+  "geometry": {"coordinates":[-86.88083060459343,33.554833898729356],"type":"Point"}
+}

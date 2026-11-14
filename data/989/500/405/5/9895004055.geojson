@@ -1,0 +1,80 @@
+{
+  "id": 9895004055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.59783401443603,28.768870458068015,-99.59783401443603,28.768870458068015",
+    "geom:latitude":28.76887,
+    "geom:longitude":-99.597834,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1361627: name \"Loma Vista\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1361627"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1361627: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1361627"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1361627: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1361627"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085027 (Zavala).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085027 (Zavala), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Loma Vista"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102085027,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1361627
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c08b88c2f35601fc21374313d051a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085027,
+            "locality_id":9895004055,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004055,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Loma Vista",
+    "wof:parent_id":102085027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.59783401443603,
+    28.768870458068015,
+    -99.59783401443603,
+    28.768870458068015
+],
+  "geometry": {"coordinates":[-99.59783401443603,28.768870458068015],"type":"Point"}
+}

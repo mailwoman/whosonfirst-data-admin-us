@@ -1,0 +1,80 @@
+{
+  "id": 9895000658,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.61001329417958,33.25984590842739,-87.61001329417958,33.25984590842739",
+    "geom:latitude":33.259846,
+    "geom:longitude":-87.610013,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147936: name \"Candlewood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147936"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147936: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147936"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147936: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147936"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Candlewood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147936
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e981bb2ac846849e29300621962a67eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000658,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000658,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Candlewood",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.61001329417958,
+    33.25984590842739,
+    -87.61001329417958,
+    33.25984590842739
+],
+  "geometry": {"coordinates":[-87.61001329417958,33.25984590842739],"type":"Point"}
+}

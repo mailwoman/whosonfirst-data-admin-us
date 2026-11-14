@@ -1,0 +1,80 @@
+{
+  "id": 9895002900,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.89859668334002,35.768497502415116,-77.89859668334002,35.768497502415116",
+    "geom:latitude":35.768498,
+    "geom:longitude":-77.898597,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005336: name \"Northside\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005336"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005336: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005336"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005336: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005336"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087637 (Wilson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087637 (Wilson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Northside"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087637,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005336
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d57f778181dba7f52749bd92896c716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087637,
+            "locality_id":9895002900,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002900,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Northside",
+    "wof:parent_id":102087637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.89859668334002,
+    35.768497502415116,
+    -77.89859668334002,
+    35.768497502415116
+],
+  "geometry": {"coordinates":[-77.89859668334002,35.768497502415116],"type":"Point"}
+}

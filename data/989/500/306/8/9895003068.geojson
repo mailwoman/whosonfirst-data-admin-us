@@ -1,0 +1,80 @@
+{
+  "id": 9895003068,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.86407102451555,35.077038935675965,-83.86407102451555,35.077038935675965",
+    "geom:latitude":35.077039,
+    "geom:longitude":-83.864071,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1011216: name \"Fires Creek\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1011216"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1011216: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1011216"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1011216: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1011216"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087685 (Clay).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087685 (Clay), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fires Creek"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087685,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1011216
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ede169ae400b1e702951601204e16fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087685,
+            "locality_id":9895003068,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003068,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Fires Creek",
+    "wof:parent_id":102087685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.86407102451555,
+    35.077038935675965,
+    -83.86407102451555,
+    35.077038935675965
+],
+  "geometry": {"coordinates":[-83.86407102451555,35.077038935675965],"type":"Point"}
+}

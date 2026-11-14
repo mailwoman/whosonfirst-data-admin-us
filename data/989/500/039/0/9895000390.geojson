@@ -1,0 +1,82 @@
+{
+  "id": 9895000390,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.86193948871593,33.36289475882208,-86.86193948871593,33.36289475882208",
+    "geom:latitude":33.362895,
+    "geom:longitude":-86.861939,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 140284: name \"Shady Acres Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/140284"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 140284: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/140284"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 140284: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/140284"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914475 (Hoover).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914475 (Hoover), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shady Acres Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914475,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":140284
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8981adf24d13b00189900ee1fb03e804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914475,
+            "neighbourhood_id":9895000390,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000390,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Shady Acres Estates",
+    "wof:parent_id":85914475,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.86193948871593,
+    33.36289475882208,
+    -86.86193948871593,
+    33.36289475882208
+],
+  "geometry": {"coordinates":[-86.86193948871593,33.36289475882208],"type":"Point"}
+}

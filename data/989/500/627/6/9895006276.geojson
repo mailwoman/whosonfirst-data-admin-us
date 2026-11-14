@@ -1,0 +1,80 @@
+{
+  "id": 9895006276,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.29769663594853,38.08583857368686,-78.29769663594853,38.08583857368686",
+    "geom:latitude":38.085839,
+    "geom:longitude":-78.297697,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1675215: name \"Castle Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1675215"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1675215: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1675215"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1675215: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1675215"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084933 (Albemarle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084933 (Albemarle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Castle Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102084933,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1675215
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9584857aa19cff32c151a5d64f919ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":9895006276,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006276,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Castle Hill",
+    "wof:parent_id":102084933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.29769663594853,
+    38.08583857368686,
+    -78.29769663594853,
+    38.08583857368686
+],
+  "geometry": {"coordinates":[-78.29769663594853,38.08583857368686],"type":"Point"}
+}

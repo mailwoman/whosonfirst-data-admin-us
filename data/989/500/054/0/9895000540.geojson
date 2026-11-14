@@ -1,0 +1,80 @@
+{
+  "id": 9895000540,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.11886618941733,33.570110731565975,-86.11886618941733,33.570110731565975",
+    "geom:latitude":33.570111,
+    "geom:longitude":-86.118866,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144975: name \"Shelton Lake Shores\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144975"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144975: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144975"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144975: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144975"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085517 (Talladega).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085517 (Talladega), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shelton Lake Shores"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085517,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":144975
+    },
+    "wof:country":"US",
+    "wof:geomhash":"286e982957f474018a4e698015e721a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085517,
+            "locality_id":9895000540,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000540,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Shelton Lake Shores",
+    "wof:parent_id":102085517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.11886618941733,
+    33.570110731565975,
+    -86.11886618941733,
+    33.570110731565975
+],
+  "geometry": {"coordinates":[-86.11886618941733,33.570110731565975],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006486,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.27384758943805,39.43178302080748,-76.27384758943805,39.43178302080748",
+    "geom:latitude":39.431783,
+    "geom:longitude":-76.273848,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698846: name \"The Timbers\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698846"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698846: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698846"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698846: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698846"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949835 (Edgewood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949835 (Edgewood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "The Timbers"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949835,
+        102082727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1698846
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c6801abd72713ba36539f78818a54073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "neighbourhood_id":9895006486,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006486,
+    "wof:lastmodified":1794681141,
+    "wof:name":"The Timbers",
+    "wof:parent_id":85949835,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.27384758943805,
+    39.43178302080748,
+    -76.27384758943805,
+    39.43178302080748
+],
+  "geometry": {"coordinates":[-76.27384758943805,39.43178302080748],"type":"Point"}
+}

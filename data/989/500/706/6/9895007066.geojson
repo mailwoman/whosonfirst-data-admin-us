@@ -1,0 +1,82 @@
+{
+  "id": 9895007066,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.21838712802001,34.23890043508518,-117.21838712802001,34.23890043508518",
+    "geom:latitude":34.2389,
+    "geom:longitude":-117.218387,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1841921: name \"Agua Fria\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1841921"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1841921: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1841921"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1841921: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1841921"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85928677 (Lake Arrowhead).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85928677 (Lake Arrowhead), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Agua Fria"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85928677,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1841921
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2af3c3c087cec771145ef03fb6c8332c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85928677,
+            "neighbourhood_id":9895007066,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007066,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Agua Fria",
+    "wof:parent_id":85928677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.21838712802001,
+    34.23890043508518,
+    -117.21838712802001,
+    34.23890043508518
+],
+  "geometry": {"coordinates":[-117.21838712802001,34.23890043508518],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895004460,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.78077720287133,40.680231236879926,-111.78077720287133,40.680231236879926",
+    "geom:latitude":40.680231,
+    "geom:longitude":-111.780777,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451870: name \"Mount Olympus Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451870"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451870: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451870"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451870: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451870"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728257 (Millcreek).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728257 (Millcreek), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mount Olympus Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728257,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451870
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e14352dd57f4a0cd4467e335474c1bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":9895004460,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004460,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Mount Olympus Park",
+    "wof:parent_id":101728257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.78077720287133,
+    40.680231236879926,
+    -111.78077720287133,
+    40.680231236879926
+],
+  "geometry": {"coordinates":[-111.78077720287133,40.680231236879926],"type":"Point"}
+}

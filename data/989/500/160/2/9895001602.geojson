@@ -1,0 +1,82 @@
+{
+  "id": 9895001602,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.42516993105414,30.459094208149843,-93.42516993105414,30.459094208149843",
+    "geom:latitude":30.459094,
+    "geom:longitude":-93.42517,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 551289: name \"High School Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/551289"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 551289: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/551289"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 551289: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/551289"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948169 (DeQuincy).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948169 (DeQuincy), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "High School Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948169,
+        102081035,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":551289
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d963a53b823527d557d08ab6612eb41d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948169,
+            "neighbourhood_id":9895001602,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001602,
+    "wof:lastmodified":1794681126,
+    "wof:name":"High School Park",
+    "wof:parent_id":85948169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.42516993105414,
+    30.459094208149843,
+    -93.42516993105414,
+    30.459094208149843
+],
+  "geometry": {"coordinates":[-93.42516993105414,30.459094208149843],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895008081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.39000516773021,39.477007490754595,-86.39000516773021,39.477007490754595",
+    "geom:latitude":39.477007,
+    "geom:longitude":-86.390005,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830278: name \"Foxcliff Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830278"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830278: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830278"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830278: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830278"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404501331 (Washington Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404501331 (Washington Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Foxcliff Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102087091,
+        102191575,
+        404501331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2830278
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e43a5453d032de0ed1851ded3a0f1368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087091,
+            "localadmin_id":404501331,
+            "locality_id":9895008081,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895008081,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Foxcliff Estates",
+    "wof:parent_id":404501331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.39000516773021,
+    39.477007490754595,
+    -86.39000516773021,
+    39.477007490754595
+],
+  "geometry": {"coordinates":[-86.39000516773021,39.477007490754595],"type":"Point"}
+}

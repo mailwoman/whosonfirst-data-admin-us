@@ -1,0 +1,82 @@
+{
+  "id": 9895003727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.94120371007342,34.05849352516186,-80.94120371007342,34.05849352516186",
+    "geom:latitude":34.058494,
+    "geom:longitude":-80.941204,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249429: name \"Woodfield Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249429"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249429: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249429"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1249429: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1249429"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721301 (Woodfield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721301 (Woodfield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodfield Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721301,
+        102085405,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1249429
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c8debc637807795b57903775747c090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101721301,
+            "neighbourhood_id":9895003727,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003727,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Woodfield Park",
+    "wof:parent_id":101721301,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.94120371007342,
+    34.05849352516186,
+    -80.94120371007342,
+    34.05849352516186
+],
+  "geometry": {"coordinates":[-80.94120371007342,34.05849352516186],"type":"Point"}
+}

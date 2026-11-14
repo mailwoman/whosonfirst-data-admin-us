@@ -1,0 +1,82 @@
+{
+  "id": 9895006661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.16803986511826,39.36816697482353,-77.16803986511826,39.36816697482353",
+    "geom:latitude":39.368167,
+    "geom:longitude":-77.16804,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1712450: name \"Village of Tall Oaks\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1712450"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1712450: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1712450"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1712450: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1712450"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949393 (Mount Airy).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949393 (Mount Airy), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Village of Tall Oaks"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949393,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1712450
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3fc7d068367f9a6cca91cee691d8230a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949393,
+            "neighbourhood_id":9895006661,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006661,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Village of Tall Oaks",
+    "wof:parent_id":85949393,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.16803986511826,
+    39.36816697482353,
+    -77.16803986511826,
+    39.36816697482353
+],
+  "geometry": {"coordinates":[-77.16803986511826,39.36816697482353],"type":"Point"}
+}

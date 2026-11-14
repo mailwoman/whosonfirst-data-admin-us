@@ -1,0 +1,82 @@
+{
+  "id": 9895000959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.4590867559697,39.80706522548133,-75.4590867559697,39.80706522548133",
+    "geom:latitude":39.807065,
+    "geom:longitude":-75.459087,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215799: name \"Brookview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215799"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215799: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215799"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215799: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215799"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931731 (Claymont).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931731 (Claymont), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brookview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        85931731,
+        102083891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":215799
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb6a601595a46f1d0b572eb41c2845d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931731,
+            "neighbourhood_id":9895000959,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000959,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Brookview",
+    "wof:parent_id":85931731,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.4590867559697,
+    39.80706522548133,
+    -75.4590867559697,
+    39.80706522548133
+],
+  "geometry": {"coordinates":[-75.4590867559697,39.80706522548133],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.8285319268641,40.670934881670036,-75.8285319268641,40.670934881670036",
+    "geom:latitude":40.670935,
+    "geom:longitude":-75.828532,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1177939: name \"Jacksonville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1177939"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1177939: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1177939"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1177939: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1177939"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404485961 (Lynn Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404485961 (Lynn Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jacksonville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081327,
+        102191575,
+        404485961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1177939
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6b65895de556b334cf86825ff95002a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081327,
+            "localadmin_id":404485961,
+            "locality_id":9895003263,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003263,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Jacksonville",
+    "wof:parent_id":404485961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.8285319268641,
+    40.670934881670036,
+    -75.8285319268641,
+    40.670934881670036
+],
+  "geometry": {"coordinates":[-75.8285319268641,40.670934881670036],"type":"Point"}
+}

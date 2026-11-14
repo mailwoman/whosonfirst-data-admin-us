@@ -1,0 +1,82 @@
+{
+  "id": 9895000557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.77249245900853,33.28150824520999,-86.77249245900853,33.28150824520999",
+    "geom:latitude":33.281508,
+    "geom:longitude":-86.772492,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146410: name \"Deer Springs Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146410"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146410: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146410"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146410: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146410"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914501 (Pelham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914501 (Pelham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Deer Springs Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914501,
+        102085499,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146410
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e1bfba5f2bbdce5967070ea06fc17cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085499,
+            "locality_id":85914501,
+            "neighbourhood_id":9895000557,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000557,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Deer Springs Estates",
+    "wof:parent_id":85914501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.77249245900853,
+    33.28150824520999,
+    -86.77249245900853,
+    33.28150824520999
+],
+  "geometry": {"coordinates":[-86.77249245900853,33.28150824520999],"type":"Point"}
+}

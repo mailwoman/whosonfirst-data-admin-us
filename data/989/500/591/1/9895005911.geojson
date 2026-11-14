@@ -1,0 +1,82 @@
+{
+  "id": 9895005911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.19553569429316,37.88743017002033,-122.19553569429316,37.88743017002033",
+    "geom:latitude":37.88743,
+    "geom:longitude":-122.195536,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659314: name \"Orinda Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659314"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659314: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659314"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659314: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659314"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922149 (Orinda).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922149 (Orinda), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Orinda Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922149,
+        102086225,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1659314
+    },
+    "wof:country":"US",
+    "wof:geomhash":"060b593c07b1f43329f704fcd1a0184b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922149,
+            "neighbourhood_id":9895005911,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005911,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Orinda Village",
+    "wof:parent_id":85922149,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.19553569429316,
+    37.88743017002033,
+    -122.19553569429316,
+    37.88743017002033
+],
+  "geometry": {"coordinates":[-122.19553569429316,37.88743017002033],"type":"Point"}
+}

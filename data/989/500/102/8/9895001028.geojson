@@ -1,0 +1,82 @@
+{
+  "id": 9895001028,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.87871990786748,34.23445353946765,-118.87871990786748,34.23445353946765",
+    "geom:latitude":34.234454,
+    "geom:longitude":-118.87872,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 255651: name \"Mountclef Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/255651"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 255651: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/255651"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 255651: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/255651"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923211 (Thousand Oaks).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923211 (Thousand Oaks), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mountclef Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923211,
+        102086933,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":255651
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c92e4a8f2b18059e50776b9eb4360bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086933,
+            "locality_id":85923211,
+            "neighbourhood_id":9895001028,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001028,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Mountclef Village",
+    "wof:parent_id":85923211,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.87871990786748,
+    34.23445353946765,
+    -118.87871990786748,
+    34.23445353946765
+],
+  "geometry": {"coordinates":[-118.87871990786748,34.23445353946765],"type":"Point"}
+}

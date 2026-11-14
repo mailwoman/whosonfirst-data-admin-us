@@ -1,0 +1,84 @@
+{
+  "id": 9895001958,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.17727632454073,42.26677355184354,-71.17727632454073,42.26677355184354",
+    "geom:latitude":42.266774,
+    "geom:longitude":-71.177276,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 612307: name \"Dedham Island\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/612307"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 612307: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/612307"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 612307: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/612307"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950821 (Dedham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950821 (Dedham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dedham Island"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688645,
+        85950821,
+        102084403,
+        102191575,
+        404476435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":612307
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db0775e3701380be549b5de4d1222acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476435,
+            "locality_id":85950821,
+            "neighbourhood_id":9895001958,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":9895001958,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Dedham Island",
+    "wof:parent_id":85950821,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.17727632454073,
+    42.26677355184354,
+    -71.17727632454073,
+    42.26677355184354
+],
+  "geometry": {"coordinates":[-71.17727632454073,42.26677355184354],"type":"Point"}
+}

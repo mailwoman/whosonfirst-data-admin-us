@@ -1,0 +1,82 @@
+{
+  "id": 9895002288,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.74786333341923,41.02363113054967,-98.74786333341923,41.02363113054967",
+    "geom:latitude":41.023631,
+    "geom:longitude":-98.747863,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 835439: name \"Saint Michael\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/835439"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 835439: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/835439"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 835439: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/835439"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 1729396029 (17).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1729396029 (17), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Michael"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688563,
+        102084305,
+        102191575,
+        1729396029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":835439
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4596126cb2ced5163cc31711ee269027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084305,
+            "localadmin_id":1729396029,
+            "locality_id":9895002288,
+            "region_id":85688563
+        }
+    ],
+    "wof:id":9895002288,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Saint Michael",
+    "wof:parent_id":1729396029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.74786333341923,
+    41.02363113054967,
+    -98.74786333341923,
+    41.02363113054967
+],
+  "geometry": {"coordinates":[-98.74786333341923,41.02363113054967],"type":"Point"}
+}

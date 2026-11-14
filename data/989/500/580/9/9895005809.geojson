@@ -1,0 +1,82 @@
+{
+  "id": 9895005809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.32375284502959,36.31983575405499,-82.32375284502959,36.31983575405499",
+    "geom:latitude":36.319836,
+    "geom:longitude":-82.323753,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640383: name \"Meadowview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640383"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640383: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640383"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640383: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640383"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722757 (Johnson City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722757 (Johnson City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meadowview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722757,
+        102086335,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1640383
+    },
+    "wof:country":"US",
+    "wof:geomhash":"62aaf4889b1619137deef3b7ecf96552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":9895005809,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895005809,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Meadowview",
+    "wof:parent_id":101722757,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.32375284502959,
+    36.31983575405499,
+    -82.32375284502959,
+    36.31983575405499
+],
+  "geometry": {"coordinates":[-82.32375284502959,36.31983575405499],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895002424,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.03629639765407,43.89007481387779,-75.03629639765407,43.89007481387779",
+    "geom:latitude":43.890075,
+    "geom:longitude":-75.036296,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 972036: name \"Stillwater\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/972036"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 972036: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/972036"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 972036: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/972036"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404521905 (Webb).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404521905 (Webb), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stillwater"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102081877,
+        102191575,
+        404521905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":972036
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf159b822df37df5e74e951f136e974b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081877,
+            "localadmin_id":404521905,
+            "locality_id":9895002424,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002424,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Stillwater",
+    "wof:parent_id":404521905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.03629639765407,
+    43.89007481387779,
+    -75.03629639765407,
+    43.89007481387779
+],
+  "geometry": {"coordinates":[-75.03629639765407,43.89007481387779],"type":"Point"}
+}

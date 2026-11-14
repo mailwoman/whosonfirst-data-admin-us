@@ -1,0 +1,82 @@
+{
+  "id": 9895002051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.11814744580357,32.47098094755142,-90.11814744580357,32.47098094755142",
+    "geom:latitude":32.470981,
+    "geom:longitude":-90.118147,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 683244: name \"Hunters Creek\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/683244"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 683244: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/683244"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 683244: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/683244"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969903 (Madison).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969903 (Madison), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hunters Creek"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969903,
+        102085905,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":683244
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d987901ffdc51db49e657e8200fcefb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":9895002051,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002051,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Hunters Creek",
+    "wof:parent_id":85969903,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.11814744580357,
+    32.47098094755142,
+    -90.11814744580357,
+    32.47098094755142
+],
+  "geometry": {"coordinates":[-90.11814744580357,32.47098094755142],"type":"Point"}
+}

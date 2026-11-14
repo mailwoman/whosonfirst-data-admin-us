@@ -1,0 +1,82 @@
+{
+  "id": 9895006647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.40082094159769,39.42594317719352,-77.40082094159769,39.42594317719352",
+    "geom:latitude":39.425943,
+    "geom:longitude":-77.400821,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711834: name \"Monocacy Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711834"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711834: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711834"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711834: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711834"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949385 (Frederick).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949385 (Frederick), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Monocacy Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949385,
+        102081593,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1711834
+    },
+    "wof:country":"US",
+    "wof:geomhash":"441f656207f546536511f10581f2be7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":9895006647,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006647,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Monocacy Village",
+    "wof:parent_id":85949385,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.40082094159769,
+    39.42594317719352,
+    -77.40082094159769,
+    39.42594317719352
+],
+  "geometry": {"coordinates":[-77.40082094159769,39.42594317719352],"type":"Point"}
+}

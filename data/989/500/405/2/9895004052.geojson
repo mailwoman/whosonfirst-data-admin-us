@@ -1,0 +1,80 @@
+{
+  "id": 9895004052,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.63002555035673,31.30878612235933,-97.63002555035673,31.30878612235933",
+    "geom:latitude":31.308786,
+    "geom:longitude":-97.630026,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1357417: name \"Flat\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1357417"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1357417: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1357417"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1357417: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1357417"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080703 (Coryell).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080703 (Coryell), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Flat"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102080703,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1357417
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0240e9ad96a5cc71a010c7011ede675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080703,
+            "locality_id":9895004052,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004052,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Flat",
+    "wof:parent_id":102080703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.63002555035673,
+    31.30878612235933,
+    -97.63002555035673,
+    31.30878612235933
+],
+  "geometry": {"coordinates":[-97.63002555035673,31.30878612235933],"type":"Point"}
+}

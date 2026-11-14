@@ -1,0 +1,80 @@
+{
+  "id": 9895005836,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.53609297119918,36.08201377419867,-85.53609297119918,36.08201377419867",
+    "geom:latitude":36.082014,
+    "geom:longitude":-85.536093,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1647748: name \"Campbell\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1647748"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1647748: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1647748"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1647748: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1647748"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086339 (Putnam).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086339 (Putnam), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Campbell"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086339,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1647748
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d51788fecace77cf9f3e91d3e547365a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":9895005836,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895005836,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Campbell",
+    "wof:parent_id":102086339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.53609297119918,
+    36.08201377419867,
+    -85.53609297119918,
+    36.08201377419867
+],
+  "geometry": {"coordinates":[-85.53609297119918,36.08201377419867],"type":"Point"}
+}

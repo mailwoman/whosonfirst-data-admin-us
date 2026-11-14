@@ -1,0 +1,84 @@
+{
+  "id": 9895003332,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.1829566840393,40.060119386134026,-75.1829566840393,40.060119386134026",
+    "geom:latitude":40.060119,
+    "geom:longitude":-75.182957,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197529: name \"Mount Pleasant\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197529"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197529: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197529"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197529: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197529"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101718083 (Philadelphia).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101718083 (Philadelphia), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mount Pleasant"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101718083,
+        102081353,
+        102191575,
+        404483701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1197529
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7dff8fc7652cb97bfef4c5e3956505b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "neighbourhood_id":9895003332,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003332,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Mount Pleasant",
+    "wof:parent_id":101718083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.1829566840393,
+    40.060119386134026,
+    -75.1829566840393,
+    40.060119386134026
+],
+  "geometry": {"coordinates":[-75.1829566840393,40.060119386134026],"type":"Point"}
+}

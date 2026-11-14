@@ -1,0 +1,82 @@
+{
+  "id": 9895003421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.62704426643907,35.0645794177812,-81.62704426643907,35.0645794177812",
+    "geom:latitude":35.064579,
+    "geom:longitude":-81.627044,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228509: name \"Dogwood Springs Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228509"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228509: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228509"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228509: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228509"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720717 (Gaffney).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720717 (Gaffney), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dogwood Springs Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720717,
+        102085403,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1228509
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9835fffdac59bdcb533256dd875af9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085403,
+            "locality_id":101720717,
+            "neighbourhood_id":9895003421,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003421,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Dogwood Springs Park",
+    "wof:parent_id":101720717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.62704426643907,
+    35.0645794177812,
+    -81.62704426643907,
+    35.0645794177812
+],
+  "geometry": {"coordinates":[-81.62704426643907,35.0645794177812],"type":"Point"}
+}

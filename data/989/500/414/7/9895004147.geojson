@@ -1,0 +1,82 @@
+{
+  "id": 9895004147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-158.1030810730538,64.71944440161184,-158.1030810730538,64.71944440161184",
+    "geom:latitude":64.719444,
+    "geom:longitude":-158.103081,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1407321: name \"Nulato\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1407321"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1407321: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1407321"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1407321: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1407321"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85915689 (Nulato).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85915689 (Nulato), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Nulato"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85915689,
+        102081905,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1407321
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d4077894d15a09739d5d66994233cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081905,
+            "locality_id":85915689,
+            "neighbourhood_id":9895004147,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004147,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Nulato",
+    "wof:parent_id":85915689,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -158.1030810730538,
+    64.71944440161184,
+    -158.1030810730538,
+    64.71944440161184
+],
+  "geometry": {"coordinates":[-158.1030810730538,64.71944440161184],"type":"Point"}
+}

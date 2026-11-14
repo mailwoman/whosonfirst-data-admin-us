@@ -1,0 +1,82 @@
+{
+  "id": 9895000497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.08694990358788,30.773248958471616,-88.08694990358788,30.773248958471616",
+    "geom:latitude":30.773249,
+    "geom:longitude":-88.08695,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143519: name \"Mauvilla Forest Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143519"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143519: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143519"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143519: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143519"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913769 (Chickasaw).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913769 (Chickasaw), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mauvilla Forest Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913769,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143519
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18f65ce36be636a33f08ac168f7244b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":85913769,
+            "neighbourhood_id":9895000497,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000497,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Mauvilla Forest Estates",
+    "wof:parent_id":85913769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.08694990358788,
+    30.773248958471616,
+    -88.08694990358788,
+    30.773248958471616
+],
+  "geometry": {"coordinates":[-88.08694990358788,30.773248958471616],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001300,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.91049078955314,32.49209214387709,-84.91049078955314,32.49209214387709",
+    "geom:latitude":32.492092,
+    "geom:longitude":-84.910491,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357417: name \"Meadow Wood Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357417"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357417: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357417"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357417: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357417"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936243 (Columbus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936243 (Columbus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meadow Wood Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936243,
+        102084429,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357417
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4feb500bbf6b3d2aa78e95e0e4c3fa47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":9895001300,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001300,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Meadow Wood Park",
+    "wof:parent_id":85936243,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.91049078955314,
+    32.49209214387709,
+    -84.91049078955314,
+    32.49209214387709
+],
+  "geometry": {"coordinates":[-84.91049078955314,32.49209214387709],"type":"Point"}
+}

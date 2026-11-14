@@ -1,0 +1,82 @@
+{
+  "id": 9895000422,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.3446963878925,32.3095904528513,-86.3446963878925,32.3095904528513",
+    "geom:latitude":32.30959,
+    "geom:longitude":-86.344696,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142514: name \"English Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142514"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142514: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142514"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142514: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142514"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "English Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142514
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a8f6129e9cab5d2ace17c9e334c8baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000422,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000422,
+    "wof:lastmodified":1794681122,
+    "wof:name":"English Village",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.3446963878925,
+    32.3095904528513,
+    -86.3446963878925,
+    32.3095904528513
+],
+  "geometry": {"coordinates":[-86.3446963878925,32.3095904528513],"type":"Point"}
+}

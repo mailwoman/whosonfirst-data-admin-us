@@ -1,0 +1,82 @@
+{
+  "id": 9895000836,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.81383069151822,31.3232324554384,-85.81383069151822,31.3232324554384",
+    "geom:latitude":31.323232,
+    "geom:longitude":-85.813831,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155775: name \"Regency Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155775"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155775: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155775"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155775: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155775"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85899527 (Enterprise).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85899527 (Enterprise), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Regency Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85899527,
+        102085699,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":155775
+    },
+    "wof:country":"US",
+    "wof:geomhash":"182e0bbe8a49af1550f178c477c804e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085699,
+            "locality_id":85899527,
+            "neighbourhood_id":9895000836,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000836,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Regency Heights",
+    "wof:parent_id":85899527,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.81383069151822,
+    31.3232324554384,
+    -85.81383069151822,
+    31.3232324554384
+],
+  "geometry": {"coordinates":[-85.81383069151822,31.3232324554384],"type":"Point"}
+}

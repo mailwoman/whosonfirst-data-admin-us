@@ -1,0 +1,82 @@
+{
+  "id": 9895006336,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.73966220540775,33.768447025283436,-84.73966220540775,33.768447025283436",
+    "geom:latitude":33.768447,
+    "geom:longitude":-84.739662,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686674: name \"Young Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686674"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686674: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686674"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1686674: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1686674"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936271 (Douglasville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936271 (Douglasville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Young Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936271,
+        102084441,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1686674
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e67e6ba326dca057381c42fd057881e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084441,
+            "locality_id":85936271,
+            "neighbourhood_id":9895006336,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006336,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Young Park",
+    "wof:parent_id":85936271,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.73966220540775,
+    33.768447025283436,
+    -84.73966220540775,
+    33.768447025283436
+],
+  "geometry": {"coordinates":[-84.73966220540775,33.768447025283436],"type":"Point"}
+}

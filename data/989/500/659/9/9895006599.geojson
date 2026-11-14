@@ -1,0 +1,82 @@
+{
+  "id": 9895006599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.57524617795933,39.3370592909955,-76.57524617795933,39.3370592909955",
+    "geom:latitude":39.337059,
+    "geom:longitude":-76.575246,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1707702: name \"Hall Spring\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1707702"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1707702: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1707702"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1707702: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1707702"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949461 (Baltimore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949461 (Baltimore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hall Spring"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949461,
+        102081589,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1707702
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5113572cb77b2d4b726d8774280fefeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "neighbourhood_id":9895006599,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006599,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Hall Spring",
+    "wof:parent_id":85949461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.57524617795933,
+    39.3370592909955,
+    -76.57524617795933,
+    39.3370592909955
+],
+  "geometry": {"coordinates":[-76.57524617795933,39.3370592909955],"type":"Point"}
+}

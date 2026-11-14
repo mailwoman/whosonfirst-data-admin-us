@@ -1,0 +1,80 @@
+{
+  "id": 9895003569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.81368510574958,34.715153472803244,-80.81368510574958,34.715153472803244",
+    "geom:latitude":34.715153,
+    "geom:longitude":-80.813685,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241800: name \"Westwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241800"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241800: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241800"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241800: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241800"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085719 (Lancaster).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085719 (Lancaster), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Westwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085719,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1241800
+    },
+    "wof:country":"US",
+    "wof:geomhash":"312772730fa9bc8431cb29bcefd29254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085719,
+            "locality_id":9895003569,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003569,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Westwood",
+    "wof:parent_id":102085719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.81368510574958,
+    34.715153472803244,
+    -80.81368510574958,
+    34.715153472803244
+],
+  "geometry": {"coordinates":[-80.81368510574958,34.715153472803244],"type":"Point"}
+}

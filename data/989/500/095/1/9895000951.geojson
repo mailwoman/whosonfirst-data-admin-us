@@ -1,0 +1,80 @@
+{
+  "id": 9895000951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.71243482915101,39.69900869496309,-75.71243482915101,39.69900869496309",
+    "geom:latitude":39.699009,
+    "geom:longitude":-75.712435,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215784: name \"Red Mills Farms\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215784"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215784: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215784"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215784: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215784"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083891 (New Castle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083891 (New Castle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Red Mills Farms"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        102083891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":215784
+    },
+    "wof:country":"US",
+    "wof:geomhash":"501d27146a5994be39938fa92199ff4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":9895000951,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000951,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Red Mills Farms",
+    "wof:parent_id":102083891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.71243482915101,
+    39.69900869496309,
+    -75.71243482915101,
+    39.69900869496309
+],
+  "geometry": {"coordinates":[-75.71243482915101,39.69900869496309],"type":"Point"}
+}

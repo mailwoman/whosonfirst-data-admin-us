@@ -1,0 +1,82 @@
+{
+  "id": 9895000773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.59334588682103,33.202347197108466,-87.59334588682103,33.202347197108466",
+    "geom:latitude":33.202347,
+    "geom:longitude":-87.593346,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148569: name \"Snow Terrace\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148569"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148569: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148569"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148569: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148569"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914453 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914453 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Snow Terrace"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914453,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148569
+    },
+    "wof:country":"US",
+    "wof:geomhash":"229eeedd936ad08cafa50c95c5e8cd31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85914453,
+            "neighbourhood_id":9895000773,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000773,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Snow Terrace",
+    "wof:parent_id":85914453,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.59334588682103,
+    33.202347197108466,
+    -87.59334588682103,
+    33.202347197108466
+],
+  "geometry": {"coordinates":[-87.59334588682103,33.202347197108466],"type":"Point"}
+}

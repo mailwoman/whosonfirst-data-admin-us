@@ -1,0 +1,82 @@
+{
+  "id": 9895000399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.004180510366,34.78481724911848,-87.004180510366,34.78481724911848",
+    "geom:latitude":34.784817,
+    "geom:longitude":-87.004181,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 141179: name \"Farmview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/141179"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 141179: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/141179"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 141179: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/141179"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913543 (Athens).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913543 (Athens), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Farmview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913543,
+        102085489,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":141179
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef67510bc6276fef7371ab5263c5e4dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085489,
+            "locality_id":85913543,
+            "neighbourhood_id":9895000399,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000399,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Farmview",
+    "wof:parent_id":85913543,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.004180510366,
+    34.78481724911848,
+    -87.004180510366,
+    34.78481724911848
+],
+  "geometry": {"coordinates":[-87.004180510366,34.78481724911848],"type":"Point"}
+}

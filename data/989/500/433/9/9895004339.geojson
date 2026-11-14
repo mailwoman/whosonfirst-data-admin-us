@@ -1,0 +1,82 @@
+{
+  "id": 9895004339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.01800675101077,40.68411911893923,-112.01800675101077,40.68411911893923",
+    "geom:latitude":40.684119,
+    "geom:longitude":-112.018007,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451643: name \"Thompson Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451643"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451643: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451643"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451643: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451643"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728063 (West Valley City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728063 (West Valley City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Thompson Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728063,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451643
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d8ff12c5a93f17a4150b12f4df5a686e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":9895004339,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004339,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Thompson Acres",
+    "wof:parent_id":101728063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.01800675101077,
+    40.68411911893923,
+    -112.01800675101077,
+    40.68411911893923
+],
+  "geometry": {"coordinates":[-112.01800675101077,40.68411911893923],"type":"Point"}
+}

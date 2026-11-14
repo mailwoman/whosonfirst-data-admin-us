@@ -1,0 +1,82 @@
+{
+  "id": 9895006421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.89331409803052,39.66622124414441,-76.89331409803052,39.66622124414441",
+    "geom:latitude":39.666221,
+    "geom:longitude":-76.893314,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695489: name \"Holland Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695489"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695489: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695489"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695489: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695489"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949365 (Manchester).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949365 (Manchester), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Holland Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949365,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695489
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3b67b4fc2f64d68ca3357677f43b66d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949365,
+            "neighbourhood_id":9895006421,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006421,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Holland Hills",
+    "wof:parent_id":85949365,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.89331409803052,
+    39.66622124414441,
+    -76.89331409803052,
+    39.66622124414441
+],
+  "geometry": {"coordinates":[-76.89331409803052,39.66622124414441],"type":"Point"}
+}

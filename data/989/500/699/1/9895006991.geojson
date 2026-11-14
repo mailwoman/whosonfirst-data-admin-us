@@ -1,0 +1,82 @@
+{
+  "id": 9895006991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.23214650752547,38.044927927478504,-120.23214650752547,38.044927927478504",
+    "geom:latitude":38.044928,
+    "geom:longitude":-120.232147,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1809403: name \"Lynnwood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1809403"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1809403: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1809403"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1809403: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1809403"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85925435 (Twain Harte).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85925435 (Twain Harte), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lynnwood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85925435,
+        102086939,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1809403
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f54635ebd9042f2e56a799664009f8b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086939,
+            "locality_id":85925435,
+            "neighbourhood_id":9895006991,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006991,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Lynnwood Estates",
+    "wof:parent_id":85925435,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.23214650752547,
+    38.044927927478504,
+    -120.23214650752547,
+    38.044927927478504
+],
+  "geometry": {"coordinates":[-120.23214650752547,38.044927927478504],"type":"Point"}
+}

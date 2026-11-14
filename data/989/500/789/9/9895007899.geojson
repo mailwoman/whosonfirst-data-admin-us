@@ -1,0 +1,82 @@
+{
+  "id": 9895007899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.20155897915782,40.71257979692099,-78.20155897915782,40.71257979692099",
+    "geom:latitude":40.71258,
+    "geom:longitude":-78.201559,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805536: name \"Olivia\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805536"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805536: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805536"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805536: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805536"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404484725 (Snyder Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404484725 (Snyder Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Olivia"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081325,
+        102191575,
+        404484725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805536
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b646a9706b84ee11fc94af3b3c16c5de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081325,
+            "localadmin_id":404484725,
+            "locality_id":9895007899,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895007899,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Olivia",
+    "wof:parent_id":404484725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.20155897915782,
+    40.71257979692099,
+    -78.20155897915782,
+    40.71257979692099
+],
+  "geometry": {"coordinates":[-78.20155897915782,40.71257979692099],"type":"Point"}
+}

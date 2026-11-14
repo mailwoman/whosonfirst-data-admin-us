@@ -1,0 +1,82 @@
+{
+  "id": 9895000451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.12996772870028,32.34320146815566,-86.12996772870028,32.34320146815566",
+    "geom:latitude":32.343201,
+    "geom:longitude":-86.129968,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142811: name \"Ranchette Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142811"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142811: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142811"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142811: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142811"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ranchette Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142811
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d89e782219671b89918833ab2282023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000451,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000451,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Ranchette Estates",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.12996772870028,
+    32.34320146815566,
+    -86.12996772870028,
+    32.34320146815566
+],
+  "geometry": {"coordinates":[-86.12996772870028,32.34320146815566],"type":"Point"}
+}

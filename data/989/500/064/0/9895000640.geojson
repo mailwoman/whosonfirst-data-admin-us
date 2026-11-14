@@ -1,0 +1,82 @@
+{
+  "id": 9895000640,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.49362075853584,33.20290250150156,-87.49362075853584,33.20290250150156",
+    "geom:latitude":33.202903,
+    "geom:longitude":-87.493621,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147820: name \"Arcadia\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147820"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147820: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147820"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147820: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147820"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914453 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914453 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Arcadia"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914453,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147820
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a7ad256a1f931b7a784fe3ff6488c605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85914453,
+            "neighbourhood_id":9895000640,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000640,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Arcadia",
+    "wof:parent_id":85914453,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.49362075853584,
+    33.20290250150156,
+    -87.49362075853584,
+    33.20290250150156
+],
+  "geometry": {"coordinates":[-87.49362075853584,33.20290250150156],"type":"Point"}
+}

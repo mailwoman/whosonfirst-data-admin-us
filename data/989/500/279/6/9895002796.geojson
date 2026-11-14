@@ -1,0 +1,80 @@
+{
+  "id": 9895002796,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.90752884966274,35.0004491012665,-78.90752884966274,35.0004491012665",
+    "geom:latitude":35.000449,
+    "geom:longitude":-78.907529,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004924: name \"Crossgates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004924"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004924: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004924"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1004924: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1004924"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080897 (Cumberland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080897 (Cumberland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Crossgates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080897,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1004924
+    },
+    "wof:country":"US",
+    "wof:geomhash":"654287d59f783fc0db2eb82c8c0f48a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080897,
+            "locality_id":9895002796,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002796,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Crossgates",
+    "wof:parent_id":102080897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.90752884966274,
+    35.0004491012665,
+    -78.90752884966274,
+    35.0004491012665
+],
+  "geometry": {"coordinates":[-78.90752884966274,35.0004491012665],"type":"Point"}
+}

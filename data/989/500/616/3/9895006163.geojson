@@ -1,0 +1,82 @@
+{
+  "id": 9895006163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.56232284480251,30.75774166179101,-81.56232284480251,30.75774166179101",
+    "geom:latitude":30.757742,
+    "geom:longitude":-81.562323,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671411: name \"Quail Hollow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671411"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671411: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671411"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671411: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671411"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937041 (St. Marys).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937041 (St. Marys), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Quail Hollow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85937041,
+        102081693,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671411
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0df2c02f0276334ba98f79ec3951596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937041,
+            "neighbourhood_id":9895006163,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006163,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Quail Hollow",
+    "wof:parent_id":85937041,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.56232284480251,
+    30.75774166179101,
+    -81.56232284480251,
+    30.75774166179101
+],
+  "geometry": {"coordinates":[-81.56232284480251,30.75774166179101],"type":"Point"}
+}

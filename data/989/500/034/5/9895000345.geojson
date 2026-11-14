@@ -1,0 +1,80 @@
+{
+  "id": 9895000345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.38497771031004,32.53291779983162,-86.38497771031004,32.53291779983162",
+    "geom:latitude":32.532918,
+    "geom:longitude":-86.384978,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137211: name \"Grandview Pines\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137211"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137211: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137211"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 137211: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/137211"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085631 (Elmore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085631 (Elmore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Grandview Pines"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085631,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":137211
+    },
+    "wof:country":"US",
+    "wof:geomhash":"280743d1d417e60d1404f228d080b1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085631,
+            "locality_id":9895000345,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000345,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Grandview Pines",
+    "wof:parent_id":102085631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.38497771031004,
+    32.53291779983162,
+    -86.38497771031004,
+    32.53291779983162
+],
+  "geometry": {"coordinates":[-86.38497771031004,32.53291779983162],"type":"Point"}
+}

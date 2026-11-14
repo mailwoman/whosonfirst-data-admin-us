@@ -1,0 +1,80 @@
+{
+  "id": 9895000330,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.77273833682453,32.529864121595516,-85.77273833682453,32.529864121595516",
+    "geom:latitude":32.529864,
+    "geom:longitude":-85.772738,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 129192: name \"Woodland\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/129192"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 129192: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/129192"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 129192: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/129192"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085507 (Macon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085507 (Macon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodland"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085507,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":129192
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c7d72fa63b41f716815955fcc5a87558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085507,
+            "locality_id":9895000330,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000330,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Woodland",
+    "wof:parent_id":102085507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.77273833682453,
+    32.529864121595516,
+    -85.77273833682453,
+    32.529864121595516
+],
+  "geometry": {"coordinates":[-85.77273833682453,32.529864121595516],"type":"Point"}
+}

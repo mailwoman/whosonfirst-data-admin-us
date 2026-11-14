@@ -1,0 +1,82 @@
+{
+  "id": 9895006838,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.98784952036124,33.75363233684361,-117.98784952036124,33.75363233684361",
+    "geom:latitude":33.753632,
+    "geom:longitude":-117.98785,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1763460: name \"Green Lantern Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1763460"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1763460: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1763460"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1763460: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1763460"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923025 (Westminster).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923025 (Westminster), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Green Lantern Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923025,
+        102080847,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1763460
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c347514eebe9b7207ecbf70776502a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923025,
+            "neighbourhood_id":9895006838,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006838,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Green Lantern Village",
+    "wof:parent_id":85923025,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.98784952036124,
+    33.75363233684361,
+    -117.98784952036124,
+    33.75363233684361
+],
+  "geometry": {"coordinates":[-117.98784952036124,33.75363233684361],"type":"Point"}
+}

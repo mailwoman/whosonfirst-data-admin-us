@@ -1,0 +1,82 @@
+{
+  "id": 9895000781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.58445658187588,33.180681093360604,-87.58445658187588,33.180681093360604",
+    "geom:latitude":33.180681,
+    "geom:longitude":-87.584457,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148633: name \"The Glens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148633"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148633: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148633"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148633: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148633"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914453 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914453 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "The Glens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914453,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148633
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6600ffbf3a9f07022b29bc77fef6cd14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85914453,
+            "neighbourhood_id":9895000781,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000781,
+    "wof:lastmodified":1794681123,
+    "wof:name":"The Glens",
+    "wof:parent_id":85914453,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.58445658187588,
+    33.180681093360604,
+    -87.58445658187588,
+    33.180681093360604
+],
+  "geometry": {"coordinates":[-87.58445658187588,33.180681093360604],"type":"Point"}
+}

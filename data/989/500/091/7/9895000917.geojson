@@ -1,0 +1,80 @@
+{
+  "id": 9895000917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.55673573942967,38.44249416707748,-107.55673573942967,38.44249416707748",
+    "geom:latitude":38.442494,
+    "geom:longitude":-107.556736,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 188168: name \"Cimarron\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/188168"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 188168: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/188168"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 188168: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/188168"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086121 (Montrose).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086121 (Montrose), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cimarron"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102086121,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":188168
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10a709ae1beb5e9079fec426759b5333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086121,
+            "locality_id":9895000917,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000917,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Cimarron",
+    "wof:parent_id":102086121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.55673573942967,
+    38.44249416707748,
+    -107.55673573942967,
+    38.44249416707748
+],
+  "geometry": {"coordinates":[-107.55673573942967,38.44249416707748],"type":"Point"}
+}

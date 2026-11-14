@@ -1,0 +1,82 @@
+{
+  "id": 9895000584,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.55582937487,34.65148663978103,-86.55582937487,34.65148663978103",
+    "geom:latitude":34.651487,
+    "geom:longitude":-86.555829,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146709: name \"Bluewood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146709"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146709: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146709"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146709: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146709"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913601 (Huntsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913601 (Huntsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bluewood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913601,
+        102085487,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146709
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5bda73e25018c1a416c7c7bd1aca048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085487,
+            "locality_id":85913601,
+            "neighbourhood_id":9895000584,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000584,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Bluewood Estates",
+    "wof:parent_id":85913601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.55582937487,
+    34.65148663978103,
+    -86.55582937487,
+    34.65148663978103
+],
+  "geometry": {"coordinates":[-86.55582937487,34.65148663978103],"type":"Point"}
+}

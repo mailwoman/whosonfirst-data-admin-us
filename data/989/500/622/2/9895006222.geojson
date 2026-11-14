@@ -1,0 +1,82 @@
+{
+  "id": 9895006222,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.39854069533438,33.54928499137597,-84.39854069533438,33.54928499137597",
+    "geom:latitude":33.549285,
+    "geom:longitude":-84.398541,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672606: name \"Timberland Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672606"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672606: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672606"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672606: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672606"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936953 (Riverdale).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936953 (Riverdale), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Timberland Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936953,
+        102082333,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1672606
+    },
+    "wof:country":"US",
+    "wof:geomhash":"afc3225441b892622dc9e5548cdb09df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082333,
+            "locality_id":85936953,
+            "neighbourhood_id":9895006222,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006222,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Timberland Heights",
+    "wof:parent_id":85936953,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.39854069533438,
+    33.54928499137597,
+    -84.39854069533438,
+    33.54928499137597
+],
+  "geometry": {"coordinates":[-84.39854069533438,33.54928499137597],"type":"Point"}
+}

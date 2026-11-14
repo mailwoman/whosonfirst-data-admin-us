@@ -1,0 +1,82 @@
+{
+  "id": 9895006808,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.97930789090017,38.61092732956114,-81.97930789090017,38.61092732956114",
+    "geom:latitude":38.610927,
+    "geom:longitude":-81.979308,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740758: name \"Pleasant Valley Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740758"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740758: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740758"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740758: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740758"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101731331 (Buffalo).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101731331 (Buffalo), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pleasant Valley Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        101731331,
+        102083381,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1740758
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f8325b4cf4af45500e43cb91b9a3d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731331,
+            "neighbourhood_id":9895006808,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895006808,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Pleasant Valley Estates",
+    "wof:parent_id":101731331,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.97930789090017,
+    38.61092732956114,
+    -81.97930789090017,
+    38.61092732956114
+],
+  "geometry": {"coordinates":[-81.97930789090017,38.61092732956114],"type":"Point"}
+}

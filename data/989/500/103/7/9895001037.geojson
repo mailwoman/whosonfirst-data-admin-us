@@ -1,0 +1,80 @@
+{
+  "id": 9895001037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.41915328646756,40.30433182604718,-121.41915328646756,40.30433182604718",
+    "geom:latitude":40.304332,
+    "geom:longitude":-121.419153,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 260122: name \"Fire Mountain\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/260122"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 260122: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/260122"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 260122: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/260122"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080849 (Tehama).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080849 (Tehama), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fire Mountain"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102080849,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":260122
+    },
+    "wof:country":"US",
+    "wof:geomhash":"94a37ebd4f41b546403d4d101bb6e06d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080849,
+            "locality_id":9895001037,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001037,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Fire Mountain",
+    "wof:parent_id":102080849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.41915328646756,
+    40.30433182604718,
+    -121.41915328646756,
+    40.30433182604718
+],
+  "geometry": {"coordinates":[-121.41915328646756,40.30433182604718],"type":"Point"}
+}

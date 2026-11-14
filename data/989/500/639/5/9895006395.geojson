@@ -1,0 +1,82 @@
+{
+  "id": 9895006395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.14150357167993,31.98771715699167,-81.14150357167993,31.98771715699167",
+    "geom:latitude":31.987717,
+    "geom:longitude":-81.141504,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1694718: name \"Wilshire\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1694718"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1694718: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1694718"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1694718: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1694718"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936939 (Savannah).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936939 (Savannah), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wilshire"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936939,
+        102082337,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1694718
+    },
+    "wof:country":"US",
+    "wof:geomhash":"54c0c0b59db17d899e5b0847a389a384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":9895006395,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006395,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Wilshire",
+    "wof:parent_id":85936939,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.14150357167993,
+    31.98771715699167,
+    -81.14150357167993,
+    31.98771715699167
+],
+  "geometry": {"coordinates":[-81.14150357167993,31.98771715699167],"type":"Point"}
+}

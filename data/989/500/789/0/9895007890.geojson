@@ -1,0 +1,80 @@
+{
+  "id": 9895007890,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.88541095913683,42.27654513291664,-121.88541095913683,42.27654513291664",
+    "geom:latitude":42.276545,
+    "geom:longitude":-121.885411,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805461: name \"Running Y Ranch\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805461"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805461: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805461"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805461: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805461"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082231 (Klamath).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082231 (Klamath), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Running Y Ranch"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688513,
+        102082231,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805461
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd40c766f332e724c43d9dbbdd57b12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082231,
+            "locality_id":9895007890,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":9895007890,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Running Y Ranch",
+    "wof:parent_id":102082231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.88541095913683,
+    42.27654513291664,
+    -121.88541095913683,
+    42.27654513291664
+],
+  "geometry": {"coordinates":[-121.88541095913683,42.27654513291664],"type":"Point"}
+}

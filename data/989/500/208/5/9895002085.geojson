@@ -1,0 +1,82 @@
+{
+  "id": 9895002085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.09731353986783,32.46264774648281,-90.09731353986783,32.46264774648281",
+    "geom:latitude":32.462648,
+    "geom:longitude":-90.097314,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686130: name \"Stonegate\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686130"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686130: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686130"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686130: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686130"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969903 (Madison).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969903 (Madison), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stonegate"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969903,
+        102085905,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":686130
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25319fce9831c5c3581caae0b30b21a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":9895002085,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002085,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Stonegate",
+    "wof:parent_id":85969903,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.09731353986783,
+    32.46264774648281,
+    -90.09731353986783,
+    32.46264774648281
+],
+  "geometry": {"coordinates":[-90.09731353986783,32.46264774648281],"type":"Point"}
+}

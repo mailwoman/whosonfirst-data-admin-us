@@ -1,0 +1,82 @@
+{
+  "id": 9895001214,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.22400520849624,32.277980719970934,-81.22400520849624,32.277980719970934",
+    "geom:latitude":32.277981,
+    "geom:longitude":-81.224005,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 350280: name \"Willowpeg\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/350280"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 350280: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/350280"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 350280: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/350280"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936267 (Rincon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936267 (Rincon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Willowpeg"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936267,
+        102083627,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":350280
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3ac06bb9fe0650d53b349349b02581b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083627,
+            "locality_id":85936267,
+            "neighbourhood_id":9895001214,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001214,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Willowpeg",
+    "wof:parent_id":85936267,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.22400520849624,
+    32.277980719970934,
+    -81.22400520849624,
+    32.277980719970934
+],
+  "geometry": {"coordinates":[-81.22400520849624,32.277980719970934],"type":"Point"}
+}

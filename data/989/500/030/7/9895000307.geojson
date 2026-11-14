@@ -1,0 +1,80 @@
+{
+  "id": 9895000307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.5155513798727,31.540166944877765,-87.5155513798727,31.540166944877765",
+    "geom:latitude":31.540167,
+    "geom:longitude":-87.515551,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 116160: name \"Claiborne\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/116160"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 116160: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/116160"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 116160: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/116160"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085703 (Monroe).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085703 (Monroe), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Claiborne"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085703,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":116160
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d987e67ab052c6de37fd958bcdc16ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085703,
+            "locality_id":9895000307,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000307,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Claiborne",
+    "wof:parent_id":102085703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.5155513798727,
+    31.540166944877765,
+    -87.5155513798727,
+    31.540166944877765
+],
+  "geometry": {"coordinates":[-87.5155513798727,31.540166944877765],"type":"Point"}
+}

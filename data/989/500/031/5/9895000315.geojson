@@ -1,0 +1,80 @@
+{
+  "id": 9895000315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.89807502866552,32.386812713591205,-87.89807502866552,32.386812713591205",
+    "geom:latitude":32.386813,
+    "geom:longitude":-87.898075,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 120829: name \"Jefferson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/120829"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 120829: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/120829"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 120829: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/120829"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085423 (Marengo).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085423 (Marengo), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jefferson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085423,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":120829
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ff75fbc63f697d5e39125f8fd596434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085423,
+            "locality_id":9895000315,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000315,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Jefferson",
+    "wof:parent_id":102085423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.89807502866552,
+    32.386812713591205,
+    -87.89807502866552,
+    32.386812713591205
+],
+  "geometry": {"coordinates":[-87.89807502866552,32.386812713591205],"type":"Point"}
+}

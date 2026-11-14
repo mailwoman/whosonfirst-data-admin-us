@@ -1,0 +1,80 @@
+{
+  "id": 9895000737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.54390007763904,33.29345631850575,-87.54390007763904,33.29345631850575",
+    "geom:latitude":33.293456,
+    "geom:longitude":-87.5439,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148344: name \"Loganwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148344"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148344: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148344"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148344: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148344"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Loganwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148344
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38de810989f3f4503199530b53f93cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000737,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000737,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Loganwood",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.54390007763904,
+    33.29345631850575,
+    -87.54390007763904,
+    33.29345631850575
+],
+  "geometry": {"coordinates":[-87.54390007763904,33.29345631850575],"type":"Point"}
+}

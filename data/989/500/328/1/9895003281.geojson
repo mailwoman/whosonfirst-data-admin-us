@@ -1,0 +1,82 @@
+{
+  "id": 9895003281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.38421207217714,41.040628309137965,-79.38421207217714,41.040628309137965",
+    "geom:latitude":41.040628,
+    "geom:longitude":-79.384212,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1185334: name \"Rockville\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1185334"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1185334: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1185334"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1185334: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1185334"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486767 (Porter Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486767 (Porter Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rockville"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081389,
+        102191575,
+        404486767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1185334
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c73323ab660ffbaddf6bab4fb8595b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081389,
+            "localadmin_id":404486767,
+            "locality_id":9895003281,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003281,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Rockville",
+    "wof:parent_id":404486767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.38421207217714,
+    41.040628309137965,
+    -79.38421207217714,
+    41.040628309137965
+],
+  "geometry": {"coordinates":[-79.38421207217714,41.040628309137965],"type":"Point"}
+}

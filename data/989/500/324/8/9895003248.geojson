@@ -1,0 +1,82 @@
+{
+  "id": 9895003248,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.34279685123181,41.1095109661858,-78.34279685123181,41.1095109661858",
+    "geom:latitude":41.109511,
+    "geom:longitude":-78.342797,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1173990: name \"Eden\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1173990"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1173990: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1173990"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1173990: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1173990"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486921 (Goshen Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486921 (Goshen Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Eden"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080967,
+        102191575,
+        404486921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1173990
+    },
+    "wof:country":"US",
+    "wof:geomhash":"095119682f5ecf7f34ad8720ec13b515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080967,
+            "localadmin_id":404486921,
+            "locality_id":9895003248,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003248,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Eden",
+    "wof:parent_id":404486921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.34279685123181,
+    41.1095109661858,
+    -78.34279685123181,
+    41.1095109661858
+],
+  "geometry": {"coordinates":[-78.34279685123181,41.1095109661858],"type":"Point"}
+}

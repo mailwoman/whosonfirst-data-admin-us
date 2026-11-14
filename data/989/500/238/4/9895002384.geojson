@@ -1,0 +1,84 @@
+{
+  "id": 9895002384,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.85902623888761,41.31843557925305,-73.85902623888761,41.31843557925305",
+    "geom:latitude":41.318436,
+    "geom:longitude":-73.859026,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 957482: name \"Mohegan Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/957482"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 957482: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/957482"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 957482: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/957482"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980059 (Lake Mohegan).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980059 (Lake Mohegan), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mohegan Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        85980059,
+        102082373,
+        102191575,
+        404521689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":957482
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19c04a81cbc0f1a657ed31b37ad48481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404521689,
+            "locality_id":85980059,
+            "neighbourhood_id":9895002384,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002384,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Mohegan Lake",
+    "wof:parent_id":85980059,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.85902623888761,
+    41.31843557925305,
+    -73.85902623888761,
+    41.31843557925305
+],
+  "geometry": {"coordinates":[-73.85902623888761,41.31843557925305],"type":"Point"}
+}

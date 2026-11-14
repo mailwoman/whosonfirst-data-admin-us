@@ -1,0 +1,80 @@
+{
+  "id": 9895003789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.30802225852275,35.34035273250506,-85.30802225852275,35.34035273250506",
+    "geom:latitude":35.340353,
+    "geom:longitude":-85.308022,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1291078: name \"Lewis Chapel Mountain\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1291078"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1291078: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1291078"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1291078: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1291078"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086967 (Sequatchie).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086967 (Sequatchie), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lewis Chapel Mountain"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086967,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1291078
+    },
+    "wof:country":"US",
+    "wof:geomhash":"335d493fed71ee0d91f24b4ec6dfb50f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086967,
+            "locality_id":9895003789,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003789,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Lewis Chapel Mountain",
+    "wof:parent_id":102086967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.30802225852275,
+    35.34035273250506,
+    -85.30802225852275,
+    35.34035273250506
+],
+  "geometry": {"coordinates":[-85.30802225852275,35.34035273250506],"type":"Point"}
+}

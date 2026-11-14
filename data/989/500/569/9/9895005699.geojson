@@ -1,0 +1,82 @@
+{
+  "id": 9895005699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.22623615791974,44.05526411836512,-89.22623615791974,44.05526411836512",
+    "geom:latitude":44.055264,
+    "geom:longitude":-89.226236,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1574151: name \"Silver Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1574151"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1574151: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1574151"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1574151: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1574151"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404495495 (Marion).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404495495 (Marion), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Silver Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688517,
+        102081799,
+        102191575,
+        404495495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1574151
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d063b23e240e1e5204cce28ed79035de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081799,
+            "localadmin_id":404495495,
+            "locality_id":9895005699,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":9895005699,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Silver Lake",
+    "wof:parent_id":404495495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.22623615791974,
+    44.05526411836512,
+    -89.22623615791974,
+    44.05526411836512
+],
+  "geometry": {"coordinates":[-89.22623615791974,44.05526411836512],"type":"Point"}
+}

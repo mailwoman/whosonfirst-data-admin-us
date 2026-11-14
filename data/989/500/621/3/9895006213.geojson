@@ -1,0 +1,82 @@
+{
+  "id": 9895006213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.35826158277244,33.53178518919337,-84.35826158277244,33.53178518919337",
+    "geom:latitude":33.531785,
+    "geom:longitude":-84.358262,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672394: name \"Charlotte Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672394"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672394: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672394"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672394: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672394"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936963 (Jonesboro).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936963 (Jonesboro), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Charlotte Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936963,
+        102082333,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1672394
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d69e6d33a508c82ade1562d2dfaaf1f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082333,
+            "locality_id":85936963,
+            "neighbourhood_id":9895006213,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006213,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Charlotte Woods",
+    "wof:parent_id":85936963,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.35826158277244,
+    33.53178518919337,
+    -84.35826158277244,
+    33.53178518919337
+],
+  "geometry": {"coordinates":[-84.35826158277244,33.53178518919337],"type":"Point"}
+}

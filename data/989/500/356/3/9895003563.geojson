@@ -1,0 +1,82 @@
+{
+  "id": 9895003563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.06701426484216,34.35599412080217,-80.06701426484216,34.35599412080217",
+    "geom:latitude":34.355994,
+    "geom:longitude":-80.067014,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241301: name \"South Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241301"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241301: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241301"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241301: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241301"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720827 (Hartsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720827 (Hartsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720827,
+        102085743,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1241301
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3b20088ff30a5a653a26f83b1c06113e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085743,
+            "locality_id":101720827,
+            "neighbourhood_id":9895003563,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003563,
+    "wof:lastmodified":1794681133,
+    "wof:name":"South Park",
+    "wof:parent_id":101720827,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.06701426484216,
+    34.35599412080217,
+    -80.06701426484216,
+    34.35599412080217
+],
+  "geometry": {"coordinates":[-80.06701426484216,34.35599412080217],"type":"Point"}
+}

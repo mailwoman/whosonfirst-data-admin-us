@@ -1,0 +1,84 @@
+{
+  "id": 9895001969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.12449710808788,42.28344025687842,-71.12449710808788,42.28344025687842",
+    "geom:latitude":42.28344,
+    "geom:longitude":-71.124497,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 612965: name \"Mount Hope\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/612965"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 612965: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/612965"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 612965: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/612965"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950361 (Boston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950361 (Boston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mount Hope"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688645,
+        85950361,
+        102084423,
+        102191575,
+        404476573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":612965
+    },
+    "wof:country":"US",
+    "wof:geomhash":"96724c5dd3d799ce6946f5caf504bd08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":9895001969,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":9895001969,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Mount Hope",
+    "wof:parent_id":85950361,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.12449710808788,
+    42.28344025687842,
+    -71.12449710808788,
+    42.28344025687842
+],
+  "geometry": {"coordinates":[-71.12449710808788,42.28344025687842],"type":"Point"}
+}

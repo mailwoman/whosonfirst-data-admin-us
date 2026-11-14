@@ -1,0 +1,82 @@
+{
+  "id": 9895006308,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.03551728170625,39.23295487007324,-121.03551728170625,39.23295487007324",
+    "geom:latitude":39.232955,
+    "geom:longitude":-121.035517,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682936: name \"Olympia Glade\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682936"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682936: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682936"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682936: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682936"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921979 (Grass Valley).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921979 (Grass Valley), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Olympia Glade"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85921979,
+        102085391,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1682936
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82f7c4c806535cdee081e3489814d3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085391,
+            "locality_id":85921979,
+            "neighbourhood_id":9895006308,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006308,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Olympia Glade",
+    "wof:parent_id":85921979,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.03551728170625,
+    39.23295487007324,
+    -121.03551728170625,
+    39.23295487007324
+],
+  "geometry": {"coordinates":[-121.03551728170625,39.23295487007324],"type":"Point"}
+}

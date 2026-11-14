@@ -1,0 +1,80 @@
+{
+  "id": 9895005670,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.3803836304235,37.40290041382664,-81.3803836304235,37.40290041382664",
+    "geom:latitude":37.4029,
+    "geom:longitude":-81.380384,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1555083: name \"McDowell\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1555083"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1555083: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1555083"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1555083: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1555083"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083405 (McDowell).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083405 (McDowell), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "McDowell"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        102083405,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1555083
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9cf3f4be5d6ef3d64ec32f18f09e491d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083405,
+            "locality_id":9895005670,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895005670,
+    "wof:lastmodified":1794681138,
+    "wof:name":"McDowell",
+    "wof:parent_id":102083405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.3803836304235,
+    37.40290041382664,
+    -81.3803836304235,
+    37.40290041382664
+],
+  "geometry": {"coordinates":[-81.3803836304235,37.40290041382664],"type":"Point"}
+}

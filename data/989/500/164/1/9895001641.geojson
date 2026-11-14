@@ -1,0 +1,82 @@
+{
+  "id": 9895001641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.92535037633209,30.043817238551085,-89.92535037633209,30.043817238551085",
+    "geom:latitude":30.043817,
+    "geom:longitude":-89.92535,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558900: name \"Willow Brook\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558900"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558900: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558900"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558900: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558900"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948111 (New Orleans).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948111 (New Orleans), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Willow Brook"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948111,
+        102086693,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":558900
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e84ff183e35993a99520b19aee032f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":9895001641,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001641,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Willow Brook",
+    "wof:parent_id":85948111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.92535037633209,
+    30.043817238551085,
+    -89.92535037633209,
+    30.043817238551085
+],
+  "geometry": {"coordinates":[-89.92535037633209,30.043817238551085],"type":"Point"}
+}

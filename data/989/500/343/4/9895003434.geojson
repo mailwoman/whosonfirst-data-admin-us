@@ -1,0 +1,80 @@
+{
+  "id": 9895003434,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.68287988296687,35.078467218354575,-81.68287988296687,35.078467218354575",
+    "geom:latitude":35.078467,
+    "geom:longitude":-81.68288,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228668: name \"Wellington Manor\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228668"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228668: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228668"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1228668: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1228668"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085403 (Cherokee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085403 (Cherokee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wellington Manor"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085403,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1228668
+    },
+    "wof:country":"US",
+    "wof:geomhash":"23b5d3edae7719743c0d8eecb3472d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085403,
+            "locality_id":9895003434,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003434,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Wellington Manor",
+    "wof:parent_id":102085403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.68287988296687,
+    35.078467218354575,
+    -81.68287988296687,
+    35.078467218354575
+],
+  "geometry": {"coordinates":[-81.68287988296687,35.078467218354575],"type":"Point"}
+}

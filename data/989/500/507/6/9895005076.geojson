@@ -1,0 +1,82 @@
+{
+  "id": 9895005076,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.96717622834417,41.32022579302516,-111.96717622834417,41.32022579302516",
+    "geom:latitude":41.320226,
+    "geom:longitude":-111.967176,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453567: name \"Larson Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453567"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453567: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453567"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453567: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453567"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728037 (North Ogden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728037 (North Ogden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Larson Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728037,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453567
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1dc339381091d1dee134614eca47e49d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728037,
+            "neighbourhood_id":9895005076,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005076,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Larson Park",
+    "wof:parent_id":101728037,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.96717622834417,
+    41.32022579302516,
+    -111.96717622834417,
+    41.32022579302516
+],
+  "geometry": {"coordinates":[-111.96717622834417,41.32022579302516],"type":"Point"}
+}

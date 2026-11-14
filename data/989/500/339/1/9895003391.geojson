@@ -1,0 +1,82 @@
+{
+  "id": 9895003391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.99794783740126,40.26594923308321,-74.99794783740126,40.26594923308321",
+    "geom:latitude":40.265949,
+    "geom:longitude":-74.997948,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204379: name \"Penns Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204379"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204379: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204379"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1204379: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1204379"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404482845 (Wrightstown Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404482845 (Wrightstown Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Penns Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080987,
+        102191575,
+        404482845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1204379
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef70f6396763f8e64a81c1a521571b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080987,
+            "localadmin_id":404482845,
+            "locality_id":9895003391,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003391,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Penns Park",
+    "wof:parent_id":404482845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.99794783740126,
+    40.26594923308321,
+    -74.99794783740126,
+    40.26594923308321
+],
+  "geometry": {"coordinates":[-74.99794783740126,40.26594923308321],"type":"Point"}
+}

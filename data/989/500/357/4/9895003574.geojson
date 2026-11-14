@@ -1,0 +1,80 @@
+{
+  "id": 9895003574,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.810066478824,34.17377348928691,-79.810066478824,34.17377348928691",
+    "geom:latitude":34.173773,
+    "geom:longitude":-79.810066,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241847: name \"Delmar Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241847"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241847: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241847"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241847: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241847"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085723 (Florence).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085723 (Florence), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Delmar Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085723,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1241847
+    },
+    "wof:country":"US",
+    "wof:geomhash":"295a7fcf4d66b9accbd82eb89f7d23ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085723,
+            "locality_id":9895003574,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003574,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Delmar Heights",
+    "wof:parent_id":102085723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.810066478824,
+    34.17377348928691,
+    -79.810066478824,
+    34.17377348928691
+],
+  "geometry": {"coordinates":[-79.810066478824,34.17377348928691],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9895007174,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.6759286702455,41.538440162983164,-72.6759286702455,41.538440162983164",
+    "geom:latitude":41.53844,
+    "geom:longitude":-72.675929,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1923951: name \"Long HIll Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1923951"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1923951: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1923951"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1923951: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1923951"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85930847 (Middletown).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85930847 (Middletown), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Long HIll Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688629,
+        85930847,
+        102086211,
+        102191575,
+        404495967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1923951
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4286b05bedf5108ed68150344379735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495967,
+            "locality_id":85930847,
+            "neighbourhood_id":9895007174,
+            "region_id":85688629
+        }
+    ],
+    "wof:id":9895007174,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Long HIll Estates",
+    "wof:parent_id":85930847,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.6759286702455,
+    41.538440162983164,
+    -72.6759286702455,
+    41.538440162983164
+],
+  "geometry": {"coordinates":[-72.6759286702455,41.538440162983164],"type":"Point"}
+}

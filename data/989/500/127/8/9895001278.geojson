@@ -1,0 +1,82 @@
+{
+  "id": 9895001278,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.93660139317957,32.42153942752649,-84.93660139317957,32.42153942752649",
+    "geom:latitude":32.421539,
+    "geom:longitude":-84.936601,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357336: name \"Esquiline Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357336"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357336: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357336"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357336: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357336"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936243 (Columbus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936243 (Columbus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Esquiline Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936243,
+        102084429,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357336
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca8ba9a76d62df9a087c56ea1efb6237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":9895001278,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001278,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Esquiline Heights",
+    "wof:parent_id":85936243,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.93660139317957,
+    32.42153942752649,
+    -84.93660139317957,
+    32.42153942752649
+],
+  "geometry": {"coordinates":[-84.93660139317957,32.42153942752649],"type":"Point"}
+}

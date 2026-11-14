@@ -1,0 +1,80 @@
+{
+  "id": 9895002278,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-113.2445178410907,46.317432269388355,-113.2445178410907,46.317432269388355",
+    "geom:latitude":46.317432,
+    "geom:longitude":-113.244518,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 784158: name \"Granite\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/784158"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 784158: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/784158"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 784158: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/784158"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085055 (Granite).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085055 (Granite), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Granite"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        102085055,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":784158
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1da5fc6420a90130e86287231be83adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085055,
+            "locality_id":9895002278,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895002278,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Granite",
+    "wof:parent_id":102085055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.2445178410907,
+    46.317432269388355,
+    -113.2445178410907,
+    46.317432269388355
+],
+  "geometry": {"coordinates":[-113.2445178410907,46.317432269388355],"type":"Point"}
+}

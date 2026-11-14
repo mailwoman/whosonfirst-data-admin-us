@@ -1,0 +1,82 @@
+{
+  "id": 9895002008,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.13359479392429,44.947748528230974,-94.13359479392429,44.947748528230974",
+    "geom:latitude":44.947749,
+    "geom:longitude":-94.133595,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 654938: name \"Sherman\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/654938"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 654938: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/654938"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 654938: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/654938"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404513633 (Winsted Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404513633 (Winsted Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sherman"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688727,
+        102086993,
+        102191575,
+        404513633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":654938
+    },
+    "wof:country":"US",
+    "wof:geomhash":"875e6d021619d9c8f4ae45446a45bc1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404513633,
+            "locality_id":9895002008,
+            "region_id":85688727
+        }
+    ],
+    "wof:id":9895002008,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Sherman",
+    "wof:parent_id":404513633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.13359479392429,
+    44.947748528230974,
+    -94.13359479392429,
+    44.947748528230974
+],
+  "geometry": {"coordinates":[-94.13359479392429,44.947748528230974],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001238,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.41627512691689,33.862624594738755,-83.41627512691689,33.862624594738755",
+    "geom:latitude":33.862625,
+    "geom:longitude":-83.416275,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 356707: name \"Cedar Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/356707"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 356707: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/356707"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 356707: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/356707"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936087 (Watkinsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936087 (Watkinsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cedar Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936087,
+        102082913,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":356707
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a8e4685eb5a37754c140455a587f3e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082913,
+            "locality_id":85936087,
+            "neighbourhood_id":9895001238,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001238,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Cedar Hills",
+    "wof:parent_id":85936087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.41627512691689,
+    33.862624594738755,
+    -83.41627512691689,
+    33.862624594738755
+],
+  "geometry": {"coordinates":[-83.41627512691689,33.862624594738755],"type":"Point"}
+}

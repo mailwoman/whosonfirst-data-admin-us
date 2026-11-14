@@ -1,0 +1,80 @@
+{
+  "id": 9895003703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.73256427378767,34.53683097207169,-79.73256427378767,34.53683097207169",
+    "geom:latitude":34.536831,
+    "geom:longitude":-79.732564,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1246535: name \"Marlboro\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1246535"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1246535: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1246535"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1246535: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1246535"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085627 (Marlboro).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085627 (Marlboro), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Marlboro"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085627,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1246535
+    },
+    "wof:country":"US",
+    "wof:geomhash":"912acf9c5a6f38339dabe8feefb7d5db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085627,
+            "locality_id":9895003703,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003703,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Marlboro",
+    "wof:parent_id":102085627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.73256427378767,
+    34.53683097207169,
+    -79.73256427378767,
+    34.53683097207169
+],
+  "geometry": {"coordinates":[-79.73256427378767,34.53683097207169],"type":"Point"}
+}

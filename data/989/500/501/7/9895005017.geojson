@@ -1,0 +1,82 @@
+{
+  "id": 9895005017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.94078591269448,41.247727886939145,-111.94078591269448,41.247727886939145",
+    "geom:latitude":41.247728,
+    "geom:longitude":-111.940786,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453451: name \"Morrin\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453451"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453451: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453451"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453451: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453451"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728033 (Ogden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728033 (Ogden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Morrin"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728033,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453451
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a67a6714ca91a267ec961d596a523d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":9895005017,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005017,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Morrin",
+    "wof:parent_id":101728033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.94078591269448,
+    41.247727886939145,
+    -111.94078591269448,
+    41.247727886939145
+],
+  "geometry": {"coordinates":[-111.94078591269448,41.247727886939145],"type":"Point"}
+}

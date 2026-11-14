@@ -1,0 +1,82 @@
+{
+  "id": 9895000721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.55334487739968,33.24679050828247,-87.55334487739968,33.24679050828247",
+    "geom:latitude":33.246791,
+    "geom:longitude":-87.553345,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148271: name \"Indian Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148271"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148271: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148271"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148271: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148271"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914425 (Northport).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914425 (Northport), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Indian Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914425,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148271
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0009dc60b5a1b7e2075d4233f1d33946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85914425,
+            "neighbourhood_id":9895000721,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000721,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Indian Lake",
+    "wof:parent_id":85914425,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.55334487739968,
+    33.24679050828247,
+    -87.55334487739968,
+    33.24679050828247
+],
+  "geometry": {"coordinates":[-87.55334487739968,33.24679050828247],"type":"Point"}
+}

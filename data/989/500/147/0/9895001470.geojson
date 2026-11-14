@@ -1,0 +1,80 @@
+{
+  "id": 9895001470,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.21216003646133,40.8414005549184,-93.21216003646133,40.8414005549184",
+    "geom:latitude":40.841401,
+    "geom:longitude":-93.21216,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 454579: name \"Bethelhem\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/454579"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 454579: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/454579"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 454579: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/454579"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086591 (Wayne).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086591 (Wayne), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bethelhem"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688713,
+        102086591,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":454579
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4064d15db68902a9a9a977b83643b2f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086591,
+            "locality_id":9895001470,
+            "region_id":85688713
+        }
+    ],
+    "wof:id":9895001470,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Bethelhem",
+    "wof:parent_id":102086591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.21216003646133,
+    40.8414005549184,
+    -93.21216003646133,
+    40.8414005549184
+],
+  "geometry": {"coordinates":[-93.21216003646133,40.8414005549184],"type":"Point"}
+}

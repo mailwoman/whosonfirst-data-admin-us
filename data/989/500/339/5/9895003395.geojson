@@ -1,0 +1,84 @@
+{
+  "id": 9895003395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.34634318964689,40.657041559315566,-76.34634318964689,40.657041559315566",
+    "geom:latitude":40.657042,
+    "geom:longitude":-76.346343,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1205013: name \"Zerbe\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1205013"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1205013: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1205013"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1205013: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1205013"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101719727 (Newtown).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101719727 (Newtown), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Zerbe"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101719727,
+        102081271,
+        102191575,
+        404488151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1205013
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ccd5538281ed30b1b1005bdd0921745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081271,
+            "localadmin_id":404488151,
+            "locality_id":101719727,
+            "neighbourhood_id":9895003395,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003395,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Zerbe",
+    "wof:parent_id":101719727,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.34634318964689,
+    40.657041559315566,
+    -76.34634318964689,
+    40.657041559315566
+],
+  "geometry": {"coordinates":[-76.34634318964689,40.657041559315566],"type":"Point"}
+}

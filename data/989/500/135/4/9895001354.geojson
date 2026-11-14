@@ -1,0 +1,80 @@
+{
+  "id": 9895001354,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.53251311659653,43.86111704608364,-116.53251311659653,43.86111704608364",
+    "geom:latitude":43.861117,
+    "geom:longitude":-116.532513,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 395827: name \"Cold House\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/395827"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 395827: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/395827"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 395827: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/395827"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085095 (Gem).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085095 (Gem), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cold House"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688657,
+        102085095,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":395827
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c55f0ad98ef7789cee166f2c76438eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085095,
+            "locality_id":9895001354,
+            "region_id":85688657
+        }
+    ],
+    "wof:id":9895001354,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Cold House",
+    "wof:parent_id":102085095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.53251311659653,
+    43.86111704608364,
+    -116.53251311659653,
+    43.86111704608364
+],
+  "geometry": {"coordinates":[-116.53251311659653,43.86111704608364],"type":"Point"}
+}

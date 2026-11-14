@@ -1,0 +1,82 @@
+{
+  "id": 9895006635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.4083226566527,39.63316151818727,-77.4083226566527,39.63316151818727",
+    "geom:latitude":39.633162,
+    "geom:longitude":-77.408323,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711195: name \"Catoctin Highlands\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711195"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711195: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711195"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711195: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711195"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949373 (Thurmont).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949373 (Thurmont), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Catoctin Highlands"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949373,
+        102081593,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1711195
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b164af74cb9878870aa1426cf51338a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "neighbourhood_id":9895006635,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006635,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Catoctin Highlands",
+    "wof:parent_id":85949373,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.4083226566527,
+    39.63316151818727,
+    -77.4083226566527,
+    39.63316151818727
+],
+  "geometry": {"coordinates":[-77.4083226566527,39.63316151818727],"type":"Point"}
+}

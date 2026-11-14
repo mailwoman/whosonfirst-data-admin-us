@@ -1,0 +1,82 @@
+{
+  "id": 9895004430,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.0032841495299,40.69356352075828,-112.0032841495299,40.69356352075828",
+    "geom:latitude":40.693564,
+    "geom:longitude":-112.003284,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451822: name \"Swallow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451822"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451822: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451822"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451822: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451822"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728063 (West Valley City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728063 (West Valley City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Swallow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728063,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451822
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5187fb869b8a9bef322766f73bfa7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":9895004430,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004430,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Swallow",
+    "wof:parent_id":101728063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.0032841495299,
+    40.69356352075828,
+    -112.0032841495299,
+    40.69356352075828
+],
+  "geometry": {"coordinates":[-112.0032841495299,40.69356352075828],"type":"Point"}
+}

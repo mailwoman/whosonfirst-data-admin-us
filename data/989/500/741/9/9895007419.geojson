@@ -1,0 +1,82 @@
+{
+  "id": 9895007419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.83334336995686,39.721673127338505,-104.83334336995686,39.721673127338505",
+    "geom:latitude":39.721673,
+    "geom:longitude":-104.833343,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354626: name \"Park View Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354626"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354626: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354626"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354626: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354626"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929235 (Aurora).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929235 (Aurora), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Park View Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929235,
+        102086877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354626
+    },
+    "wof:country":"US",
+    "wof:geomhash":"56ccddaed558c144b6d75b49ea135423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086877,
+            "locality_id":85929235,
+            "neighbourhood_id":9895007419,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007419,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Park View Estates",
+    "wof:parent_id":85929235,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.83334336995686,
+    39.721673127338505,
+    -104.83334336995686,
+    39.721673127338505
+],
+  "geometry": {"coordinates":[-104.83334336995686,39.721673127338505],"type":"Point"}
+}

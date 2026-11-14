@@ -1,0 +1,80 @@
+{
+  "id": 9895005612,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-123.13099810216013,47.110378603645934,-123.13099810216013,47.110378603645934",
+    "geom:latitude":47.110379,
+    "geom:longitude":-123.130998,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1510975: name \"Forbes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1510975"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1510975: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1510975"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1510975: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1510975"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084215 (Mason).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084215 (Mason), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Forbes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102084215,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1510975
+    },
+    "wof:country":"US",
+    "wof:geomhash":"148e78e6911b00a8e7e5b5c4aa185a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084215,
+            "locality_id":9895005612,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005612,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Forbes",
+    "wof:parent_id":102084215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.13099810216013,
+    47.110378603645934,
+    -123.13099810216013,
+    47.110378603645934
+],
+  "geometry": {"coordinates":[-123.13099810216013,47.110378603645934],"type":"Point"}
+}

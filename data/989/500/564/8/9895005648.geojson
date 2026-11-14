@@ -1,0 +1,80 @@
+{
+  "id": 9895005648,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.6351147917591,47.230112872034205,-121.6351147917591,47.230112872034205",
+    "geom:latitude":47.230113,
+    "geom:longitude":-121.635115,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1522827: name \"Maywood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1522827"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1522827: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1522827"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1522827: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1522827"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086191 (King).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086191 (King), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Maywood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        102086191,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1522827
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ff0574da3715cc413eb0bf7e7f42ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":9895005648,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005648,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Maywood",
+    "wof:parent_id":102086191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.6351147917591,
+    47.230112872034205,
+    -121.6351147917591,
+    47.230112872034205
+],
+  "geometry": {"coordinates":[-121.6351147917591,47.230112872034205],"type":"Point"}
+}

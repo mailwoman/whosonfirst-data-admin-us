@@ -1,0 +1,82 @@
+{
+  "id": 9895003754,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.85925452811331,32.78684937896715,-79.85925452811331,32.78684937896715",
+    "geom:latitude":32.786849,
+    "geom:longitude":-79.859255,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1253085: name \"Osceola Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1253085"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1253085: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1253085"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1253085: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1253085"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720773 (Mount Pleasant).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720773 (Mount Pleasant), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Osceola Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720773,
+        102085591,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1253085
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04e11261c6e962ca4947c15730381cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085591,
+            "locality_id":101720773,
+            "neighbourhood_id":9895003754,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003754,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Osceola Heights",
+    "wof:parent_id":101720773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.85925452811331,
+    32.78684937896715,
+    -79.85925452811331,
+    32.78684937896715
+],
+  "geometry": {"coordinates":[-79.85925452811331,32.78684937896715],"type":"Point"}
+}

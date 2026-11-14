@@ -1,0 +1,80 @@
+{
+  "id": 9895007814,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.40392164292874,36.09372622280232,-76.40392164292874,36.09372622280232",
+    "geom:latitude":36.093726,
+    "geom:longitude":-76.403922,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2791720: name \"Albemarle Plantation\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2791720"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2791720: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2791720"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2791720: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2791720"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080919 (Perquimans).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080919 (Perquimans), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Albemarle Plantation"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080919,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2791720
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff0738ff6771d5e51df0509b9153ab5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080919,
+            "locality_id":9895007814,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895007814,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Albemarle Plantation",
+    "wof:parent_id":102080919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.40392164292874,
+    36.09372622280232,
+    -76.40392164292874,
+    36.09372622280232
+],
+  "geometry": {"coordinates":[-76.40392164292874,36.09372622280232],"type":"Point"}
+}

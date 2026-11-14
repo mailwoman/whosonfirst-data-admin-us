@@ -1,0 +1,82 @@
+{
+  "id": 9895006858,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.92062540042794,33.64446962844115,-117.92062540042794,33.64446962844115",
+    "geom:latitude":33.64447,
+    "geom:longitude":-117.920625,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765310: name \"Hoosier Trailer Court\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765310"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765310: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765310"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1765310: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1765310"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923161 (Costa Mesa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923161 (Costa Mesa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hoosier Trailer Court"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923161,
+        102080847,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1765310
+    },
+    "wof:country":"US",
+    "wof:geomhash":"607e1326c083e1a5b6a73a82d0c062de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923161,
+            "neighbourhood_id":9895006858,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006858,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Hoosier Trailer Court",
+    "wof:parent_id":85923161,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.92062540042794,
+    33.64446962844115,
+    -117.92062540042794,
+    33.64446962844115
+],
+  "geometry": {"coordinates":[-117.92062540042794,33.64446962844115],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895008022,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-155.88744598756793,19.920197068110763,-155.88744598756793,19.920197068110763",
+    "geom:latitude":19.920197,
+    "geom:longitude":-155.887446,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806906: name \"Waikoloa Beach Resort\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806906"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806906: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806906"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806906: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806906"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937387 (Puako).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937387 (Puako), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Waikoloa Beach Resort"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688671,
+        85937387,
+        102085433,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806906
+    },
+    "wof:country":"US",
+    "wof:geomhash":"45ca1a88083d4c9fd763de36620c3a8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937387,
+            "neighbourhood_id":9895008022,
+            "region_id":85688671
+        }
+    ],
+    "wof:id":9895008022,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Waikoloa Beach Resort",
+    "wof:parent_id":85937387,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.88744598756793,
+    19.920197068110763,
+    -155.88744598756793,
+    19.920197068110763
+],
+  "geometry": {"coordinates":[-155.88744598756793,19.920197068110763],"type":"Point"}
+}

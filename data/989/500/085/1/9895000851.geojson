@@ -1,0 +1,82 @@
+{
+  "id": 9895000851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.03198406376595,34.15983007907465,-88.03198406376595,34.15983007907465",
+    "geom:latitude":34.15983,
+    "geom:longitude":-88.031984,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157243: name \"Weston\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157243"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157243: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157243"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 157243: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/157243"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914447 (Hamilton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914447 (Hamilton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Weston"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914447,
+        102085613,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":157243
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6cb401cb9545c6133d3e9d067483dd12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085613,
+            "locality_id":85914447,
+            "neighbourhood_id":9895000851,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000851,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Weston",
+    "wof:parent_id":85914447,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.03198406376595,
+    34.15983007907465,
+    -88.03198406376595,
+    34.15983007907465
+],
+  "geometry": {"coordinates":[-88.03198406376595,34.15983007907465],"type":"Point"}
+}

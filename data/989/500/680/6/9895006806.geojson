@@ -1,0 +1,80 @@
+{
+  "id": 9895006806,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.00041778534231,38.44148609530001,-82.00041778534231,38.44148609530001",
+    "geom:latitude":38.441486,
+    "geom:longitude":-82.000418,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740730: name \"Knollview Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740730"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740730: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740730"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740730: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740730"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083381 (Putnam).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083381 (Putnam), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Knollview Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        102083381,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1740730
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d1683ed4e062f1fbec1fd18b499a777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":9895006806,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895006806,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Knollview Estates",
+    "wof:parent_id":102083381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.00041778534231,
+    38.44148609530001,
+    -82.00041778534231,
+    38.44148609530001
+],
+  "geometry": {"coordinates":[-82.00041778534231,38.44148609530001],"type":"Point"}
+}

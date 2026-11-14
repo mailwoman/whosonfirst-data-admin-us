@@ -1,0 +1,82 @@
+{
+  "id": 9895005998,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.30369628223059,33.864742931918194,-118.30369628223059,33.864742931918194",
+    "geom:latitude":33.864743,
+    "geom:longitude":-118.303696,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661328: name \"Roosevelt\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661328"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661328: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661328"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661328: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661328"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923517 (Los Angeles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923517 (Los Angeles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Roosevelt"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923517,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661328
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf17229da123332c8214a99de5bbd7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":9895005998,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005998,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Roosevelt",
+    "wof:parent_id":85923517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.30369628223059,
+    33.864742931918194,
+    -118.30369628223059,
+    33.864742931918194
+],
+  "geometry": {"coordinates":[-118.30369628223059,33.864742931918194],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895005873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.26088203494324,32.948383082915605,-117.26088203494324,32.948383082915605",
+    "geom:latitude":32.948383,
+    "geom:longitude":-117.260882,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1656481: name \"Del Mar Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1656481"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1656481: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1656481"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1656481: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1656481"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922277 (Del Mar).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922277 (Del Mar), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Del Mar Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922277,
+        102083569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1656481
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a002825154967839c48fee3f174a0b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922277,
+            "neighbourhood_id":9895005873,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005873,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Del Mar Heights",
+    "wof:parent_id":85922277,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.26088203494324,
+    32.948383082915605,
+    -117.26088203494324,
+    32.948383082915605
+],
+  "geometry": {"coordinates":[-117.26088203494324,32.948383082915605],"type":"Point"}
+}

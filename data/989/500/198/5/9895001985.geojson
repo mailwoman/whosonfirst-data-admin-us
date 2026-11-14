@@ -1,0 +1,82 @@
+{
+  "id": 9895001985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.0739461976792,44.89001519969905,-85.0739461976792,44.89001519969905",
+    "geom:latitude":44.890015,
+    "geom:longitude":-85.073946,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 620154: name \"Antrim\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/620154"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 620154: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/620154"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 620154: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/620154"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404505733 (Mancelona Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404505733 (Mancelona Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Antrim"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688599,
+        102083069,
+        102191575,
+        404505733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":620154
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d3845f96cf596d3c40c874b8fc03aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083069,
+            "localadmin_id":404505733,
+            "locality_id":9895001985,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":9895001985,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Antrim",
+    "wof:parent_id":404505733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.0739461976792,
+    44.89001519969905,
+    -85.0739461976792,
+    44.89001519969905
+],
+  "geometry": {"coordinates":[-85.0739461976792,44.89001519969905],"type":"Point"}
+}

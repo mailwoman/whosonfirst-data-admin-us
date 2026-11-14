@@ -1,0 +1,82 @@
+{
+  "id": 9895000531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.87110629043887,33.34789525538347,-86.87110629043887,33.34789525538347",
+    "geom:latitude":33.347895,
+    "geom:longitude":-86.871106,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144512: name \"Rolling Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144512"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144512: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144512"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 144512: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/144512"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914475 (Hoover).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914475 (Hoover), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rolling Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914475,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":144512
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e05ce2a093563a7273f9507e8ff0f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914475,
+            "neighbourhood_id":9895000531,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000531,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Rolling Ridge",
+    "wof:parent_id":85914475,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.87110629043887,
+    33.34789525538347,
+    -86.87110629043887,
+    33.34789525538347
+],
+  "geometry": {"coordinates":[-86.87110629043887,33.34789525538347],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003212,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.6095522611277,45.46845816878759,-122.6095522611277,45.46845816878759",
+    "geom:latitude":45.468458,
+    "geom:longitude":-122.609552,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1136270: name \"Errol Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1136270"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1136270: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1136270"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1136270: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1136270"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101715829 (Portland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101715829 (Portland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Errol Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688513,
+        101715829,
+        102081631,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1136270
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2401184db78925ab4210b56ffcdce909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "neighbourhood_id":9895003212,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":9895003212,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Errol Heights",
+    "wof:parent_id":101715829,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.6095522611277,
+    45.46845816878759,
+    -122.6095522611277,
+    45.46845816878759
+],
+  "geometry": {"coordinates":[-122.6095522611277,45.46845816878759],"type":"Point"}
+}

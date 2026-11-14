@@ -1,0 +1,82 @@
+{
+  "id": 9895002964,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.32699973363798,36.062366577186076,-80.32699973363798,36.062366577186076",
+    "geom:latitude":36.062367,
+    "geom:longitude":-80.327,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005549: name \"Brook Hollow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005549"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005549: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005549"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005549: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005549"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980715 (Winston-Salem).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980715 (Winston-Salem), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brook Hollow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980715,
+        102080957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005549
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b50fe73024f8a93a6c2168d1d44eeb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080957,
+            "locality_id":85980715,
+            "neighbourhood_id":9895002964,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002964,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Brook Hollow",
+    "wof:parent_id":85980715,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.32699973363798,
+    36.062366577186076,
+    -80.32699973363798,
+    36.062366577186076
+],
+  "geometry": {"coordinates":[-80.32699973363798,36.062366577186076],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.76617706588128,34.16960719030362,-79.76617706588128,34.16960719030362",
+    "geom:latitude":34.169607,
+    "geom:longitude":-79.766177,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241874: name \"Fairlane Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241874"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241874: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241874"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241874: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241874"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721115 (Florence).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721115 (Florence), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fairlane Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721115,
+        102085723,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1241874
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b897dbb98ec0aca032665a95249809bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085723,
+            "locality_id":101721115,
+            "neighbourhood_id":9895003575,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003575,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Fairlane Estates",
+    "wof:parent_id":101721115,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.76617706588128,
+    34.16960719030362,
+    -79.76617706588128,
+    34.16960719030362
+],
+  "geometry": {"coordinates":[-79.76617706588128,34.16960719030362],"type":"Point"}
+}

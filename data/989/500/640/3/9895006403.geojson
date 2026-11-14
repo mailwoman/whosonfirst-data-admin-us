@@ -1,0 +1,82 @@
+{
+  "id": 9895006403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.38104129710574,33.682059020075485,-84.38104129710574,33.682059020075485",
+    "geom:latitude":33.682059,
+    "geom:longitude":-84.381041,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1694968: name \"Rosedale Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1694968"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1694968: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1694968"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1694968: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1694968"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936429 (Atlanta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936429 (Atlanta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rosedale Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936429,
+        102083603,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1694968
+    },
+    "wof:country":"US",
+    "wof:geomhash":"44e6b63cf1c3173869be77df458cf134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":9895006403,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006403,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Rosedale Heights",
+    "wof:parent_id":85936429,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.38104129710574,
+    33.682059020075485,
+    -84.38104129710574,
+    33.682059020075485
+],
+  "geometry": {"coordinates":[-84.38104129710574,33.682059020075485],"type":"Point"}
+}

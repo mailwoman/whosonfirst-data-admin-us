@@ -1,0 +1,82 @@
+{
+  "id": 9895003965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.82000523293796,35.96784719582449,-86.82000523293796,35.96784719582449",
+    "geom:latitude":35.967847,
+    "geom:longitude":-86.820005,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312903: name \"Brentwood Pointe\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312903"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312903: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312903"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312903: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312903"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723097 (Brentwood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723097 (Brentwood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brentwood Pointe"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723097,
+        102086337,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312903
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d028832cf3d0430a0722cb2933bb801f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723097,
+            "neighbourhood_id":9895003965,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003965,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Brentwood Pointe",
+    "wof:parent_id":101723097,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.82000523293796,
+    35.96784719582449,
+    -86.82000523293796,
+    35.96784719582449
+],
+  "geometry": {"coordinates":[-86.82000523293796,35.96784719582449],"type":"Point"}
+}

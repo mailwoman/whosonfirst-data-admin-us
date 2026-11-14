@@ -1,0 +1,82 @@
+{
+  "id": 9895008056,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.15002513378063,44.85590324850612,-89.15002513378063,44.85590324850612",
+    "geom:latitude":44.855903,
+    "geom:longitude":-89.150025,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807529: name \"Paac Ciinak\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807529"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807529: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807529"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807529: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807529"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404494427 (Wittenberg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404494427 (Wittenberg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Paac Ciinak"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688517,
+        102081859,
+        102191575,
+        404494427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807529
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3dd9fe2fbfb09aee0d38c23e07c564ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081859,
+            "localadmin_id":404494427,
+            "locality_id":9895008056,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":9895008056,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Paac Ciinak",
+    "wof:parent_id":404494427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.15002513378063,
+    44.85590324850612,
+    -89.15002513378063,
+    44.85590324850612
+],
+  "geometry": {"coordinates":[-89.15002513378063,44.85590324850612],"type":"Point"}
+}

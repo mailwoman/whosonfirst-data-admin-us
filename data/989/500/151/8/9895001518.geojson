@@ -1,0 +1,80 @@
+{
+  "id": 9895001518,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.36470439533241,37.32922378474009,-86.36470439533241,37.32922378474009",
+    "geom:latitude":37.329224,
+    "geom:longitude":-86.364704,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 503891: name \"South\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/503891"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 503891: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/503891"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 503891: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/503891"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084591 (Grayson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084591 (Grayson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688641,
+        102084591,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":503891
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b3103d118b0fdba07eacde50dc32e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084591,
+            "locality_id":9895001518,
+            "region_id":85688641
+        }
+    ],
+    "wof:id":9895001518,
+    "wof:lastmodified":1794681126,
+    "wof:name":"South",
+    "wof:parent_id":102084591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.36470439533241,
+    37.32922378474009,
+    -86.36470439533241,
+    37.32922378474009
+],
+  "geometry": {"coordinates":[-86.36470439533241,37.32922378474009],"type":"Point"}
+}

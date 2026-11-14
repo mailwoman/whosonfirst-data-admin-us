@@ -1,0 +1,82 @@
+{
+  "id": 9895006507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.75277076261597,33.44039137980288,-86.75277076261597,33.44039137980288",
+    "geom:latitude":33.440391,
+    "geom:longitude":-86.752771,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700134: name \"Altadena Forest Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700134"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700134: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700134"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700134: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700134"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914483 (Vestavia Hills).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914483 (Vestavia Hills), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Altadena Forest Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914483,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700134
+    },
+    "wof:country":"US",
+    "wof:geomhash":"87585c1873dfb16bac8e535747323b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914483,
+            "neighbourhood_id":9895006507,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006507,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Altadena Forest Estates",
+    "wof:parent_id":85914483,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.75277076261597,
+    33.44039137980288,
+    -86.75277076261597,
+    33.44039137980288
+],
+  "geometry": {"coordinates":[-86.75277076261597,33.44039137980288],"type":"Point"}
+}

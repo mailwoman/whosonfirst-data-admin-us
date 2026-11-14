@@ -1,0 +1,82 @@
+{
+  "id": 9895004043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.88101133886505,30.22021374251641,-93.88101133886505,30.22021374251641",
+    "geom:latitude":30.220214,
+    "geom:longitude":-93.881011,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1348427: name \"Texla\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1348427"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1348427: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1348427"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1348427: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1348427"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727079 (Mauriceville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727079 (Mauriceville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Texla"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        101727079,
+        102081453,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1348427
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6bf9062b4ada848784ca84b620561802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081453,
+            "locality_id":101727079,
+            "neighbourhood_id":9895004043,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004043,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Texla",
+    "wof:parent_id":101727079,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.88101133886505,
+    30.22021374251641,
+    -93.88101133886505,
+    30.22021374251641
+],
+  "geometry": {"coordinates":[-93.88101133886505,30.22021374251641],"type":"Point"}
+}

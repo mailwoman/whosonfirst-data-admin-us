@@ -1,0 +1,84 @@
+{
+  "id": 9895006972,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.68061968075205,42.03726057817722,-87.68061968075205,42.03726057817722",
+    "geom:latitude":42.037261,
+    "geom:longitude":-87.68062,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1802390: name \"South Evanston\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1802390"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1802390: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1802390"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1802390: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1802390"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940857 (Evanston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940857 (Evanston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South Evanston"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940857,
+        102084317,
+        102191575,
+        404497621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1802390
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f104d56a9e5ed9002f712911e9b2526a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497621,
+            "locality_id":85940857,
+            "neighbourhood_id":9895006972,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895006972,
+    "wof:lastmodified":1794681142,
+    "wof:name":"South Evanston",
+    "wof:parent_id":85940857,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.68061968075205,
+    42.03726057817722,
+    -87.68061968075205,
+    42.03726057817722
+],
+  "geometry": {"coordinates":[-87.68061968075205,42.03726057817722],"type":"Point"}
+}

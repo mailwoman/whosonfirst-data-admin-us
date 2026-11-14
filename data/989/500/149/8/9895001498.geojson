@@ -1,0 +1,84 @@
+{
+  "id": 9895001498,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.801635802467,39.18889858543776,-94.801635802467,39.18889858543776",
+    "geom:latitude":39.188899,
+    "geom:longitude":-94.801636,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 478581: name \"Wolcott\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/478581"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 478581: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/478581"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 478581: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/478581"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85945801 (Kansas City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85945801 (Kansas City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wolcott"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688555,
+        85945801,
+        102082163,
+        102191575,
+        404504875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":478581
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1e49fa7d3155c312f87f7c74b7b9d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":9895001498,
+            "region_id":85688555
+        }
+    ],
+    "wof:id":9895001498,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Wolcott",
+    "wof:parent_id":85945801,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.801635802467,
+    39.18889858543776,
+    -94.801635802467,
+    39.18889858543776
+],
+  "geometry": {"coordinates":[-94.801635802467,39.18889858543776],"type":"Point"}
+}

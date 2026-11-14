@@ -1,0 +1,82 @@
+{
+  "id": 9895006099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.28005452562559,34.08307311376556,-117.28005452562559,34.08307311376556",
+    "geom:latitude":34.083073,
+    "geom:longitude":-117.280055,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670955: name \"Valley Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670955"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670955: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670955"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670955: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670955"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923951 (San Bernardino).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923951 (San Bernardino), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Valley Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923951,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1670955
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f49e901c91dd91438e034123ff3618b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85923951,
+            "neighbourhood_id":9895006099,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006099,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Valley Gardens",
+    "wof:parent_id":85923951,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.28005452562559,
+    34.08307311376556,
+    -117.28005452562559,
+    34.08307311376556
+],
+  "geometry": {"coordinates":[-117.28005452562559,34.08307311376556],"type":"Point"}
+}

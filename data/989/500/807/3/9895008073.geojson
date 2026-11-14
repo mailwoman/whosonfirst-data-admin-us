@@ -1,0 +1,82 @@
+{
+  "id": 9895008073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.02100476794391,39.51400756447138,-85.02100476794391,39.51400756447138",
+    "geom:latitude":39.514008,
+    "geom:longitude":-85.021005,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830268: name \"Lakeshore Resort\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830268"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830268: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830268"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2830268: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2830268"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404500705 (Fairfield Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404500705 (Fairfield Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lakeshore Resort"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102086385,
+        102191575,
+        404500705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2830268
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f811a54989c88cb7687d03f16074253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086385,
+            "localadmin_id":404500705,
+            "locality_id":9895008073,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895008073,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Lakeshore Resort",
+    "wof:parent_id":404500705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.02100476794391,
+    39.51400756447138,
+    -85.02100476794391,
+    39.51400756447138
+],
+  "geometry": {"coordinates":[-85.02100476794391,39.51400756447138],"type":"Point"}
+}

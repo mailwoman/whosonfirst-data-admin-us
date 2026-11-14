@@ -1,0 +1,82 @@
+{
+  "id": 9895001651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.11316731887949,30.50852799859331,-91.11316731887949,30.50852799859331",
+    "geom:latitude":30.508528,
+    "geom:longitude":-91.113167,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558957: name \"East Glen\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558957"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558957: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558957"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558957: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558957"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948685 (Merrydale).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948685 (Merrydale), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "East Glen"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948685,
+        102087229,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":558957
+    },
+    "wof:country":"US",
+    "wof:geomhash":"caefc4bf0cdce773fe50bb2c684c9cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948685,
+            "neighbourhood_id":9895001651,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001651,
+    "wof:lastmodified":1794681126,
+    "wof:name":"East Glen",
+    "wof:parent_id":85948685,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.11316731887949,
+    30.50852799859331,
+    -91.11316731887949,
+    30.50852799859331
+],
+  "geometry": {"coordinates":[-91.11316731887949,30.50852799859331],"type":"Point"}
+}

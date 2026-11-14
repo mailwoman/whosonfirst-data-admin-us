@@ -1,0 +1,82 @@
+{
+  "id": 9895004605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.91467002607584,40.65495322383087,-111.91467002607584,40.65495322383087",
+    "geom:latitude":40.654953,
+    "geom:longitude":-111.91467,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452405: name \"Majestic Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452405"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452405: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452405"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452405: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452405"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728069 (Murray).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728069 (Murray), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Majestic Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728069,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1452405
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2106c0119dda5bb1c00f0ab0285a1dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":9895004605,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004605,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Majestic Village",
+    "wof:parent_id":101728069,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.91467002607584,
+    40.65495322383087,
+    -111.91467002607584,
+    40.65495322383087
+],
+  "geometry": {"coordinates":[-111.91467002607584,40.65495322383087],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000446,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.27136207202537,32.39736607505241,-86.27136207202537,32.39736607505241",
+    "geom:latitude":32.397366,
+    "geom:longitude":-86.271362,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142781: name \"Pecan Grove Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142781"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142781: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142781"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 142781: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/142781"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pecan Grove Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":142781
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b8850a0068aae1a78a92a8b9ad95575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000446,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000446,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Pecan Grove Estates",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.27136207202537,
+    32.39736607505241,
+    -86.27136207202537,
+    32.39736607505241
+],
+  "geometry": {"coordinates":[-86.27136207202537,32.39736607505241],"type":"Point"}
+}

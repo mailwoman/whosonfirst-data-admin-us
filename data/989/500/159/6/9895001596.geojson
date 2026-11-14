@@ -1,0 +1,82 @@
+{
+  "id": 9895001596,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.69185110690619,32.51682441578848,-93.69185110690619,32.51682441578848",
+    "geom:latitude":32.516824,
+    "geom:longitude":-93.691851,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 550803: name \"Coleman Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/550803"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 550803: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/550803"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 550803: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/550803"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85947997 (Bossier City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85947997 (Bossier City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Coleman Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85947997,
+        102084883,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":550803
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc8bb357f3ae3b402ad79c2e37abae2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084883,
+            "locality_id":85947997,
+            "neighbourhood_id":9895001596,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001596,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Coleman Park",
+    "wof:parent_id":85947997,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.69185110690619,
+    32.51682441578848,
+    -93.69185110690619,
+    32.51682441578848
+],
+  "geometry": {"coordinates":[-93.69185110690619,32.51682441578848],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895002218,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.79594202662965,32.39598360604505,-90.79594202662965,32.39598360604505",
+    "geom:latitude":32.395984,
+    "geom:longitude":-90.795942,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 707670: name \"Openwood Plantation\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/707670"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 707670: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/707670"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 707670: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/707670"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083779 (Warren).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083779 (Warren), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Openwood Plantation"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102083779,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":707670
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a883dbe3b6459e1ede2cb762f95ce14a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":9895002218,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002218,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Openwood Plantation",
+    "wof:parent_id":102083779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.79594202662965,
+    32.39598360604505,
+    -90.79594202662965,
+    32.39598360604505
+],
+  "geometry": {"coordinates":[-90.79594202662965,32.39598360604505],"type":"Point"}
+}

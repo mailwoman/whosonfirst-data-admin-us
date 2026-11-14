@@ -1,0 +1,82 @@
+{
+  "id": 9895001387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.03514249646875,39.45977574496899,-91.03514249646875,39.45977574496899",
+    "geom:latitude":39.459776,
+    "geom:longitude":-91.035142,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 415661: name \"Pike\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/415661"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 415661: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/415661"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 415661: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/415661"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404499065 (Atlas Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404499065 (Atlas Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pike"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102081665,
+        102191575,
+        404499065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":415661
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c870a96761db287a62c99fab868efe4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081665,
+            "localadmin_id":404499065,
+            "locality_id":9895001387,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001387,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Pike",
+    "wof:parent_id":404499065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.03514249646875,
+    39.45977574496899,
+    -91.03514249646875,
+    39.45977574496899
+],
+  "geometry": {"coordinates":[-91.03514249646875,39.45977574496899],"type":"Point"}
+}

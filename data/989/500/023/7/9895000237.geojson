@@ -1,0 +1,80 @@
+{
+  "id": 9895000237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.28956329643984,33.05262912106625,-91.28956329643984,33.05262912106625",
+    "geom:latitude":33.052629,
+    "geom:longitude":-91.289563,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 57967: name \"Indian\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/57967"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 57967: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/57967"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 57967: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/57967"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082043 (Chicot).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082043 (Chicot), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Indian"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        102082043,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":57967
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3dcfd8b9096daaed059e4ad84ecb9216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082043,
+            "locality_id":9895000237,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000237,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Indian",
+    "wof:parent_id":102082043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.28956329643984,
+    33.05262912106625,
+    -91.28956329643984,
+    33.05262912106625
+],
+  "geometry": {"coordinates":[-91.28956329643984,33.05262912106625],"type":"Point"}
+}

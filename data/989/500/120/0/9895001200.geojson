@@ -1,0 +1,82 @@
+{
+  "id": 9895001200,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.35652111834817,31.78214597179799,-82.35652111834817,31.78214597179799",
+    "geom:latitude":31.782146,
+    "geom:longitude":-82.356521,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349123: name \"Baker Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349123"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349123: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349123"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349123: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349123"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937113 (Baxley).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937113 (Baxley), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Baker Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85937113,
+        102081679,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":349123
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1792f926d43acacd568d6f59d1bfb9d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081679,
+            "locality_id":85937113,
+            "neighbourhood_id":9895001200,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001200,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Baker Homes",
+    "wof:parent_id":85937113,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.35652111834817,
+    31.78214597179799,
+    -82.35652111834817,
+    31.78214597179799
+],
+  "geometry": {"coordinates":[-82.35652111834817,31.78214597179799],"type":"Point"}
+}

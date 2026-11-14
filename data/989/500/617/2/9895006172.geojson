@@ -1,0 +1,82 @@
+{
+  "id": 9895006172,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.37954410628147,31.159959760482746,-81.37954410628147,31.159959760482746",
+    "geom:latitude":31.15996,
+    "geom:longitude":-81.379544,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671544: name \"Kelvin Grove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671544"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671544: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671544"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671544: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671544"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937357 (St. Simons).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937357 (St. Simons), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kelvin Grove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85937357,
+        102081695,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671544
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c263a0a9db76854f8fded7f4c7f771f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937357,
+            "neighbourhood_id":9895006172,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006172,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Kelvin Grove",
+    "wof:parent_id":85937357,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.37954410628147,
+    31.159959760482746,
+    -81.37954410628147,
+    31.159959760482746
+],
+  "geometry": {"coordinates":[-81.37954410628147,31.159959760482746],"type":"Point"}
+}

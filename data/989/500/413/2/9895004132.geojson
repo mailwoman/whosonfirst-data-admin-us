@@ -1,0 +1,80 @@
+{
+  "id": 9895004132,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.12992114255304,31.028812799747396,-94.12992114255304,31.028812799747396",
+    "geom:latitude":31.028813,
+    "geom:longitude":-94.129921,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1383647: name \"River Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1383647"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1383647: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1383647"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1383647: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1383647"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081977 (Jasper).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081977 (Jasper), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "River Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102081977,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1383647
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dbab8172d6596b319b828468fc3fc446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081977,
+            "locality_id":9895004132,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004132,
+    "wof:lastmodified":1794681136,
+    "wof:name":"River Ridge",
+    "wof:parent_id":102081977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.12992114255304,
+    31.028812799747396,
+    -94.12992114255304,
+    31.028812799747396
+],
+  "geometry": {"coordinates":[-94.12992114255304,31.028812799747396],"type":"Point"}
+}

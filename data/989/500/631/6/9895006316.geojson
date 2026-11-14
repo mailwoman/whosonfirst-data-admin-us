@@ -1,0 +1,82 @@
+{
+  "id": 9895006316,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.52493536171072,34.109549106362465,-84.52493536171072,34.109549106362465",
+    "geom:latitude":34.109549,
+    "geom:longitude":-84.524935,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1685702: name \"Breeze Hill Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1685702"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1685702: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1685702"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1685702: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1685702"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936723 (Woodstock).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936723 (Woodstock), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Breeze Hill Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936723,
+        102084635,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1685702
+    },
+    "wof:country":"US",
+    "wof:geomhash":"025964d1b9d9591cd5676e70e0035c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084635,
+            "locality_id":85936723,
+            "neighbourhood_id":9895006316,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006316,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Breeze Hill Estates",
+    "wof:parent_id":85936723,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.52493536171072,
+    34.109549106362465,
+    -84.52493536171072,
+    34.109549106362465
+],
+  "geometry": {"coordinates":[-84.52493536171072,34.109549106362465],"type":"Point"}
+}

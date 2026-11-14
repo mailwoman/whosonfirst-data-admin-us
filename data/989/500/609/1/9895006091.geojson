@@ -1,0 +1,82 @@
+{
+  "id": 9895006091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.31147478619093,33.90085333626894,-118.31147478619093,33.90085333626894",
+    "geom:latitude":33.900853,
+    "geom:longitude":-118.311475,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670017: name \"Strawberry Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670017"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670017: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670017"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1670017: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1670017"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923619 (Gardena).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923619 (Gardena), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Strawberry Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923619,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1670017
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c4dfd1dd138747f87ee4614ece821c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923619,
+            "neighbourhood_id":9895006091,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006091,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Strawberry Park",
+    "wof:parent_id":85923619,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.31147478619093,
+    33.90085333626894,
+    -118.31147478619093,
+    33.90085333626894
+],
+  "geometry": {"coordinates":[-118.31147478619093,33.90085333626894],"type":"Point"}
+}

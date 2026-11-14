@@ -1,0 +1,82 @@
+{
+  "id": 9895006492,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.75443917035548,33.58455451024875,-86.75443917035548,33.58455451024875",
+    "geom:latitude":33.584555,
+    "geom:longitude":-86.754439,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700065: name \"Tarrant Garden Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700065"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700065: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700065"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700065: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700065"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914785 (Tarrant).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914785 (Tarrant), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tarrant Garden Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914785,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700065
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c06a4d5cde06d9cc4f2909bc2ec622bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914785,
+            "neighbourhood_id":9895006492,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006492,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Tarrant Garden Estates",
+    "wof:parent_id":85914785,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.75443917035548,
+    33.58455451024875,
+    -86.75443917035548,
+    33.58455451024875
+],
+  "geometry": {"coordinates":[-86.75443917035548,33.58455451024875],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895004026,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.30718913847039,36.59451458688795,-85.30718913847039,36.59451458688795",
+    "geom:latitude":36.594515,
+    "geom:longitude":-85.307189,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1315861: name \"Saint John\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1315861"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1315861: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1315861"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1315861: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1315861"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087049 (Clay).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087049 (Clay), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint John"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102087049,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1315861
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f577ab78c7c55c5ea3b790f5e4d0dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087049,
+            "locality_id":9895004026,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895004026,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Saint John",
+    "wof:parent_id":102087049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.30718913847039,
+    36.59451458688795,
+    -85.30718913847039,
+    36.59451458688795
+],
+  "geometry": {"coordinates":[-85.30718913847039,36.59451458688795],"type":"Point"}
+}

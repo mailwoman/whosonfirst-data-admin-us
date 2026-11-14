@@ -1,0 +1,82 @@
+{
+  "id": 9895007365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.13779093500445,37.44278273707495,-122.13779093500445,37.44278273707495",
+    "geom:latitude":37.442783,
+    "geom:longitude":-122.137791,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354024: name \"Embarcadero Oaks\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354024"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354024: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354024"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354024: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354024"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922351 (Palo Alto).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922351 (Palo Alto), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Embarcadero Oaks"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922351,
+        102081673,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354024
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c690bcfade4c6407f7c83f71f9c876f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "neighbourhood_id":9895007365,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007365,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Embarcadero Oaks",
+    "wof:parent_id":85922351,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.13779093500445,
+    37.44278273707495,
+    -122.13779093500445,
+    37.44278273707495
+],
+  "geometry": {"coordinates":[-122.13779093500445,37.44278273707495],"type":"Point"}
+}

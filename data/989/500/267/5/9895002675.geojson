@@ -1,0 +1,82 @@
+{
+  "id": 9895002675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.60639439817434,35.76515867653757,-78.60639439817434,35.76515867653757",
+    "geom:latitude":35.765159,
+    "geom:longitude":-78.606394,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002865: name \"Stratford Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002865"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002865: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002865"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002865: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002865"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980569 (Raleigh).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980569 (Raleigh), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stratford Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980569,
+        102087821,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1002865
+    },
+    "wof:country":"US",
+    "wof:geomhash":"402d8c05efe5a72c374688577b5f5539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":9895002675,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002675,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Stratford Park",
+    "wof:parent_id":85980569,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.60639439817434,
+    35.76515867653757,
+    -78.60639439817434,
+    35.76515867653757
+],
+  "geometry": {"coordinates":[-78.60639439817434,35.76515867653757],"type":"Point"}
+}

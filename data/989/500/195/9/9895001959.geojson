@@ -1,0 +1,84 @@
+{
+  "id": 9895001959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.15422001623648,42.262607051494875,-71.15422001623648,42.262607051494875",
+    "geom:latitude":42.262607,
+    "geom:longitude":-71.15422,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 612315: name \"Germantown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/612315"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 612315: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/612315"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 612315: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/612315"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950361 (Boston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950361 (Boston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Germantown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688645,
+        85950361,
+        102084423,
+        102191575,
+        404476573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":612315
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c79e4d62a6ff965d488da65eb8aa7acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":9895001959,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":9895001959,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Germantown",
+    "wof:parent_id":85950361,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.15422001623648,
+    42.262607051494875,
+    -71.15422001623648,
+    42.262607051494875
+],
+  "geometry": {"coordinates":[-71.15422001623648,42.262607051494875],"type":"Point"}
+}

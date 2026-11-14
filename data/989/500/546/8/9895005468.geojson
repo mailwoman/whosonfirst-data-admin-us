@@ -1,0 +1,82 @@
+{
+  "id": 9895005468,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.9155045430085,40.77856303737077,-111.9155045430085,40.77856303737077",
+    "geom:latitude":40.778563,
+    "geom:longitude":-111.915505,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454213: name \"Lynch and Glassmans\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454213"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454213: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454213"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454213: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454213"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728075 (Salt Lake City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728075 (Salt Lake City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lynch and Glassmans"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728075,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1454213
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c7c4ce02b0cd47a337f87e5bb0c0de34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":9895005468,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005468,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Lynch and Glassmans",
+    "wof:parent_id":101728075,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.9155045430085,
+    40.77856303737077,
+    -111.9155045430085,
+    40.77856303737077
+],
+  "geometry": {"coordinates":[-111.9155045430085,40.77856303737077],"type":"Point"}
+}

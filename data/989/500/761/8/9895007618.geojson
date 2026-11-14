@@ -1,0 +1,82 @@
+{
+  "id": 9895007618,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.47330341323077,28.15500522161447,-82.47330341323077,28.15500522161447",
+    "geom:latitude":28.155005,
+    "geom:longitude":-82.473303,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2482703: name \"Candlelight\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2482703"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2482703: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2482703"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2482703: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2482703"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933801 (Lutz).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933801 (Lutz), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Candlelight"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933801,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2482703
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c636f869e2c97db6eaaed4f036d1e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85933801,
+            "neighbourhood_id":9895007618,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007618,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Candlelight",
+    "wof:parent_id":85933801,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.47330341323077,
+    28.15500522161447,
+    -82.47330341323077,
+    28.15500522161447
+],
+  "geometry": {"coordinates":[-82.47330341323077,28.15500522161447],"type":"Point"}
+}

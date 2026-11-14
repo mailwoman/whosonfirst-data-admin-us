@@ -1,0 +1,82 @@
+{
+  "id": 9895005774,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.75145693986327,30.296588399304092,-89.75145693986327,30.296588399304092",
+    "geom:latitude":30.296588,
+    "geom:longitude":-89.751457,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1629040: name \"Tanglewood Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1629040"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1629040: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1629040"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1629040: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1629040"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948031 (Slidell).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948031 (Slidell), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tanglewood Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948031,
+        102082453,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1629040
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d509fa321ba30153155bd916f3a30c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":9895005774,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895005774,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Tanglewood Village",
+    "wof:parent_id":85948031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.75145693986327,
+    30.296588399304092,
+    -89.75145693986327,
+    30.296588399304092
+],
+  "geometry": {"coordinates":[-89.75145693986327,30.296588399304092],"type":"Point"}
+}

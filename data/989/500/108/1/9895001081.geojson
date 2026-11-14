@@ -1,0 +1,80 @@
+{
+  "id": 9895001081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.88230931030071,27.160334294201842,-81.88230931030071,27.160334294201842",
+    "geom:latitude":27.160334,
+    "geom:longitude":-81.882309,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 294280: name \"Nocatee\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/294280"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 294280: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/294280"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 294280: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/294280"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085817 (DeSoto).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085817 (DeSoto), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Nocatee"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102085817,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":294280
+    },
+    "wof:country":"US",
+    "wof:geomhash":"60bb47db6ca8500c507cd62021c7bb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085817,
+            "locality_id":9895001081,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001081,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Nocatee",
+    "wof:parent_id":102085817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.88230931030071,
+    27.160334294201842,
+    -81.88230931030071,
+    27.160334294201842
+],
+  "geometry": {"coordinates":[-81.88230931030071,27.160334294201842],"type":"Point"}
+}

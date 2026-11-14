@@ -1,0 +1,82 @@
+{
+  "id": 9895008002,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.606640983041,35.54649400102564,-108.606640983041,35.54649400102564",
+    "geom:latitude":35.546494,
+    "geom:longitude":-108.606641,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806737: name \"White Cliffs\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806737"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806737: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806737"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806737: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806737"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85976727 (Gallup).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85976727 (Gallup), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "White Cliffs"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        85976727,
+        102081579,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806737
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b09e5d21e804537b6b76efb07fcde72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081579,
+            "locality_id":85976727,
+            "neighbourhood_id":9895008002,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895008002,
+    "wof:lastmodified":1794681145,
+    "wof:name":"White Cliffs",
+    "wof:parent_id":85976727,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.606640983041,
+    35.54649400102564,
+    -108.606640983041,
+    35.54649400102564
+],
+  "geometry": {"coordinates":[-108.606640983041,35.54649400102564],"type":"Point"}
+}

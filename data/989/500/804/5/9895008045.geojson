@@ -1,0 +1,82 @@
+{
+  "id": 9895008045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.12639420366338,44.378775374370974,-73.12639420366338,44.378775374370974",
+    "geom:latitude":44.378775,
+    "geom:longitude":-73.126394,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807137: name \"Saint George\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807137"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807137: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807137"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807137: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807137"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404527247 (St. George).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404527247 (St. George), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint George"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688763,
+        102087451,
+        102191575,
+        404527247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807137
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b52dd793d3db7c4dc72a62a68e498d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527247,
+            "locality_id":9895008045,
+            "region_id":85688763
+        }
+    ],
+    "wof:id":9895008045,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Saint George",
+    "wof:parent_id":404527247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.12639420366338,
+    44.378775374370974,
+    -73.12639420366338,
+    44.378775374370974
+],
+  "geometry": {"coordinates":[-73.12639420366338,44.378775374370974],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895003226,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-123.13512457899475,45.64456282458682,-123.13512457899475,45.64456282458682",
+    "geom:latitude":45.644563,
+    "geom:longitude":-123.135125,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1157969: name \"Davies Junction\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1157969"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1157969: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1157969"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1157969: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1157969"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082215 (Washington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082215 (Washington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Davies Junction"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688513,
+        102082215,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1157969
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2756cb2798cd010c424ac4013d9086ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082215,
+            "locality_id":9895003226,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":9895003226,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Davies Junction",
+    "wof:parent_id":102082215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.13512457899475,
+    45.64456282458682,
+    -123.13512457899475,
+    45.64456282458682
+],
+  "geometry": {"coordinates":[-123.13512457899475,45.64456282458682],"type":"Point"}
+}

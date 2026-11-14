@@ -1,0 +1,82 @@
+{
+  "id": 9895001396,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.85011366495014,41.56976267510583,-89.85011366495014,41.56976267510583",
+    "geom:latitude":41.569763,
+    "geom:longitude":-89.850114,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 421587: name \"Yorktown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/421587"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 421587: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/421587"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 421587: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/421587"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404497383 (Fairfield Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404497383 (Fairfield Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Yorktown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102082267,
+        102191575,
+        404497383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":421587
+    },
+    "wof:country":"US",
+    "wof:geomhash":"220c228ff3843ae13b71d43efcc3c6c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082267,
+            "localadmin_id":404497383,
+            "locality_id":9895001396,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001396,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Yorktown",
+    "wof:parent_id":404497383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.85011366495014,
+    41.56976267510583,
+    -89.85011366495014,
+    41.56976267510583
+],
+  "geometry": {"coordinates":[-89.85011366495014,41.56976267510583],"type":"Point"}
+}

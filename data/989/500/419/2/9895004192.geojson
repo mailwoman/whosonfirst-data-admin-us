@@ -1,0 +1,82 @@
+{
+  "id": 9895004192,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.0657885173672,41.096616160646775,-112.0657885173672,41.096616160646775",
+    "geom:latitude":41.096616,
+    "geom:longitude":-112.065789,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451401: name \"Country Crossing\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451401"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451401: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451401"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451401: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451401"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727889 (Syracuse).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727889 (Syracuse), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Country Crossing"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727889,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451401
+    },
+    "wof:country":"US",
+    "wof:geomhash":"59b6e878e0071c1ec15acd265c59f1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":9895004192,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004192,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Country Crossing",
+    "wof:parent_id":101727889,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.0657885173672,
+    41.096616160646775,
+    -112.0657885173672,
+    41.096616160646775
+],
+  "geometry": {"coordinates":[-112.0657885173672,41.096616160646775],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9895003341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.35907057622741,40.64177309385388,-75.35907057622741,40.64177309385388",
+    "geom:latitude":40.641773,
+    "geom:longitude":-75.359071,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1198084: name \"Lincoln Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1198084"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1198084: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1198084"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1198084: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1198084"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101717907 (Bethlehem).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101717907 (Bethlehem), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lincoln Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101717907,
+        102081395,
+        102191575,
+        404485987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1198084
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52ea9dd10bcefd60e4bacdeea3c411f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081395,
+            "localadmin_id":404485987,
+            "locality_id":101717907,
+            "neighbourhood_id":9895003341,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003341,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Lincoln Park",
+    "wof:parent_id":101717907,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.35907057622741,
+    40.64177309385388,
+    -75.35907057622741,
+    40.64177309385388
+],
+  "geometry": {"coordinates":[-75.35907057622741,40.64177309385388],"type":"Point"}
+}

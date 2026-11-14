@@ -1,0 +1,80 @@
+{
+  "id": 9895006047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.66993014047266,38.42262503828516,-75.66993014047266,38.42262503828516",
+    "geom:latitude":38.422625,
+    "geom:longitude":-75.66993,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668357: name \"Elite Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668357"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668357: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668357"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1668357: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1668357"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082715 (Wicomico).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082715 (Wicomico), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Elite Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082715,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1668357
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9575aacfb4948a6ac6f817d243c8ea0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":9895006047,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006047,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Elite Acres",
+    "wof:parent_id":102082715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.66993014047266,
+    38.42262503828516,
+    -75.66993014047266,
+    38.42262503828516
+],
+  "geometry": {"coordinates":[-75.66993014047266,38.42262503828516],"type":"Point"}
+}

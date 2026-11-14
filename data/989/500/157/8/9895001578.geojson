@@ -1,0 +1,82 @@
+{
+  "id": 9895001578,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.1404191962022,32.53348278186593,-92.1404191962022,32.53348278186593",
+    "geom:latitude":32.533483,
+    "geom:longitude":-92.140419,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 548407: name \"Highland Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/548407"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 548407: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/548407"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 548407: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/548407"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948223 (West Monroe).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948223 (West Monroe), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Highland Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948223,
+        102081027,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":548407
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af73aa7d990251d55cd869f0d8978d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948223,
+            "neighbourhood_id":9895001578,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001578,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Highland Park",
+    "wof:parent_id":85948223,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.1404191962022,
+    32.53348278186593,
+    -92.1404191962022,
+    32.53348278186593
+],
+  "geometry": {"coordinates":[-92.1404191962022,32.53348278186593],"type":"Point"}
+}

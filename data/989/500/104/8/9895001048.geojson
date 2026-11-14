@@ -1,0 +1,82 @@
+{
+  "id": 9895001048,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.33255714451427,34.19779082363923,-117.33255714451427,34.19779082363923",
+    "geom:latitude":34.197791,
+    "geom:longitude":-117.332557,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 276772: name \"Devil Canyon\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/276772"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 276772: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/276772"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 276772: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/276772"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923951 (San Bernardino).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923951 (San Bernardino), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Devil Canyon"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923951,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":276772
+    },
+    "wof:country":"US",
+    "wof:geomhash":"496df80b2da7c269ca2e9a196f06fccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85923951,
+            "neighbourhood_id":9895001048,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001048,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Devil Canyon",
+    "wof:parent_id":85923951,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.33255714451427,
+    34.19779082363923,
+    -117.33255714451427,
+    34.19779082363923
+],
+  "geometry": {"coordinates":[-117.33255714451427,34.19779082363923],"type":"Point"}
+}

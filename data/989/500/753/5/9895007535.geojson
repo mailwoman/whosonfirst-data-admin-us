@@ -1,0 +1,84 @@
+{
+  "id": 9895007535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.13833918375106,41.72139669869836,-88.13833918375106,41.72139669869836",
+    "geom:latitude":41.721397,
+    "geom:longitude":-88.138339,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355864: name \"River Oaks\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355864"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355864: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355864"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355864: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355864"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940205 (Naperville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940205 (Naperville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "River Oaks"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940205,
+        102081257,
+        102191575,
+        404497655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2355864
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba2e683005cd5a3dab6397d10b353ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497655,
+            "locality_id":85940205,
+            "neighbourhood_id":9895007535,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007535,
+    "wof:lastmodified":1794681144,
+    "wof:name":"River Oaks",
+    "wof:parent_id":85940205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.13833918375106,
+    41.72139669869836,
+    -88.13833918375106,
+    41.72139669869836
+],
+  "geometry": {"coordinates":[-88.13833918375106,41.72139669869836],"type":"Point"}
+}

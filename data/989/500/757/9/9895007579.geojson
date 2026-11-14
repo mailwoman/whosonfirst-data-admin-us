@@ -1,0 +1,80 @@
+{
+  "id": 9895007579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.62980706828068,29.731905182591735,-95.62980706828068,29.731905182591735",
+    "geom:latitude":29.731905,
+    "geom:longitude":-95.629807,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2472415: name \"West Wind\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2472415"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2472415: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2472415"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2472415: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2472415"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081111 (Harris).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081111 (Harris), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "West Wind"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102081111,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2472415
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e136adb2e3c395e61fade1c324543b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081111,
+            "locality_id":9895007579,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007579,
+    "wof:lastmodified":1794681144,
+    "wof:name":"West Wind",
+    "wof:parent_id":102081111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.62980706828068,
+    29.731905182591735,
+    -95.62980706828068,
+    29.731905182591735
+],
+  "geometry": {"coordinates":[-95.62980706828068,29.731905182591735],"type":"Point"}
+}

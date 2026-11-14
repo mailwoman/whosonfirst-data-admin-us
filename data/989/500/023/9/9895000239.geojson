@@ -1,0 +1,80 @@
+{
+  "id": 9895000239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.33487027880912,33.07596848242288,-92.33487027880912,33.07596848242288",
+    "geom:latitude":33.075968,
+    "geom:longitude":-92.33487,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 58785: name \"Union\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/58785"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 58785: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/58785"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 58785: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/58785"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082501 (Union).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082501 (Union), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Union"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        102082501,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":58785
+    },
+    "wof:country":"US",
+    "wof:geomhash":"495576b18fbcbd808fd04129c694cf12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082501,
+            "locality_id":9895000239,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000239,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Union",
+    "wof:parent_id":102082501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.33487027880912,
+    33.07596848242288,
+    -92.33487027880912,
+    33.07596848242288
+],
+  "geometry": {"coordinates":[-92.33487027880912,33.07596848242288],"type":"Point"}
+}

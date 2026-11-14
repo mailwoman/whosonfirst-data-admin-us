@@ -1,0 +1,82 @@
+{
+  "id": 9895003288,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.99242356407866,41.927861415939525,-75.99242356407866,41.927861415939525",
+    "geom:latitude":41.927861,
+    "geom:longitude":-75.992424,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1186185: name \"Saint Joseph\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1186185"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1186185: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1186185"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1186185: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1186185"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404484053 (Choconut Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404484053 (Choconut Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Joseph"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081381,
+        102191575,
+        404484053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1186185
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2afc11601de39403ca2221f9779bbda5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081381,
+            "localadmin_id":404484053,
+            "locality_id":9895003288,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003288,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Saint Joseph",
+    "wof:parent_id":404484053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.99242356407866,
+    41.927861415939525,
+    -75.99242356407866,
+    41.927861415939525
+],
+  "geometry": {"coordinates":[-75.99242356407866,41.927861415939525],"type":"Point"}
+}

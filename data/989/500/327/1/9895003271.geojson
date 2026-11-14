@@ -1,0 +1,82 @@
+{
+  "id": 9895003271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.06020524495261,41.33925500167787,-76.06020524495261,41.33925500167787",
+    "geom:latitude":41.339255,
+    "geom:longitude":-76.060205,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1183129: name \"Outlet\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1183129"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1183129: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1183129"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1183129: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1183129"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486887 (Lake Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486887 (Lake Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Outlet"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081351,
+        102191575,
+        404486887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1183129
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6b8250ea603d9cc95d556d22abd61d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081351,
+            "localadmin_id":404486887,
+            "locality_id":9895003271,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003271,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Outlet",
+    "wof:parent_id":404486887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.06020524495261,
+    41.33925500167787,
+    -76.06020524495261,
+    41.33925500167787
+],
+  "geometry": {"coordinates":[-76.06020524495261,41.33925500167787],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003002,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.702572098388,35.1957068798156,-80.702572098388,35.1957068798156",
+    "geom:latitude":35.195707,
+    "geom:longitude":-80.702572,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005658: name \"Kolewood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005658"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005658: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005658"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005658: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005658"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981333 (Charlotte).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981333 (Charlotte), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kolewood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981333,
+        102080981,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005658
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92e1a56c6e0829b70010d274c054b552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":9895003002,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003002,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Kolewood",
+    "wof:parent_id":85981333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.702572098388,
+    35.1957068798156,
+    -80.702572098388,
+    35.1957068798156
+],
+  "geometry": {"coordinates":[-80.702572098388,35.1957068798156],"type":"Point"}
+}

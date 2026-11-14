@@ -1,0 +1,82 @@
+{
+  "id": 9895002191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.25565157190871,32.24876449612415,-90.25565157190871,32.24876449612415",
+    "geom:latitude":32.248764,
+    "geom:longitude":-90.255652,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688628: name \"Sunkist\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688628"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688628: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688628"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688628: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688628"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969693 (Jackson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969693 (Jackson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunkist"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969693,
+        102081407,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":688628
+    },
+    "wof:country":"US",
+    "wof:geomhash":"539d4c6499f069f4868185dfab6d29e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":9895002191,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002191,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Sunkist",
+    "wof:parent_id":85969693,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.25565157190871,
+    32.24876449612415,
+    -90.25565157190871,
+    32.24876449612415
+],
+  "geometry": {"coordinates":[-90.25565157190871,32.24876449612415],"type":"Point"}
+}

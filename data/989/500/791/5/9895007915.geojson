@@ -1,0 +1,80 @@
+{
+  "id": 9895007915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.88484266636993,30.377487231731134,-97.88484266636993,30.377487231731134",
+    "geom:latitude":30.377487,
+    "geom:longitude":-97.884843,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805845: name \"Steiner Ranch\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805845"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805845: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805845"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805845: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805845"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081935 (Travis).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081935 (Travis), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Steiner Ranch"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102081935,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805845
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c4728e8f3e7fe9bd520daa9a7e49fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081935,
+            "locality_id":9895007915,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007915,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Steiner Ranch",
+    "wof:parent_id":102081935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.88484266636993,
+    30.377487231731134,
+    -97.88484266636993,
+    30.377487231731134
+],
+  "geometry": {"coordinates":[-97.88484266636993,30.377487231731134],"type":"Point"}
+}

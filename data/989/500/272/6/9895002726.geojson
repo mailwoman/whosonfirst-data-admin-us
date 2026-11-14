@@ -1,0 +1,80 @@
+{
+  "id": 9895002726,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.07774366785424,36.44043827403869,-77.07774366785424,36.44043827403869",
+    "geom:latitude":36.440438,
+    "geom:longitude":-77.077744,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1003399: name \"High Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1003399"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1003399: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1003399"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1003399: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1003399"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087743 (Hertford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087743 (Hertford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "High Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087743,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1003399
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3b491d13898071bbe2ccba6d4992dc58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087743,
+            "locality_id":9895002726,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002726,
+    "wof:lastmodified":1794681131,
+    "wof:name":"High Hill",
+    "wof:parent_id":102087743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.07774366785424,
+    36.44043827403869,
+    -77.07774366785424,
+    36.44043827403869
+],
+  "geometry": {"coordinates":[-77.07774366785424,36.44043827403869],"type":"Point"}
+}

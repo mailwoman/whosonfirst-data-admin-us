@@ -1,0 +1,80 @@
+{
+  "id": 9895006447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.85275758031895,39.599277733041085,-76.85275758031895,39.599277733041085",
+    "geom:latitude":39.599278,
+    "geom:longitude":-76.852758,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695985: name \"Melanie Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695985"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695985: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695985"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695985: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695985"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082717 (Carroll).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082717 (Carroll), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Melanie Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695985
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7252c9348eab980bb61c6d8fb6325dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":9895006447,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006447,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Melanie Acres",
+    "wof:parent_id":102082717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.85275758031895,
+    39.599277733041085,
+    -76.85275758031895,
+    39.599277733041085
+],
+  "geometry": {"coordinates":[-76.85275758031895,39.599277733041085],"type":"Point"}
+}

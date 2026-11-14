@@ -1,0 +1,80 @@
+{
+  "id": 9895007553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.42800239094171,38.48180768666832,-77.42800239094171,38.48180768666832",
+    "geom:latitude":38.481808,
+    "geom:longitude":-77.428002,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2458872: name \"Barrett Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2458872"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2458872: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2458872"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2458872: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2458872"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081931 (Stafford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081931 (Stafford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Barrett Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102081931,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2458872
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3300870fd4f61142eb0047d004d75b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081931,
+            "locality_id":9895007553,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895007553,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Barrett Heights",
+    "wof:parent_id":102081931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.42800239094171,
+    38.48180768666832,
+    -77.42800239094171,
+    38.48180768666832
+],
+  "geometry": {"coordinates":[-77.42800239094171,38.48180768666832],"type":"Point"}
+}

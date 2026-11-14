@@ -1,0 +1,80 @@
+{
+  "id": 9895005834,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.54438658435437,36.09286121769703,-84.54438658435437,36.09286121769703",
+    "geom:latitude":36.092861,
+    "geom:longitude":-84.544387,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1647203: name \"Liberty\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1647203"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1647203: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1647203"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1647203: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1647203"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086367 (Morgan).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086367 (Morgan), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Liberty"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086367,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1647203
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f9260be705fbd5ab5c795bfd19638f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086367,
+            "locality_id":9895005834,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895005834,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Liberty",
+    "wof:parent_id":102086367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.54438658435437,
+    36.09286121769703,
+    -84.54438658435437,
+    36.09286121769703
+],
+  "geometry": {"coordinates":[-84.54438658435437,36.09286121769703],"type":"Point"}
+}

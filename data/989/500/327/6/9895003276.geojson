@@ -1,0 +1,82 @@
+{
+  "id": 9895003276,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.35673480138227,40.07646958421032,-80.35673480138227,40.07646958421032",
+    "geom:latitude":40.07647,
+    "geom:longitude":-80.356735,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1184009: name \"Pleasant Grove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1184009"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1184009: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1184009"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1184009: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1184009"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404487779 (East Finley Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404487779 (East Finley Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pleasant Grove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081343,
+        102191575,
+        404487779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1184009
+    },
+    "wof:country":"US",
+    "wof:geomhash":"665df30898c2bd5c8b771f6bd3600277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081343,
+            "localadmin_id":404487779,
+            "locality_id":9895003276,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003276,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Pleasant Grove",
+    "wof:parent_id":404487779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.35673480138227,
+    40.07646958421032,
+    -80.35673480138227,
+    40.07646958421032
+],
+  "geometry": {"coordinates":[-80.35673480138227,40.07646958421032],"type":"Point"}
+}

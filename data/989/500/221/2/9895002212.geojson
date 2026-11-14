@@ -1,0 +1,80 @@
+{
+  "id": 9895002212,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.23900388622432,31.222399345407233,-91.23900388622432,31.222399345407233",
+    "geom:latitude":31.222399,
+    "geom:longitude":-91.239004,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 695177: name \"Wilkinson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/695177"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 695177: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/695177"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 695177: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/695177"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084855 (Wilkinson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084855 (Wilkinson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wilkinson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102084855,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":695177
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8188018e114922c18d9eee491181df69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084855,
+            "locality_id":9895002212,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002212,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Wilkinson",
+    "wof:parent_id":102084855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.23900388622432,
+    31.222399345407233,
+    -91.23900388622432,
+    31.222399345407233
+],
+  "geometry": {"coordinates":[-91.23900388622432,31.222399345407233],"type":"Point"}
+}

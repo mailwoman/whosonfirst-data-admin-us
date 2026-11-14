@@ -1,0 +1,80 @@
+{
+  "id": 9895003641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.60596834364645,34.85373393641727,-82.60596834364645,34.85373393641727",
+    "geom:latitude":34.853734,
+    "geom:longitude":-82.605968,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243384: name \"Holly Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243384"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243384: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243384"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243384: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243384"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085671 (Pickens).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085671 (Pickens), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Holly Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085671,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1243384
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d18d7311eb5d88fae68f72e48040298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085671,
+            "locality_id":9895003641,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003641,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Holly Hill",
+    "wof:parent_id":102085671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.60596834364645,
+    34.85373393641727,
+    -82.60596834364645,
+    34.85373393641727
+],
+  "geometry": {"coordinates":[-82.60596834364645,34.85373393641727],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.52775917184933,36.12451308249928,-85.52775917184933,36.12451308249928",
+    "geom:latitude":36.124513,
+    "geom:longitude":-85.527759,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1310970: name \"Pine Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1310970"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1310970: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1310970"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1310970: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1310970"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722459 (Cookeville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722459 (Cookeville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pine Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722459,
+        102086339,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1310970
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e75f2f822399d046bc7e415094822d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":9895003841,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003841,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Pine Hills",
+    "wof:parent_id":101722459,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.52775917184933,
+    36.12451308249928,
+    -85.52775917184933,
+    36.12451308249928
+],
+  "geometry": {"coordinates":[-85.52775917184933,36.12451308249928],"type":"Point"}
+}

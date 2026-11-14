@@ -1,0 +1,82 @@
+{
+  "id": 9895006026,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.25258568372304,33.98918614855063,-118.25258568372304,33.98918614855063",
+    "geom:latitude":33.989186,
+    "geom:longitude":-118.252586,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661700: name \"Wingfoot\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661700"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661700: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661700"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661700: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661700"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85928335 (Florence-Graham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85928335 (Florence-Graham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wingfoot"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85928335,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661700
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e874469b6b570c9345a8833a025bf828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85928335,
+            "neighbourhood_id":9895006026,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006026,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Wingfoot",
+    "wof:parent_id":85928335,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.25258568372304,
+    33.98918614855063,
+    -118.25258568372304,
+    33.98918614855063
+],
+  "geometry": {"coordinates":[-118.25258568372304,33.98918614855063],"type":"Point"}
+}

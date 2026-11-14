@@ -1,0 +1,82 @@
+{
+  "id": 9895003815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.55404492970689,36.58066329936035,-82.55404492970689,36.58066329936035",
+    "geom:latitude":36.580663,
+    "geom:longitude":-82.554045,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1303372: name \"Skyview Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1303372"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1303372: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1303372"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1303372: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1303372"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722787 (Kingsport).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722787 (Kingsport), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Skyview Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722787,
+        102086471,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1303372
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a94b43cca0a51073e863fb14b9614b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722787,
+            "neighbourhood_id":9895003815,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003815,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Skyview Estates",
+    "wof:parent_id":101722787,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.55404492970689,
+    36.58066329936035,
+    -82.55404492970689,
+    36.58066329936035
+],
+  "geometry": {"coordinates":[-82.55404492970689,36.58066329936035],"type":"Point"}
+}

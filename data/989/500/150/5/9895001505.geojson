@@ -1,0 +1,80 @@
+{
+  "id": 9895001505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.9421783347877,38.07813629486501,-84.9421783347877,38.07813629486501",
+    "geom:latitude":38.078136,
+    "geom:longitude":-84.942178,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 485902: name \"Alton Station\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/485902"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 485902: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/485902"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 485902: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/485902"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084411 (Anderson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084411 (Anderson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Alton Station"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688641,
+        102084411,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":485902
+    },
+    "wof:country":"US",
+    "wof:geomhash":"120c48fb348eece69ece53320509fe6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084411,
+            "locality_id":9895001505,
+            "region_id":85688641
+        }
+    ],
+    "wof:id":9895001505,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Alton Station",
+    "wof:parent_id":102084411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.9421783347877,
+    38.07813629486501,
+    -84.9421783347877,
+    38.07813629486501
+],
+  "geometry": {"coordinates":[-84.9421783347877,38.07813629486501],"type":"Point"}
+}

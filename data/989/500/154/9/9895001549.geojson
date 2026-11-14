@@ -1,0 +1,82 @@
+{
+  "id": 9895001549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.07331340684166,38.91400808731004,-77.07331340684166,38.91400808731004",
+    "geom:latitude":38.914008,
+    "geom:longitude":-77.073313,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 529942: name \"Foxhall Terrace\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/529942"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 529942: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/529942"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 529942: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/529942"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931779 (Washington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931779 (Washington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Foxhall Terrace"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688741,
+        85931779,
+        102191575,
+        1377370667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":529942
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9369088f774e278779035faa1cc7c7cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":1377370667,
+            "locality_id":85931779,
+            "neighbourhood_id":9895001549,
+            "region_id":85688741
+        }
+    ],
+    "wof:id":9895001549,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Foxhall Terrace",
+    "wof:parent_id":85931779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.07331340684166,
+    38.91400808731004,
+    -77.07331340684166,
+    38.91400808731004
+],
+  "geometry": {"coordinates":[-77.07331340684166,38.91400808731004],"type":"Point"}
+}

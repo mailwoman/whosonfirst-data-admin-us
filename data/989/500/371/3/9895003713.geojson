@@ -1,0 +1,82 @@
+{
+  "id": 9895003713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.01426103042269,34.02766141595089,-81.01426103042269,34.02766141595089",
+    "geom:latitude":34.027661,
+    "geom:longitude":-81.014261,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1248920: name \"Barhamville Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1248920"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1248920: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1248920"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1248920: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1248920"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720793 (Columbia).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720793 (Columbia), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Barhamville Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720793,
+        102085405,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1248920
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6d659bfd63e8ee2f7c0d658d1ffe25aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085405,
+            "locality_id":101720793,
+            "neighbourhood_id":9895003713,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003713,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Barhamville Estates",
+    "wof:parent_id":101720793,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.01426103042269,
+    34.02766141595089,
+    -81.01426103042269,
+    34.02766141595089
+],
+  "geometry": {"coordinates":[-81.01426103042269,34.02766141595089],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003642,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.56124512793173,34.812067529146745,-82.56124512793173,34.812067529146745",
+    "geom:latitude":34.812068,
+    "geom:longitude":-82.561245,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243393: name \"Huntington North\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243393"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243393: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243393"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243393: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243393"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720813 (Easley).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720813 (Easley), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Huntington North"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720813,
+        102085671,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1243393
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ebe0f13671bf004b7d7546e213eb89e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085671,
+            "locality_id":101720813,
+            "neighbourhood_id":9895003642,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003642,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Huntington North",
+    "wof:parent_id":101720813,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.56124512793173,
+    34.812067529146745,
+    -82.56124512793173,
+    34.812067529146745
+],
+  "geometry": {"coordinates":[-82.56124512793173,34.812067529146745],"type":"Point"}
+}

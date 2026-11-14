@@ -1,0 +1,82 @@
+{
+  "id": 9895002312,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.38209959814448,41.18177023450419,-74.38209959814448,41.18177023450419",
+    "geom:latitude":41.18177,
+    "geom:longitude":-74.3821,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 881385: name \"Upper Greenwood Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/881385"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 881385: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/881385"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 881385: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/881385"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404477881 (West Milford Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404477881 (West Milford Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Upper Greenwood Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102081133,
+        102191575,
+        404477881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":881385
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1d23b16d619af8acdf21520ad4118be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081133,
+            "localadmin_id":404477881,
+            "locality_id":9895002312,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895002312,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Upper Greenwood Lake",
+    "wof:parent_id":404477881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.38209959814448,
+    41.18177023450419,
+    -74.38209959814448,
+    41.18177023450419
+],
+  "geometry": {"coordinates":[-74.38209959814448,41.18177023450419],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895004227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.04717662123619,41.151894368174695,-112.04717662123619,41.151894368174695",
+    "geom:latitude":41.151894,
+    "geom:longitude":-112.047177,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451442: name \"Golden West Villa\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451442"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451442: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451442"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451442: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451442"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727905 (Clinton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727905 (Clinton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Golden West Villa"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727905,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451442
+    },
+    "wof:country":"US",
+    "wof:geomhash":"adc8150c4aa24f10690373dbc7beab18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727905,
+            "neighbourhood_id":9895004227,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004227,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Golden West Villa",
+    "wof:parent_id":101727905,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.04717662123619,
+    41.151894368174695,
+    -112.04717662123619,
+    41.151894368174695
+],
+  "geometry": {"coordinates":[-112.04717662123619,41.151894368174695],"type":"Point"}
+}

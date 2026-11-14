@@ -1,0 +1,80 @@
+{
+  "id": 9895006749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.93995340134536,38.71463023372605,-120.93995340134536,38.71463023372605",
+    "geom:latitude":38.71463,
+    "geom:longitude":-120.939953,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733986: name \"Mariemont\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733986"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733986: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733986"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733986: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733986"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086953 (El Dorado).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086953 (El Dorado), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mariemont"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102086953,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1733986
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c3bcaffb6cd2bd09a276adca1491933f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086953,
+            "locality_id":9895006749,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006749,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Mariemont",
+    "wof:parent_id":102086953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.93995340134536,
+    38.71463023372605,
+    -120.93995340134536,
+    38.71463023372605
+],
+  "geometry": {"coordinates":[-120.93995340134536,38.71463023372605],"type":"Point"}
+}

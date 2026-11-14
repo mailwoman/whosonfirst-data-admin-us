@@ -1,0 +1,80 @@
+{
+  "id": 9895000886,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.965894595338,40.854142924838676,-106.965894595338,40.854142924838676",
+    "geom:latitude":40.854143,
+    "geom:longitude":-106.965895,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 170461: name \"Columbine\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/170461"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 170461: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/170461"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 170461: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/170461"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086129 (Routt).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086129 (Routt), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Columbine"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102086129,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":170461
+    },
+    "wof:country":"US",
+    "wof:geomhash":"548b97c5e56fe7b8e0a47ca6dc5edb3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086129,
+            "locality_id":9895000886,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000886,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Columbine",
+    "wof:parent_id":102086129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.965894595338,
+    40.854142924838676,
+    -106.965894595338,
+    40.854142924838676
+],
+  "geometry": {"coordinates":[-106.965894595338,40.854142924838676],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895001562,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.25039663147462,32.05016111732419,-91.25039663147462,32.05016111732419",
+    "geom:latitude":32.050161,
+    "geom:longitude":-91.250397,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 540690: name \"Tensas\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/540690"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 540690: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/540690"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 540690: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/540690"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085927 (Tensas).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085927 (Tensas), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tensas"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        102085927,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":540690
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64cfda9cc0a98d599722057cab471d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085927,
+            "locality_id":9895001562,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001562,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Tensas",
+    "wof:parent_id":102085927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.25039663147462,
+    32.05016111732419,
+    -91.25039663147462,
+    32.05016111732419
+],
+  "geometry": {"coordinates":[-91.25039663147462,32.05016111732419],"type":"Point"}
+}

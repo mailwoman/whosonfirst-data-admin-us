@@ -1,0 +1,82 @@
+{
+  "id": 9895004783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.87911240115507,40.522177111066284,-111.87911240115507,40.522177111066284",
+    "geom:latitude":40.522177,
+    "geom:longitude":-111.879112,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452985: name \"Cloverland Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452985"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452985: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452985"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1452985: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1452985"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727849 (Draper).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727849 (Draper), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cloverland Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727849,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1452985
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc5f06d6065b5744dce30cb937cf7901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":9895004783,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004783,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Cloverland Estates",
+    "wof:parent_id":101727849,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.87911240115507,
+    40.522177111066284,
+    -111.87911240115507,
+    40.522177111066284
+],
+  "geometry": {"coordinates":[-111.87911240115507,40.522177111066284],"type":"Point"}
+}

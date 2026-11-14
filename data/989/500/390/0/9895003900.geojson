@@ -1,0 +1,80 @@
+{
+  "id": 9895003900,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.44886823516414,35.907016742816154,-85.44886823516414,35.907016742816154",
+    "geom:latitude":35.907017,
+    "geom:longitude":-85.448868,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312175: name \"Hickory Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312175"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312175: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312175"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312175: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312175"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086369 (White).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086369 (White), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hickory Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086369,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312175
+    },
+    "wof:country":"US",
+    "wof:geomhash":"599d07a956686d497add38fff66abcf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":9895003900,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003900,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Hickory Hills",
+    "wof:parent_id":102086369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.44886823516414,
+    35.907016742816154,
+    -85.44886823516414,
+    35.907016742816154
+],
+  "geometry": {"coordinates":[-85.44886823516414,35.907016742816154],"type":"Point"}
+}

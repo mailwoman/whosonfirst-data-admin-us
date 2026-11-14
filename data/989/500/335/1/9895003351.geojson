@@ -1,0 +1,82 @@
+{
+  "id": 9895003351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.68394063958463,40.70507313267213,-79.68394063958463,40.70507313267213",
+    "geom:latitude":40.705073,
+    "geom:longitude":-79.683941,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201501: name \"Harbison\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201501"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201501: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201501"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201501: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201501"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404484349 (South Buffalo Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404484349 (South Buffalo Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Harbison"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081371,
+        102191575,
+        404484349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1201501
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a066dbabb9a777f384f61145b603612a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081371,
+            "localadmin_id":404484349,
+            "locality_id":9895003351,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003351,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Harbison",
+    "wof:parent_id":404484349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.68394063958463,
+    40.70507313267213,
+    -79.68394063958463,
+    40.70507313267213
+],
+  "geometry": {"coordinates":[-79.68394063958463,40.70507313267213],"type":"Point"}
+}

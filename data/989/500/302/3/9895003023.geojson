@@ -1,0 +1,82 @@
+{
+  "id": 9895003023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.75535081088597,35.132930564174,-80.75535081088597,35.132930564174",
+    "geom:latitude":35.132931,
+    "geom:longitude":-80.755351,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005704: name \"Sardis Cove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005704"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005704: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005704"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005704: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005704"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981333 (Charlotte).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981333 (Charlotte), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sardis Cove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981333,
+        102080981,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005704
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f97e0d97cc7b6be38a227d4c1a495a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":9895003023,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003023,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Sardis Cove",
+    "wof:parent_id":85981333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.75535081088597,
+    35.132930564174,
+    -80.75535081088597,
+    35.132930564174
+],
+  "geometry": {"coordinates":[-80.75535081088597,35.132930564174],"type":"Point"}
+}

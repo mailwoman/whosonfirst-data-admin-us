@@ -1,0 +1,82 @@
+{
+  "id": 9895006027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.80142865588509,34.245012859345714,-116.80142865588509,34.245012859345714",
+    "geom:latitude":34.245013,
+    "geom:longitude":-116.801429,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661709: name \"Woodlands\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661709"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661709: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661709"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661709: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661709"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85928649 (Big Bear City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85928649 (Big Bear City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodlands"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85928649,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661709
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fe001ba83dc65be8960963945de977c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85928649,
+            "neighbourhood_id":9895006027,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006027,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Woodlands",
+    "wof:parent_id":85928649,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.80142865588509,
+    34.245012859345714,
+    -116.80142865588509,
+    34.245012859345714
+],
+  "geometry": {"coordinates":[-116.80142865588509,34.245012859345714],"type":"Point"}
+}

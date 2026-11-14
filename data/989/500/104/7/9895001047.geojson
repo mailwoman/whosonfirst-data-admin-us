@@ -1,0 +1,82 @@
+{
+  "id": 9895001047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.59609774839096,39.830166373909194,-121.59609774839096,39.830166373909194",
+    "geom:latitude":39.830166,
+    "geom:longitude":-121.596098,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 276547: name \"Paradise Pines\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/276547"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 276547: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/276547"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 276547: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/276547"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85927403 (Magalia).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85927403 (Magalia), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Paradise Pines"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85927403,
+        102086941,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":276547
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cb31c0cbb0886cf836bd4ab764c11ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086941,
+            "locality_id":85927403,
+            "neighbourhood_id":9895001047,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001047,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Paradise Pines",
+    "wof:parent_id":85927403,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.59609774839096,
+    39.830166373909194,
+    -121.59609774839096,
+    39.830166373909194
+],
+  "geometry": {"coordinates":[-121.59609774839096,39.830166373909194],"type":"Point"}
+}

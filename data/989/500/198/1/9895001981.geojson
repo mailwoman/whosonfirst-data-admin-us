@@ -1,0 +1,84 @@
+{
+  "id": 9895001981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.99782807196924,42.38982818105847,-70.99782807196924,42.38982818105847",
+    "geom:latitude":42.389828,
+    "geom:longitude":-70.997828,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 617371: name \"Suffolk Downs Station\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/617371"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 617371: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/617371"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 617371: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/617371"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950361 (Boston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950361 (Boston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Suffolk Downs Station"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688645,
+        85950361,
+        102084423,
+        102191575,
+        404476573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":617371
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ca8243552048da1b02c8d6e586e2135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":9895001981,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":9895001981,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Suffolk Downs Station",
+    "wof:parent_id":85950361,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.99782807196924,
+    42.38982818105847,
+    -70.99782807196924,
+    42.38982818105847
+],
+  "geometry": {"coordinates":[-70.99782807196924,42.38982818105847],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.92961832985192,39.980610004923754,-76.92961832985192,39.980610004923754",
+    "geom:latitude":39.98061,
+    "geom:longitude":-76.929618,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1211059: name \"Markey Ford\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1211059"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1211059: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1211059"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1211059: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1211059"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404487723 (Dover Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404487723 (Dover Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Markey Ford"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080953,
+        102191575,
+        404487723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1211059
+    },
+    "wof:country":"US",
+    "wof:geomhash":"39e6fd746f9975091f1f9a3fc699e3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080953,
+            "localadmin_id":404487723,
+            "locality_id":9895003401,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003401,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Markey Ford",
+    "wof:parent_id":404487723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.92961832985192,
+    39.980610004923754,
+    -76.92961832985192,
+    39.980610004923754
+],
+  "geometry": {"coordinates":[-76.92961832985192,39.980610004923754],"type":"Point"}
+}

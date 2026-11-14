@@ -1,0 +1,82 @@
+{
+  "id": 9895006290,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.97692025301448,38.517351310759565,-76.97692025301448,38.517351310759565",
+    "geom:latitude":38.517351,
+    "geom:longitude":-76.97692,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676782: name \"Maxwelton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676782"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676782: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676782"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676782: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676782"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949349 (La Plata).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949349 (La Plata), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Maxwelton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949349,
+        102081211,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1676782
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0624c911cb55b8c47018f4948db218cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949349,
+            "neighbourhood_id":9895006290,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006290,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Maxwelton",
+    "wof:parent_id":85949349,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.97692025301448,
+    38.517351310759565,
+    -76.97692025301448,
+    38.517351310759565
+],
+  "geometry": {"coordinates":[-76.97692025301448,38.517351310759565],"type":"Point"}
+}

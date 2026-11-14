@@ -1,0 +1,82 @@
+{
+  "id": 9895000927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.94387761344213,39.873325340936574,-104.94387761344213,39.873325340936574",
+    "geom:latitude":39.873325,
+    "geom:longitude":-104.943878,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 203024: name \"Quimby\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/203024"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 203024: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/203024"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 203024: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/203024"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929143 (Thornton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929143 (Thornton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Quimby"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929143,
+        102084053,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":203024
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aedc7ac96d4ae558a9217dbb9fbab923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084053,
+            "locality_id":85929143,
+            "neighbourhood_id":9895000927,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000927,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Quimby",
+    "wof:parent_id":85929143,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.94387761344213,
+    39.873325340936574,
+    -104.94387761344213,
+    39.873325340936574
+],
+  "geometry": {"coordinates":[-104.94387761344213,39.873325340936574],"type":"Point"}
+}

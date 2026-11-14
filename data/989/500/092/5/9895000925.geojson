@@ -1,0 +1,80 @@
+{
+  "id": 9895000925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.12915694281224,40.592488924359046,-105.12915694281224,40.592488924359046",
+    "geom:latitude":40.592489,
+    "geom:longitude":-105.129157,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 202461: name \"Mountain View\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/202461"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 202461: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/202461"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 202461: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/202461"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083353 (Larimer).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083353 (Larimer), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mountain View"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102083353,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":202461
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa0ac97eff52075ad9a0197987c08b9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083353,
+            "locality_id":9895000925,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000925,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Mountain View",
+    "wof:parent_id":102083353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.12915694281224,
+    40.592488924359046,
+    -105.12915694281224,
+    40.592488924359046
+],
+  "geometry": {"coordinates":[-105.12915694281224,40.592488924359046],"type":"Point"}
+}

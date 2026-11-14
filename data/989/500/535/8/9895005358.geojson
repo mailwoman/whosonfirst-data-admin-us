@@ -1,0 +1,80 @@
+{
+  "id": 9895005358,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.93578598504449,41.05189426631778,-111.93578598504449,41.05189426631778",
+    "geom:latitude":41.051894,
+    "geom:longitude":-111.935786,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454031: name \"Vallee Villa\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454031"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454031: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454031"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1454031: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1454031"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083563 (Davis).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083563 (Davis), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Vallee Villa"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1454031
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19c004b6db1188e3c3af73d7c4dac95f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":9895005358,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005358,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Vallee Villa",
+    "wof:parent_id":102083563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.93578598504449,
+    41.05189426631778,
+    -111.93578598504449,
+    41.05189426631778
+],
+  "geometry": {"coordinates":[-111.93578598504449,41.05189426631778],"type":"Point"}
+}

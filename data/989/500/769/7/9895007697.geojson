@@ -1,0 +1,82 @@
+{
+  "id": 9895007697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.44940339194032,27.714805115625374,-82.44940339194032,27.714805115625374",
+    "geom:latitude":27.714805,
+    "geom:longitude":-82.449403,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484162: name \"Sable Cove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484162"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484162: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484162"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2484162: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2484162"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85933775 (Ruskin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85933775 (Ruskin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sable Cove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85933775,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2484162
+    },
+    "wof:country":"US",
+    "wof:geomhash":"908e57dce9c8e07b27b9fbb6cb9af846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85933775,
+            "neighbourhood_id":9895007697,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007697,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Sable Cove",
+    "wof:parent_id":85933775,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.44940339194032,
+    27.714805115625374,
+    -82.44940339194032,
+    27.714805115625374
+],
+  "geometry": {"coordinates":[-82.44940339194032,27.714805115625374],"type":"Point"}
+}

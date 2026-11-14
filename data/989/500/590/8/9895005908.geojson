@@ -1,0 +1,82 @@
+{
+  "id": 9895005908,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.01886372463312,37.50605425071435,-122.01886372463312,37.50605425071435",
+    "geom:latitude":37.506054,
+    "geom:longitude":-122.018864,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659188: name \"Mowry Landing\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659188"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659188: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659188"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1659188: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1659188"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921885 (Newark).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921885 (Newark), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mowry Landing"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85921885,
+        102086959,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1659188
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6dc395a54bc113e888921c7d98763c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921885,
+            "neighbourhood_id":9895005908,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005908,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Mowry Landing",
+    "wof:parent_id":85921885,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.01886372463312,
+    37.50605425071435,
+    -122.01886372463312,
+    37.50605425071435
+],
+  "geometry": {"coordinates":[-122.01886372463312,37.50605425071435],"type":"Point"}
+}

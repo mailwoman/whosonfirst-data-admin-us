@@ -1,0 +1,82 @@
+{
+  "id": 9895001213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.11022740028997,33.5581726668766,-85.11022740028997,33.5581726668766",
+    "geom:latitude":33.558173,
+    "geom:longitude":-85.110227,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 350080: name \"Briarwood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/350080"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 350080: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/350080"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 350080: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/350080"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937055 (Carrollton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937055 (Carrollton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Briarwood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85937055,
+        102081719,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":350080
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f02ec574636cae9dc728c57309114b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081719,
+            "locality_id":85937055,
+            "neighbourhood_id":9895001213,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001213,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Briarwood Estates",
+    "wof:parent_id":85937055,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.11022740028997,
+    33.5581726668766,
+    -85.11022740028997,
+    33.5581726668766
+],
+  "geometry": {"coordinates":[-85.11022740028997,33.5581726668766],"type":"Point"}
+}

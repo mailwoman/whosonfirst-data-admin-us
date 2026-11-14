@@ -1,0 +1,80 @@
+{
+  "id": 9895007836,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.07035783932194,48.01695983229748,-111.07035783932194,48.01695983229748",
+    "geom:latitude":48.01696,
+    "geom:longitude":-111.070358,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804278: name \"Twin Hills Colony\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804278"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804278: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804278"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804278: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804278"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085073 (Chouteau).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085073 (Chouteau), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Twin Hills Colony"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        102085073,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804278
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18c681859e47d4ac1e6f918e5ce16960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085073,
+            "locality_id":9895007836,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895007836,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Twin Hills Colony",
+    "wof:parent_id":102085073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.07035783932194,
+    48.01695983229748,
+    -111.07035783932194,
+    48.01695983229748
+],
+  "geometry": {"coordinates":[-111.07035783932194,48.01695983229748],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.48519856154198,39.76984371741301,-75.48519856154198,39.76984371741301",
+    "geom:latitude":39.769844,
+    "geom:longitude":-75.485199,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215817: name \"Seton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215817"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215817: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215817"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215817: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215817"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083891 (New Castle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083891 (New Castle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Seton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        102083891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":215817
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e5fd79e6c3fd125b82060b6a1e0970e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":9895000969,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000969,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Seton",
+    "wof:parent_id":102083891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.48519856154198,
+    39.76984371741301,
+    -75.48519856154198,
+    39.76984371741301
+],
+  "geometry": {"coordinates":[-75.48519856154198,39.76984371741301],"type":"Point"}
+}

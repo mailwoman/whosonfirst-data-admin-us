@@ -1,0 +1,82 @@
+{
+  "id": 9895005573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.35577826604288,36.82571128114737,-76.35577826604288,36.82571128114737",
+    "geom:latitude":36.825711,
+    "geom:longitude":-76.355778,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1496933: name \"Grove Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1496933"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1496933: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1496933"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1496933: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1496933"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728677 (Portsmouth).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728677 (Portsmouth), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Grove Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728677,
+        102086707,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1496933
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c64c03d2573e0c47fe68f684ea720712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":9895005573,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895005573,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Grove Park",
+    "wof:parent_id":101728677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.35577826604288,
+    36.82571128114737,
+    -76.35577826604288,
+    36.82571128114737
+],
+  "geometry": {"coordinates":[-76.35577826604288,36.82571128114737],"type":"Point"}
+}

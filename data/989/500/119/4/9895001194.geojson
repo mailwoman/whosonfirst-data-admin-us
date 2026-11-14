@@ -1,0 +1,82 @@
+{
+  "id": 9895001194,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.26265504045999,30.828541826230346,-83.26265504045999,30.828541826230346",
+    "geom:latitude":30.828542,
+    "geom:longitude":-83.262655,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 346286: name \"Lincoln Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/346286"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 346286: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/346286"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 346286: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/346286"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936921 (Valdosta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936921 (Valdosta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lincoln Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936921,
+        102083585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":346286
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0093ff3a372a756b168fff1c1c36699a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":9895001194,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001194,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Lincoln Park",
+    "wof:parent_id":85936921,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.26265504045999,
+    30.828541826230346,
+    -83.26265504045999,
+    30.828541826230346
+],
+  "geometry": {"coordinates":[-83.26265504045999,30.828541826230346],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.5203678167364,41.49705186037169,-72.5203678167364,41.49705186037169",
+    "geom:latitude":41.497052,
+    "geom:longitude":-72.520368,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 212559: name \"Rock Landing\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/212559"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 212559: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/212559"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 212559: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/212559"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404496069 (Haddam).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404496069 (Haddam), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rock Landing"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688629,
+        102086211,
+        102191575,
+        404496069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":212559
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ecece6f21e81a67cacb836e4f7e88c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404496069,
+            "locality_id":9895000933,
+            "region_id":85688629
+        }
+    ],
+    "wof:id":9895000933,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Rock Landing",
+    "wof:parent_id":404496069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.5203678167364,
+    41.49705186037169,
+    -72.5203678167364,
+    41.49705186037169
+],
+  "geometry": {"coordinates":[-72.5203678167364,41.49705186037169],"type":"Point"}
+}

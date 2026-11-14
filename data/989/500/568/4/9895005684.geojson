@@ -1,0 +1,80 @@
+{
+  "id": 9895005684,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.86280258686259,39.313163697696694,-78.86280258686259,39.313163697696694",
+    "geom:latitude":39.313164,
+    "geom:longitude":-78.862803,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1558371: name \"Junction\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1558371"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1558371: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1558371"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1558371: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1558371"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083333 (Hampshire).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083333 (Hampshire), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Junction"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        102083333,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1558371
+    },
+    "wof:country":"US",
+    "wof:geomhash":"706fb13386ac20c4c4e362e95e169209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083333,
+            "locality_id":9895005684,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895005684,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Junction",
+    "wof:parent_id":102083333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.86280258686259,
+    39.313163697696694,
+    -78.86280258686259,
+    39.313163697696694
+],
+  "geometry": {"coordinates":[-78.86280258686259,39.313163697696694],"type":"Point"}
+}

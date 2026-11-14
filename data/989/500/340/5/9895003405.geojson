@@ -1,0 +1,84 @@
+{
+  "id": 9895003405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.2692316208468,40.69729640619402,-80.2692316208468,40.69729640619402",
+    "geom:latitude":40.697296,
+    "geom:longitude":-80.269232,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1217450: name \"McDonaldtown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1217450"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1217450: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1217450"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1217450: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1217450"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101718389 (East Rochester).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101718389 (East Rochester), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "McDonaldtown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101718389,
+        102081323,
+        102191575,
+        404482589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1217450
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6f696ded41dc23d0064ce4dfa04abd25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081323,
+            "localadmin_id":404482589,
+            "locality_id":101718389,
+            "neighbourhood_id":9895003405,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003405,
+    "wof:lastmodified":1794681133,
+    "wof:name":"McDonaldtown",
+    "wof:parent_id":101718389,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.2692316208468,
+    40.69729640619402,
+    -80.2692316208468,
+    40.69729640619402
+],
+  "geometry": {"coordinates":[-80.2692316208468,40.69729640619402],"type":"Point"}
+}

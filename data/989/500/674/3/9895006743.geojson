@@ -1,0 +1,82 @@
+{
+  "id": 9895006743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.05467942020326,38.72324082554247,-121.05467942020326,38.72324082554247",
+    "geom:latitude":38.723241,
+    "geom:longitude":-121.054679,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733953: name \"Arroyo Vista\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733953"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733953: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733953"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733953: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733953"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85924065 (El Dorado Hills).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85924065 (El Dorado Hills), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Arroyo Vista"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85924065,
+        102086953,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1733953
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5dfcd907d0b3af0938327ce1f5dd742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086953,
+            "locality_id":85924065,
+            "neighbourhood_id":9895006743,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006743,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Arroyo Vista",
+    "wof:parent_id":85924065,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.05467942020326,
+    38.72324082554247,
+    -121.05467942020326,
+    38.72324082554247
+],
+  "geometry": {"coordinates":[-121.05467942020326,38.72324082554247],"type":"Point"}
+}

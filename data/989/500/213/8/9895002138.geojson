@@ -1,0 +1,80 @@
+{
+  "id": 9895002138,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.42643463919612,33.566790440918,-88.42643463919612,33.566790440918",
+    "geom:latitude":33.56679,
+    "geom:longitude":-88.426435,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687735: name \"Battery Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687735"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687735: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687735"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687735: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687735"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081023 (Lowndes).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081023 (Lowndes), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Battery Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102081023,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":687735
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6d52edc523adbd109403323511b50faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":9895002138,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002138,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Battery Heights",
+    "wof:parent_id":102081023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.42643463919612,
+    33.566790440918,
+    -88.42643463919612,
+    33.566790440918
+],
+  "geometry": {"coordinates":[-88.42643463919612,33.566790440918],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001934,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.68580560930684,39.294003478304774,-76.68580560930684,39.294003478304774",
+    "geom:latitude":39.294003,
+    "geom:longitude":-76.685806,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 597982: name \"Rognel Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/597982"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 597982: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/597982"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 597982: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/597982"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949461 (Baltimore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949461 (Baltimore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Rognel Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949461,
+        102081589,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":597982
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09537c264cb48beb998328148886ba9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "neighbourhood_id":9895001934,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001934,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Rognel Heights",
+    "wof:parent_id":85949461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.68580560930684,
+    39.294003478304774,
+    -76.68580560930684,
+    39.294003478304774
+],
+  "geometry": {"coordinates":[-76.68580560930684,39.294003478304774],"type":"Point"}
+}

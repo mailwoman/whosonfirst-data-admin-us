@@ -1,0 +1,82 @@
+{
+  "id": 9895007961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.19822851452614,40.78290526331847,-74.19822851452614,40.78290526331847",
+    "geom:latitude":40.782905,
+    "geom:longitude":-74.198229,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806216: name \"Watsessing\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806216"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806216: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806216"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806216: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806216"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404478101 (Bloomfield Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404478101 (Bloomfield Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Watsessing"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102085043,
+        102191575,
+        404478101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806216
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e1540e8971bfaf9a504c2a0a0fb563a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478101,
+            "locality_id":9895007961,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895007961,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Watsessing",
+    "wof:parent_id":404478101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.19822851452614,
+    40.78290526331847,
+    -74.19822851452614,
+    40.78290526331847
+],
+  "geometry": {"coordinates":[-74.19822851452614,40.78290526331847],"type":"Point"}
+}

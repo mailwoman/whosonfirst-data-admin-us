@@ -1,0 +1,82 @@
+{
+  "id": 9895000563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.78471506342672,33.294007847855276,-86.78471506342672,33.294007847855276",
+    "geom:latitude":33.294008,
+    "geom:longitude":-86.784715,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146466: name \"Hunters Glen\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146466"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146466: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146466"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146466: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146466"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914501 (Pelham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914501 (Pelham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hunters Glen"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914501,
+        102085499,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146466
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee74f357dda21ee482f4e91477b873ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085499,
+            "locality_id":85914501,
+            "neighbourhood_id":9895000563,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000563,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Hunters Glen",
+    "wof:parent_id":85914501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.78471506342672,
+    33.294007847855276,
+    -86.78471506342672,
+    33.294007847855276
+],
+  "geometry": {"coordinates":[-86.78471506342672,33.294007847855276],"type":"Point"}
+}

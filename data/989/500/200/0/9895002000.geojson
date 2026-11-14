@@ -1,0 +1,82 @@
+{
+  "id": 9895002000,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.58947204223502,41.885328612302224,-86.58947204223502,41.885328612302224",
+    "geom:latitude":41.885329,
+    "geom:longitude":-86.589472,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 637298: name \"Sawyer\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/637298"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 637298: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/637298"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 637298: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/637298"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404506987 (Chikaming Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404506987 (Chikaming Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sawyer"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688599,
+        102083151,
+        102191575,
+        404506987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":637298
+    },
+    "wof:country":"US",
+    "wof:geomhash":"731a1b1be5e59422bdede138307045dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083151,
+            "localadmin_id":404506987,
+            "locality_id":9895002000,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":9895002000,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Sawyer",
+    "wof:parent_id":404506987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.58947204223502,
+    41.885328612302224,
+    -86.58947204223502,
+    41.885328612302224
+],
+  "geometry": {"coordinates":[-86.58947204223502,41.885328612302224],"type":"Point"}
+}

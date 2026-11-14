@@ -1,0 +1,82 @@
+{
+  "id": 9895006358,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.58354454105125,33.395955951703414,-84.58354454105125,33.395955951703414",
+    "geom:latitude":33.395956,
+    "geom:longitude":-84.583545,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687883: name \"Peachtree Villas\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687883"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687883: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687883"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687883: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687883"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936021 (Peachtree City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936021 (Peachtree City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Peachtree Villas"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936021,
+        102081687,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1687883
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cbc018a85da00ce3c1965285a18e526e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936021,
+            "neighbourhood_id":9895006358,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006358,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Peachtree Villas",
+    "wof:parent_id":85936021,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.58354454105125,
+    33.395955951703414,
+    -84.58354454105125,
+    33.395955951703414
+],
+  "geometry": {"coordinates":[-84.58354454105125,33.395955951703414],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9895007031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.06261100593422,42.23558433248687,-89.06261100593422,42.23558433248687",
+    "geom:latitude":42.235584,
+    "geom:longitude":-89.062611,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1829412: name \"Victory Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1829412"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1829412: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1829412"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1829412: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1829412"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85939829 (Rockford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85939829 (Rockford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Victory Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85939829,
+        102080827,
+        102191575,
+        404499349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1829412
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41f00621b48431a958f0084aaaac0bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080827,
+            "localadmin_id":404499349,
+            "locality_id":85939829,
+            "neighbourhood_id":9895007031,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007031,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Victory Homes",
+    "wof:parent_id":85939829,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.06261100593422,
+    42.23558433248687,
+    -89.06261100593422,
+    42.23558433248687
+],
+  "geometry": {"coordinates":[-89.06261100593422,42.23558433248687],"type":"Point"}
+}

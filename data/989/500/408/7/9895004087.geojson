@@ -1,0 +1,80 @@
+{
+  "id": 9895004087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.87970967840302,29.57829790907143,-96.87970967840302,29.57829790907143",
+    "geom:latitude":29.578298,
+    "geom:longitude":-96.87971,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378400: name \"Hackberry\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378400"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378400: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378400"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378400: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378400"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083203 (Lavaca).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083203 (Lavaca), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hackberry"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102083203,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1378400
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f23549c2f596dd8b1e3878c2318204f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083203,
+            "locality_id":9895004087,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004087,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Hackberry",
+    "wof:parent_id":102083203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.87970967840302,
+    29.57829790907143,
+    -96.87970967840302,
+    29.57829790907143
+],
+  "geometry": {"coordinates":[-96.87970967840302,29.57829790907143],"type":"Point"}
+}

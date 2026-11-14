@@ -1,0 +1,82 @@
+{
+  "id": 9895006738,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.081069020794,38.69740822150252,-121.081069020794,38.69740822150252",
+    "geom:latitude":38.697408,
+    "geom:longitude":-121.081069,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733942: name \"Saint Andrews Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733942"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733942: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733942"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733942: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733942"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85924065 (El Dorado Hills).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85924065 (El Dorado Hills), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Andrews Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85924065,
+        102086953,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1733942
+    },
+    "wof:country":"US",
+    "wof:geomhash":"735fe75a1145f82fb85908c34828ef4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086953,
+            "locality_id":85924065,
+            "neighbourhood_id":9895006738,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006738,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Saint Andrews Village",
+    "wof:parent_id":85924065,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.081069020794,
+    38.69740822150252,
+    -121.081069020794,
+    38.69740822150252
+],
+  "geometry": {"coordinates":[-121.081069020794,38.69740822150252],"type":"Point"}
+}

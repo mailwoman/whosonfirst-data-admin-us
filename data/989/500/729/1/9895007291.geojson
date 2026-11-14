@@ -1,0 +1,82 @@
+{
+  "id": 9895007291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.24611303659381,36.91778520425193,-76.24611303659381,36.91778520425193",
+    "geom:latitude":36.917785,
+    "geom:longitude":-76.246113,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2091758: name \"Brentwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2091758"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2091758: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2091758"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2091758: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2091758"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728769 (Norfolk).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728769 (Norfolk), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brentwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728769,
+        102085935,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2091758
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf0811c30bc11b701b035fc6ea0770ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":9895007291,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895007291,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Brentwood",
+    "wof:parent_id":101728769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.24611303659381,
+    36.91778520425193,
+    -76.24611303659381,
+    36.91778520425193
+],
+  "geometry": {"coordinates":[-76.24611303659381,36.91778520425193],"type":"Point"}
+}

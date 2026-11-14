@@ -1,0 +1,82 @@
+{
+  "id": 9895003839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.46609025698923,36.174234995394954,-85.46609025698923,36.174234995394954",
+    "geom:latitude":36.174235,
+    "geom:longitude":-85.46609,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1310945: name \"Laurel Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1310945"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1310945: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1310945"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1310945: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1310945"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722459 (Cookeville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722459 (Cookeville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Laurel Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722459,
+        102086339,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1310945
+    },
+    "wof:country":"US",
+    "wof:geomhash":"76b48ac69167f8abd6079db81ba40307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":9895003839,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003839,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Laurel Park",
+    "wof:parent_id":101722459,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.46609025698923,
+    36.174234995394954,
+    -85.46609025698923,
+    36.174234995394954
+],
+  "geometry": {"coordinates":[-85.46609025698923,36.174234995394954],"type":"Point"}
+}

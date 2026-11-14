@@ -1,0 +1,82 @@
+{
+  "id": 9895007789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.4827276613424,43.103371424144264,-97.4827276613424,43.103371424144264",
+    "geom:latitude":43.103371,
+    "geom:longitude":-97.482728,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2724464: name \"Jamesville Colony\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2724464"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2724464: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2724464"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2724464: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2724464"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404491317 (Jamesville Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404491317 (Jamesville Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jamesville Colony"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688693,
+        102086043,
+        102191575,
+        404491317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2724464
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ffac7b7a70b9d2911402381e6c615d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086043,
+            "localadmin_id":404491317,
+            "locality_id":9895007789,
+            "region_id":85688693
+        }
+    ],
+    "wof:id":9895007789,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Jamesville Colony",
+    "wof:parent_id":404491317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.4827276613424,
+    43.103371424144264,
+    -97.4827276613424,
+    43.103371424144264
+],
+  "geometry": {"coordinates":[-97.4827276613424,43.103371424144264],"type":"Point"}
+}

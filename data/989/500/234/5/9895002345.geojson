@@ -1,0 +1,80 @@
+{
+  "id": 9895002345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.87864769606826,34.122016386759626,-106.87864769606826,34.122016386759626",
+    "geom:latitude":34.122016,
+    "geom:longitude":-106.878648,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 923652: name \"Pueblito\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/923652"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 923652: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/923652"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 923652: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/923652"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081575 (Socorro).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081575 (Socorro), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pueblito"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        102081575,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":923652
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed6c6c75c9df890ac51fad9dd81270d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081575,
+            "locality_id":9895002345,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002345,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Pueblito",
+    "wof:parent_id":102081575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.87864769606826,
+    34.122016386759626,
+    -106.87864769606826,
+    34.122016386759626
+],
+  "geometry": {"coordinates":[-106.87864769606826,34.122016386759626],"type":"Point"}
+}

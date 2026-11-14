@@ -1,0 +1,82 @@
+{
+  "id": 9895006696,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.18775788023896,37.77354436086457,-122.18775788023896,37.77354436086457",
+    "geom:latitude":37.773544,
+    "geom:longitude":-122.187758,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1723541: name \"Seminary Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1723541"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1723541: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1723541"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1723541: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1723541"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921881 (Oakland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921881 (Oakland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Seminary Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85921881,
+        102086959,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1723541
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64bbfcdc704aa1cf9d33ac206e83178b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "neighbourhood_id":9895006696,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006696,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Seminary Park",
+    "wof:parent_id":85921881,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.18775788023896,
+    37.77354436086457,
+    -122.18775788023896,
+    37.77354436086457
+],
+  "geometry": {"coordinates":[-122.18775788023896,37.77354436086457],"type":"Point"}
+}

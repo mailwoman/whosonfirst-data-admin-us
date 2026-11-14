@@ -1,0 +1,80 @@
+{
+  "id": 9895001096,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.7148108464906,29.675251404676498,-81.7148108464906,29.675251404676498",
+    "geom:latitude":29.675251,
+    "geom:longitude":-81.714811,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 295643: name \"Springside\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/295643"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 295643: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/295643"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 295643: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/295643"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085849 (Putnam).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085849 (Putnam), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Springside"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102085849,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":295643
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e40fe819cb8513015651a8679990189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085849,
+            "locality_id":9895001096,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001096,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Springside",
+    "wof:parent_id":102085849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.7148108464906,
+    29.675251404676498,
+    -81.7148108464906,
+    29.675251404676498
+],
+  "geometry": {"coordinates":[-81.7148108464906,29.675251404676498],"type":"Point"}
+}

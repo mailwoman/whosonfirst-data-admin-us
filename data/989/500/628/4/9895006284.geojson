@@ -1,0 +1,82 @@
+{
+  "id": 9895006284,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.97692025301448,38.51957341100519,-76.97692025301448,38.51957341100519",
+    "geom:latitude":38.519573,
+    "geom:longitude":-76.97692,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676675: name \"Charowood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676675"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676675: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676675"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676675: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676675"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949349 (La Plata).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949349 (La Plata), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Charowood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949349,
+        102081211,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1676675
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e78490fe8548489ad9a31751c66a878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949349,
+            "neighbourhood_id":9895006284,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006284,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Charowood",
+    "wof:parent_id":85949349,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.97692025301448,
+    38.51957341100519,
+    -76.97692025301448,
+    38.51957341100519
+],
+  "geometry": {"coordinates":[-76.97692025301448,38.51957341100519],"type":"Point"}
+}

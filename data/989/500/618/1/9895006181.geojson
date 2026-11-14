@@ -1,0 +1,82 @@
+{
+  "id": 9895006181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.71185395831043,32.7909804511955,-83.71185395831043,32.7909804511955",
+    "geom:latitude":32.79098,
+    "geom:longitude":-83.711854,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672044: name \"Bloomfield Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672044"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672044: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672044"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672044: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672044"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936517 (Macon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936517 (Macon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bloomfield Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936517,
+        102084373,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1672044
+    },
+    "wof:country":"US",
+    "wof:geomhash":"371cad6a91d98bf1712ae62bc4f143f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":9895006181,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006181,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Bloomfield Estates",
+    "wof:parent_id":85936517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.71185395831043,
+    32.7909804511955,
+    -83.71185395831043,
+    32.7909804511955
+],
+  "geometry": {"coordinates":[-83.71185395831043,32.7909804511955],"type":"Point"}
+}

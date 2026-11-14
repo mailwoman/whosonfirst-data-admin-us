@@ -1,0 +1,84 @@
+{
+  "id": 9895001962,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.13838089060417,41.911220385121844,-71.13838089060417,41.911220385121844",
+    "geom:latitude":41.91122,
+    "geom:longitude":-71.138381,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 612503: name \"Oakland\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/612503"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 612503: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/612503"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 612503: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/612503"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85950365 (Taunton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85950365 (Taunton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oakland"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688645,
+        85950365,
+        102084407,
+        102191575,
+        404476147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":612503
+    },
+    "wof:country":"US",
+    "wof:geomhash":"557f5e7f02f99f494363870bda23cc3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476147,
+            "locality_id":85950365,
+            "neighbourhood_id":9895001962,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":9895001962,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Oakland",
+    "wof:parent_id":85950365,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.13838089060417,
+    41.911220385121844,
+    -71.13838089060417,
+    41.911220385121844
+],
+  "geometry": {"coordinates":[-71.13838089060417,41.911220385121844],"type":"Point"}
+}

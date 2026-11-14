@@ -1,0 +1,82 @@
+{
+  "id": 9895006363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.59437874709553,33.46623176573118,-84.59437874709553,33.46623176573118",
+    "geom:latitude":33.466232,
+    "geom:longitude":-84.594379,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687959: name \"Valleywood Corners\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687959"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687959: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687959"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687959: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687959"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936025 (Tyrone).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936025 (Tyrone), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Valleywood Corners"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936025,
+        102081687,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1687959
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce0273fbf75e88b9282617b887c508ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936025,
+            "neighbourhood_id":9895006363,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006363,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Valleywood Corners",
+    "wof:parent_id":85936025,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.59437874709553,
+    33.46623176573118,
+    -84.59437874709553,
+    33.46623176573118
+],
+  "geometry": {"coordinates":[-84.59437874709553,33.46623176573118],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895003194,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.63038352871146,45.29540445566095,-122.63038352871146,45.29540445566095",
+    "geom:latitude":45.295404,
+    "geom:longitude":-122.630384,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1118784: name \"Central Point\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1118784"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1118784: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1118784"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1118784: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1118784"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082213 (Clackamas).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082213 (Clackamas), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Central Point"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688513,
+        102082213,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1118784
+    },
+    "wof:country":"US",
+    "wof:geomhash":"667843746ec00e11ed77f08b45ab6355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082213,
+            "locality_id":9895003194,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":9895003194,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Central Point",
+    "wof:parent_id":102082213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.63038352871146,
+    45.29540445566095,
+    -122.63038352871146,
+    45.29540445566095
+],
+  "geometry": {"coordinates":[-122.63038352871146,45.29540445566095],"type":"Point"}
+}

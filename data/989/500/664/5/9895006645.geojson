@@ -1,0 +1,82 @@
+{
+  "id": 9895006645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.41971014765689,39.43372087854671,-77.41971014765689,39.43372087854671",
+    "geom:latitude":39.433721,
+    "geom:longitude":-77.41971,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711772: name \"College Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711772"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711772: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711772"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1711772: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1711772"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949385 (Frederick).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949385 (Frederick), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "College Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949385,
+        102081593,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1711772
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf5cbefe5537c7e28d7c9ba3143937aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":9895006645,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006645,
+    "wof:lastmodified":1794681141,
+    "wof:name":"College Estates",
+    "wof:parent_id":85949385,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.41971014765689,
+    39.43372087854671,
+    -77.41971014765689,
+    39.43372087854671
+],
+  "geometry": {"coordinates":[-77.41971014765689,39.43372087854671],"type":"Point"}
+}

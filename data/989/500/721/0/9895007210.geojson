@@ -1,0 +1,82 @@
+{
+  "id": 9895007210,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.28529980448948,26.23729918261926,-98.28529980448948,26.23729918261926",
+    "geom:latitude":26.237299,
+    "geom:longitude":-98.2853,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2010594: name \"Stonegate Colonia Number 2\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2010594"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2010594: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2010594"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2010594: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2010594"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723547 (Mission).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723547 (Mission), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stonegate Colonia Number 2"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        101723547,
+        102083831,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2010594
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e7fa7ed0ad873b8d22ffc08f2af62f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083831,
+            "locality_id":101723547,
+            "neighbourhood_id":9895007210,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007210,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Stonegate Colonia Number 2",
+    "wof:parent_id":101723547,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.28529980448948,
+    26.23729918261926,
+    -98.28529980448948,
+    26.23729918261926
+],
+  "geometry": {"coordinates":[-98.28529980448948,26.23729918261926],"type":"Point"}
+}

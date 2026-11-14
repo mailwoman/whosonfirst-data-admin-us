@@ -1,0 +1,82 @@
+{
+  "id": 9895005666,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.13787907881597,37.73706759128218,-81.13787907881597,37.73706759128218",
+    "geom:latitude":37.737068,
+    "geom:longitude":-81.137879,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1553930: name \"Blue Jay\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1553930"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1553930: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1553930"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1553930: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1553930"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101732003 (Beaver).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101732003 (Beaver), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Blue Jay"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        101732003,
+        102083349,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1553930
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee75b97d8945ded71f422b5dd686d12c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732003,
+            "neighbourhood_id":9895005666,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895005666,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Blue Jay",
+    "wof:parent_id":101732003,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.13787907881597,
+    37.73706759128218,
+    -81.13787907881597,
+    37.73706759128218
+],
+  "geometry": {"coordinates":[-81.13787907881597,37.73706759128218],"type":"Point"}
+}

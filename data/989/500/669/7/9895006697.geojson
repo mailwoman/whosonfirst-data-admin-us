@@ -1,0 +1,82 @@
+{
+  "id": 9895006697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.89951872644609,34.02084967214257,-117.89951872644609,34.02084967214257",
+    "geom:latitude":34.02085,
+    "geom:longitude":-117.899519,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1724366: name \"Woodside Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1724366"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1724366: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1724366"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1724366: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1724366"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923771 (West Covina).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923771 (West Covina), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodside Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923771,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1724366
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1afe042f3588de236ca9771c8a9b619e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923771,
+            "neighbourhood_id":9895006697,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006697,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Woodside Village",
+    "wof:parent_id":85923771,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.89951872644609,
+    34.02084967214257,
+    -117.89951872644609,
+    34.02084967214257
+],
+  "geometry": {"coordinates":[-117.89951872644609,34.02084967214257],"type":"Point"}
+}

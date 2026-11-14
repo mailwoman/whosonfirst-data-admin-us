@@ -1,0 +1,82 @@
+{
+  "id": 9895001591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.28822752778436,31.13297005222964,-93.28822752778436,31.13297005222964",
+    "geom:latitude":31.13297,
+    "geom:longitude":-93.288228,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 550080: name \"Tower Estates Number 1\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/550080"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 550080: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/550080"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 550080: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/550080"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948063 (Leesville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948063 (Leesville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tower Estates Number 1"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948063,
+        102086691,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":550080
+    },
+    "wof:country":"US",
+    "wof:geomhash":"deb6d0b41e7e5a0088028596fd7addba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":9895001591,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001591,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Tower Estates Number 1",
+    "wof:parent_id":85948063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.28822752778436,
+    31.13297005222964,
+    -93.28822752778436,
+    31.13297005222964
+],
+  "geometry": {"coordinates":[-93.28822752778436,31.13297005222964],"type":"Point"}
+}

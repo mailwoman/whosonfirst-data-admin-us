@@ -1,0 +1,82 @@
+{
+  "id": 9895001386,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.07925551613451,41.307820274644556,-89.07925551613451,41.307820274644556",
+    "geom:latitude":41.30782,
+    "geom:longitude":-89.079256,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 415649: name \"Piety Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/415649"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 415649: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/415649"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 415649: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/415649"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404498491 (Lasalle Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404498491 (Lasalle Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Piety Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102081255,
+        102191575,
+        404498491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":415649
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1cd02608e2986acc1a3b353b13471289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081255,
+            "localadmin_id":404498491,
+            "locality_id":9895001386,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001386,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Piety Hill",
+    "wof:parent_id":404498491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.07925551613451,
+    41.307820274644556,
+    -89.07925551613451,
+    41.307820274644556
+],
+  "geometry": {"coordinates":[-89.07925551613451,41.307820274644556],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.00653940845079,34.95148316529802,-92.00653940845079,34.95148316529802",
+    "geom:latitude":34.951483,
+    "geom:longitude":-92.006539,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 75260: name \"Pinewoods Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/75260"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 75260: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/75260"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 75260: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/75260"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921127 (Cabot).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921127 (Cabot), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pinewoods Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        85921127,
+        102082027,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":75260
+    },
+    "wof:country":"US",
+    "wof:geomhash":"76b948b066ef87068b6f3b51f350d78a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082027,
+            "locality_id":85921127,
+            "neighbourhood_id":9895000293,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000293,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Pinewoods Addition",
+    "wof:parent_id":85921127,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.00653940845079,
+    34.95148316529802,
+    -92.00653940845079,
+    34.95148316529802
+],
+  "geometry": {"coordinates":[-92.00653940845079,34.95148316529802],"type":"Point"}
+}

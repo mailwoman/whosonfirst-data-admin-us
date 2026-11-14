@@ -1,0 +1,82 @@
+{
+  "id": 9895006243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.130968206445,36.63205932635236,-82.130968206445,36.63205932635236",
+    "geom:latitude":36.632059,
+    "geom:longitude":-82.130968,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673849: name \"Walnut Grove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673849"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673849: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673849"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673849: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673849"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728659 (Bristol).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728659 (Bristol), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Walnut Grove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728659,
+        102084925,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1673849
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b89635ce7c49e6dc119541bef3952445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084925,
+            "locality_id":101728659,
+            "neighbourhood_id":9895006243,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006243,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Walnut Grove",
+    "wof:parent_id":101728659,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.130968206445,
+    36.63205932635236,
+    -82.130968206445,
+    36.63205932635236
+],
+  "geometry": {"coordinates":[-82.130968206445,36.63205932635236],"type":"Point"}
+}

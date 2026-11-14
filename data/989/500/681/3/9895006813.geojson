@@ -1,0 +1,80 @@
+{
+  "id": 9895006813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.35984591790157,38.81037289539808,-81.35984591790157,38.81037289539808",
+    "geom:latitude":38.810373,
+    "geom:longitude":-81.359846,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740864: name \"Campbell Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740864"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740864: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740864"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1740864: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1740864"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083399 (Roane).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083399 (Roane), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Campbell Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        102083399,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1740864
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c00c2d60123d1476a90d2c3ba87caa13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":9895006813,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895006813,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Campbell Addition",
+    "wof:parent_id":102083399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.35984591790157,
+    38.81037289539808,
+    -81.35984591790157,
+    38.81037289539808
+],
+  "geometry": {"coordinates":[-81.35984591790157,38.81037289539808],"type":"Point"}
+}

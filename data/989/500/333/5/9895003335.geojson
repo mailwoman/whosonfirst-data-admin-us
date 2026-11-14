@@ -1,0 +1,84 @@
+{
+  "id": 9895003335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.20017988894563,40.05234168358079,-75.20017988894563,40.05234168358079",
+    "geom:latitude":40.052342,
+    "geom:longitude":-75.20018,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197567: name \"Carpenter\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197567"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197567: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197567"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197567: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197567"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101718083 (Philadelphia).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101718083 (Philadelphia), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Carpenter"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101718083,
+        102081353,
+        102191575,
+        404483701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1197567
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c1421063a2ea3f743a83ab2edcd5c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "neighbourhood_id":9895003335,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003335,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Carpenter",
+    "wof:parent_id":101718083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.20017988894563,
+    40.05234168358079,
+    -75.20017988894563,
+    40.05234168358079
+],
+  "geometry": {"coordinates":[-75.20017988894563,40.05234168358079],"type":"Point"}
+}

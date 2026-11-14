@@ -1,0 +1,80 @@
+{
+  "id": 9895003589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.81787264466732,33.484326903396486,-80.81787264466732,33.484326903396486",
+    "geom:latitude":33.484327,
+    "geom:longitude":-80.817873,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242532: name \"Brentwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242532"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242532: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242532"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242532: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242532"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085413 (Orangeburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085413 (Orangeburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brentwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085413,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1242532
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9acdb67e3a407b464915e4f59260890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085413,
+            "locality_id":9895003589,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003589,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Brentwood",
+    "wof:parent_id":102085413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.81787264466732,
+    33.484326903396486,
+    -80.81787264466732,
+    33.484326903396486
+],
+  "geometry": {"coordinates":[-80.81787264466732,33.484326903396486],"type":"Point"}
+}

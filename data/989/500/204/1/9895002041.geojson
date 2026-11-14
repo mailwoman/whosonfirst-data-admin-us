@@ -1,0 +1,82 @@
+{
+  "id": 9895002041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.80839224066378,33.48123880783263,-88.80839224066378,33.48123880783263",
+    "geom:latitude":33.481239,
+    "geom:longitude":-88.808392,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 682995: name \"Pressly Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/682995"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 682995: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/682995"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 682995: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/682995"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969577 (Starkville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969577 (Starkville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pressly Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969577,
+        102083159,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":682995
+    },
+    "wof:country":"US",
+    "wof:geomhash":"91a8f339e8c18bda5fa88cc301bf9766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":9895002041,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002041,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Pressly Place",
+    "wof:parent_id":85969577,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.80839224066378,
+    33.48123880783263,
+    -88.80839224066378,
+    33.48123880783263
+],
+  "geometry": {"coordinates":[-88.80839224066378,33.48123880783263],"type":"Point"}
+}

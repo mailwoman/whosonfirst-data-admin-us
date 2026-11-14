@@ -1,0 +1,82 @@
+{
+  "id": 9895008108,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.57630286634888,40.30467300303013,-78.57630286634888,40.30467300303013",
+    "geom:latitude":40.304673,
+    "geom:longitude":-78.576303,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2832602: name \"Frigid\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2832602"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2832602: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2832602"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2832602: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2832602"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404482631 (Pavia Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404482631 (Pavia Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Frigid"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080939,
+        102191575,
+        404482631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2832602
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dbdeb300aba1fd597a0c648bf2652703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080939,
+            "localadmin_id":404482631,
+            "locality_id":9895008108,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895008108,
+    "wof:lastmodified":1794681146,
+    "wof:name":"Frigid",
+    "wof:parent_id":404482631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.57630286634888,
+    40.30467300303013,
+    -78.57630286634888,
+    40.30467300303013
+],
+  "geometry": {"coordinates":[-78.57630286634888,40.30467300303013],"type":"Point"}
+}

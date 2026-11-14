@@ -1,0 +1,80 @@
+{
+  "id": 9895001798,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.12966548812206,38.491517035866025,-76.12966548812206,38.491517035866025",
+    "geom:latitude":38.491517,
+    "geom:longitude":-76.129665,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 586301: name \"Old Field\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/586301"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 586301: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/586301"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 586301: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/586301"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082723 (Dorchester).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082723 (Dorchester), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Old Field"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082723,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":586301
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d76a1f6024cacd63a59f0fa21eb31eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082723,
+            "locality_id":9895001798,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001798,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Old Field",
+    "wof:parent_id":102082723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.12966548812206,
+    38.491517035866025,
+    -76.12966548812206,
+    38.491517035866025
+],
+  "geometry": {"coordinates":[-76.12966548812206,38.491517035866025],"type":"Point"}
+}

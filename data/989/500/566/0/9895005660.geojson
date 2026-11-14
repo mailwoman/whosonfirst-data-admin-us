@@ -1,0 +1,82 @@
+{
+  "id": 9895005660,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.85732322666966,39.684528786845455,-80.85732322666966,39.684528786845455",
+    "geom:latitude":39.684529,
+    "geom:longitude":-80.857323,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1547367: name \"Steelton\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1547367"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1547367: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1547367"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1547367: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1547367"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101731345 (New Martinsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101731345 (New Martinsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Steelton"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        101731345,
+        102083395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1547367
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cdda2a9cc9e4079149792a618e009a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":9895005660,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895005660,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Steelton",
+    "wof:parent_id":101731345,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.85732322666966,
+    39.684528786845455,
+    -80.85732322666966,
+    39.684528786845455
+],
+  "geometry": {"coordinates":[-80.85732322666966,39.684528786845455],"type":"Point"}
+}

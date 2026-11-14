@@ -1,0 +1,82 @@
+{
+  "id": 9895000633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.29525187947102,32.42347637940026,-86.29525187947102,32.42347637940026",
+    "geom:latitude":32.423476,
+    "geom:longitude":-86.295252,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147730: name \"Brookview Manor\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147730"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147730: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147730"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147730: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147730"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913947 (Montgomery).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913947 (Montgomery), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brookview Manor"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913947,
+        102085733,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147730
+    },
+    "wof:country":"US",
+    "wof:geomhash":"abfe41bbc24fed21fc6953177e0017af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085733,
+            "locality_id":85913947,
+            "neighbourhood_id":9895000633,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000633,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Brookview Manor",
+    "wof:parent_id":85913947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.29525187947102,
+    32.42347637940026,
+    -86.29525187947102,
+    32.42347637940026
+],
+  "geometry": {"coordinates":[-86.29525187947102,32.42347637940026],"type":"Point"}
+}

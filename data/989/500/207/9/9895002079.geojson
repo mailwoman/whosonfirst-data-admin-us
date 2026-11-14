@@ -1,0 +1,82 @@
+{
+  "id": 9895002079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.68199851392522,33.62540254249506,-88.68199851392522,33.62540254249506",
+    "geom:latitude":33.625403,
+    "geom:longitude":-88.681999,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684789: name \"Pine Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684789"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684789: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684789"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 684789: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/684789"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969879 (West Point).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969879 (West Point), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pine Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969879,
+        102082439,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":684789
+    },
+    "wof:country":"US",
+    "wof:geomhash":"467506a9b79175a5d9c4160dbffd97f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":9895002079,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002079,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Pine Acres",
+    "wof:parent_id":85969879,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.68199851392522,
+    33.62540254249506,
+    -88.68199851392522,
+    33.62540254249506
+],
+  "geometry": {"coordinates":[-88.68199851392522,33.62540254249506],"type":"Point"}
+}

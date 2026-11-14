@@ -1,0 +1,80 @@
+{
+  "id": 9895008018,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-154.93590852054243,19.434020470692747,-154.93590852054243,19.434020470692747",
+    "geom:latitude":19.43402,
+    "geom:longitude":-154.935909,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806897: name \"Kamaili\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806897"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806897: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806897"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806897: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806897"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085433 (Hawaii).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085433 (Hawaii), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kamaili"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688671,
+        102085433,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806897
+    },
+    "wof:country":"US",
+    "wof:geomhash":"868d1115e0b6334dd2bddc8a79409640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":9895008018,
+            "region_id":85688671
+        }
+    ],
+    "wof:id":9895008018,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Kamaili",
+    "wof:parent_id":102085433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -154.93590852054243,
+    19.434020470692747,
+    -154.93590852054243,
+    19.434020470692747
+],
+  "geometry": {"coordinates":[-154.93590852054243,19.434020470692747],"type":"Point"}
+}

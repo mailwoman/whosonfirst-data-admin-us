@@ -1,0 +1,80 @@
+{
+  "id": 9895002211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.09816655766417,31.42156409199198,-91.09816655766417,31.42156409199198",
+    "geom:latitude":31.421564,
+    "geom:longitude":-91.098167,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 693261: name \"Franklin\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/693261"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 693261: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/693261"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 693261: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/693261"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086665 (Franklin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086665 (Franklin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Franklin"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102086665,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":693261
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f90706898c02ed59316f900a970c426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086665,
+            "locality_id":9895002211,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002211,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Franklin",
+    "wof:parent_id":102086665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.09816655766417,
+    31.42156409199198,
+    -91.09816655766417,
+    31.42156409199198
+],
+  "geometry": {"coordinates":[-91.09816655766417,31.42156409199198],"type":"Point"}
+}

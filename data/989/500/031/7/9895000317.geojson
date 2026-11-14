@@ -1,0 +1,82 @@
+{
+  "id": 9895000317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.17216718056444,32.820413505770745,-85.17216718056444,32.820413505770745",
+    "geom:latitude":32.820414,
+    "geom:longitude":-85.172167,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 121381: name \"Langdale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/121381"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 121381: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/121381"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 121381: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/121381"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914185 (Valley).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914185 (Valley), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Langdale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914185,
+        102085637,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":121381
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79f29442dedf0db843e638544929648e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085637,
+            "locality_id":85914185,
+            "neighbourhood_id":9895000317,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000317,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Langdale",
+    "wof:parent_id":85914185,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.17216718056444,
+    32.820413505770745,
+    -85.17216718056444,
+    32.820413505770745
+],
+  "geometry": {"coordinates":[-85.17216718056444,32.820413505770745],"type":"Point"}
+}

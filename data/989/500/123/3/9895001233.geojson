@@ -1,0 +1,82 @@
+{
+  "id": 9895001233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.26218140833888,34.70425330269286,-85.26218140833888,34.70425330269286",
+    "geom:latitude":34.704253,
+    "geom:longitude":-85.262181,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 354197: name \"Skyline Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/354197"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 354197: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/354197"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 354197: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/354197"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936063 (LaFayette).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936063 (LaFayette), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Skyline Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936063,
+        102082321,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":354197
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e322dfd086b58a17d014d023cb0f17a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082321,
+            "locality_id":85936063,
+            "neighbourhood_id":9895001233,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001233,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Skyline Heights",
+    "wof:parent_id":85936063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.26218140833888,
+    34.70425330269286,
+    -85.26218140833888,
+    34.70425330269286
+],
+  "geometry": {"coordinates":[-85.26218140833888,34.70425330269286],"type":"Point"}
+}

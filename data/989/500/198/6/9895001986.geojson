@@ -1,0 +1,84 @@
+{
+  "id": 9895001986,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.65646875359371,44.67195443104707,-85.65646875359371,44.67195443104707",
+    "geom:latitude":44.671954,
+    "geom:longitude":-85.656469,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 623278: name \"Chums Corners\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/623278"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 623278: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/623278"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 623278: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/623278"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85952129 (Chums Corner).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85952129 (Chums Corner), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Chums Corners"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688599,
+        85952129,
+        102083133,
+        102191575,
+        404506555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":623278
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f86317de990f4a9d9663e1a81705373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083133,
+            "localadmin_id":404506555,
+            "locality_id":85952129,
+            "neighbourhood_id":9895001986,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":9895001986,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Chums Corners",
+    "wof:parent_id":85952129,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.65646875359371,
+    44.67195443104707,
+    -85.65646875359371,
+    44.67195443104707
+],
+  "geometry": {"coordinates":[-85.65646875359371,44.67195443104707],"type":"Point"}
+}

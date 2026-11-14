@@ -1,0 +1,82 @@
+{
+  "id": 9895007656,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.13220331001062,28.01330519642008,-82.13220331001062,28.01330519642008",
+    "geom:latitude":28.013305,
+    "geom:longitude":-82.132203,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2483445: name \"Henderson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2483445"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2483445: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2483445"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2483445: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2483445"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931795 (Plant City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931795 (Plant City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Henderson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85931795,
+        102085773,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2483445
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79f161a2d154eaf5b6ec637f86f8cb49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85931795,
+            "neighbourhood_id":9895007656,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007656,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Henderson",
+    "wof:parent_id":85931795,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.13220331001062,
+    28.01330519642008,
+    -82.13220331001062,
+    28.01330519642008
+],
+  "geometry": {"coordinates":[-82.13220331001062,28.01330519642008],"type":"Point"}
+}

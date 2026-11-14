@@ -1,0 +1,82 @@
+{
+  "id": 9895001634,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.19174764772342,30.005763921591104,-90.19174764772342,30.005763921591104",
+    "geom:latitude":30.005764,
+    "geom:longitude":-90.191748,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 557546: name \"Pontchartrain Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/557546"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 557546: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/557546"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 557546: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/557546"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948743 (Metairie).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948743 (Metairie), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pontchartrain Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948743,
+        102083179,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":557546
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f26e5ce2f86ec340b24559f921a90fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948743,
+            "neighbourhood_id":9895001634,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001634,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Pontchartrain Gardens",
+    "wof:parent_id":85948743,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.19174764772342,
+    30.005763921591104,
+    -90.19174764772342,
+    30.005763921591104
+],
+  "geometry": {"coordinates":[-90.19174764772342,30.005763921591104],"type":"Point"}
+}

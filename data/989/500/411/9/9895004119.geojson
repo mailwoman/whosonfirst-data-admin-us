@@ -1,0 +1,80 @@
+{
+  "id": 9895004119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.81727292058982,30.859346089826328,-98.81727292058982,30.859346089826328",
+    "geom:latitude":30.859346,
+    "geom:longitude":-98.817273,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380705: name \"Valley Spring\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380705"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380705: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380705"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380705: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380705"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083187 (Llano).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083187 (Llano), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Valley Spring"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102083187,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1380705
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67abcde3a3880acdd3acaa5945b51e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083187,
+            "locality_id":9895004119,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004119,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Valley Spring",
+    "wof:parent_id":102083187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.81727292058982,
+    30.859346089826328,
+    -98.81727292058982,
+    30.859346089826328
+],
+  "geometry": {"coordinates":[-98.81727292058982,30.859346089826328],"type":"Point"}
+}

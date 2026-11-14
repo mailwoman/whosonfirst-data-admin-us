@@ -1,0 +1,82 @@
+{
+  "id": 9895007077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.11615354772871,33.46253415122403,-117.11615354772871,33.46253415122403",
+    "geom:latitude":33.462534,
+    "geom:longitude":-117.116154,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1849530: name \"Colina Vista\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1849530"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1849530: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1849530"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1849530: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1849530"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923337 (Temecula).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923337 (Temecula), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Colina Vista"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923337,
+        102086221,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1849530
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ac67929a5a2b52ce74d8330c13ef1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923337,
+            "neighbourhood_id":9895007077,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007077,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Colina Vista",
+    "wof:parent_id":85923337,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.11615354772871,
+    33.46253415122403,
+    -117.11615354772871,
+    33.46253415122403
+],
+  "geometry": {"coordinates":[-117.11615354772871,33.46253415122403],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895004118,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.6302067421649,30.39576875242853,-94.6302067421649,30.39576875242853",
+    "geom:latitude":30.395769,
+    "geom:longitude":-94.630207,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380656: name \"Thicket\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380656"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380656: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380656"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380656: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380656"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084995 (Hardin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084995 (Hardin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Thicket"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102084995,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1380656
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7794b31779e0c5c5c92c058440b8df31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084995,
+            "locality_id":9895004118,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004118,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Thicket",
+    "wof:parent_id":102084995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.6302067421649,
+    30.39576875242853,
+    -94.6302067421649,
+    30.39576875242853
+],
+  "geometry": {"coordinates":[-94.6302067421649,30.39576875242853],"type":"Point"}
+}

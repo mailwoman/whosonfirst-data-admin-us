@@ -1,0 +1,82 @@
+{
+  "id": 9895004152,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-162.2880795946977,63.52222161740198,-162.2880795946977,63.52222161740198",
+    "geom:latitude":63.522222,
+    "geom:longitude":-162.28808,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1410158: name \"Stebbins\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1410158"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1410158: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1410158"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1410158: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1410158"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85915511 (Stebbins).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85915511 (Stebbins), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Stebbins"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85915511,
+        102081401,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1410158
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d4ac1e0c7415f3e9d0e6bb065229f67a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081401,
+            "locality_id":85915511,
+            "neighbourhood_id":9895004152,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004152,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Stebbins",
+    "wof:parent_id":85915511,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -162.2880795946977,
+    63.52222161740198,
+    -162.2880795946977,
+    63.52222161740198
+],
+  "geometry": {"coordinates":[-162.2880795946977,63.52222161740198],"type":"Point"}
+}

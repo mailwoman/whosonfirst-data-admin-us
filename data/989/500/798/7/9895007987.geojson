@@ -1,0 +1,80 @@
+{
+  "id": 9895007987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.79725251322868,48.01616284543353,-105.79725251322868,48.01616284543353",
+    "geom:latitude":48.016163,
+    "geom:longitude":-105.797253,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806639: name \"Prairie Elk Colony\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806639"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806639: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806639"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806639: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806639"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085085 (McCone).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085085 (McCone), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Prairie Elk Colony"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        102085085,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806639
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b04530aeca66af3d09c2e92b1ec7cc27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085085,
+            "locality_id":9895007987,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895007987,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Prairie Elk Colony",
+    "wof:parent_id":102085085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.79725251322868,
+    48.01616284543353,
+    -105.79725251322868,
+    48.01616284543353
+],
+  "geometry": {"coordinates":[-105.79725251322868,48.01616284543353],"type":"Point"}
+}

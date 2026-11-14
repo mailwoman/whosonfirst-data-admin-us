@@ -1,0 +1,80 @@
+{
+  "id": 9895006305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.0452401846075,39.243510169980304,-121.0452401846075,39.243510169980304",
+    "geom:latitude":39.24351,
+    "geom:longitude":-121.04524,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682884: name \"Evergreen Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682884"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682884: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682884"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1682884: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1682884"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085391 (Nevada).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085391 (Nevada), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Evergreen Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102085391,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1682884
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c385a3282d1cbb2a00837978f49a9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085391,
+            "locality_id":9895006305,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006305,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Evergreen Estates",
+    "wof:parent_id":102085391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.0452401846075,
+    39.243510169980304,
+    -121.0452401846075,
+    39.243510169980304
+],
+  "geometry": {"coordinates":[-121.0452401846075,39.243510169980304],"type":"Point"}
+}

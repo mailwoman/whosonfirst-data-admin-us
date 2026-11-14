@@ -1,0 +1,80 @@
+{
+  "id": 9895000956,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.6135397001709,39.73623180566985,-75.6135397001709,39.73623180566985",
+    "geom:latitude":39.736232,
+    "geom:longitude":-75.61354,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215793: name \"Wood Wards Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215793"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215793: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215793"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 215793: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/215793"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083891 (New Castle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083891 (New Castle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wood Wards Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688611,
+        102083891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":215793
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3d838c9b7e0fadf2f1eb5f950a7127f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":9895000956,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":9895000956,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Wood Wards Addition",
+    "wof:parent_id":102083891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.6135397001709,
+    39.73623180566985,
+    -75.6135397001709,
+    39.73623180566985
+],
+  "geometry": {"coordinates":[-75.6135397001709,39.73623180566985],"type":"Point"}
+}

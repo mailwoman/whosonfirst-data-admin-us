@@ -1,0 +1,80 @@
+{
+  "id": 9895006116,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.10018821219485,31.552958863118167,-84.10018821219485,31.552958863118167",
+    "geom:latitude":31.552959,
+    "geom:longitude":-84.100188,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671087: name \"Eleanor Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671087"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671087: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671087"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671087: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671087"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084427 (Dougherty).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084427 (Dougherty), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Eleanor Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102084427,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671087
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b2bc700c623047013ce991d146c6c17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":9895006116,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006116,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Eleanor Village",
+    "wof:parent_id":102084427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.10018821219485,
+    31.552958863118167,
+    -84.10018821219485,
+    31.552958863118167
+],
+  "geometry": {"coordinates":[-84.10018821219485,31.552958863118167],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9895003402,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.02517273376398,40.05567499101868,-75.02517273376398,40.05567499101868",
+    "geom:latitude":40.055675,
+    "geom:longitude":-75.025173,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1213812: name \"Harrisburg\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1213812"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1213812: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1213812"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1213812: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1213812"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101718083 (Philadelphia).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101718083 (Philadelphia), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Harrisburg"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101718083,
+        102081353,
+        102191575,
+        404483701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1213812
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4d9c0796d7a6e5eac2bff96e0384901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "neighbourhood_id":9895003402,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003402,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Harrisburg",
+    "wof:parent_id":101718083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.02517273376398,
+    40.05567499101868,
+    -75.02517273376398,
+    40.05567499101868
+],
+  "geometry": {"coordinates":[-75.02517273376398,40.05567499101868],"type":"Point"}
+}

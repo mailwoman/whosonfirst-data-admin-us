@@ -1,0 +1,82 @@
+{
+  "id": 9895004157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-151.45076479471933,59.667419790866475,-151.45076479471933,59.667419790866475",
+    "geom:latitude":59.66742,
+    "geom:longitude":-151.450765,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1413247: name \"Kachemak City\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1413247"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1413247: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1413247"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1413247: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1413247"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85915747 (Kachemak).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85915747 (Kachemak), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kachemak City"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85915747,
+        102081909,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1413247
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18a363f44b126683bfb78d25b00ab3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915747,
+            "neighbourhood_id":9895004157,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895004157,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Kachemak City",
+    "wof:parent_id":85915747,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -151.45076479471933,
+    59.667419790866475,
+    -151.45076479471933,
+    59.667419790866475
+],
+  "geometry": {"coordinates":[-151.45076479471933,59.667419790866475],"type":"Point"}
+}

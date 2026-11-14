@@ -1,0 +1,80 @@
+{
+  "id": 9895000921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.40665810791046,37.21807909515758,-104.40665810791046,37.21807909515758",
+    "geom:latitude":37.218079,
+    "geom:longitude":-104.406658,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 194730: name \"Beshoar\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/194730"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 194730: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/194730"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 194730: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/194730"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083357 (Las Animas).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083357 (Las Animas), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Beshoar"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102083357,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":194730
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a27d054acedbc318da710542cdd2140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083357,
+            "locality_id":9895000921,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000921,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Beshoar",
+    "wof:parent_id":102083357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.40665810791046,
+    37.21807909515758,
+    -104.40665810791046,
+    37.21807909515758
+],
+  "geometry": {"coordinates":[-104.40665810791046,37.21807909515758],"type":"Point"}
+}

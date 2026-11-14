@@ -1,0 +1,82 @@
+{
+  "id": 9895002320,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.53154419029495,40.28817265451033,-74.53154419029495,40.28817265451033",
+    "geom:latitude":40.288173,
+    "geom:longitude":-74.531544,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 883458: name \"Millstone\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/883458"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 883458: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/883458"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 883458: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/883458"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404478247 (East Windsor Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404478247 (East Windsor Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Millstone"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102081129,
+        102191575,
+        404478247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":883458
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee8d32c9abdff4e3145411cff39a5d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081129,
+            "localadmin_id":404478247,
+            "locality_id":9895002320,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895002320,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Millstone",
+    "wof:parent_id":404478247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.53154419029495,
+    40.28817265451033,
+    -74.53154419029495,
+    40.28817265451033
+],
+  "geometry": {"coordinates":[-74.53154419029495,40.28817265451033],"type":"Point"}
+}

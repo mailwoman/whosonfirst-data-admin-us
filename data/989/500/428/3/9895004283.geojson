@@ -1,0 +1,82 @@
+{
+  "id": 9895004283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.0913442253544,41.11967166093714,-112.0913442253544,41.11967166093714",
+    "geom:latitude":41.119672,
+    "geom:longitude":-112.091344,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451511: name \"Sky West Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451511"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451511: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451511"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451511: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451511"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727885 (West Point).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727885 (West Point), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sky West Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727885,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451511
+    },
+    "wof:country":"US",
+    "wof:geomhash":"46e0592f53b3ef0116eeffd8d9f03589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727885,
+            "neighbourhood_id":9895004283,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004283,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Sky West Estates",
+    "wof:parent_id":101727885,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.0913442253544,
+    41.11967166093714,
+    -112.0913442253544,
+    41.11967166093714
+],
+  "geometry": {"coordinates":[-112.0913442253544,41.11967166093714],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895003061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.4941682946324,36.32820820078394,-78.4941682946324,36.32820820078394",
+    "geom:latitude":36.328208,
+    "geom:longitude":-78.494168,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1006106: name \"Country Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1006106"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1006106: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1006106"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1006106: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1006106"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087631 (Vance).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087631 (Vance), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Country Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087631,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1006106
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bee815bb3ccf75e8d1ded0c9187ed125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087631,
+            "locality_id":9895003061,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003061,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Country Place",
+    "wof:parent_id":102087631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.4941682946324,
+    36.32820820078394,
+    -78.4941682946324,
+    36.32820820078394
+],
+  "geometry": {"coordinates":[-78.4941682946324,36.32820820078394],"type":"Point"}
+}

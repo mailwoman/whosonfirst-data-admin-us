@@ -1,0 +1,80 @@
+{
+  "id": 9895000506,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.27445605413936,30.716861739976608,-88.27445605413936,30.716861739976608",
+    "geom:latitude":30.716862,
+    "geom:longitude":-88.274456,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143651: name \"Petaluma\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143651"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143651: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143651"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143651: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143651"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085585 (Mobile).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085585 (Mobile), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Petaluma"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143651
+    },
+    "wof:country":"US",
+    "wof:geomhash":"afa06302a734912601c8b581805611b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":9895000506,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000506,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Petaluma",
+    "wof:parent_id":102085585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.27445605413936,
+    30.716861739976608,
+    -88.27445605413936,
+    30.716861739976608
+],
+  "geometry": {"coordinates":[-88.27445605413936,30.716861739976608],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.90386313837944,38.64734773977957,-76.90386313837944,38.64734773977957",
+    "geom:latitude":38.647348,
+    "geom:longitude":-76.903863,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676801: name \"Northwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676801"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676801: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676801"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676801: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676801"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949863 (Waldorf).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949863 (Waldorf), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Northwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949863,
+        102081211,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1676801
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3b92c77426878d163899f4bdf1f45394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":9895006291,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006291,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Northwood",
+    "wof:parent_id":85949863,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.90386313837944,
+    38.64734773977957,
+    -76.90386313837944,
+    38.64734773977957
+],
+  "geometry": {"coordinates":[-76.90386313837944,38.64734773977957],"type":"Point"}
+}

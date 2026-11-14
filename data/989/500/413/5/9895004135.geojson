@@ -1,0 +1,82 @@
+{
+  "id": 9895004135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.70822677787646,33.532036849816855,-101.70822677787646,33.532036849816855",
+    "geom:latitude":33.532037,
+    "geom:longitude":-101.708227,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1388617: name \"Buffalo Springs Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1388617"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1388617: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1388617"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1388617: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1388617"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101725257 (Buffalo Springs).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101725257 (Buffalo Springs), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Buffalo Springs Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        101725257,
+        102085041,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1388617
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f30061c86cd66204231156a10a21d34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085041,
+            "locality_id":101725257,
+            "neighbourhood_id":9895004135,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004135,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Buffalo Springs Lake",
+    "wof:parent_id":101725257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.70822677787646,
+    33.532036849816855,
+    -101.70822677787646,
+    33.532036849816855
+],
+  "geometry": {"coordinates":[-101.70822677787646,33.532036849816855],"type":"Point"}
+}

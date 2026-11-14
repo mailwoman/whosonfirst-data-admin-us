@@ -1,0 +1,82 @@
+{
+  "id": 9895006435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.97942781928174,39.579831623911716,-76.97942781928174,39.579831623911716",
+    "geom:latitude":39.579832,
+    "geom:longitude":-76.979428,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695760: name \"Carroll Meadows\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695760"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695760: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695760"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695760: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695760"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949353 (Westminster).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949353 (Westminster), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Carroll Meadows"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949353,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695760
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e765de16f2468b153f00b0aeda278aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "neighbourhood_id":9895006435,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006435,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Carroll Meadows",
+    "wof:parent_id":85949353,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.97942781928174,
+    39.579831623911716,
+    -76.97942781928174,
+    39.579831623911716
+],
+  "geometry": {"coordinates":[-76.97942781928174,39.579831623911716],"type":"Point"}
+}

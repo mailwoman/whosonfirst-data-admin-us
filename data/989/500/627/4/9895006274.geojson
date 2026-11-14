@@ -1,0 +1,82 @@
+{
+  "id": 9895006274,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.30197128545812,37.1237614374939,-79.30197128545812,37.1237614374939",
+    "geom:latitude":37.123761,
+    "geom:longitude":-79.301971,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674944: name \"Forest Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674944"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674944: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674944"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674944: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674944"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728697 (Altavista).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728697 (Altavista), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Forest Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728697,
+        102084935,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1674944
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ccb3dd47b52375ae5cc59dcf88fe250c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "locality_id":101728697,
+            "neighbourhood_id":9895006274,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006274,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Forest Hill",
+    "wof:parent_id":101728697,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.30197128545812,
+    37.1237614374939,
+    -79.30197128545812,
+    37.1237614374939
+],
+  "geometry": {"coordinates":[-79.30197128545812,37.1237614374939],"type":"Point"}
+}

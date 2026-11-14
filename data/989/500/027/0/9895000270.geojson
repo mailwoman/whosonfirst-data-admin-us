@@ -1,0 +1,80 @@
+{
+  "id": 9895000270,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.22296165342375,35.22564756021833,-93.22296165342375,35.22564756021833",
+    "geom:latitude":35.225648,
+    "geom:longitude":-93.222962,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 67858: name \"Bethel\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/67858"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 67858: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/67858"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 67858: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/67858"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083263 (Yell).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083263 (Yell), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bethel"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        102083263,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":67858
+    },
+    "wof:country":"US",
+    "wof:geomhash":"add64b4b09f6d9c26e1f511640f5df0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083263,
+            "locality_id":9895000270,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000270,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Bethel",
+    "wof:parent_id":102083263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.22296165342375,
+    35.22564756021833,
+    -93.22296165342375,
+    35.22564756021833
+],
+  "geometry": {"coordinates":[-93.22296165342375,35.22564756021833],"type":"Point"}
+}

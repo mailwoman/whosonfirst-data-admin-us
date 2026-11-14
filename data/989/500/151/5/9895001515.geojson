@@ -1,0 +1,82 @@
+{
+  "id": 9895001515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.61238597001996,38.44370016968866,-82.61238597001996,38.44370016968866",
+    "geom:latitude":38.4437,
+    "geom:longitude":-82.612386,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 499521: name \"Normal\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/499521"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 499521: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/499521"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 499521: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/499521"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85946883 (Ashland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85946883 (Ashland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Normal"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688641,
+        85946883,
+        102084495,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":499521
+    },
+    "wof:country":"US",
+    "wof:geomhash":"39dd4871b08d58c2b11e5d1aadeee9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084495,
+            "locality_id":85946883,
+            "neighbourhood_id":9895001515,
+            "region_id":85688641
+        }
+    ],
+    "wof:id":9895001515,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Normal",
+    "wof:parent_id":85946883,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.61238597001996,
+    38.44370016968866,
+    -82.61238597001996,
+    38.44370016968866
+],
+  "geometry": {"coordinates":[-82.61238597001996,38.44370016968866],"type":"Point"}
+}

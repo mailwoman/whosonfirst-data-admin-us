@@ -1,0 +1,80 @@
+{
+  "id": 9895006220,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.35770618317835,33.54039609083876,-84.35770618317835,33.54039609083876",
+    "geom:latitude":33.540396,
+    "geom:longitude":-84.357706,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672597: name \"The Inlet\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672597"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672597: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672597"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1672597: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1672597"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082333 (Clayton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082333 (Clayton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "The Inlet"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102082333,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1672597
+    },
+    "wof:country":"US",
+    "wof:geomhash":"caa835e926e802adb6d3977dfb80fc59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082333,
+            "locality_id":9895006220,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006220,
+    "wof:lastmodified":1794681140,
+    "wof:name":"The Inlet",
+    "wof:parent_id":102082333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.35770618317835,
+    33.54039609083876,
+    -84.35770618317835,
+    33.54039609083876
+],
+  "geometry": {"coordinates":[-84.35770618317835,33.54039609083876],"type":"Point"}
+}

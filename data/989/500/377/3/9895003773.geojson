@@ -1,0 +1,82 @@
+{
+  "id": 9895003773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.34545323989765,36.1992651888576,-83.34545323989765,36.1992651888576",
+    "geom:latitude":36.199265,
+    "geom:longitude":-83.345453,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1271884: name \"Sunset Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1271884"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1271884: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1271884"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1271884: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1271884"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722571 (Morristown).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722571 (Morristown), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunset Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722571,
+        102086447,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1271884
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f164cdac75013b0937ccbf3fdb288bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":9895003773,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003773,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Sunset Hills",
+    "wof:parent_id":101722571,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.34545323989765,
+    36.1992651888576,
+    -83.34545323989765,
+    36.1992651888576
+],
+  "geometry": {"coordinates":[-83.34545323989765,36.1992651888576],"type":"Point"}
+}

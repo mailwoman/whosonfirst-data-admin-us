@@ -1,0 +1,82 @@
+{
+  "id": 9895001497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.8865469249137,37.83907863792556,-96.8865469249137,37.83907863792556",
+    "geom:latitude":37.839079,
+    "geom:longitude":-96.886547,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 474576: name \"Oil Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/474576"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 474576: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/474576"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 474576: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/474576"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404503819 (El Dorado Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404503819 (El Dorado Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oil Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688555,
+        102082695,
+        102191575,
+        404503819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":474576
+    },
+    "wof:country":"US",
+    "wof:geomhash":"850a3e5b846c7c3d67cf00c49247aeaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082695,
+            "localadmin_id":404503819,
+            "locality_id":9895001497,
+            "region_id":85688555
+        }
+    ],
+    "wof:id":9895001497,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Oil Hill",
+    "wof:parent_id":404503819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.8865469249137,
+    37.83907863792556,
+    -96.8865469249137,
+    37.83907863792556
+],
+  "geometry": {"coordinates":[-96.8865469249137,37.83907863792556],"type":"Point"}
+}

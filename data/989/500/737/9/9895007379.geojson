@@ -1,0 +1,82 @@
+{
+  "id": 9895007379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.09473532213877,37.38833823511288,-122.09473532213877,37.38833823511288",
+    "geom:latitude":37.388338,
+    "geom:longitude":-122.094735,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354042: name \"Saint Francis Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354042"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354042: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354042"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354042: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354042"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922355 (Mountain View).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922355 (Mountain View), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Francis Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922355,
+        102081673,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354042
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b41534035083d31dd8c5f0327aed993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922355,
+            "neighbourhood_id":9895007379,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007379,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Saint Francis Acres",
+    "wof:parent_id":85922355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.09473532213877,
+    37.38833823511288,
+    -122.09473532213877,
+    37.38833823511288
+],
+  "geometry": {"coordinates":[-122.09473532213877,37.38833823511288],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001928,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.66080430019046,39.26455917418438,-76.66080430019046,39.26455917418438",
+    "geom:latitude":39.264559,
+    "geom:longitude":-76.660804,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 597769: name \"Morrell Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/597769"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 597769: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/597769"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 597769: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/597769"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949461 (Baltimore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949461 (Baltimore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Morrell Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949461,
+        102081589,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":597769
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ebfcdd18b6953d40fce639d9c932b974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "neighbourhood_id":9895001928,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001928,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Morrell Park",
+    "wof:parent_id":85949461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.66080430019046,
+    39.26455917418438,
+    -76.66080430019046,
+    39.26455917418438
+],
+  "geometry": {"coordinates":[-76.66080430019046,39.26455917418438],"type":"Point"}
+}

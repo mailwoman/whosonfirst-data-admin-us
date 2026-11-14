@@ -1,0 +1,80 @@
+{
+  "id": 9895004089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.81278039812238,32.26570773864549,-96.81278039812238,32.26570773864549",
+    "geom:latitude":32.265708,
+    "geom:longitude":-96.81278,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378727: name \"Nash\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378727"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378727: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378727"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1378727: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1378727"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081957 (Ellis).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081957 (Ellis), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Nash"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102081957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1378727
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4551ee2485026d6893f1c2dbcb4ce184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081957,
+            "locality_id":9895004089,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004089,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Nash",
+    "wof:parent_id":102081957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.81278039812238,
+    32.26570773864549,
+    -96.81278039812238,
+    32.26570773864549
+],
+  "geometry": {"coordinates":[-96.81278039812238,32.26570773864549],"type":"Point"}
+}

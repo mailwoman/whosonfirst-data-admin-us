@@ -1,0 +1,80 @@
+{
+  "id": 9895002117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.00203330974448,32.38014983326758,-90.00203330974448,32.38014983326758",
+    "geom:latitude":32.38015,
+    "geom:longitude":-90.002033,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687066: name \"Paradise Point\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687066"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687066: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687066"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 687066: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/687066"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084869 (Rankin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084869 (Rankin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Paradise Point"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102084869,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":687066
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0606316fa839eef07c7a0e3e3439803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":9895002117,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002117,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Paradise Point",
+    "wof:parent_id":102084869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.00203330974448,
+    32.38014983326758,
+    -90.00203330974448,
+    32.38014983326758
+],
+  "geometry": {"coordinates":[-90.00203330974448,32.38014983326758],"type":"Point"}
+}

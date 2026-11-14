@@ -1,0 +1,80 @@
+{
+  "id": 9895001538,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.81353466776517,37.59120364969152,-83.81353466776517,37.59120364969152",
+    "geom:latitude":37.591204,
+    "geom:longitude":-83.813535,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 516390: name \"Willow Shoals\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/516390"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 516390: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/516390"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 516390: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/516390"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084505 (Lee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084505 (Lee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Willow Shoals"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688641,
+        102084505,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":516390
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33c052657792f8e2dab43583f53e4cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084505,
+            "locality_id":9895001538,
+            "region_id":85688641
+        }
+    ],
+    "wof:id":9895001538,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Willow Shoals",
+    "wof:parent_id":102084505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.81353466776517,
+    37.59120364969152,
+    -83.81353466776517,
+    37.59120364969152
+],
+  "geometry": {"coordinates":[-83.81353466776517,37.59120364969152],"type":"Point"}
+}

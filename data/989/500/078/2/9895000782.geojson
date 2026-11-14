@@ -1,0 +1,82 @@
+{
+  "id": 9895000782,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.54167787379822,33.24345710798931,-87.54167787379822,33.24345710798931",
+    "geom:latitude":33.243457,
+    "geom:longitude":-87.541678,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148637: name \"The Vineyards\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148637"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148637: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148637"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148637: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148637"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914453 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914453 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "The Vineyards"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914453,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148637
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70ae03964ef0bd9fce870108bdd36193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":85914453,
+            "neighbourhood_id":9895000782,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000782,
+    "wof:lastmodified":1794681123,
+    "wof:name":"The Vineyards",
+    "wof:parent_id":85914453,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.54167787379822,
+    33.24345710798931,
+    -87.54167787379822,
+    33.24345710798931
+],
+  "geometry": {"coordinates":[-87.54167787379822,33.24345710798931],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895002293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-114.97611498842194,36.03720417761508,-114.97611498842194,36.03720417761508",
+    "geom:latitude":36.037204,
+    "geom:longitude":-114.976115,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 851457: name \"Victory Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/851457"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 851457: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/851457"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 851457: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/851457"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85974803 (Henderson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85974803 (Henderson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Victory Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688531,
+        85974803,
+        102081553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":851457
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5067408b60ff8bd8679dcaea6f4ab86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081553,
+            "locality_id":85974803,
+            "neighbourhood_id":9895002293,
+            "region_id":85688531
+        }
+    ],
+    "wof:id":9895002293,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Victory Village",
+    "wof:parent_id":85974803,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.97611498842194,
+    36.03720417761508,
+    -114.97611498842194,
+    36.03720417761508
+],
+  "geometry": {"coordinates":[-114.97611498842194,36.03720417761508],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.6414057126551,33.841845755173374,-78.6414057126551,33.841845755173374",
+    "geom:latitude":33.841846,
+    "geom:longitude":-78.641406,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243773: name \"Hollywood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243773"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243773: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243773"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1243773: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1243773"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720679 (North Myrtle Beach).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720679 (North Myrtle Beach), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hollywood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720679,
+        102085687,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1243773
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b62bf99f388b7413ae90cbd81c6becd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085687,
+            "locality_id":101720679,
+            "neighbourhood_id":9895003657,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003657,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Hollywood",
+    "wof:parent_id":101720679,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.6414057126551,
+    33.841845755173374,
+    -78.6414057126551,
+    33.841845755173374
+],
+  "geometry": {"coordinates":[-78.6414057126551,33.841845755173374],"type":"Point"}
+}

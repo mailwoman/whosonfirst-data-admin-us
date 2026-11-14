@@ -1,0 +1,80 @@
+{
+  "id": 9895003453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.69200676523434,34.6037759877958,-79.69200676523434,34.6037759877958",
+    "geom:latitude":34.603776,
+    "geom:longitude":-79.692007,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1232724: name \"Grace Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1232724"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1232724: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1232724"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1232724: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1232724"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085627 (Marlboro).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085627 (Marlboro), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Grace Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085627,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1232724
+    },
+    "wof:country":"US",
+    "wof:geomhash":"349bdc5541668df33e8ddf5a9217eff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085627,
+            "locality_id":9895003453,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003453,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Grace Heights",
+    "wof:parent_id":102085627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.69200676523434,
+    34.6037759877958,
+    -79.69200676523434,
+    34.6037759877958
+],
+  "geometry": {"coordinates":[-79.69200676523434,34.6037759877958],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9895003345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.54808033876084,41.421458516776546,-78.54808033876084,41.421458516776546",
+    "geom:latitude":41.421459,
+    "geom:longitude":-78.54808,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1198816: name \"Grandview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1198816"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1198816: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1198816"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1198816: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1198816"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101716717 (St. Marys).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101716717 (St. Marys), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Grandview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101716717,
+        102081265,
+        102191575,
+        404486717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1198816
+    },
+    "wof:country":"US",
+    "wof:geomhash":"37d515328aa6bfa30b2668327b0d8a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081265,
+            "localadmin_id":404486717,
+            "locality_id":101716717,
+            "neighbourhood_id":9895003345,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003345,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Grandview",
+    "wof:parent_id":101716717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.54808033876084,
+    41.421458516776546,
+    -78.54808033876084,
+    41.421458516776546
+],
+  "geometry": {"coordinates":[-78.54808033876084,41.421458516776546],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.66252569906521,44.19397828750659,-68.66252569906521,44.19397828750659",
+    "geom:latitude":44.193978,
+    "geom:longitude":-68.662526,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 580003: name \"South Deer Isle\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/580003"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 580003: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/580003"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 580003: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/580003"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404475603 (Deer Isle).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404475603 (Deer Isle), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South Deer Isle"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688769,
+        102081201,
+        102191575,
+        404475603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":580003
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e5fcfab49b9ac43711b2d61fead27d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475603,
+            "locality_id":9895001761,
+            "region_id":85688769
+        }
+    ],
+    "wof:id":9895001761,
+    "wof:lastmodified":1794681127,
+    "wof:name":"South Deer Isle",
+    "wof:parent_id":404475603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.66252569906521,
+    44.19397828750659,
+    -68.66252569906521,
+    44.19397828750659
+],
+  "geometry": {"coordinates":[-68.66252569906521,44.19397828750659],"type":"Point"}
+}

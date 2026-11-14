@@ -1,0 +1,82 @@
+{
+  "id": 9895001608,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.86407724685147,32.42460499094913,-93.86407724685147,32.42460499094913",
+    "geom:latitude":32.424605,
+    "geom:longitude":-93.864077,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 552119: name \"Fairway Forest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/552119"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 552119: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/552119"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 552119: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/552119"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85947819 (Shreveport).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85947819 (Shreveport), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fairway Forest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85947819,
+        102087235,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":552119
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d09491266906275c3d7ff9c6f7aa65e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":9895001608,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001608,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Fairway Forest",
+    "wof:parent_id":85947819,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.86407724685147,
+    32.42460499094913,
+    -93.86407724685147,
+    32.42460499094913
+],
+  "geometry": {"coordinates":[-93.86407724685147,32.42460499094913],"type":"Point"}
+}

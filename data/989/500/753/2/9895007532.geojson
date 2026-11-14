@@ -1,0 +1,84 @@
+{
+  "id": 9895007532,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.153894770537,41.54500776715104,-88.153894770537,41.54500776715104",
+    "geom:latitude":41.545008,
+    "geom:longitude":-88.153895,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355755: name \"Pleasant Knoll\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355755"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355755: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355755"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2355755: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2355755"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940583 (Joliet).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940583 (Joliet), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pleasant Knoll"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940583,
+        102080845,
+        102191575,
+        404499143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2355755
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84c079ec42f195a78466a0415600d7a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499143,
+            "locality_id":85940583,
+            "neighbourhood_id":9895007532,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007532,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Pleasant Knoll",
+    "wof:parent_id":85940583,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.153894770537,
+    41.54500776715104,
+    -88.153894770537,
+    41.54500776715104
+],
+  "geometry": {"coordinates":[-88.153894770537,41.54500776715104],"type":"Point"}
+}

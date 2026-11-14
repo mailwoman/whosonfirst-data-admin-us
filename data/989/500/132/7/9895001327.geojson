@@ -1,0 +1,82 @@
+{
+  "id": 9895001327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.04539880406884,33.425700448532865,-82.04539880406884,33.425700448532865",
+    "geom:latitude":33.4257,
+    "geom:longitude":-82.045399,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357892: name \"Lumpkin Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357892"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357892: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357892"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357892: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357892"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936989 (Augusta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936989 (Augusta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lumpkin Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936989,
+        102082951,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357892
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c7bd77c471d30b089c5e8310d60c65b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":9895001327,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001327,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Lumpkin Park",
+    "wof:parent_id":85936989,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.04539880406884,
+    33.425700448532865,
+    -82.04539880406884,
+    33.425700448532865
+],
+  "geometry": {"coordinates":[-82.04539880406884,33.425700448532865],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.50359176431962,36.116180082181664,-85.50359176431962,36.116180082181664",
+    "geom:latitude":36.11618,
+    "geom:longitude":-85.503592,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311001: name \"Southtown Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311001"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311001: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311001"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1311001: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1311001"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722459 (Cookeville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722459 (Cookeville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Southtown Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722459,
+        102086339,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1311001
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d161c1655b096de348a8f2b0dec600a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":9895003843,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003843,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Southtown Village",
+    "wof:parent_id":101722459,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.50359176431962,
+    36.116180082181664,
+    -85.50359176431962,
+    36.116180082181664
+],
+  "geometry": {"coordinates":[-85.50359176431962,36.116180082181664],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895006822,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.56105184541215,45.66244206439069,-110.56105184541215,45.66244206439069",
+    "geom:latitude":45.662442,
+    "geom:longitude":-110.561052,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1743098: name \"Palace Addition\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1743098"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1743098: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1743098"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1743098: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1743098"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85972889 (Livingston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85972889 (Livingston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Palace Addition"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        85972889,
+        102085059,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1743098
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf954ca81e1e35c8d74b22bb4e5e63ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":9895006822,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895006822,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Palace Addition",
+    "wof:parent_id":85972889,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.56105184541215,
+    45.66244206439069,
+    -110.56105184541215,
+    45.66244206439069
+],
+  "geometry": {"coordinates":[-110.56105184541215,45.66244206439069],"type":"Point"}
+}

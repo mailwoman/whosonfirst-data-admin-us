@@ -1,0 +1,80 @@
+{
+  "id": 9895006024,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.29706958561154,34.34500342755708,-119.29706958561154,34.34500342755708",
+    "geom:latitude":34.345003,
+    "geom:longitude":-119.29707,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661661: name \"Weldons\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661661"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661661: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661661"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1661661: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1661661"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086933 (Ventura).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086933 (Ventura), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Weldons"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102086933,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1661661
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84186849b6739ce5e07d7710a16935cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086933,
+            "locality_id":9895006024,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006024,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Weldons",
+    "wof:parent_id":102086933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.29706958561154,
+    34.34500342755708,
+    -119.29706958561154,
+    34.34500342755708
+],
+  "geometry": {"coordinates":[-119.29706958561154,34.34500342755708],"type":"Point"}
+}

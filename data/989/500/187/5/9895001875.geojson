@@ -1,0 +1,80 @@
+{
+  "id": 9895001875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.67499524550892,39.711769323079665,-77.67499524550892,39.711769323079665",
+    "geom:latitude":39.711769,
+    "geom:longitude":-77.674995,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 591708: name \"Lehmans Mill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/591708"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 591708: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/591708"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 591708: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/591708"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082189 (Washington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082189 (Washington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lehmans Mill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082189,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":591708
+    },
+    "wof:country":"US",
+    "wof:geomhash":"74177159eceb1ea12f868e55ad4d3dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":9895001875,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001875,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Lehmans Mill",
+    "wof:parent_id":102082189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.67499524550892,
+    39.711769323079665,
+    -77.67499524550892,
+    39.711769323079665
+],
+  "geometry": {"coordinates":[-77.67499524550892,39.711769323079665],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000822,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.83438689765691,31.332120756677337,-85.83438689765691,31.332120756677337",
+    "geom:latitude":31.332121,
+    "geom:longitude":-85.834387,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155744: name \"Briarhill Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155744"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155744: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155744"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 155744: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/155744"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85899527 (Enterprise).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85899527 (Enterprise), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Briarhill Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85899527,
+        102085699,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":155744
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0fb2ebfec0fce3c535015f4eb97956fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085699,
+            "locality_id":85899527,
+            "neighbourhood_id":9895000822,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000822,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Briarhill Acres",
+    "wof:parent_id":85899527,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.83438689765691,
+    31.332120756677337,
+    -85.83438689765691,
+    31.332120756677337
+],
+  "geometry": {"coordinates":[-85.83438689765691,31.332120756677337],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895000525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.21445313234732,30.622419921045903,-88.21445313234732,30.622419921045903",
+    "geom:latitude":30.62242,
+    "geom:longitude":-88.214453,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143943: name \"Windcrest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143943"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143943: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143943"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 143943: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/143943"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913749 (Mobile).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913749 (Mobile), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Windcrest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913749,
+        102085585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":143943
+    },
+    "wof:country":"US",
+    "wof:geomhash":"99be04ebabd33e817847217875d0a2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085585,
+            "locality_id":85913749,
+            "neighbourhood_id":9895000525,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000525,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Windcrest",
+    "wof:parent_id":85913749,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.21445313234732,
+    30.622419921045903,
+    -88.21445313234732,
+    30.622419921045903
+],
+  "geometry": {"coordinates":[-88.21445313234732,30.622419921045903],"type":"Point"}
+}

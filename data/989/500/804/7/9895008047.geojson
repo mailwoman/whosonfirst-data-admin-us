@@ -1,0 +1,82 @@
+{
+  "id": 9895008047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.9015852279695,42.89402521223378,-72.9015852279695,42.89402521223378",
+    "geom:latitude":42.894025,
+    "geom:longitude":-72.901585,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807158: name \"Chimney Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807158"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807158: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807158"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807158: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807158"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404527101 (Wilmington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404527101 (Wilmington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Chimney Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688763,
+        102080773,
+        102191575,
+        404527101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807158
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a17d143a1fb4ce0a4d68ff75baf65c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080773,
+            "localadmin_id":404527101,
+            "locality_id":9895008047,
+            "region_id":85688763
+        }
+    ],
+    "wof:id":9895008047,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Chimney Hill",
+    "wof:parent_id":404527101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.9015852279695,
+    42.89402521223378,
+    -72.9015852279695,
+    42.89402521223378
+],
+  "geometry": {"coordinates":[-72.9015852279695,42.89402521223378],"type":"Point"}
+}

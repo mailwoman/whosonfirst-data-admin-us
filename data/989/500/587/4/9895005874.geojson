@@ -1,0 +1,82 @@
+{
+  "id": 9895005874,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.30338285098436,33.06810149492064,-117.30338285098436,33.06810149492064",
+    "geom:latitude":33.068101,
+    "geom:longitude":-117.303383,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1656562: name \"Leucadia\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1656562"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1656562: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1656562"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1656562: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1656562"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922267 (Encinitas).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922267 (Encinitas), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Leucadia"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922267,
+        102083569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1656562
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc19f691a2ed177d3a876bd825c8b515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922267,
+            "neighbourhood_id":9895005874,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005874,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Leucadia",
+    "wof:parent_id":85922267,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.30338285098436,
+    33.06810149492064,
+    -117.30338285098436,
+    33.06810149492064
+],
+  "geometry": {"coordinates":[-117.30338285098436,33.06810149492064],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895004121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.24803381464447,31.54240022146839,-96.24803381464447,31.54240022146839",
+    "geom:latitude":31.5424,
+    "geom:longitude":-96.248034,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380855: name \"Freestone\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380855"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380855: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380855"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380855: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380855"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081463 (Freestone).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081463 (Freestone), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Freestone"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102081463,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1380855
+    },
+    "wof:country":"US",
+    "wof:geomhash":"288dc3ed9f8d78433ef4579a81e2595a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081463,
+            "locality_id":9895004121,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004121,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Freestone",
+    "wof:parent_id":102081463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.24803381464447,
+    31.54240022146839,
+    -96.24803381464447,
+    31.54240022146839
+],
+  "geometry": {"coordinates":[-96.24803381464447,31.54240022146839],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.9962010744132,32.915458303387155,-79.9962010744132,32.915458303387155",
+    "geom:latitude":32.915458,
+    "geom:longitude":-79.996201,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234478: name \"Dominion Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234478"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234478: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234478"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1234478: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1234478"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721135 (Hanahan).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721135 (Hanahan), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dominion Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721135,
+        102085397,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1234478
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3082897de157e281e94f687a85ae99ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085397,
+            "locality_id":101721135,
+            "neighbourhood_id":9895003491,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003491,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Dominion Hills",
+    "wof:parent_id":101721135,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.9962010744132,
+    32.915458303387155,
+    -79.9962010744132,
+    32.915458303387155
+],
+  "geometry": {"coordinates":[-79.9962010744132,32.915458303387155],"type":"Point"}
+}

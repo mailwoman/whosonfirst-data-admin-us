@@ -1,0 +1,80 @@
+{
+  "id": 9895001198,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.69965897445273,33.40762194928197,-84.69965897445273,33.40762194928197",
+    "geom:latitude":33.407622,
+    "geom:longitude":-84.699659,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 348635: name \"Whispering Pines\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/348635"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 348635: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/348635"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 348635: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/348635"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084443 (Coweta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084443 (Coweta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Whispering Pines"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102084443,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":348635
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8342448eb576e09f2c8ff27c83b6c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":9895001198,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001198,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Whispering Pines",
+    "wof:parent_id":102084443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.69965897445273,
+    33.40762194928197,
+    -84.69965897445273,
+    33.40762194928197
+],
+  "geometry": {"coordinates":[-84.69965897445273,33.40762194928197],"type":"Point"}
+}

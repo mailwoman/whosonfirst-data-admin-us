@@ -1,0 +1,82 @@
+{
+  "id": 9895003667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.94336709480355,33.654344003469575,-78.94336709480355,33.654344003469575",
+    "geom:latitude":33.654344,
+    "geom:longitude":-78.943367,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1244027: name \"Woodland Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1244027"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1244027: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1244027"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1244027: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1244027"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720677 (Myrtle Beach).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720677 (Myrtle Beach), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Woodland Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720677,
+        102085687,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1244027
+    },
+    "wof:country":"US",
+    "wof:geomhash":"267a49c85e785be6aac261451c6b82a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085687,
+            "locality_id":101720677,
+            "neighbourhood_id":9895003667,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003667,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Woodland Park",
+    "wof:parent_id":101720677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.94336709480355,
+    33.654344003469575,
+    -78.94336709480355,
+    33.654344003469575
+],
+  "geometry": {"coordinates":[-78.94336709480355,33.654344003469575],"type":"Point"}
+}

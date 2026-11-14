@@ -1,0 +1,82 @@
+{
+  "id": 9895005240,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.91189648482266,41.08800547159193,-111.91189648482266,41.08800547159193",
+    "geom:latitude":41.088005,
+    "geom:longitude":-111.911896,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453902: name \"Quail Creek\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453902"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453902: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453902"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453902: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453902"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727897 (Layton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727897 (Layton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Quail Creek"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727897,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453902
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a55e82a75ea2df346e6cfb4509982f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":9895005240,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005240,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Quail Creek",
+    "wof:parent_id":101727897,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.91189648482266,
+    41.08800547159193,
+    -111.91189648482266,
+    41.08800547159193
+],
+  "geometry": {"coordinates":[-111.91189648482266,41.08800547159193],"type":"Point"}
+}

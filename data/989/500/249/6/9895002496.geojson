@@ -1,0 +1,82 @@
+{
+  "id": 9895002496,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.10396942675865,35.36403240061022,-81.10396942675865,35.36403240061022",
+    "geom:latitude":35.364032,
+    "geom:longitude":-81.103969,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001686: name \"Taylor Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001686"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001686: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001686"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1001686: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1001686"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981147 (Stanley).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981147 (Stanley), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Taylor Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981147,
+        102087869,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1001686
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7209ad8bcc68c3436800073c2e6d7b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087869,
+            "locality_id":85981147,
+            "neighbourhood_id":9895002496,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002496,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Taylor Heights",
+    "wof:parent_id":85981147,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.10396942675865,
+    35.36403240061022,
+    -81.10396942675865,
+    35.36403240061022
+],
+  "geometry": {"coordinates":[-81.10396942675865,35.36403240061022],"type":"Point"}
+}

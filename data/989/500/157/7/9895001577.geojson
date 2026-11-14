@@ -1,0 +1,82 @@
+{
+  "id": 9895001577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.16403090230389,32.52209447817853,-92.16403090230389,32.52209447817853",
+    "geom:latitude":32.522094,
+    "geom:longitude":-92.164031,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 548388: name \"Dopson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/548388"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 548388: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/548388"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 548388: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/548388"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948223 (West Monroe).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948223 (West Monroe), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dopson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948223,
+        102081027,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":548388
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41503f4ca8092ac600f0b2a6af3aa08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948223,
+            "neighbourhood_id":9895001577,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001577,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Dopson",
+    "wof:parent_id":85948223,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.16403090230389,
+    32.52209447817853,
+    -92.16403090230389,
+    32.52209447817853
+],
+  "geometry": {"coordinates":[-92.16403090230389,32.52209447817853],"type":"Point"}
+}

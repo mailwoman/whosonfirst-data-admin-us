@@ -1,0 +1,82 @@
+{
+  "id": 9895006160,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.54732223809742,30.765519464312906,-81.54732223809742,30.765519464312906",
+    "geom:latitude":30.765519,
+    "geom:longitude":-81.547322,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671302: name \"Admirals Walk\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671302"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671302: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671302"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1671302: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1671302"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85937041 (St. Marys).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85937041 (St. Marys), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Admirals Walk"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85937041,
+        102081693,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1671302
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29bd39525d248b20911efb573af91d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937041,
+            "neighbourhood_id":9895006160,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006160,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Admirals Walk",
+    "wof:parent_id":85937041,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.54732223809742,
+    30.765519464312906,
+    -81.54732223809742,
+    30.765519464312906
+],
+  "geometry": {"coordinates":[-81.54732223809742,30.765519464312906],"type":"Point"}
+}

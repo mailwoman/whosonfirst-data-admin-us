@@ -1,0 +1,82 @@
+{
+  "id": 9895006816,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.86065733103321,38.28206101174257,-80.86065733103321,38.28206101174257",
+    "geom:latitude":38.282061,
+    "geom:longitude":-80.860657,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1741056: name \"Bright Mountain Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1741056"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1741056: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1741056"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1741056: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1741056"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101731639 (Summersville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101731639 (Summersville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bright Mountain Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        101731639,
+        102082623,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1741056
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cbbce548958ad245c145fbfc76e71021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082623,
+            "locality_id":101731639,
+            "neighbourhood_id":9895006816,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895006816,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Bright Mountain Estates",
+    "wof:parent_id":101731639,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.86065733103321,
+    38.28206101174257,
+    -80.86065733103321,
+    38.28206101174257
+],
+  "geometry": {"coordinates":[-80.86065733103321,38.28206101174257],"type":"Point"}
+}

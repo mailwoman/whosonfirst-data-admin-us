@@ -1,0 +1,82 @@
+{
+  "id": 9895001601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.20511384079637,30.45019618283158,-91.20511384079637,30.45019618283158",
+    "geom:latitude":30.450196,
+    "geom:longitude":-91.205114,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 551094: name \"West Baton Rouge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/551094"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 551094: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/551094"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 551094: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/551094"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948405 (Port Allen).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948405 (Port Allen), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "West Baton Rouge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948405,
+        102086695,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":551094
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b5a74268398a4d2de4c192818b54b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086695,
+            "locality_id":85948405,
+            "neighbourhood_id":9895001601,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001601,
+    "wof:lastmodified":1794681126,
+    "wof:name":"West Baton Rouge",
+    "wof:parent_id":85948405,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.20511384079637,
+    30.45019618283158,
+    -91.20511384079637,
+    30.45019618283158
+],
+  "geometry": {"coordinates":[-91.20511384079637,30.45019618283158],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895007303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.980005415892,43.424174907626735,-85.980005415892,43.424174907626735",
+    "geom:latitude":43.424175,
+    "geom:longitude":-85.980005,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2106654: name \"Brookside\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2106654"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2106654: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2106654"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2106654: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2106654"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404508099 (Sheridan).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404508099 (Sheridan), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brookside"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688599,
+        102082987,
+        102191575,
+        404508099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2106654
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4af9cd52b637b49e3f3f651d53ece5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082987,
+            "localadmin_id":404508099,
+            "locality_id":9895007303,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":9895007303,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Brookside",
+    "wof:parent_id":404508099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.980005415892,
+    43.424174907626735,
+    -85.980005415892,
+    43.424174907626735
+],
+  "geometry": {"coordinates":[-85.980005415892,43.424174907626735],"type":"Point"}
+}

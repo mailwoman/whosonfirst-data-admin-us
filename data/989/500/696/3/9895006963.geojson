@@ -1,0 +1,82 @@
+{
+  "id": 9895006963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.33049925712947,36.79793357608561,-76.33049925712947,36.79793357608561",
+    "geom:latitude":36.797934,
+    "geom:longitude":-76.330499,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1790944: name \"Norport Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1790944"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1790944: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1790944"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1790944: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1790944"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728677 (Portsmouth).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728677 (Portsmouth), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Norport Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728677,
+        102086707,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1790944
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3144ff5e12481f29daf23793eb8a360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":9895006963,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006963,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Norport Homes",
+    "wof:parent_id":101728677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.33049925712947,
+    36.79793357608561,
+    -76.33049925712947,
+    36.79793357608561
+],
+  "geometry": {"coordinates":[-76.33049925712947,36.79793357608561],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895001205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.75299641300627,33.84594504116175,-84.75299641300627,33.84594504116175",
+    "geom:latitude":33.845945,
+    "geom:longitude":-84.752996,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349805: name \"Colonial Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349805"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349805: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349805"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 349805: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/349805"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084665 (Paulding).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084665 (Paulding), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Colonial Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102084665,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":349805
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b21bf69052d20cfd44aac4a87780f904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":9895001205,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001205,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Colonial Hills",
+    "wof:parent_id":102084665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.75299641300627,
+    33.84594504116175,
+    -84.75299641300627,
+    33.84594504116175
+],
+  "geometry": {"coordinates":[-84.75299641300627,33.84594504116175],"type":"Point"}
+}

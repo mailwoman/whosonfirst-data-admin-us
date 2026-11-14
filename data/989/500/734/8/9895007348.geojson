@@ -1,0 +1,82 @@
+{
+  "id": 9895007348,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.39080185055167,40.07650808150063,-75.39080185055167,40.07650808150063",
+    "geom:latitude":40.076508,
+    "geom:longitude":-75.390802,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2349196: name \"Kerwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2349196"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2349196: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2349196"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2349196: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2349196"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404485711 (Upper Merion Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404485711 (Upper Merion Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kerwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081355,
+        102191575,
+        404485711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2349196
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4cd489815399e54bc99c35ae102a3f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081355,
+            "localadmin_id":404485711,
+            "locality_id":9895007348,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895007348,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Kerwood",
+    "wof:parent_id":404485711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.39080185055167,
+    40.07650808150063,
+    -75.39080185055167,
+    40.07650808150063
+],
+  "geometry": {"coordinates":[-75.39080185055167,40.07650808150063],"type":"Point"}
+}

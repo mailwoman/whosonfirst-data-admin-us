@@ -1,0 +1,82 @@
+{
+  "id": 9895000262,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.4834976142568,34.610099377766446,-92.4834976142568,34.610099377766446",
+    "geom:latitude":34.610099,
+    "geom:longitude":-92.483498,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 65947: name \"Bryant Oaks\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/65947"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 65947: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/65947"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 65947: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/65947"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921383 (Bryant).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921383 (Bryant), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bryant Oaks"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        85921383,
+        102083257,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":65947
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ecc9875ca13bb8208563101df51afb04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083257,
+            "locality_id":85921383,
+            "neighbourhood_id":9895000262,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000262,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Bryant Oaks",
+    "wof:parent_id":85921383,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.4834976142568,
+    34.610099377766446,
+    -92.4834976142568,
+    34.610099377766446
+],
+  "geometry": {"coordinates":[-92.4834976142568,34.610099377766446],"type":"Point"}
+}

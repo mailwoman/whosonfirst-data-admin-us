@@ -1,0 +1,82 @@
+{
+  "id": 9895001921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.53302146091738,39.28455978205664,-76.53302146091738,39.28455978205664",
+    "geom:latitude":39.28456,
+    "geom:longitude":-76.533021,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 597588: name \"Hudson Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/597588"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 597588: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/597588"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 597588: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/597588"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949461 (Baltimore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949461 (Baltimore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hudson Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949461,
+        102081589,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":597588
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1757259a01b91b33d5a6bd533f8ecebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "neighbourhood_id":9895001921,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001921,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Hudson Heights",
+    "wof:parent_id":85949461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.53302146091738,
+    39.28455978205664,
+    -76.53302146091738,
+    39.28455978205664
+],
+  "geometry": {"coordinates":[-76.53302146091738,39.28455978205664],"type":"Point"}
+}

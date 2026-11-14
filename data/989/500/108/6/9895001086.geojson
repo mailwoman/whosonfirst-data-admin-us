@@ -1,0 +1,80 @@
+{
+  "id": 9895001086,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.23981496377075,28.710272660709283,-82.23981496377075,28.710272660709283",
+    "geom:latitude":28.710273,
+    "geom:longitude":-82.239815,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 295115: name \"Bay Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/295115"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 295115: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/295115"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 295115: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/295115"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085855 (Sumter).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085855 (Sumter), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bay Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102085855,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":295115
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8dd29dd9f8d6cdc2adae63d2050ad63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085855,
+            "locality_id":9895001086,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001086,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Bay Hill",
+    "wof:parent_id":102085855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.23981496377075,
+    28.710272660709283,
+    -82.23981496377075,
+    28.710272660709283
+],
+  "geometry": {"coordinates":[-82.23981496377075,28.710272660709283],"type":"Point"}
+}

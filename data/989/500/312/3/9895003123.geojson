@@ -1,0 +1,80 @@
+{
+  "id": 9895003123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.64929377808414,35.2376221169065,-82.64929377808414,35.2376221169065",
+    "geom:latitude":35.237622,
+    "geom:longitude":-82.649294,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017738: name \"Emerald Hills Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017738"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017738: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017738"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017738: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017738"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087629 (Transylvania).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087629 (Transylvania), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Emerald Hills Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087629,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1017738
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b164ef569fc35df542d3cc8e75cca2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087629,
+            "locality_id":9895003123,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003123,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Emerald Hills Estates",
+    "wof:parent_id":102087629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.64929377808414,
+    35.2376221169065,
+    -82.64929377808414,
+    35.2376221169065
+],
+  "geometry": {"coordinates":[-82.64929377808414,35.2376221169065],"type":"Point"}
+}

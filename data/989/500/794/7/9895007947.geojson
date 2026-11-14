@@ -1,0 +1,82 @@
+{
+  "id": 9895007947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.25579083226884,40.76891695856712,-74.25579083226884,40.76891695856712",
+    "geom:latitude":40.768917,
+    "geom:longitude":-74.255791,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806093: name \"Gregory\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806093"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806093: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806093"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806093: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806093"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404478061 (West Orange Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404478061 (West Orange Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gregory"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688607,
+        102085043,
+        102191575,
+        404478061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806093
+    },
+    "wof:country":"US",
+    "wof:geomhash":"667e2c481153685905cdef5a0a4247af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085043,
+            "localadmin_id":404478061,
+            "locality_id":9895007947,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":9895007947,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Gregory",
+    "wof:parent_id":404478061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.25579083226884,
+    40.76891695856712,
+    -74.25579083226884,
+    40.76891695856712
+],
+  "geometry": {"coordinates":[-74.25579083226884,40.76891695856712],"type":"Point"}
+}

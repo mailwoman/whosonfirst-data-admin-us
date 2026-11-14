@@ -1,0 +1,84 @@
+{
+  "id": 9895007301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.83278363586263,42.137230086552165,-87.83278363586263,42.137230086552165",
+    "geom:latitude":42.13723,
+    "geom:longitude":-87.832784,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2097476: name \"Fair Meadows\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2097476"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2097476: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2097476"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2097476: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2097476"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85940769 (Northbrook).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85940769 (Northbrook), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fair Meadows"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85940769,
+        102084317,
+        102191575,
+        404497637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2097476
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a9cc174f36653d6b026d6eb82fa3f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940769,
+            "neighbourhood_id":9895007301,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007301,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Fair Meadows",
+    "wof:parent_id":85940769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.83278363586263,
+    42.137230086552165,
+    -87.83278363586263,
+    42.137230086552165
+],
+  "geometry": {"coordinates":[-87.83278363586263,42.137230086552165],"type":"Point"}
+}

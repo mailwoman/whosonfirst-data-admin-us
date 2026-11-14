@@ -1,0 +1,82 @@
+{
+  "id": 9895001637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.02040464704469,30.196873401660934,-92.02040464704469,30.196873401660934",
+    "geom:latitude":30.196873,
+    "geom:longitude":-92.020405,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558852: name \"Bendel Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558852"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558852: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558852"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 558852: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/558852"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948377 (Lafayette).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948377 (Lafayette), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bendel Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948377,
+        102081919,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":558852
+    },
+    "wof:country":"US",
+    "wof:geomhash":"53a1a1d9bbf892c98b5c3a6c25757c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":9895001637,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001637,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Bendel Gardens",
+    "wof:parent_id":85948377,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.02040464704469,
+    30.196873401660934,
+    -92.02040464704469,
+    30.196873401660934
+],
+  "geometry": {"coordinates":[-92.02040464704469,30.196873401660934],"type":"Point"}
+}

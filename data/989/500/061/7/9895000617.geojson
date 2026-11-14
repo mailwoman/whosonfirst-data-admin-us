@@ -1,0 +1,82 @@
+{
+  "id": 9895000617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.57277447843235,34.620375632625716,-86.57277447843235,34.620375632625716",
+    "geom:latitude":34.620376,
+    "geom:longitude":-86.572774,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147274: name \"South Park Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147274"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147274: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147274"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 147274: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/147274"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913601 (Huntsville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913601 (Huntsville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South Park Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913601,
+        102085487,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":147274
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df3496222b385a980350808c051e0ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085487,
+            "locality_id":85913601,
+            "neighbourhood_id":9895000617,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000617,
+    "wof:lastmodified":1794681122,
+    "wof:name":"South Park Estates",
+    "wof:parent_id":85913601,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.57277447843235,
+    34.620375632625716,
+    -86.57277447843235,
+    34.620375632625716
+],
+  "geometry": {"coordinates":[-86.57277447843235,34.620375632625716],"type":"Point"}
+}

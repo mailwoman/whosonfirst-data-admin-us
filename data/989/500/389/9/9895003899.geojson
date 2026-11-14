@@ -1,0 +1,82 @@
+{
+  "id": 9895003899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.47303604513908,35.958127351146075,-85.47303604513908,35.958127351146075",
+    "geom:latitude":35.958127,
+    "geom:longitude":-85.473036,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312155: name \"Dixieland\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312155"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312155: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312155"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312155: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312155"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722911 (Sparta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722911 (Sparta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dixieland"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722911,
+        102086369,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312155
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4709bbc9e67406fc7dc5a9cc3c1f732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":9895003899,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003899,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Dixieland",
+    "wof:parent_id":101722911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.47303604513908,
+    35.958127351146075,
+    -85.47303604513908,
+    35.958127351146075
+],
+  "geometry": {"coordinates":[-85.47303604513908,35.958127351146075],"type":"Point"}
+}

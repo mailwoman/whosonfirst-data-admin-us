@@ -1,0 +1,82 @@
+{
+  "id": 9895002324,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.69670232463629,34.98644382723115,-106.69670232463629,34.98644382723115",
+    "geom:latitude":34.986444,
+    "geom:longitude":-106.696702,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 893029: name \"Pajarito\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/893029"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 893029: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/893029"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 893029: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/893029"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85977397 (South Valley).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85977397 (South Valley), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pajarito"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688493,
+        85977397,
+        102081199,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":893029
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd0c15221b86416a58d4cd45baed8047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081199,
+            "locality_id":85977397,
+            "neighbourhood_id":9895002324,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":9895002324,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Pajarito",
+    "wof:parent_id":85977397,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.69670232463629,
+    34.98644382723115,
+    -106.69670232463629,
+    34.98644382723115
+],
+  "geometry": {"coordinates":[-106.69670232463629,34.98644382723115],"type":"Point"}
+}

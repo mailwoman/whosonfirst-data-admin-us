@@ -1,0 +1,80 @@
+{
+  "id": 9895000309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.11246039744937,31.789050547747383,-86.11246039744937,31.789050547747383",
+    "geom:latitude":31.789051,
+    "geom:longitude":-86.11246,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 117906: name \"Elam-Rodgers\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/117906"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 117906: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/117906"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 117906: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/117906"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085619 (Pike).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085619 (Pike), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Elam-Rodgers"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085619,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":117906
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20e8a6472c6ccf95488bd6408f833174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085619,
+            "locality_id":9895000309,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000309,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Elam-Rodgers",
+    "wof:parent_id":102085619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.11246039744937,
+    31.789050547747383,
+    -86.11246039744937,
+    31.789050547747383
+],
+  "geometry": {"coordinates":[-86.11246039744937,31.789050547747383],"type":"Point"}
+}

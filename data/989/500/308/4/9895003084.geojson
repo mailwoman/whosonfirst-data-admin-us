@@ -1,0 +1,80 @@
+{
+  "id": 9895003084,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.52206904592738,35.334289941383574,-82.52206904592738,35.334289941383574",
+    "geom:latitude":35.33429,
+    "geom:longitude":-82.522069,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017594: name \"Yale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017594"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017594: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017594"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017594: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017594"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080983 (Henderson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080983 (Henderson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Yale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102080983,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1017594
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5948d18db030fc126b90d6a5420a20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080983,
+            "locality_id":9895003084,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003084,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Yale",
+    "wof:parent_id":102080983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.52206904592738,
+    35.334289941383574,
+    -82.52206904592738,
+    35.334289941383574
+],
+  "geometry": {"coordinates":[-82.52206904592738,35.334289941383574],"type":"Point"}
+}

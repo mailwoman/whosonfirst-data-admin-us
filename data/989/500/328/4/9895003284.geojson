@@ -1,0 +1,82 @@
+{
+  "id": 9895003284,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.57835638903724,40.613130763081024,-78.57835638903724,40.613130763081024",
+    "geom:latitude":40.613131,
+    "geom:longitude":-78.578356,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1185797: name \"Saint Augustine\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1185797"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1185797: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1185797"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1185797: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1185797"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404485039 (Clearfield Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404485039 (Clearfield Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Augustine"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080879,
+        102191575,
+        404485039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1185797
+    },
+    "wof:country":"US",
+    "wof:geomhash":"416dbfbf27d8e98f93aaaaf40a2a29b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080879,
+            "localadmin_id":404485039,
+            "locality_id":9895003284,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003284,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Saint Augustine",
+    "wof:parent_id":404485039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.57835638903724,
+    40.613130763081024,
+    -78.57835638903724,
+    40.613130763081024
+],
+  "geometry": {"coordinates":[-78.57835638903724,40.613130763081024],"type":"Point"}
+}

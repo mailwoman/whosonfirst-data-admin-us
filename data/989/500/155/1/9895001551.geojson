@@ -1,0 +1,82 @@
+{
+  "id": 9895001551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.08442470991345,38.90789708586365,-77.08442470991345,38.90789708586365",
+    "geom:latitude":38.907897,
+    "geom:longitude":-77.084425,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 530518: name \"Little Indian Rock Terrace\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/530518"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 530518: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/530518"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 530518: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/530518"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85931779 (Washington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85931779 (Washington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Little Indian Rock Terrace"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688741,
+        85931779,
+        102191575,
+        1377370667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":530518
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7a882b5a1881aff3afe5158b0ee0d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":1377370667,
+            "locality_id":85931779,
+            "neighbourhood_id":9895001551,
+            "region_id":85688741
+        }
+    ],
+    "wof:id":9895001551,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Little Indian Rock Terrace",
+    "wof:parent_id":85931779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.08442470991345,
+    38.90789708586365,
+    -77.08442470991345,
+    38.90789708586365
+],
+  "geometry": {"coordinates":[-77.08442470991345,38.90789708586365],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895002222,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.02175601045353,32.300152015888706,-90.02175601045353,32.300152015888706",
+    "geom:latitude":32.300152,
+    "geom:longitude":-90.021756,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 709058: name \"Grove Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/709058"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 709058: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/709058"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 709058: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/709058"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969955 (Brandon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969955 (Brandon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Grove Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969955,
+        102084869,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":709058
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6d442f71af8023ee21295e4c03631159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":9895002222,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002222,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Grove Park",
+    "wof:parent_id":85969955,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.02175601045353,
+    32.300152015888706,
+    -90.02175601045353,
+    32.300152015888706
+],
+  "geometry": {"coordinates":[-90.02175601045353,32.300152015888706],"type":"Point"}
+}

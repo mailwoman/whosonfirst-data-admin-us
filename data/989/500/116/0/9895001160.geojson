@@ -1,0 +1,80 @@
+{
+  "id": 9895001160,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.25491427478515,31.949339046354655,-84.25491427478515,31.949339046354655",
+    "geom:latitude":31.949339,
+    "geom:longitude":-84.254914,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 333160: name \"Sumter\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/333160"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 333160: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/333160"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 333160: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/333160"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082971 (Sumter).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082971 (Sumter), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sumter"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102082971,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":333160
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92145c9e525f24b8f2db1c10029c2182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082971,
+            "locality_id":9895001160,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001160,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Sumter",
+    "wof:parent_id":102082971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.25491427478515,
+    31.949339046354655,
+    -84.25491427478515,
+    31.949339046354655
+],
+  "geometry": {"coordinates":[-84.25491427478515,31.949339046354655],"type":"Point"}
+}

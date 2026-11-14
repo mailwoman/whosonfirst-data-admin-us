@@ -1,0 +1,82 @@
+{
+  "id": 9895000384,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.00410271254829,32.433483527658765,-85.00410271254829,32.433483527658765",
+    "geom:latitude":32.433484,
+    "geom:longitude":-85.004103,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138710: name \"Fontaine Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138710"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138710: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138710"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 138710: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/138710"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913715 (Phenix City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913715 (Phenix City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fontaine Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913715,
+        102085697,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":138710
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48ff4ec34b34e1cb4c77c41c0b11da62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085697,
+            "locality_id":85913715,
+            "neighbourhood_id":9895000384,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000384,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Fontaine Village",
+    "wof:parent_id":85913715,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.00410271254829,
+    32.433483527658765,
+    -85.00410271254829,
+    32.433483527658765
+],
+  "geometry": {"coordinates":[-85.00410271254829,32.433483527658765],"type":"Point"}
+}

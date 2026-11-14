@@ -1,0 +1,80 @@
+{
+  "id": 9895001187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.57768122455496,32.8723664736909,-83.57768122455496,32.8723664736909",
+    "geom:latitude":32.872366,
+    "geom:longitude":-83.577681,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 345331: name \"Belvedere Manor\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/345331"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 345331: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/345331"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 345331: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/345331"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081715 (Jones).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081715 (Jones), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Belvedere Manor"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102081715,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":345331
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b73b60a918063af92b55b87d3cab0452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081715,
+            "locality_id":9895001187,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001187,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Belvedere Manor",
+    "wof:parent_id":102081715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.57768122455496,
+    32.8723664736909,
+    -83.57768122455496,
+    32.8723664736909
+],
+  "geometry": {"coordinates":[-83.57768122455496,32.8723664736909],"type":"Point"}
+}

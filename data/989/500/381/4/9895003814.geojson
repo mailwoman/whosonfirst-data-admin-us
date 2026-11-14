@@ -1,0 +1,82 @@
+{
+  "id": 9895003814,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.25652884008065,36.57372180795373,-82.25652884008065,36.57372180795373",
+    "geom:latitude":36.573722,
+    "geom:longitude":-82.256529,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1303341: name \"Oakleigh Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1303341"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1303341: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1303341"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1303341: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1303341"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723281 (Walnut Hill).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723281 (Walnut Hill), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Oakleigh Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723281,
+        102086471,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1303341
+    },
+    "wof:country":"US",
+    "wof:geomhash":"17f30a3bf51cf13cc2fcefa5dcbf0eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101723281,
+            "neighbourhood_id":9895003814,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003814,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Oakleigh Estates",
+    "wof:parent_id":101723281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.25652884008065,
+    36.57372180795373,
+    -82.25652884008065,
+    36.57372180795373
+],
+  "geometry": {"coordinates":[-82.25652884008065,36.57372180795373],"type":"Point"}
+}

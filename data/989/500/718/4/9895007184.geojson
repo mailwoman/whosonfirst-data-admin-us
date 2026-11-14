@@ -1,0 +1,82 @@
+{
+  "id": 9895007184,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.87121323762076,41.616773371588316,-72.87121323762076,41.616773371588316",
+    "geom:latitude":41.616773,
+    "geom:longitude":-72.871213,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1950539: name \"North End\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1950539"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1950539: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1950539"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1950539: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1950539"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404495999 (Southington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404495999 (Southington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "North End"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688629,
+        102085381,
+        102191575,
+        404495999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1950539
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58263c095eb588bd5072a8635e9467de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495999,
+            "locality_id":9895007184,
+            "region_id":85688629
+        }
+    ],
+    "wof:id":9895007184,
+    "wof:lastmodified":1794681143,
+    "wof:name":"North End",
+    "wof:parent_id":404495999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.87121323762076,
+    41.616773371588316,
+    -72.87121323762076,
+    41.616773371588316
+],
+  "geometry": {"coordinates":[-72.87121323762076,41.616773371588316],"type":"Point"}
+}

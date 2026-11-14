@@ -1,0 +1,80 @@
+{
+  "id": 9895000241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.16629418975637,35.93952869805752,-93.16629418975637,35.93952869805752",
+    "geom:latitude":35.939529,
+    "geom:longitude":-93.166294,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 59336: name \"Gum Springs\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/59336"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 59336: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/59336"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 59336: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/59336"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082029 (Newton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082029 (Newton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Gum Springs"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        102082029,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":59336
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bfd76a72b7c6d867e7c0954d2de383b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082029,
+            "locality_id":9895000241,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000241,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Gum Springs",
+    "wof:parent_id":102082029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.16629418975637,
+    35.93952869805752,
+    -93.16629418975637,
+    35.93952869805752
+],
+  "geometry": {"coordinates":[-93.16629418975637,35.93952869805752],"type":"Point"}
+}

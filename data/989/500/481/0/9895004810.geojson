@@ -1,0 +1,82 @@
+{
+  "id": 9895004810,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.95828631523958,41.23856138474248,-111.95828631523958,41.23856138474248",
+    "geom:latitude":41.238561,
+    "geom:longitude":-111.958286,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453079: name \"Cross\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453079"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453079: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453079"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453079: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453079"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728033 (Ogden).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728033 (Ogden), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Cross"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728033,
+        102083539,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453079
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4af52ed6f97e9792432c8a498baef8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":9895004810,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004810,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Cross",
+    "wof:parent_id":101728033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.95828631523958,
+    41.23856138474248,
+    -111.95828631523958,
+    41.23856138474248
+],
+  "geometry": {"coordinates":[-111.95828631523958,41.23856138474248],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895004214,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.00912090727441,41.10606106602881,-112.00912090727441,41.10606106602881",
+    "geom:latitude":41.106061,
+    "geom:longitude":-112.009121,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451425: name \"Valley View\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451425"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451425: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451425"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451425: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451425"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727901 (Clearfield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727901 (Clearfield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Valley View"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727901,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451425
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c125370e408954c70f80b6fa055b2c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":9895004214,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004214,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Valley View",
+    "wof:parent_id":101727901,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.00912090727441,
+    41.10606106602881,
+    -112.00912090727441,
+    41.10606106602881
+],
+  "geometry": {"coordinates":[-112.00912090727441,41.10606106602881],"type":"Point"}
+}

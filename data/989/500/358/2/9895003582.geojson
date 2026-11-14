@@ -1,0 +1,82 @@
+{
+  "id": 9895003582,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.75645366531334,34.21543930058536,-79.75645366531334,34.21543930058536",
+    "geom:latitude":34.215439,
+    "geom:longitude":-79.756454,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242250: name \"Wilson Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242250"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242250: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242250"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242250: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242250"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721115 (Florence).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721115 (Florence), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wilson Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721115,
+        102085723,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1242250
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d1faf014766b375a0efa0b0ce55cd45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085723,
+            "locality_id":101721115,
+            "neighbourhood_id":9895003582,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003582,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Wilson Estates",
+    "wof:parent_id":101721115,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.75645366531334,
+    34.21543930058536,
+    -79.75645366531334,
+    34.21543930058536
+],
+  "geometry": {"coordinates":[-79.75645366531334,34.21543930058536],"type":"Point"}
+}

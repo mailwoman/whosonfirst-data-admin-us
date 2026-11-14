@@ -1,0 +1,82 @@
+{
+  "id": 9895001435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.13446201360188,39.813105215075744,-87.13446201360188,39.813105215075744",
+    "geom:latitude":39.813105,
+    "geom:longitude":-87.134462,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 437137: name \"Judson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/437137"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 437137: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/437137"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 437137: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/437137"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404501775 (Washington Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404501775 (Washington Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Judson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102086981,
+        102191575,
+        404501775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":437137
+    },
+    "wof:country":"US",
+    "wof:geomhash":"816ff702773e4de254be32fab6f0d334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086981,
+            "localadmin_id":404501775,
+            "locality_id":9895001435,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895001435,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Judson",
+    "wof:parent_id":404501775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.13446201360188,
+    39.813105215075744,
+    -87.13446201360188,
+    39.813105215075744
+],
+  "geometry": {"coordinates":[-87.13446201360188,39.813105215075744],"type":"Point"}
+}

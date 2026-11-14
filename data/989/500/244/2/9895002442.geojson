@@ -1,0 +1,82 @@
+{
+  "id": 9895002442,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.28521424845039,44.77423636029785,-75.28521424845039,44.77423636029785",
+    "geom:latitude":44.774236,
+    "geom:longitude":-75.285214,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 976816: name \"Pine Grove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/976816"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 976816: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/976816"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 976816: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/976816"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404523125 (Lisbon).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404523125 (Lisbon), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pine Grove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        102082379,
+        102191575,
+        404523125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":976816
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00be36b61f2d34ff1b403299d6ad1866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082379,
+            "localadmin_id":404523125,
+            "locality_id":9895002442,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002442,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Pine Grove",
+    "wof:parent_id":404523125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.28521424845039,
+    44.77423636029785,
+    -75.28521424845039,
+    44.77423636029785
+],
+  "geometry": {"coordinates":[-75.28521424845039,44.77423636029785],"type":"Point"}
+}

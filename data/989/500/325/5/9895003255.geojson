@@ -1,0 +1,82 @@
+{
+  "id": 9895003255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.4458554541615,40.70757078598875,-78.4458554541615,40.70757078598875",
+    "geom:latitude":40.707571,
+    "geom:longitude":-78.445855,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1175673: name \"Glasgow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1175673"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1175673: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1175673"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1175673: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1175673"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404485401 (Reade Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404485401 (Reade Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Glasgow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080879,
+        102191575,
+        404485401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1175673
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83c4ad9dcadc5eed96e6e890ee23e786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080879,
+            "localadmin_id":404485401,
+            "locality_id":9895003255,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003255,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Glasgow",
+    "wof:parent_id":404485401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.4458554541615,
+    40.70757078598875,
+    -78.4458554541615,
+    40.70757078598875
+],
+  "geometry": {"coordinates":[-78.4458554541615,40.70757078598875],"type":"Point"}
+}

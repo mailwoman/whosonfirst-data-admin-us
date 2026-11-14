@@ -1,0 +1,82 @@
+{
+  "id": 9895006372,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.89685037316328,33.97983440191097,-83.89685037316328,33.97983440191097",
+    "geom:latitude":33.979834,
+    "geom:longitude":-83.89685,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688334: name \"Robin Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688334"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688334: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688334"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1688334: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1688334"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936289 (Dacula).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936289 (Dacula), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Robin Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936289,
+        102082967,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1688334
+    },
+    "wof:country":"US",
+    "wof:geomhash":"99b0caf503ec14bf4171e9aff29c50a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936289,
+            "neighbourhood_id":9895006372,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006372,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Robin Ridge",
+    "wof:parent_id":85936289,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.89685037316328,
+    33.97983440191097,
+    -83.89685037316328,
+    33.97983440191097
+],
+  "geometry": {"coordinates":[-83.89685037316328,33.97983440191097],"type":"Point"}
+}

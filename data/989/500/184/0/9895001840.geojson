@@ -1,0 +1,82 @@
+{
+  "id": 9895001840,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.81216155464075,39.60123117206126,-75.81216155464075,39.60123117206126",
+    "geom:latitude":39.601231,
+    "geom:longitude":-75.812162,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589395: name \"Normira Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589395"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589395: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589395"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589395: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589395"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949407 (Elkton).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949407 (Elkton), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Normira Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949407,
+        102082183,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":589395
+    },
+    "wof:country":"US",
+    "wof:geomhash":"511e0a2140b2058df6d647fc1d338690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "locality_id":85949407,
+            "neighbourhood_id":9895001840,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001840,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Normira Heights",
+    "wof:parent_id":85949407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.81216155464075,
+    39.60123117206126,
+    -75.81216155464075,
+    39.60123117206126
+],
+  "geometry": {"coordinates":[-75.81216155464075,39.60123117206126],"type":"Point"}
+}

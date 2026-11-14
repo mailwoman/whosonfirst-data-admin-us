@@ -1,0 +1,80 @@
+{
+  "id": 9895003594,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.81259474323414,33.48627120385236,-80.81259474323414,33.48627120385236",
+    "geom:latitude":33.486271,
+    "geom:longitude":-80.812595,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242587: name \"Country Colony\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242587"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242587: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242587"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242587: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242587"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085413 (Orangeburg).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085413 (Orangeburg), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Country Colony"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085413,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1242587
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc107d99701f60d9754953a1ef635b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085413,
+            "locality_id":9895003594,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003594,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Country Colony",
+    "wof:parent_id":102085413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.81259474323414,
+    33.48627120385236,
+    -80.81259474323414,
+    33.48627120385236
+],
+  "geometry": {"coordinates":[-80.81259474323414,33.48627120385236],"type":"Point"}
+}

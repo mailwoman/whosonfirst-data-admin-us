@@ -1,0 +1,80 @@
+{
+  "id": 9895003523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.71789051203304,33.512923279170266,-81.71789051203304,33.512923279170266",
+    "geom:latitude":33.512923,
+    "geom:longitude":-81.717891,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1236433: name \"Millbrook Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1236433"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1236433: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1236433"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1236433: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1236433"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085721 (Aiken).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085721 (Aiken), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Millbrook Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085721,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1236433
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89916444d58fe43c263102f566a213f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085721,
+            "locality_id":9895003523,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003523,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Millbrook Estates",
+    "wof:parent_id":102085721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.71789051203304,
+    33.512923279170266,
+    -81.71789051203304,
+    33.512923279170266
+],
+  "geometry": {"coordinates":[-81.71789051203304,33.512923279170266],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.80367727784103,34.18293999160373,-79.80367727784103,34.18293999160373",
+    "geom:latitude":34.18294,
+    "geom:longitude":-79.803677,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241835: name \"Country Club Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241835"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241835: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241835"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1241835: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1241835"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721115 (Florence).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721115 (Florence), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Country Club Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721115,
+        102085723,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1241835
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb745ce70203dcd3d44bc895b11b321a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085723,
+            "locality_id":101721115,
+            "neighbourhood_id":9895003571,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003571,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Country Club Estates",
+    "wof:parent_id":101721115,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.80367727784103,
+    34.18293999160373,
+    -79.80367727784103,
+    34.18293999160373
+],
+  "geometry": {"coordinates":[-79.80367727784103,34.18293999160373],"type":"Point"}
+}

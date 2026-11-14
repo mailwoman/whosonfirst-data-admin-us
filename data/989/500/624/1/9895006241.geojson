@@ -1,0 +1,82 @@
+{
+  "id": 9895006241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.1131896010463,36.62872662615956,-82.1131896010463,36.62872662615956",
+    "geom:latitude":36.628727,
+    "geom:longitude":-82.11319,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673839: name \"Shadow Valley\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673839"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673839: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673839"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1673839: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1673839"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728659 (Bristol).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728659 (Bristol), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shadow Valley"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728659,
+        102084925,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1673839
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6f8ab6aaeecd9bed3227fdcf5d92a5fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084925,
+            "locality_id":101728659,
+            "neighbourhood_id":9895006241,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006241,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Shadow Valley",
+    "wof:parent_id":101728659,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.1131896010463,
+    36.62872662615956,
+    -82.1131896010463,
+    36.62872662615956
+],
+  "geometry": {"coordinates":[-82.1131896010463,36.62872662615956],"type":"Point"}
+}

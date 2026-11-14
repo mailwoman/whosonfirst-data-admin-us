@@ -1,0 +1,84 @@
+{
+  "id": 9895003327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.22573689589677,40.03484207903917,-75.22573689589677,40.03484207903917",
+    "geom:latitude":40.034842,
+    "geom:longitude":-75.225737,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197500: name \"Glen Willow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197500"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197500: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197500"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1197500: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1197500"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101718083 (Philadelphia).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101718083 (Philadelphia), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Glen Willow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        101718083,
+        102081353,
+        102191575,
+        404483701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1197500
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ebc6007498d06f7d320b368f428b198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "neighbourhood_id":9895003327,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003327,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Glen Willow",
+    "wof:parent_id":101718083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.22573689589677,
+    40.03484207903917,
+    -75.22573689589677,
+    40.03484207903917
+],
+  "geometry": {"coordinates":[-75.22573689589677,40.03484207903917],"type":"Point"}
+}

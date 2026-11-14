@@ -1,0 +1,80 @@
+{
+  "id": 9895007916,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.84003886997759,30.6638327891233,-97.84003886997759,30.6638327891233",
+    "geom:latitude":30.663833,
+    "geom:longitude":-97.840039,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805855: name \"Santa Rita Ranch\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805855"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805855: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805855"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805855: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805855"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085993 (Williamson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085993 (Williamson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Santa Rita Ranch"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102085993,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805855
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8fbc194eb6a88c7571726dbba66038cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085993,
+            "locality_id":9895007916,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895007916,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Santa Rita Ranch",
+    "wof:parent_id":102085993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.84003886997759,
+    30.6638327891233,
+    -97.84003886997759,
+    30.6638327891233
+],
+  "geometry": {"coordinates":[-97.84003886997759,30.6638327891233],"type":"Point"}
+}

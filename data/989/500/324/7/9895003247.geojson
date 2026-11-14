@@ -1,0 +1,82 @@
+{
+  "id": 9895003247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.85752685845405,40.37702570496445,-78.85752685845405,40.37702570496445",
+    "geom:latitude":40.377026,
+    "geom:longitude":-78.857527,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1173964: name \"Echo\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1173964"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1173964: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1173964"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1173964: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1173964"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404485097 (East Taylor Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404485097 (East Taylor Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Echo"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080879,
+        102191575,
+        404485097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1173964
+    },
+    "wof:country":"US",
+    "wof:geomhash":"21a42fa8b82d96850748846fb24f4c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080879,
+            "localadmin_id":404485097,
+            "locality_id":9895003247,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003247,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Echo",
+    "wof:parent_id":404485097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.85752685845405,
+    40.37702570496445,
+    -78.85752685845405,
+    40.37702570496445
+],
+  "geometry": {"coordinates":[-78.85752685845405,40.37702570496445],"type":"Point"}
+}

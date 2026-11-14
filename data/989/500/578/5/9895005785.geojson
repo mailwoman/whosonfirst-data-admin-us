@@ -1,0 +1,80 @@
+{
+  "id": 9895005785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-123.27096150020456,45.64928351089724,-123.27096150020456,45.64928351089724",
+    "geom:latitude":45.649284,
+    "geom:longitude":-123.270962,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1637846: name \"Glenwood\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1637846"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1637846: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1637846"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1637846: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1637846"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082215 (Washington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082215 (Washington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Glenwood"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688513,
+        102082215,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1637846
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f65760c476ed5d32bf9e8946b7e79ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082215,
+            "locality_id":9895005785,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":9895005785,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Glenwood",
+    "wof:parent_id":102082215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.27096150020456,
+    45.64928351089724,
+    -123.27096150020456,
+    45.64928351089724
+],
+  "geometry": {"coordinates":[-123.27096150020456,45.64928351089724],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895007075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.15504427179823,33.679193774653776,-117.15504427179823,33.679193774653776",
+    "geom:latitude":33.679194,
+    "geom:longitude":-117.155044,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1849214: name \"Menifee Lakes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1849214"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1849214: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1849214"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1849214: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1849214"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923327 (Menifee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923327 (Menifee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Menifee Lakes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923327,
+        102086221,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1849214
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f781406794dc9feb42e1108927e83c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923327,
+            "neighbourhood_id":9895007075,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007075,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Menifee Lakes",
+    "wof:parent_id":85923327,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.15504427179823,
+    33.679193774653776,
+    -117.15504427179823,
+    33.679193774653776
+],
+  "geometry": {"coordinates":[-117.15504427179823,33.679193774653776],"type":"Point"}
+}

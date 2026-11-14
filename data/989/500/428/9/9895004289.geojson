@@ -1,0 +1,82 @@
+{
+  "id": 9895004289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.06634392055454,41.1207829629588,-112.06634392055454,41.1207829629588",
+    "geom:latitude":41.120783,
+    "geom:longitude":-112.066344,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451518: name \"Thurgood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451518"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451518: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451518"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451518: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451518"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727885 (West Point).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727885 (West Point), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Thurgood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727885,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451518
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5758952f89e7017b4b2bc0ac362a33d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727885,
+            "neighbourhood_id":9895004289,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004289,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Thurgood Estates",
+    "wof:parent_id":101727885,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.06634392055454,
+    41.1207829629588,
+    -112.06634392055454,
+    41.1207829629588
+],
+  "geometry": {"coordinates":[-112.06634392055454,41.1207829629588],"type":"Point"}
+}

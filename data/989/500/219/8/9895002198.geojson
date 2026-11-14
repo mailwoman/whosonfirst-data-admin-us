@@ -1,0 +1,82 @@
+{
+  "id": 9895002198,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.78836518175332,30.418537557682306,-88.78836518175332,30.418537557682306",
+    "geom:latitude":30.418538,
+    "geom:longitude":-88.788365,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688989: name \"Fort Bayou Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688989"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688989: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688989"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 688989: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/688989"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85969595 (Ocean Springs).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85969595 (Ocean Springs), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fort Bayou Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        85969595,
+        102083161,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":688989
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09d650cb803ec0195f65d02fa99f453a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969595,
+            "neighbourhood_id":9895002198,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002198,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Fort Bayou Estates",
+    "wof:parent_id":85969595,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.78836518175332,
+    30.418537557682306,
+    -88.78836518175332,
+    30.418537557682306
+],
+  "geometry": {"coordinates":[-88.78836518175332,30.418537557682306],"type":"Point"}
+}

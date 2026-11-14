@@ -1,0 +1,80 @@
+{
+  "id": 9895006360,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.46826380801383,33.404566557700186,-84.46826380801383,33.404566557700186",
+    "geom:latitude":33.404567,
+    "geom:longitude":-84.468264,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687917: name \"Shannon\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687917"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687917: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687917"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687917: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687917"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081687 (Fayette).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081687 (Fayette), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Shannon"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102081687,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1687917
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8223015247d4db13fe33f41279afaedf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":9895006360,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006360,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Shannon",
+    "wof:parent_id":102081687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.46826380801383,
+    33.404566557700186,
+    -84.46826380801383,
+    33.404566557700186
+],
+  "geometry": {"coordinates":[-84.46826380801383,33.404566557700186],"type":"Point"}
+}

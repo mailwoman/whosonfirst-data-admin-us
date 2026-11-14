@@ -1,0 +1,84 @@
+{
+  "id": 9895007088,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.07703788825133,42.909467601791015,-88.07703788825133,42.909467601791015",
+    "geom:latitude":42.909468,
+    "geom:longitude":-88.077038,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1850375: name \"Lake Brittany Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1850375"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1850375: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1850375"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1850375: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1850375"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101733509 (Muskego).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101733509 (Muskego), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lake Brittany Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688517,
+        101733509,
+        102081741,
+        102191575,
+        404495657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1850375
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c9e22ec31d735061ed45c1346404de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081741,
+            "localadmin_id":404495657,
+            "locality_id":101733509,
+            "neighbourhood_id":9895007088,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":9895007088,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Lake Brittany Estates",
+    "wof:parent_id":101733509,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.07703788825133,
+    42.909467601791015,
+    -88.07703788825133,
+    42.909467601791015
+],
+  "geometry": {"coordinates":[-88.07703788825133,42.909467601791015],"type":"Point"}
+}

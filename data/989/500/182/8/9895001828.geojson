@@ -1,0 +1,80 @@
+{
+  "id": 9895001828,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.85521947168515,39.65678638148429,-75.85521947168515,39.65678638148429",
+    "geom:latitude":39.656786,
+    "geom:longitude":-75.855219,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589058: name \"Academy Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589058"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589058: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589058"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 589058: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/589058"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082183 (Cecil).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082183 (Cecil), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Academy Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082183,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":589058
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4fa21cfbd48a4220048f93d07b8d2000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "locality_id":9895001828,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001828,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Academy Hills",
+    "wof:parent_id":102082183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.85521947168515,
+    39.65678638148429,
+    -75.85521947168515,
+    39.65678638148429
+],
+  "geometry": {"coordinates":[-75.85521947168515,39.65678638148429],"type":"Point"}
+}

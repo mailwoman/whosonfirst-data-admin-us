@@ -1,0 +1,82 @@
+{
+  "id": 9895007074,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.3325554260371,33.97752049882921,-117.3325554260371,33.97752049882921",
+    "geom:latitude":33.97752,
+    "geom:longitude":-117.332555,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1848693: name \"Bannockburn Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1848693"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1848693: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1848693"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1848693: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1848693"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923345 (Riverside).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923345 (Riverside), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bannockburn Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923345,
+        102086221,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1848693
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f0d5c3fee8ecf805464255b1f2b2ad10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923345,
+            "neighbourhood_id":9895007074,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007074,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Bannockburn Village",
+    "wof:parent_id":85923345,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.3325554260371,
+    33.97752049882921,
+    -117.3325554260371,
+    33.97752049882921
+],
+  "geometry": {"coordinates":[-117.3325554260371,33.97752049882921],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895007928,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.47558042813314,41.524983232869594,-73.47558042813314,41.524983232869594",
+    "geom:latitude":41.524983,
+    "geom:longitude":-73.47558,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805947: name \"Inglenook\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805947"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805947: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805947"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805947: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805947"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404495953 (New Fairfield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404495953 (New Fairfield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Inglenook"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688629,
+        102084283,
+        102191575,
+        404495953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805947
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26c5933b2f949387b8ae0769d2758160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495953,
+            "locality_id":9895007928,
+            "region_id":85688629
+        }
+    ],
+    "wof:id":9895007928,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Inglenook",
+    "wof:parent_id":404495953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.47558042813314,
+    41.524983232869594,
+    -73.47558042813314,
+    41.524983232869594
+],
+  "geometry": {"coordinates":[-73.47558042813314,41.524983232869594],"type":"Point"}
+}

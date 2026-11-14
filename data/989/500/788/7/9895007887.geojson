@@ -1,0 +1,80 @@
+{
+  "id": 9895007887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.27814045427597,36.002486204193765,-95.27814045427597,36.002486204193765",
+    "geom:latitude":36.002486,
+    "geom:longitude":-95.27814,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805335: name \"Whitehorn Cove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805335"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805335: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805335"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805335: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805335"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083955 (Wagoner).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083955 (Wagoner), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Whitehorn Cove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688585,
+        102083955,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805335
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b0c5094070d569cfcf774cf50f1bc50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083955,
+            "locality_id":9895007887,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":9895007887,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Whitehorn Cove",
+    "wof:parent_id":102083955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.27814045427597,
+    36.002486204193765,
+    -95.27814045427597,
+    36.002486204193765
+],
+  "geometry": {"coordinates":[-95.27814045427597,36.002486204193765],"type":"Point"}
+}

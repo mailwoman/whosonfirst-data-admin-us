@@ -1,0 +1,82 @@
+{
+  "id": 9895002449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.78950391261311,34.95266015998006,-79.78950391261311,34.95266015998006",
+    "geom:latitude":34.95266,
+    "geom:longitude":-79.789504,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 985133: name \"Five Points\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/985133"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 985133: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/985133"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 985133: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/985133"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981021 (Rockingham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981021 (Rockingham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Five Points"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981021,
+        102080891,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":985133
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b8cff19c075c29b711f7e0d9161610e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080891,
+            "locality_id":85981021,
+            "neighbourhood_id":9895002449,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002449,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Five Points",
+    "wof:parent_id":85981021,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.78950391261311,
+    34.95266015998006,
+    -79.78950391261311,
+    34.95266015998006
+],
+  "geometry": {"coordinates":[-79.78950391261311,34.95266015998006],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001230,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.28440451574235,34.73091910706427,-85.28440451574235,34.73091910706427",
+    "geom:latitude":34.730919,
+    "geom:longitude":-85.284405,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 354124: name \"Meadowview\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/354124"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 354124: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/354124"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 354124: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/354124"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936063 (LaFayette).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936063 (LaFayette), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Meadowview"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936063,
+        102082321,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":354124
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e425171c78963515a7a1f6d85d9216d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082321,
+            "locality_id":85936063,
+            "neighbourhood_id":9895001230,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001230,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Meadowview",
+    "wof:parent_id":85936063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.28440451574235,
+    34.73091910706427,
+    -85.28440451574235,
+    34.73091910706427
+],
+  "geometry": {"coordinates":[-85.28440451574235,34.73091910706427],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.66879712511769,41.958342631798025,-91.66879712511769,41.958342631798025",
+    "geom:latitude":41.958343,
+    "geom:longitude":-91.668797,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 465535: name \"West Cedar Rapids\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/465535"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 465535: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/465535"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 465535: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/465535"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85944253 (Cedar Rapids).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85944253 (Cedar Rapids), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "West Cedar Rapids"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688713,
+        85944253,
+        102086551,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":465535
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d177ae0e11d843e6f081315fbe6a2e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":9895001489,
+            "region_id":85688713
+        }
+    ],
+    "wof:id":9895001489,
+    "wof:lastmodified":1794681126,
+    "wof:name":"West Cedar Rapids",
+    "wof:parent_id":85944253,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.66879712511769,
+    41.958342631798025,
+    -91.66879712511769,
+    41.958342631798025
+],
+  "geometry": {"coordinates":[-91.66879712511769,41.958342631798025],"type":"Point"}
+}

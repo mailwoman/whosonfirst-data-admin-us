@@ -1,0 +1,82 @@
+{
+  "id": 9895003906,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.77944882482086,36.02756780922166,-86.77944882482086,36.02756780922166",
+    "geom:latitude":36.027568,
+    "geom:longitude":-86.779449,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312468: name \"Brentwood Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312468"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312468: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312468"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312468: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312468"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723097 (Brentwood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723097 (Brentwood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brentwood Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723097,
+        102086337,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312468
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad77d1fc0f9cfbf7f451a26b073ca6f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723097,
+            "neighbourhood_id":9895003906,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003906,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Brentwood Park",
+    "wof:parent_id":101723097,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.77944882482086,
+    36.02756780922166,
+    -86.77944882482086,
+    36.02756780922166
+],
+  "geometry": {"coordinates":[-86.77944882482086,36.02756780922166],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895004172,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.97189485215621,40.7582851302996,-111.97189485215621,40.7582851302996",
+    "geom:latitude":40.758285,
+    "geom:longitude":-111.971895,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1439254: name \"Buena Vista\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1439254"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1439254: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1439254"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1439254: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1439254"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728075 (Salt Lake City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728075 (Salt Lake City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Buena Vista"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728075,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1439254
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11d98289929ddd5ad18300fa1ca5dfb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":9895004172,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004172,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Buena Vista",
+    "wof:parent_id":101728075,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.97189485215621,
+    40.7582851302996,
+    -111.97189485215621,
+    40.7582851302996
+],
+  "geometry": {"coordinates":[-111.97189485215621,40.7582851302996],"type":"Point"}
+}

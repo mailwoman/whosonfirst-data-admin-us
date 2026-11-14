@@ -1,0 +1,80 @@
+{
+  "id": 9895007289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.58805766487718,37.331396379688584,-76.58805766487718,37.331396379688584",
+    "geom:latitude":37.331396,
+    "geom:longitude":-76.588058,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2090500: name \"Powhatan Shores\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2090500"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2090500: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2090500"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2090500: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2090500"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081417 (Gloucester).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081417 (Gloucester), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Powhatan Shores"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102081417,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2090500
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ecf5dedcfbe66b2d894167b2b28d418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":9895007289,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895007289,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Powhatan Shores",
+    "wof:parent_id":102081417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.58805766487718,
+    37.331396379688584,
+    -76.58805766487718,
+    37.331396379688584
+],
+  "geometry": {"coordinates":[-76.58805766487718,37.331396379688584],"type":"Point"}
+}

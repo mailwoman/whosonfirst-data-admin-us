@@ -1,0 +1,80 @@
+{
+  "id": 9895006566,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.49076765241833,34.11399350820949,-84.49076765241833,34.11399350820949",
+    "geom:latitude":34.113994,
+    "geom:longitude":-84.490768,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1705107: name \"Little River North\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1705107"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1705107: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1705107"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1705107: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1705107"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084635 (Cherokee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084635 (Cherokee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Little River North"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        102084635,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1705107
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6c7e0b6ac8d05f7aa4299b3422d3e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084635,
+            "locality_id":9895006566,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006566,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Little River North",
+    "wof:parent_id":102084635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.49076765241833,
+    34.11399350820949,
+    -84.49076765241833,
+    34.11399350820949
+],
+  "geometry": {"coordinates":[-84.49076765241833,34.11399350820949],"type":"Point"}
+}

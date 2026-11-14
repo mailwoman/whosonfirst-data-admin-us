@@ -1,0 +1,80 @@
+{
+  "id": 9895005950,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-114.79719298601186,32.783106589383365,-114.79719298601186,32.783106589383365",
+    "geom:latitude":32.783107,
+    "geom:longitude":-114.797193,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660571: name \"Dunes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660571"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660571: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660571"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660571: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660571"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080869 (Imperial).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080869 (Imperial), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dunes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102080869,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1660571
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ac26977612a20fb1ccc5f1547421e121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080869,
+            "locality_id":9895005950,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005950,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Dunes",
+    "wof:parent_id":102080869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.79719298601186,
+    32.783106589383365,
+    -114.79719298601186,
+    32.783106589383365
+],
+  "geometry": {"coordinates":[-114.79719298601186,32.783106589383365],"type":"Point"}
+}

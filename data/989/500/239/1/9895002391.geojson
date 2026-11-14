@@ -1,0 +1,84 @@
+{
+  "id": 9895002391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.84503905878759,43.02506559798234,-78.84503905878759,43.02506559798234",
+    "geom:latitude":43.025066,
+    "geom:longitude":-78.845039,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 959895: name \"Park Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/959895"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 959895: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/959895"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 959895: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/959895"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85978261 (North Tonawanda).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85978261 (North Tonawanda), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Park Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        85978261,
+        102081767,
+        102191575,
+        404521483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":959895
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d518d60cb4381b6cfe3bf4a10b11974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081767,
+            "localadmin_id":404521483,
+            "locality_id":85978261,
+            "neighbourhood_id":9895002391,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895002391,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Park Village",
+    "wof:parent_id":85978261,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.84503905878759,
+    43.02506559798234,
+    -78.84503905878759,
+    43.02506559798234
+],
+  "geometry": {"coordinates":[-78.84503905878759,43.02506559798234],"type":"Point"}
+}

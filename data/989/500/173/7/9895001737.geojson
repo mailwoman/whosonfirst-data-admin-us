@@ -1,0 +1,82 @@
+{
+  "id": 9895001737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.99674199107419,29.92520981039613,-89.99674199107419,29.92520981039613",
+    "geom:latitude":29.92521,
+    "geom:longitude":-89.996742,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559326: name \"Aurora Gardens\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559326"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559326: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559326"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559326: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559326"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948111 (New Orleans).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948111 (New Orleans), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Aurora Gardens"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948111,
+        102086693,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":559326
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da198e9b6a2a1439c789e987f751cba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":9895001737,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001737,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Aurora Gardens",
+    "wof:parent_id":85948111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.99674199107419,
+    29.92520981039613,
+    -89.99674199107419,
+    29.92520981039613
+],
+  "geometry": {"coordinates":[-89.99674199107419,29.92520981039613],"type":"Point"}
+}

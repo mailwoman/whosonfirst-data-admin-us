@@ -1,0 +1,84 @@
+{
+  "id": 9895007164,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.30032711551777,43.65286863902281,-70.30032711551777,43.65286863902281",
+    "geom:latitude":43.652869,
+    "geom:longitude":-70.300327,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1912471: name \"Garrison Hills Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1912471"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1912471: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1912471"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1912471: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1912471"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948877 (Portland).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948877 (Portland), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Garrison Hills Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688769,
+        85948877,
+        102087463,
+        102191575,
+        404475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1912471
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e98af69e7f2c3a1974ab59f7f6d3a90e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475429,
+            "locality_id":85948877,
+            "neighbourhood_id":9895007164,
+            "region_id":85688769
+        }
+    ],
+    "wof:id":9895007164,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Garrison Hills Estates",
+    "wof:parent_id":85948877,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.30032711551777,
+    43.65286863902281,
+    -70.30032711551777,
+    43.65286863902281
+],
+  "geometry": {"coordinates":[-70.30032711551777,43.65286863902281],"type":"Point"}
+}

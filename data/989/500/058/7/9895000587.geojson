@@ -1,0 +1,82 @@
+{
+  "id": 9895000587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.72555812915516,34.74870845325754,-86.72555812915516,34.74870845325754",
+    "geom:latitude":34.748708,
+    "geom:longitude":-86.725558,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146776: name \"Chickasaw Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146776"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146776: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146776"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146776: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146776"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913593 (Madison).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913593 (Madison), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Chickasaw Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913593,
+        102085487,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146776
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1960d4c2c53d0b7e50f5482fa0c7a013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085487,
+            "locality_id":85913593,
+            "neighbourhood_id":9895000587,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000587,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Chickasaw Estates",
+    "wof:parent_id":85913593,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.72555812915516,
+    34.74870845325754,
+    -86.72555812915516,
+    34.74870845325754
+],
+  "geometry": {"coordinates":[-86.72555812915516,34.74870845325754],"type":"Point"}
+}

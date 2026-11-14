@@ -1,0 +1,82 @@
+{
+  "id": 9895001110,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.26534608301161,28.76749940084135,-81.26534608301161,28.76749940084135",
+    "geom:latitude":28.767499,
+    "geom:longitude":-81.265346,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 301349: name \"Flora Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/301349"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 301349: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/301349"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 301349: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/301349"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85932125 (Sanford).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85932125 (Sanford), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Flora Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85932125,
+        102085775,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":301349
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c2201cd156820c60dd143c8d2180bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085775,
+            "locality_id":85932125,
+            "neighbourhood_id":9895001110,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001110,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Flora Heights",
+    "wof:parent_id":85932125,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.26534608301161,
+    28.76749940084135,
+    -81.26534608301161,
+    28.76749940084135
+],
+  "geometry": {"coordinates":[-81.26534608301161,28.76749940084135],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895004112,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.38496162562038,33.78816809015369,-95.38496162562038,33.78816809015369",
+    "geom:latitude":33.788168,
+    "geom:longitude":-95.384962,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380268: name \"Novice\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380268"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380268: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380268"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1380268: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1380268"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080701 (Lamar).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080701 (Lamar), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Novice"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688753,
+        102080701,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1380268
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0264aeb940cbc285c906e3a035bd4d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080701,
+            "locality_id":9895004112,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":9895004112,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Novice",
+    "wof:parent_id":102080701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.38496162562038,
+    33.78816809015369,
+    -95.38496162562038,
+    33.78816809015369
+],
+  "geometry": {"coordinates":[-95.38496162562038,33.78816809015369],"type":"Point"}
+}

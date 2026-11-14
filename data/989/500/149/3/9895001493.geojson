@@ -1,0 +1,82 @@
+{
+  "id": 9895001493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.00275581514813,39.78388987285316,-95.00275581514813,39.78388987285316",
+    "geom:latitude":39.78389,
+    "geom:longitude":-95.002756,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 473040: name \"Blair\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/473040"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 473040: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/473040"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 473040: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/473040"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404503525 (Washington Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404503525 (Washington Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Blair"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688555,
+        102082137,
+        102191575,
+        404503525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":473040
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85edf02f1713b7bbee92c3ecbecaf234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082137,
+            "localadmin_id":404503525,
+            "locality_id":9895001493,
+            "region_id":85688555
+        }
+    ],
+    "wof:id":9895001493,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Blair",
+    "wof:parent_id":404503525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.00275581514813,
+    39.78388987285316,
+    -95.00275581514813,
+    39.78388987285316
+],
+  "geometry": {"coordinates":[-95.00275581514813,39.78388987285316],"type":"Point"}
+}

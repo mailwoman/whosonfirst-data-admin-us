@@ -1,0 +1,80 @@
+{
+  "id": 9895007835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.7312617966523,48.1581498789676,-110.7312617966523,48.1581498789676",
+    "geom:latitude":48.15815,
+    "geom:longitude":-110.731262,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804276: name \"Sunnybrook Colony\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804276"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804276: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804276"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804276: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804276"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085073 (Chouteau).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085073 (Chouteau), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunnybrook Colony"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        102085073,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804276
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d08aa27e885e10102f777049991016e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085073,
+            "locality_id":9895007835,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895007835,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Sunnybrook Colony",
+    "wof:parent_id":102085073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.7312617966523,
+    48.1581498789676,
+    -110.7312617966523,
+    48.1581498789676
+],
+  "geometry": {"coordinates":[-110.7312617966523,48.1581498789676],"type":"Point"}
+}

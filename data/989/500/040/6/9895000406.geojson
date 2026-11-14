@@ -1,0 +1,82 @@
+{
+  "id": 9895000406,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.93056638994915,34.77565134985506,-86.93056638994915,34.77565134985506",
+    "geom:latitude":34.775651,
+    "geom:longitude":-86.930566,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 141210: name \"Winslow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/141210"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 141210: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/141210"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 141210: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/141210"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913543 (Athens).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913543 (Athens), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Winslow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913543,
+        102085489,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":141210
+    },
+    "wof:country":"US",
+    "wof:geomhash":"924b5a0ce5e0a7b5e70d15217df9a0d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085489,
+            "locality_id":85913543,
+            "neighbourhood_id":9895000406,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000406,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Winslow",
+    "wof:parent_id":85913543,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.93056638994915,
+    34.77565134985506,
+    -86.93056638994915,
+    34.77565134985506
+],
+  "geometry": {"coordinates":[-86.93056638994915,34.77565134985506],"type":"Point"}
+}

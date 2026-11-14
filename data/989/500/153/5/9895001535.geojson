@@ -1,0 +1,80 @@
+{
+  "id": 9895001535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.2183103695974,37.56562023759338,-86.2183103695974,37.56562023759338",
+    "geom:latitude":37.56562,
+    "geom:longitude":-86.21831,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 509187: name \"Tar Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/509187"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 509187: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/509187"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 509187: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/509187"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084591 (Grayson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084591 (Grayson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tar Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688641,
+        102084591,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":509187
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d046472015a6a47529346a50ba81878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084591,
+            "locality_id":9895001535,
+            "region_id":85688641
+        }
+    ],
+    "wof:id":9895001535,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Tar Hill",
+    "wof:parent_id":102084591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.2183103695974,
+    37.56562023759338,
+    -86.2183103695974,
+    37.56562023759338
+],
+  "geometry": {"coordinates":[-86.2183103695974,37.56562023759338],"type":"Point"}
+}

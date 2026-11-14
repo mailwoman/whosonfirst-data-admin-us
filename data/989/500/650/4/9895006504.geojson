@@ -1,0 +1,82 @@
+{
+  "id": 9895006504,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.72082756224144,33.611220716736554,-86.72082756224144,33.611220716736554",
+    "geom:latitude":33.611221,
+    "geom:longitude":-86.720828,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700123: name \"Sunrise East\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700123"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700123: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700123"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700123: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700123"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914465 (Birmingham).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914465 (Birmingham), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunrise East"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914465,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700123
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55e9c1669e9b54f77101effb52657aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":9895006504,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006504,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Sunrise East",
+    "wof:parent_id":85914465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.72082756224144,
+    33.611220716736554,
+    -86.72082756224144,
+    33.611220716736554
+],
+  "geometry": {"coordinates":[-86.72082756224144,33.611220716736554],"type":"Point"}
+}

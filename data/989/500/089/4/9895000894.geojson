@@ -1,0 +1,80 @@
+{
+  "id": 9895000894,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.06314004022447,37.39722629195547,-108.06314004022447,37.39722629195547",
+    "geom:latitude":37.397226,
+    "geom:longitude":-108.06314,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 178947: name \"La Plata\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/178947"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 178947: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/178947"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 178947: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/178947"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084019 (La Plata).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084019 (La Plata), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "La Plata"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        102084019,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":178947
+    },
+    "wof:country":"US",
+    "wof:geomhash":"776d3a302098554cb04f5bd93adea0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084019,
+            "locality_id":9895000894,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895000894,
+    "wof:lastmodified":1794681123,
+    "wof:name":"La Plata",
+    "wof:parent_id":102084019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.06314004022447,
+    37.39722629195547,
+    -108.06314004022447,
+    37.39722629195547
+],
+  "geometry": {"coordinates":[-108.06314004022447,37.39722629195547],"type":"Point"}
+}

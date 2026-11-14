@@ -1,0 +1,82 @@
+{
+  "id": 9895003357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.89969844092442,40.30231876956216,-76.89969844092442,40.30231876956216",
+    "geom:latitude":40.302319,
+    "geom:longitude":-76.899698,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201965: name \"Montrose Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201965"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201965: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201965"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201965: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201965"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404486305 (Susquehanna Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404486305 (Susquehanna Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Montrose Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081347,
+        102191575,
+        404486305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1201965
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b2c8b0dbf72a52272925d4dc07ddb4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081347,
+            "localadmin_id":404486305,
+            "locality_id":9895003357,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003357,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Montrose Park",
+    "wof:parent_id":404486305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.89969844092442,
+    40.30231876956216,
+    -76.89969844092442,
+    40.30231876956216
+],
+  "geometry": {"coordinates":[-76.89969844092442,40.30231876956216],"type":"Point"}
+}

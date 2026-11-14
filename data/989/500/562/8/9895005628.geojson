@@ -1,0 +1,82 @@
+{
+  "id": 9895005628,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.98170150271945,47.93238020018395,-118.98170150271945,47.93238020018395",
+    "geom:latitude":47.93238,
+    "geom:longitude":-118.981702,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511883: name \"East Heights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511883"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511883: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511883"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1511883: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1511883"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101730201 (Grand Coulee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101730201 (Grand Coulee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "East Heights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688623,
+        101730201,
+        102087541,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1511883
+    },
+    "wof:country":"US",
+    "wof:geomhash":"02e660c39bc05501debf0728a3c2d73f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730201,
+            "neighbourhood_id":9895005628,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":9895005628,
+    "wof:lastmodified":1794681138,
+    "wof:name":"East Heights",
+    "wof:parent_id":101730201,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.98170150271945,
+    47.93238020018395,
+    -118.98170150271945,
+    47.93238020018395
+],
+  "geometry": {"coordinates":[-118.98170150271945,47.93238020018395],"type":"Point"}
+}

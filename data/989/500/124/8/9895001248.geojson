@@ -1,0 +1,82 @@
+{
+  "id": 9895001248,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.58733739598449,31.84299441029977,-81.58733739598449,31.84299441029977",
+    "geom:latitude":31.842994,
+    "geom:longitude":-81.587337,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357076: name \"Fraser Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357076"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357076: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357076"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 357076: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/357076"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936767 (Hinesville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936767 (Hinesville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fraser Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936767,
+        102082901,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":357076
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a88137074893e34465554009fa6351e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082901,
+            "locality_id":85936767,
+            "neighbourhood_id":9895001248,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001248,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Fraser Acres",
+    "wof:parent_id":85936767,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.58733739598449,
+    31.84299441029977,
+    -81.58733739598449,
+    31.84299441029977
+],
+  "geometry": {"coordinates":[-81.58733739598449,31.84299441029977],"type":"Point"}
+}

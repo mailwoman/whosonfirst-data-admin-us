@@ -1,0 +1,82 @@
+{
+  "id": 9895005966,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.30619557860733,33.81113272591265,-118.30619557860733,33.81113272591265",
+    "geom:latitude":33.811133,
+    "geom:longitude":-118.306196,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660803: name \"Ironsides\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660803"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660803: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660803"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660803: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660803"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923517 (Los Angeles).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923517 (Los Angeles), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ironsides"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923517,
+        102086957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1660803
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e72321bebf58c125d247a9034bb8b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":9895005966,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005966,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Ironsides",
+    "wof:parent_id":85923517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.30619557860733,
+    33.81113272591265,
+    -118.30619557860733,
+    33.81113272591265
+],
+  "geometry": {"coordinates":[-118.30619557860733,33.81113272591265],"type":"Point"}
+}

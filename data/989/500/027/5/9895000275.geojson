@@ -1,0 +1,82 @@
+{
+  "id": 9895000275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.36043758314834,34.643154790058716,-92.36043758314834,34.643154790058716",
+    "geom:latitude":34.643155,
+    "geom:longitude":-92.360438,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 68192: name \"Deer Meadow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/68192"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 68192: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/68192"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 68192: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/68192"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85921265 (Little Rock).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85921265 (Little Rock), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Deer Meadow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688549,
+        85921265,
+        102082497,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":68192
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d807aa6cf42fdfeceeeb792479030ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082497,
+            "locality_id":85921265,
+            "neighbourhood_id":9895000275,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":9895000275,
+    "wof:lastmodified":1794681121,
+    "wof:name":"Deer Meadow",
+    "wof:parent_id":85921265,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.36043758314834,
+    34.643154790058716,
+    -92.36043758314834,
+    34.643154790058716
+],
+  "geometry": {"coordinates":[-92.36043758314834,34.643154790058716],"type":"Point"}
+}

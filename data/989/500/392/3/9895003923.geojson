@@ -1,0 +1,82 @@
+{
+  "id": 9895003923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.7702821219126,36.02006800832357,-86.7702821219126,36.02006800832357",
+    "geom:latitude":36.020068,
+    "geom:longitude":-86.770282,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312558: name \"Smyrna Road Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312558"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312558: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312558"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312558: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312558"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723097 (Brentwood).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723097 (Brentwood), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Smyrna Road Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723097,
+        102086337,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312558
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6bb954cc3e90c7b9303832113b816eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723097,
+            "neighbourhood_id":9895003923,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003923,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Smyrna Road Homes",
+    "wof:parent_id":101723097,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.7702821219126,
+    36.02006800832357,
+    -86.7702821219126,
+    36.02006800832357
+],
+  "geometry": {"coordinates":[-86.7702821219126,36.02006800832357],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895001522,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.29375641963989,37.63816482351438,-82.29375641963989,37.63816482351438",
+    "geom:latitude":37.638165,
+    "geom:longitude":-82.293756,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 507355: name \"Forest Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/507355"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 507355: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/507355"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 507355: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/507355"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085449 (Pike).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085449 (Pike), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Forest Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688641,
+        102085449,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":507355
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55f4d8fee808d89840357ce5696df3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":9895001522,
+            "region_id":85688641
+        }
+    ],
+    "wof:id":9895001522,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Forest Hills",
+    "wof:parent_id":102085449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.29375641963989,
+    37.63816482351438,
+    -82.29375641963989,
+    37.63816482351438
+],
+  "geometry": {"coordinates":[-82.29375641963989,37.63816482351438],"type":"Point"}
+}

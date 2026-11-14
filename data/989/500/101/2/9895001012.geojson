@@ -1,0 +1,82 @@
+{
+  "id": 9895001012,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.86877371079648,36.80078593795588,-119.86877371079648,36.80078593795588",
+    "geom:latitude":36.800786,
+    "geom:longitude":-119.868774,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252632: name \"Biola Junction\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252632"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252632: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252632"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252632: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252632"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85922995 (Fresno).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85922995 (Fresno), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Biola Junction"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85922995,
+        102084347,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":252632
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e7ba9d7a203b09dd5d22d827891aac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084347,
+            "locality_id":85922995,
+            "neighbourhood_id":9895001012,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001012,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Biola Junction",
+    "wof:parent_id":85922995,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.86877371079648,
+    36.80078593795588,
+    -119.86877371079648,
+    36.80078593795588
+],
+  "geometry": {"coordinates":[-119.86877371079648,36.80078593795588],"type":"Point"}
+}

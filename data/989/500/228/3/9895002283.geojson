@@ -1,0 +1,80 @@
+{
+  "id": 9895002283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.4640764691344,46.003842299966564,-109.4640764691344,46.003842299966564",
+    "geom:latitude":46.003842,
+    "geom:longitude":-109.464076,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 805831: name \"Knob Hill\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/805831"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 805831: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/805831"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 805831: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/805831"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085211 (Sweet Grass).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085211 (Sweet Grass), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Knob Hill"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        102085211,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":805831
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c38d33f78fddfe68dadbdd939f55e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085211,
+            "locality_id":9895002283,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895002283,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Knob Hill",
+    "wof:parent_id":102085211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.4640764691344,
+    46.003842299966564,
+    -109.4640764691344,
+    46.003842299966564
+],
+  "geometry": {"coordinates":[-109.4640764691344,46.003842299966564],"type":"Point"}
+}

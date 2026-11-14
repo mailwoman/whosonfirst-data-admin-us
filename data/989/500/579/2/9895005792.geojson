@@ -1,0 +1,82 @@
+{
+  "id": 9895005792,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.39431196764168,36.34594575701251,-82.39431196764168,36.34594575701251",
+    "geom:latitude":36.345946,
+    "geom:longitude":-82.394312,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640276: name \"Avondale Forest\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640276"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640276: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640276"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1640276: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1640276"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101722757 (Johnson City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101722757 (Johnson City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Avondale Forest"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101722757,
+        102086335,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1640276
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7deb0ef84b28b319e0f7738abfbc22bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":9895005792,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895005792,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Avondale Forest",
+    "wof:parent_id":101722757,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.39431196764168,
+    36.34594575701251,
+    -82.39431196764168,
+    36.34594575701251
+],
+  "geometry": {"coordinates":[-82.39431196764168,36.34594575701251],"type":"Point"}
+}

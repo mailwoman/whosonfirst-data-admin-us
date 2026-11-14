@@ -1,0 +1,82 @@
+{
+  "id": 9895003089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.51790234343267,35.313179236954085,-82.51790234343267,35.313179236954085",
+    "geom:latitude":35.313179,
+    "geom:longitude":-82.517902,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017603: name \"Fleetwood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017603"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017603: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017603"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017603: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017603"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980579 (Laurel Park).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980579 (Laurel Park), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Fleetwood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980579,
+        102080983,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1017603
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b40854e9fd0753ec95ea3c566b95486c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080983,
+            "locality_id":85980579,
+            "neighbourhood_id":9895003089,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003089,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Fleetwood Estates",
+    "wof:parent_id":85980579,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.51790234343267,
+    35.313179236954085,
+    -82.51790234343267,
+    35.313179236954085
+],
+  "geometry": {"coordinates":[-82.51790234343267,35.313179236954085],"type":"Point"}
+}

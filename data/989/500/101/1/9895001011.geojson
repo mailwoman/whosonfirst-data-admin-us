@@ -1,0 +1,80 @@
+{
+  "id": 9895001011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.96989032855844,36.815228732352864,-119.96989032855844,36.815228732352864",
+    "geom:latitude":36.815229,
+    "geom:longitude":-119.96989,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252624: name \"Barstow\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252624"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252624: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252624"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 252624: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/252624"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084347 (Fresno).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084347 (Fresno), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Barstow"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102084347,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":252624
+    },
+    "wof:country":"US",
+    "wof:geomhash":"88552697fef9221572444a46f8643728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084347,
+            "locality_id":9895001011,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001011,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Barstow",
+    "wof:parent_id":102084347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.96989032855844,
+    36.815228732352864,
+    -119.96989032855844,
+    36.815228732352864
+],
+  "geometry": {"coordinates":[-119.96989032855844,36.815228732352864],"type":"Point"}
+}

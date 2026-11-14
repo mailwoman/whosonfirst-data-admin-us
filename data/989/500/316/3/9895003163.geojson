@@ -1,0 +1,82 @@
+{
+  "id": 9895003163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.33366634156721,36.16625609939207,-80.33366634156721,36.16625609939207",
+    "geom:latitude":36.166256,
+    "geom:longitude":-80.333666,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1023585: name \"Old Town\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1023585"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1023585: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1023585"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1023585: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1023585"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980715 (Winston-Salem).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980715 (Winston-Salem), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Old Town"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980715,
+        102080957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1023585
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82a64629a3013b03966bf60d7f17412d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080957,
+            "locality_id":85980715,
+            "neighbourhood_id":9895003163,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003163,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Old Town",
+    "wof:parent_id":85980715,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.33366634156721,
+    36.16625609939207,
+    -80.33366634156721,
+    36.16625609939207
+],
+  "geometry": {"coordinates":[-80.33366634156721,36.16625609939207],"type":"Point"}
+}

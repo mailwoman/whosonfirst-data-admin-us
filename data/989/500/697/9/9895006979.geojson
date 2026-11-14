@@ -1,0 +1,82 @@
+{
+  "id": 9895006979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.5344223665954,37.48565747783991,-77.5344223665954,37.48565747783991",
+    "geom:latitude":37.485657,
+    "geom:longitude":-77.534422,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1802666: name \"Manchester\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1802666"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1802666: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1802666"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1802666: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1802666"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101729319 (Manchester).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101729319 (Manchester), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Manchester"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101729319,
+        102085959,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1802666
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb26135f04c6e6827da454e15957b4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "neighbourhood_id":9895006979,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006979,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Manchester",
+    "wof:parent_id":101729319,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.5344223665954,
+    37.48565747783991,
+    -77.5344223665954,
+    37.48565747783991
+],
+  "geometry": {"coordinates":[-77.5344223665954,37.48565747783991],"type":"Point"}
+}

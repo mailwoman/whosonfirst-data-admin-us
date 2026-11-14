@@ -1,0 +1,82 @@
+{
+  "id": 9895001480,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.71217305936823,41.626662951665644,-93.71217305936823,41.626662951665644",
+    "geom:latitude":41.626663,
+    "geom:longitude":-93.712173,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 462504: name \"Urbandale\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/462504"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 462504: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/462504"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 462504: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/462504"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85944157 (Urbandale).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85944157 (Urbandale), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Urbandale"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688713,
+        85944157,
+        102086603,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":462504
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e2dae9baaf3086dbf1d34be5dac1ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":9895001480,
+            "region_id":85688713
+        }
+    ],
+    "wof:id":9895001480,
+    "wof:lastmodified":1794681126,
+    "wof:name":"Urbandale",
+    "wof:parent_id":85944157,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.71217305936823,
+    41.626662951665644,
+    -93.71217305936823,
+    41.626662951665644
+],
+  "geometry": {"coordinates":[-93.71217305936823,41.626662951665644],"type":"Point"}
+}

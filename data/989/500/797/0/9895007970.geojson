@@ -1,0 +1,82 @@
+{
+  "id": 9895007970,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.48131340747673,39.08824198684272,-94.48131340747673,39.08824198684272",
+    "geom:latitude":39.088242,
+    "geom:longitude":-94.481313,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806402: name \"Blue Summit\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806402"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806402: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806402"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806402: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806402"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404515661 (Blue Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404515661 (Blue Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Blue Summit"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102081227,
+        102191575,
+        404515661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806402
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15afd42248cb97d3fbc51f0bde9d759d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404515661,
+            "locality_id":9895007970,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895007970,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Blue Summit",
+    "wof:parent_id":404515661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.48131340747673,
+    39.08824198684272,
+    -94.48131340747673,
+    39.08824198684272
+],
+  "geometry": {"coordinates":[-94.48131340747673,39.08824198684272],"type":"Point"}
+}

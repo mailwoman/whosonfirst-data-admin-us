@@ -1,0 +1,84 @@
+{
+  "id": 9895007169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.04816099456461,43.16952935802816,-73.04816099456461,43.16952935802816",
+    "geom:latitude":43.169529,
+    "geom:longitude":-73.048161,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1920340: name \"Mountain View Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1920340"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1920340: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1920340"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1920340: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1920340"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728411 (Manchester Center).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728411 (Manchester Center), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mountain View Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688763,
+        101728411,
+        102087439,
+        102191575,
+        404527469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1920340
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1eb16c76b3de9c9193a2bce4bbc60b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087439,
+            "localadmin_id":404527469,
+            "locality_id":101728411,
+            "neighbourhood_id":9895007169,
+            "region_id":85688763
+        }
+    ],
+    "wof:id":9895007169,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Mountain View Estates",
+    "wof:parent_id":101728411,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.04816099456461,
+    43.16952935802816,
+    -73.04816099456461,
+    43.16952935802816
+],
+  "geometry": {"coordinates":[-73.04816099456461,43.16952935802816],"type":"Point"}
+}

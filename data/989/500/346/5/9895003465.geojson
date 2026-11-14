@@ -1,0 +1,82 @@
+{
+  "id": 9895003465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.0242478808123,34.949874015367435,-81.0242478808123,34.949874015367435",
+    "geom:latitude":34.949874,
+    "geom:longitude":-81.024248,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233594: name \"Beaty Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233594"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233594: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233594"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233594: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233594"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721103 (Rock Hill).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721103 (Rock Hill), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Beaty Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721103,
+        102085661,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1233594
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e9492151c5a7a593ee1c2f94ed5d71df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085661,
+            "locality_id":101721103,
+            "neighbourhood_id":9895003465,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003465,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Beaty Estates",
+    "wof:parent_id":101721103,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.0242478808123,
+    34.949874015367435,
+    -81.0242478808123,
+    34.949874015367435
+],
+  "geometry": {"coordinates":[-81.0242478808123,34.949874015367435],"type":"Point"}
+}

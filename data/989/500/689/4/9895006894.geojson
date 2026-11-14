@@ -1,0 +1,82 @@
+{
+  "id": 9895006894,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.72083510397691,38.95406991587577,-122.72083510397691,38.95406991587577",
+    "geom:latitude":38.95407,
+    "geom:longitude":-122.720835,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1766164: name \"Clear Lake Riviera\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1766164"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1766164: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1766164"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1766164: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1766164"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85924447 (Clearlake Riviera).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85924447 (Clearlake Riviera), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Clear Lake Riviera"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85924447,
+        102086949,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1766164
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2483d0eec8c2a5777e9491a0c8bc715c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086949,
+            "locality_id":85924447,
+            "neighbourhood_id":9895006894,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006894,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Clear Lake Riviera",
+    "wof:parent_id":85924447,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.72083510397691,
+    38.95406991587577,
+    -122.72083510397691,
+    38.95406991587577
+],
+  "geometry": {"coordinates":[-122.72083510397691,38.95406991587577],"type":"Point"}
+}

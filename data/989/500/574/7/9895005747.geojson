@@ -1,0 +1,80 @@
+{
+  "id": 9895005747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.80923745659189,30.308533199974562,-89.80923745659189,30.308533199974562",
+    "geom:latitude":30.308533,
+    "geom:longitude":-89.809237,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628924: name \"Home Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628924"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628924: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628924"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1628924: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1628924"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082453 (St. Tammany).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082453 (St. Tammany), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Home Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        102082453,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1628924
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5202c4b729a953d9945addceb7677f19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":9895005747,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895005747,
+    "wof:lastmodified":1794681138,
+    "wof:name":"Home Estates",
+    "wof:parent_id":102082453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.80923745659189,
+    30.308533199974562,
+    -89.80923745659189,
+    30.308533199974562
+],
+  "geometry": {"coordinates":[-89.80923745659189,30.308533199974562],"type":"Point"}
+}

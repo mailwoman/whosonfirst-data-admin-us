@@ -1,0 +1,82 @@
+{
+  "id": 9895003354,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.31589984366188,40.811183425424055,-80.31589984366188,40.811183425424055",
+    "geom:latitude":40.811183,
+    "geom:longitude":-80.3159,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201639: name \"Thompson\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201639"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201639: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201639"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1201639: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1201639"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404484379 (North Sewickley Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404484379 (North Sewickley Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Thompson"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102081323,
+        102191575,
+        404484379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1201639
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a7b8c229541b2c8e3e9c64cf6c05abd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081323,
+            "localadmin_id":404484379,
+            "locality_id":9895003354,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003354,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Thompson",
+    "wof:parent_id":404484379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.31589984366188,
+    40.811183425424055,
+    -80.31589984366188,
+    40.811183425424055
+],
+  "geometry": {"coordinates":[-80.31589984366188,40.811183425424055],"type":"Point"}
+}

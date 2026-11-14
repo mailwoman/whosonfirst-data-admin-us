@@ -1,0 +1,80 @@
+{
+  "id": 9895007941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.74045445552669,26.69290998285354,-81.74045445552669,26.69290998285354",
+    "geom:latitude":26.69291,
+    "geom:longitude":-81.740454,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806012: name \"Verandah\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806012"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806012: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806012"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2806012: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2806012"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084769 (Lee).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084769 (Lee), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Verandah"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102084769,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2806012
+    },
+    "wof:country":"US",
+    "wof:geomhash":"44df6138c9488220f3d12191ec872aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084769,
+            "locality_id":9895007941,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895007941,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Verandah",
+    "wof:parent_id":102084769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.74045445552669,
+    26.69290998285354,
+    -81.74045445552669,
+    26.69290998285354
+],
+  "geometry": {"coordinates":[-81.74045445552669,26.69290998285354],"type":"Point"}
+}

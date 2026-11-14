@@ -1,0 +1,82 @@
+{
+  "id": 9895001389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.84730199105101,39.60948918931491,-88.84730199105101,39.60948918931491",
+    "geom:latitude":39.609489,
+    "geom:longitude":-88.847302,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 416146: name \"Prairie Home\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/416146"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 416146: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/416146"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 416146: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/416146"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404497003 (Penn Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404497003 (Penn Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Prairie Home"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        102083519,
+        102191575,
+        404497003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":416146
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1adae7b59ce00d9718f38f3256a2c66b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083519,
+            "localadmin_id":404497003,
+            "locality_id":9895001389,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895001389,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Prairie Home",
+    "wof:parent_id":404497003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.84730199105101,
+    39.60948918931491,
+    -88.84730199105101,
+    39.60948918931491
+],
+  "geometry": {"coordinates":[-88.84730199105101,39.60948918931491],"type":"Point"}
+}

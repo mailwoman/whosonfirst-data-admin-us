@@ -1,0 +1,82 @@
+{
+  "id": 9895001736,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.03118759869129,29.882988999619833,-90.03118759869129,29.882988999619833",
+    "geom:latitude":29.882989,
+    "geom:longitude":-90.031188,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559308: name \"Farmington Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559308"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559308: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559308"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 559308: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/559308"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85948737 (Timberlane).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85948737 (Timberlane), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Farmington Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688735,
+        85948737,
+        102083179,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":559308
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ee64f8f84fcd649778b575a1188b4a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948737,
+            "neighbourhood_id":9895001736,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":9895001736,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Farmington Place",
+    "wof:parent_id":85948737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.03118759869129,
+    29.882988999619833,
+    -90.03118759869129,
+    29.882988999619833
+],
+  "geometry": {"coordinates":[-90.03118759869129,29.882988999619833],"type":"Point"}
+}

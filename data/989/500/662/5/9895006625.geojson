@@ -1,0 +1,82 @@
+{
+  "id": 9895006625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.48440652689787,38.9640091189188,-76.48440652689787,38.9640091189188",
+    "geom:latitude":38.964009,
+    "geom:longitude":-76.484407,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1709795: name \"Watergate Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1709795"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1709795: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1709795"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1709795: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1709795"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949233 (Annapolis).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949233 (Annapolis), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Watergate Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949233,
+        102083469,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1709795
+    },
+    "wof:country":"US",
+    "wof:geomhash":"07c397b4dc880228ea47b700f8ebe0de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949233,
+            "neighbourhood_id":9895006625,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006625,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Watergate Village",
+    "wof:parent_id":85949233,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.48440652689787,
+    38.9640091189188,
+    -76.48440652689787,
+    38.9640091189188
+],
+  "geometry": {"coordinates":[-76.48440652689787,38.9640091189188],"type":"Point"}
+}

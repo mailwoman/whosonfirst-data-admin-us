@@ -1,0 +1,82 @@
+{
+  "id": 9895007475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.10056574483497,39.828895323645256,-105.10056574483497,39.828895323645256",
+    "geom:latitude":39.828895,
+    "geom:longitude":-105.100566,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354738: name \"Paradise Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354738"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354738: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354738"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2354738: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2354738"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85929333 (Arvada).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85929333 (Arvada), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Paradise Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688603,
+        85929333,
+        102084113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2354738
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f87ffa4607edb217f48fdd847a5deb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084113,
+            "locality_id":85929333,
+            "neighbourhood_id":9895007475,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":9895007475,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Paradise Acres",
+    "wof:parent_id":85929333,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.10056574483497,
+    39.828895323645256,
+    -105.10056574483497,
+    39.828895323645256
+],
+  "geometry": {"coordinates":[-105.10056574483497,39.828895323645256],"type":"Point"}
+}

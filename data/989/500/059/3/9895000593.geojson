@@ -1,0 +1,82 @@
+{
+  "id": 9895000593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.73139172842312,34.70898654479513,-86.73139172842312,34.70898654479513",
+    "geom:latitude":34.708987,
+    "geom:longitude":-86.731392,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146829: name \"Crestview Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146829"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146829: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146829"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 146829: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/146829"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85913593 (Madison).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85913593 (Madison), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Crestview Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85913593,
+        102085487,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":146829
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7b9b580e67cb93725b9ec133bb6a052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085487,
+            "locality_id":85913593,
+            "neighbourhood_id":9895000593,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000593,
+    "wof:lastmodified":1794681122,
+    "wof:name":"Crestview Estates",
+    "wof:parent_id":85913593,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.73139172842312,
+    34.70898654479513,
+    -86.73139172842312,
+    34.70898654479513
+],
+  "geometry": {"coordinates":[-86.73139172842312,34.70898654479513],"type":"Point"}
+}

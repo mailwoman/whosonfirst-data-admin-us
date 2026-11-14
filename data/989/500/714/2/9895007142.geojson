@@ -1,0 +1,80 @@
+{
+  "id": 9895007142,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.69301497755826,36.61052059591896,-121.69301497755826,36.61052059591896",
+    "geom:latitude":36.610521,
+    "geom:longitude":-121.693015,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1873402: name \"Creekside\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1873402"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1873402: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1873402"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1873402: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1873402"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080859 (Monterey).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080859 (Monterey), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Creekside"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        102080859,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1873402
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0ca7183f84f29181259d57b0a1912b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080859,
+            "locality_id":9895007142,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895007142,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Creekside",
+    "wof:parent_id":102080859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.69301497755826,
+    36.61052059591896,
+    -121.69301497755826,
+    36.61052059591896
+],
+  "geometry": {"coordinates":[-121.69301497755826,36.61052059591896],"type":"Point"}
+}

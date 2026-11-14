@@ -1,0 +1,82 @@
+{
+  "id": 9895006436,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0163730304994,39.57649802203562,-77.0163730304994,39.57649802203562",
+    "geom:latitude":39.576498,
+    "geom:longitude":-77.016373,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695798: name \"Furnace Hills\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695798"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695798: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695798"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695798: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695798"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949353 (Westminster).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949353 (Westminster), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Furnace Hills"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949353,
+        102082717,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695798
+    },
+    "wof:country":"US",
+    "wof:geomhash":"88441dc27b938b4b9f29cf660b35029e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "neighbourhood_id":9895006436,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006436,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Furnace Hills",
+    "wof:parent_id":85949353,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0163730304994,
+    39.57649802203562,
+    -77.0163730304994,
+    39.57649802203562
+],
+  "geometry": {"coordinates":[-77.0163730304994,39.57649802203562],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.78758856974049,34.16126725351372,-80.78758856974049,34.16126725351372",
+    "geom:latitude":34.161267,
+    "geom:longitude":-80.787589,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1235111: name \"Jeffers Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1235111"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1235111: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1235111"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1235111: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1235111"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101721049 (Elgin).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101721049 (Elgin), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jeffers Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101721049,
+        102085429,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1235111
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ba923fff8900432da890e7aeec7c6f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085429,
+            "locality_id":101721049,
+            "neighbourhood_id":9895003505,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003505,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Jeffers Place",
+    "wof:parent_id":101721049,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.78758856974049,
+    34.16126725351372,
+    -80.78758856974049,
+    34.16126725351372
+],
+  "geometry": {"coordinates":[-80.78758856974049,34.16126725351372],"type":"Point"}
+}

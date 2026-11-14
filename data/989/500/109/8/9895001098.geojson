@@ -1,0 +1,80 @@
+{
+  "id": 9895001098,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.42396123004627,28.792776402330194,-81.42396123004627,28.792776402330194",
+    "geom:latitude":28.792776,
+    "geom:longitude":-81.423961,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 295701: name \"Wekiva\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/295701"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 295701: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/295701"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 295701: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/295701"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084775 (Lake).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084775 (Lake), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wekiva"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        102084775,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":295701
+    },
+    "wof:country":"US",
+    "wof:geomhash":"833e522a352a9ce5cb237240d3fff012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084775,
+            "locality_id":9895001098,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001098,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Wekiva",
+    "wof:parent_id":102084775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.42396123004627,
+    28.792776402330194,
+    -81.42396123004627,
+    28.792776402330194
+],
+  "geometry": {"coordinates":[-81.42396123004627,28.792776402330194],"type":"Point"}
+}

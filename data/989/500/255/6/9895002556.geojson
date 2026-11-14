@@ -1,0 +1,80 @@
+{
+  "id": 9895002556,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.24085300912108,36.10792332729185,-79.24085300912108,36.10792332729185",
+    "geom:latitude":36.107923,
+    "geom:longitude":-79.240853,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002506: name \"Sunset Ridge\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002506"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002506: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002506"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002506: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002506"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087647 (Orange).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087647 (Orange), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sunset Ridge"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087647,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1002506
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55fac8a96fdb6bca9faa7613dbed5ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087647,
+            "locality_id":9895002556,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002556,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Sunset Ridge",
+    "wof:parent_id":102087647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.24085300912108,
+    36.10792332729185,
+    -79.24085300912108,
+    36.10792332729185
+],
+  "geometry": {"coordinates":[-79.24085300912108,36.10792332729185],"type":"Point"}
+}

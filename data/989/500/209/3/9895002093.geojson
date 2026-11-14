@@ -1,0 +1,80 @@
+{
+  "id": 9895002093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.77927512232763,32.40626110921343,-90.77927512232763,32.40626110921343",
+    "geom:latitude":32.406261,
+    "geom:longitude":-90.779275,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686329: name \"Great Lake Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686329"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686329: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686329"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 686329: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/686329"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083779 (Warren).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083779 (Warren), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Great Lake Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102083779,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":686329
+    },
+    "wof:country":"US",
+    "wof:geomhash":"27a8b8fb41a2c69079be262f40940bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":9895002093,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002093,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Great Lake Estates",
+    "wof:parent_id":102083779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.77927512232763,
+    32.40626110921343,
+    -90.77927512232763,
+    32.40626110921343
+],
+  "geometry": {"coordinates":[-90.77927512232763,32.40626110921343],"type":"Point"}
+}

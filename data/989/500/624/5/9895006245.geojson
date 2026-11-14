@@ -1,0 +1,82 @@
+{
+  "id": 9895006245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.17722474998828,38.915952545663544,-78.17722474998828,38.915952545663544",
+    "geom:latitude":38.915953,
+    "geom:longitude":-78.177225,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674085: name \"Colonial Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674085"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674085: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674085"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1674085: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1674085"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728731 (Front Royal).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728731 (Front Royal), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Colonial Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        101728731,
+        102085975,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1674085
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3608f92ce6abec8fa9e6623377828151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085975,
+            "locality_id":101728731,
+            "neighbourhood_id":9895006245,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006245,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Colonial Park",
+    "wof:parent_id":101728731,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.17722474998828,
+    38.915952545663544,
+    -78.17722474998828,
+    38.915952545663544
+],
+  "geometry": {"coordinates":[-78.17722474998828,38.915952545663544],"type":"Point"}
+}

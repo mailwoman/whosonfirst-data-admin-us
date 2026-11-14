@@ -1,0 +1,82 @@
+{
+  "id": 9895003349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.95714601949042,41.446752826393364,-75.95714601949042,41.446752826393364",
+    "geom:latitude":41.446753,
+    "geom:longitude":-75.957146,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1199729: name \"Vernon\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1199729"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1199729: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1199729"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1199729: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1199729"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404484195 (Northmoreland Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404484195 (Northmoreland Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Vernon"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080947,
+        102191575,
+        404484195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1199729
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c21ce44614715f961e7c7a9863703f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080947,
+            "localadmin_id":404484195,
+            "locality_id":9895003349,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003349,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Vernon",
+    "wof:parent_id":404484195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.95714601949042,
+    41.446752826393364,
+    -75.95714601949042,
+    41.446752826393364
+],
+  "geometry": {"coordinates":[-75.95714601949042,41.446752826393364],"type":"Point"}
+}

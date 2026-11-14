@@ -1,0 +1,80 @@
+{
+  "id": 9895000780,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.5186212609651,33.127626684528,-87.5186212609651,33.127626684528",
+    "geom:latitude":33.127627,
+    "geom:longitude":-87.518621,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148625: name \"Taylorwood Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148625"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148625: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148625"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148625: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148625"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Taylorwood Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148625
+    },
+    "wof:country":"US",
+    "wof:geomhash":"458d368f3f731c3853334f19b80d3962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000780,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000780,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Taylorwood Estates",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.5186212609651,
+    33.127626684528,
+    -87.5186212609651,
+    33.127626684528
+],
+  "geometry": {"coordinates":[-87.5186212609651,33.127626684528],"type":"Point"}
+}

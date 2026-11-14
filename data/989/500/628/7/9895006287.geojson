@@ -1,0 +1,82 @@
+{
+  "id": 9895006287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.89914063654032,38.64429233918928,-76.89914063654032,38.64429233918928",
+    "geom:latitude":38.644292,
+    "geom:longitude":-76.899141,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676725: name \"Holly Station\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676725"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676725: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676725"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1676725: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1676725"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949863 (Waldorf).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949863 (Waldorf), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Holly Station"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949863,
+        102081211,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1676725
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7cf61a55d172467891cc784321c4fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":9895006287,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006287,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Holly Station",
+    "wof:parent_id":85949863,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.89914063654032,
+    38.64429233918928,
+    -76.89914063654032,
+    38.64429233918928
+],
+  "geometry": {"coordinates":[-76.89914063654032,38.64429233918928],"type":"Point"}
+}

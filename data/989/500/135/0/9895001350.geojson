@@ -1,0 +1,80 @@
+{
+  "id": 9895001350,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-115.79626396098188,46.37574612178768,-115.79626396098188,46.37574612178768",
+    "geom:latitude":46.375746,
+    "geom:longitude":-115.796264,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 388368: name \"Peterson Corners\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/388368"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 388368: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/388368"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 388368: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/388368"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086071 (Clearwater).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086071 (Clearwater), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Peterson Corners"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688657,
+        102086071,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":388368
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d9de489e43e8edff3917df1fc6deca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086071,
+            "locality_id":9895001350,
+            "region_id":85688657
+        }
+    ],
+    "wof:id":9895001350,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Peterson Corners",
+    "wof:parent_id":102086071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -115.79626396098188,
+    46.37574612178768,
+    -115.79626396098188,
+    46.37574612178768
+],
+  "geometry": {"coordinates":[-115.79626396098188,46.37574612178768],"type":"Point"}
+}

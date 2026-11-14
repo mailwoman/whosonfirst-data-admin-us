@@ -1,0 +1,82 @@
+{
+  "id": 9895003911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.91278474734645,35.799517857906594,-86.91278474734645,35.799517857906594",
+    "geom:latitude":35.799518,
+    "geom:longitude":-86.912785,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312477: name \"Country Haven Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312477"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312477: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312477"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312477: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312477"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723089 (Thompson's Station).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723089 (Thompson's Station), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Country Haven Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723089,
+        102086337,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312477
+    },
+    "wof:country":"US",
+    "wof:geomhash":"700726db5dad9e5d55988e5aaf54a015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723089,
+            "neighbourhood_id":9895003911,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003911,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Country Haven Estates",
+    "wof:parent_id":101723089,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.91278474734645,
+    35.799517857906594,
+    -86.91278474734645,
+    35.799517857906594
+],
+  "geometry": {"coordinates":[-86.91278474734645,35.799517857906594],"type":"Point"}
+}

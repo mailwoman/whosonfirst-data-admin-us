@@ -1,0 +1,80 @@
+{
+  "id": 9895002284,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.08017557814522,46.991367032930015,-109.08017557814522,46.991367032930015",
+    "geom:latitude":46.991367,
+    "geom:longitude":-109.080176,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 806282: name \"Forestgrove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/806282"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 806282: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/806282"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 806282: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/806282"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085207 (Fergus).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085207 (Fergus), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Forestgrove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        102085207,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":806282
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f55df10ce416ba2508ab6be6cae70860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085207,
+            "locality_id":9895002284,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895002284,
+    "wof:lastmodified":1794681129,
+    "wof:name":"Forestgrove",
+    "wof:parent_id":102085207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.08017557814522,
+    46.991367032930015,
+    -109.08017557814522,
+    46.991367032930015
+],
+  "geometry": {"coordinates":[-109.08017557814522,46.991367032930015],"type":"Point"}
+}

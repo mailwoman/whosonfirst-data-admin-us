@@ -1,0 +1,82 @@
+{
+  "id": 9895001223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.17801085892987,34.261488913044516,-85.17801085892987,34.261488913044516",
+    "geom:latitude":34.261489,
+    "geom:longitude":-85.178011,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 353610: name \"DeSoto Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/353610"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 353610: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/353610"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 353610: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/353610"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936575 (Rome).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936575 (Rome), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "DeSoto Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936575,
+        102084577,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":353610
+    },
+    "wof:country":"US",
+    "wof:geomhash":"239a764a9da0d893e2b9b95470261693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084577,
+            "locality_id":85936575,
+            "neighbourhood_id":9895001223,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001223,
+    "wof:lastmodified":1794681125,
+    "wof:name":"DeSoto Homes",
+    "wof:parent_id":85936575,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.17801085892987,
+    34.261488913044516,
+    -85.17801085892987,
+    34.261488913044516
+],
+  "geometry": {"coordinates":[-85.17801085892987,34.261488913044516],"type":"Point"}
+}

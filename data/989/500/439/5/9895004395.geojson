@@ -1,0 +1,82 @@
+{
+  "id": 9895004395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.92355994007876,40.74717433303353,-111.92355994007876,40.74717433303353",
+    "geom:latitude":40.747174,
+    "geom:longitude":-111.92356,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451756: name \"Mead Circle\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451756"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451756: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451756"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451756: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451756"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101728075 (Salt Lake City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101728075 (Salt Lake City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mead Circle"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101728075,
+        102082877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451756
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e73880d23d6cbe944cddc96df3d63e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":9895004395,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004395,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Mead Circle",
+    "wof:parent_id":101728075,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.92355994007876,
+    40.74717433303353,
+    -111.92355994007876,
+    40.74717433303353
+],
+  "geometry": {"coordinates":[-111.92355994007876,40.74717433303353],"type":"Point"}
+}

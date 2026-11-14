@@ -1,0 +1,80 @@
+{
+  "id": 9895006941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.4121709072171,37.26681617245966,-76.4121709072171,37.26681617245966",
+    "geom:latitude":37.266816,
+    "geom:longitude":-76.412171,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1778968: name \"Mill Creek\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1778968"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1778968: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1778968"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1778968: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1778968"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102081417 (Gloucester).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102081417 (Gloucester), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mill Creek"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688747,
+        102081417,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1778968
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e5efe783ba2c74464113cf1544d6cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":9895006941,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":9895006941,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Mill Creek",
+    "wof:parent_id":102081417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.4121709072171,
+    37.26681617245966,
+    -76.4121709072171,
+    37.26681617245966
+],
+  "geometry": {"coordinates":[-76.4121709072171,37.26681617245966],"type":"Point"}
+}

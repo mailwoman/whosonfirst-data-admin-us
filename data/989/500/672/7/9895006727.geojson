@@ -1,0 +1,82 @@
+{
+  "id": 9895006727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.08162462250904,38.70685232210647,-121.08162462250904,38.70685232210647",
+    "geom:latitude":38.706852,
+    "geom:longitude":-121.081625,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733903: name \"Franciscan Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733903"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733903: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733903"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1733903: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1733903"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85924065 (El Dorado Hills).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85924065 (El Dorado Hills), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Franciscan Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85924065,
+        102086953,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1733903
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b0b690e98b4a0a596be12188bb15900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086953,
+            "locality_id":85924065,
+            "neighbourhood_id":9895006727,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895006727,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Franciscan Village",
+    "wof:parent_id":85924065,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.08162462250904,
+    38.70685232210647,
+    -121.08162462250904,
+    38.70685232210647
+],
+  "geometry": {"coordinates":[-121.08162462250904,38.70685232210647],"type":"Point"}
+}

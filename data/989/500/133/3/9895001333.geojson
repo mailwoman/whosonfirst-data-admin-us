@@ -1,0 +1,82 @@
+{
+  "id": 9895001333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.00317529526095,33.49069796369128,-82.00317529526095,33.49069796369128",
+    "geom:latitude":33.490698,
+    "geom:longitude":-82.003175,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 358070: name \"Olmstead Homes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/358070"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 358070: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/358070"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 358070: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/358070"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936989 (Augusta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936989 (Augusta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Olmstead Homes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936989,
+        102082951,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":358070
+    },
+    "wof:country":"US",
+    "wof:geomhash":"42c993d477de5382cd080705806c650e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":9895001333,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001333,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Olmstead Homes",
+    "wof:parent_id":85936989,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.00317529526095,
+    33.49069796369128,
+    -82.00317529526095,
+    33.49069796369128
+],
+  "geometry": {"coordinates":[-82.00317529526095,33.49069796369128],"type":"Point"}
+}

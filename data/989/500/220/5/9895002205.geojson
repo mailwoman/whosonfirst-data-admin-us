@@ -1,0 +1,80 @@
+{
+  "id": 9895002205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.13978482103866,31.34379174579734,-89.13978482103866,31.34379174579734",
+    "geom:latitude":31.343792,
+    "geom:longitude":-89.139785,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 691788: name \"Corinth\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/691788"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 691788: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/691788"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 691788: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/691788"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084857 (Perry).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084857 (Perry), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Corinth"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688579,
+        102084857,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":691788
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2464fe2a68d6997491267c33d961d929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084857,
+            "locality_id":9895002205,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":9895002205,
+    "wof:lastmodified":1794681128,
+    "wof:name":"Corinth",
+    "wof:parent_id":102084857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.13978482103866,
+    31.34379174579734,
+    -89.13978482103866,
+    31.34379174579734
+],
+  "geometry": {"coordinates":[-89.13978482103866,31.34379174579734],"type":"Point"}
+}

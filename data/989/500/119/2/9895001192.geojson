@@ -1,0 +1,82 @@
+{
+  "id": 9895001192,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.2562658376804,30.82104212496654,-83.2562658376804,30.82104212496654",
+    "geom:latitude":30.821042,
+    "geom:longitude":-83.256266,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 346253: name \"Forresthill Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/346253"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 346253: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/346253"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 346253: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/346253"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936921 (Valdosta).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936921 (Valdosta), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Forresthill Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936921,
+        102083585,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":346253
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61edacd6e8de41385bfc33e9688135ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":9895001192,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895001192,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Forresthill Estates",
+    "wof:parent_id":85936921,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.2562658376804,
+    30.82104212496654,
+    -83.2562658376804,
+    30.82104212496654
+],
+  "geometry": {"coordinates":[-83.2562658376804,30.82104212496654],"type":"Point"}
+}

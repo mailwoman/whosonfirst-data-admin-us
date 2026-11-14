@@ -1,0 +1,82 @@
+{
+  "id": 9895006529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.78110487084376,33.457057582442225,-86.78110487084376,33.457057582442225",
+    "geom:latitude":33.457058,
+    "geom:longitude":-86.781105,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700235: name \"Vestavia Hills Estates\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700235"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700235: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700235"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1700235: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1700235"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85914483 (Vestavia Hills).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85914483 (Vestavia Hills), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Vestavia Hills Estates"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        85914483,
+        102085481,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1700235
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41c80e717fc1b21aad7a117f854ed58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914483,
+            "neighbourhood_id":9895006529,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895006529,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Vestavia Hills Estates",
+    "wof:parent_id":85914483,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.78110487084376,
+    33.457057582442225,
+    -86.78110487084376,
+    33.457057582442225
+],
+  "geometry": {"coordinates":[-86.78110487084376,33.457057582442225],"type":"Point"}
+}

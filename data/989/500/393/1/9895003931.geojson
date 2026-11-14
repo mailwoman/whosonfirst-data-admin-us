@@ -1,0 +1,82 @@
+{
+  "id": 9895003931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.21162550963778,34.988137363652775,-85.21162550963778,34.988137363652775",
+    "geom:latitude":34.988137,
+    "geom:longitude":-85.211626,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312618: name \"Castle Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312618"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312618: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312618"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312618: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312618"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723039 (East Ridge).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723039 (East Ridge), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Castle Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723039,
+        102087185,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312618
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67924c6d361cf04c9cc1f4de37b106c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723039,
+            "neighbourhood_id":9895003931,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003931,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Castle Park",
+    "wof:parent_id":101723039,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.21162550963778,
+    34.988137363652775,
+    -85.21162550963778,
+    34.988137363652775
+],
+  "geometry": {"coordinates":[-85.21162550963778,34.988137363652775],"type":"Point"}
+}

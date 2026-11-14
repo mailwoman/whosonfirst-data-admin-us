@@ -1,0 +1,82 @@
+{
+  "id": 9895002522,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.26755400447729,35.852366835685935,-80.26755400447729,35.852366835685935",
+    "geom:latitude":35.852367,
+    "geom:longitude":-80.267554,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002129: name \"Whitesmith\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002129"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002129: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002129"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002129: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002129"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85981033 (Lexington).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85981033 (Lexington), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Whitesmith"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85981033,
+        102080877,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1002129
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9241851b9f6c4d0c0c26c4de971244b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080877,
+            "locality_id":85981033,
+            "neighbourhood_id":9895002522,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002522,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Whitesmith",
+    "wof:parent_id":85981033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.26755400447729,
+    35.852366835685935,
+    -80.26755400447729,
+    35.852366835685935
+],
+  "geometry": {"coordinates":[-80.26755400447729,35.852366835685935],"type":"Point"}
+}

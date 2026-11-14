@@ -1,0 +1,82 @@
+{
+  "id": 9895006463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.32746111171944,39.52872653815578,-76.32746111171944,39.52872653815578",
+    "geom:latitude":39.528727,
+    "geom:longitude":-76.327461,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698074: name \"Bradford Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698074"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698074: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698074"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1698074: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1698074"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949281 (Bel Air).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949281 (Bel Air), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Bradford Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949281,
+        102082727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1698074
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff8f7299d9e008f53496ab1aa25f8888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949281,
+            "neighbourhood_id":9895006463,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006463,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Bradford Village",
+    "wof:parent_id":85949281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.32746111171944,
+    39.52872653815578,
+    -76.32746111171944,
+    39.52872653815578
+],
+  "geometry": {"coordinates":[-76.32746111171944,39.52872653815578],"type":"Point"}
+}

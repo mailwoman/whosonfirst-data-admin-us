@@ -1,0 +1,82 @@
+{
+  "id": 9895005975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.24144191906973,34.07779571539703,-117.24144191906973,34.07779571539703",
+    "geom:latitude":34.077796,
+    "geom:longitude":-117.241442,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660990: name \"Marigold\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660990"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660990: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660990"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1660990: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1660990"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85923941 (Redlands).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85923941 (Redlands), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Marigold"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85923941,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1660990
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af194878fd6eceb4190a035f5d88ae4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85923941,
+            "neighbourhood_id":9895005975,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895005975,
+    "wof:lastmodified":1794681139,
+    "wof:name":"Marigold",
+    "wof:parent_id":85923941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.24144191906973,
+    34.07779571539703,
+    -117.24144191906973,
+    34.07779571539703
+],
+  "geometry": {"coordinates":[-117.24144191906973,34.07779571539703],"type":"Point"}
+}

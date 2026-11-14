@@ -1,0 +1,82 @@
+{
+  "id": 9895006351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.60437915126616,33.485953470308324,-84.60437915126616,33.485953470308324",
+    "geom:latitude":33.485953,
+    "geom:longitude":-84.604379,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687681: name \"Briarwood Acres\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687681"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687681: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687681"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1687681: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1687681"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85936025 (Tyrone).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85936025 (Tyrone), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Briarwood Acres"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688535,
+        85936025,
+        102081687,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1687681
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c45e2b22a4eba379e4dafa14e23e9080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936025,
+            "neighbourhood_id":9895006351,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":9895006351,
+    "wof:lastmodified":1794681140,
+    "wof:name":"Briarwood Acres",
+    "wof:parent_id":85936025,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.60437915126616,
+    33.485953470308324,
+    -84.60437915126616,
+    33.485953470308324
+],
+  "geometry": {"coordinates":[-84.60437915126616,33.485953470308324],"type":"Point"}
+}

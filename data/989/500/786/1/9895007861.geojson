@@ -1,0 +1,82 @@
+{
+  "id": 9895007861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.45093149235944,38.09090497895125,-91.45093149235944,38.09090497895125",
+    "geom:latitude":38.090905,
+    "geom:longitude":-91.450931,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804685: name \"Indian Lake\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804685"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804685: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804685"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804685: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804685"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404516693 (Knobview Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404516693 (Knobview Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Indian Lake"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688661,
+        102085329,
+        102191575,
+        404516693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804685
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5cf37d99a783ba6936463ddc1921fcfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085329,
+            "localadmin_id":404516693,
+            "locality_id":9895007861,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":9895007861,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Indian Lake",
+    "wof:parent_id":404516693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.45093149235944,
+    38.09090497895125,
+    -91.45093149235944,
+    38.09090497895125
+],
+  "geometry": {"coordinates":[-91.45093149235944,38.09090497895125],"type":"Point"}
+}

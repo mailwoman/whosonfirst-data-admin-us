@@ -1,0 +1,82 @@
+{
+  "id": 9895001433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.0227842497338,41.63561229908781,-86.0227842497338,41.63561229908781",
+    "geom:latitude":41.635612,
+    "geom:longitude":-86.022784,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 436932: name \"Jamestown\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/436932"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 436932: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/436932"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 436932: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/436932"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404500577 (Baugo Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404500577 (Baugo Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jamestown"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688709,
+        102086257,
+        102191575,
+        404500577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":436932
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0137b7d650ad8a9b90ecb6b1f3ce63a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086257,
+            "localadmin_id":404500577,
+            "locality_id":9895001433,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":9895001433,
+    "wof:lastmodified":1794681125,
+    "wof:name":"Jamestown",
+    "wof:parent_id":404500577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.0227842497338,
+    41.63561229908781,
+    -86.0227842497338,
+    41.63561229908781
+],
+  "geometry": {"coordinates":[-86.0227842497338,41.63561229908781],"type":"Point"}
+}

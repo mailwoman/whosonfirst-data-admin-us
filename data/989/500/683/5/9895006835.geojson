@@ -1,0 +1,80 @@
+{
+  "id": 9895006835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.91806286858085,47.30245478470983,-111.91806286858085,47.30245478470983",
+    "geom:latitude":47.302455,
+    "geom:longitude":-111.918063,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1762467: name \"Saint Peter\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1762467"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1762467: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1762467"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1762467: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1762467"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085113 (Cascade).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085113 (Cascade), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Peter"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688617,
+        102085113,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1762467
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f56ed251f931f42d004ae3f8f74b1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085113,
+            "locality_id":9895006835,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":9895006835,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Saint Peter",
+    "wof:parent_id":102085113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.91806286858085,
+    47.30245478470983,
+    -111.91806286858085,
+    47.30245478470983
+],
+  "geometry": {"coordinates":[-111.91806286858085,47.30245478470983],"type":"Point"}
+}

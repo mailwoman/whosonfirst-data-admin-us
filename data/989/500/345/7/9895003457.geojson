@@ -1,0 +1,82 @@
+{
+  "id": 9895003457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.64985974006933,34.54928076873795,-82.64985974006933,34.54928076873795",
+    "geom:latitude":34.549281,
+    "geom:longitude":-82.64986,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233195: name \"Brittany Park\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233195"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233195: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233195"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1233195: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1233195"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101720807 (Anderson).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101720807 (Anderson), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brittany Park"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        101720807,
+        102085401,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1233195
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfa3760bb41c91fe42a88fe1889d88e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085401,
+            "locality_id":101720807,
+            "neighbourhood_id":9895003457,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003457,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Brittany Park",
+    "wof:parent_id":101720807,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.64985974006933,
+    34.54928076873795,
+    -82.64985974006933,
+    34.54928076873795
+],
+  "geometry": {"coordinates":[-82.64985974006933,34.54928076873795],"type":"Point"}
+}

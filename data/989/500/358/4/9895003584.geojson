@@ -1,0 +1,80 @@
+{
+  "id": 9895003584,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.7367362422066,33.85878062282771,-79.7367362422066,33.85878062282771",
+    "geom:latitude":33.858781,
+    "geom:longitude":-79.736736,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242259: name \"Wren Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242259"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242259: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242259"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1242259: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1242259"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085723 (Florence).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085723 (Florence), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Wren Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688683,
+        102085723,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1242259
+    },
+    "wof:country":"US",
+    "wof:geomhash":"23c9e4125b1afa99624ecf7726877564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085723,
+            "locality_id":9895003584,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":9895003584,
+    "wof:lastmodified":1794681133,
+    "wof:name":"Wren Village",
+    "wof:parent_id":102085723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.7367362422066,
+    33.85878062282771,
+    -79.7367362422066,
+    33.85878062282771
+],
+  "geometry": {"coordinates":[-79.7367362422066,33.85878062282771],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895000757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.4783424511354,33.15234809127199,-87.4783424511354,33.15234809127199",
+    "geom:latitude":33.152348,
+    "geom:longitude":-87.478342,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148431: name \"Peach Grove\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148431"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148431: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148431"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 148431: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/148431"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102085553 (Tuscaloosa).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102085553 (Tuscaloosa), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Peach Grove"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688675,
+        102085553,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":148431
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33cc03cb771614dd811a5da6f8687567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085553,
+            "locality_id":9895000757,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":9895000757,
+    "wof:lastmodified":1794681123,
+    "wof:name":"Peach Grove",
+    "wof:parent_id":102085553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.4783424511354,
+    33.15234809127199,
+    -87.4783424511354,
+    33.15234809127199
+],
+  "geometry": {"coordinates":[-87.4783424511354,33.15234809127199],"type":"Point"}
+}

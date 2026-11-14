@@ -1,0 +1,84 @@
+{
+  "id": 9895006980,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.94976609730458,43.08645360447239,-78.94976609730458,43.08645360447239",
+    "geom:latitude":43.086454,
+    "geom:longitude":-78.949766,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1802798: name \"Black Creek Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1802798"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1802798: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1802798"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1802798: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1802798"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85978259 (Niagara Falls).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85978259 (Niagara Falls), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Black Creek Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688543,
+        85978259,
+        102081767,
+        102191575,
+        404522745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1802798
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6fcf50ed79e0759cfde5db54e8f54f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081767,
+            "localadmin_id":404522745,
+            "locality_id":85978259,
+            "neighbourhood_id":9895006980,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":9895006980,
+    "wof:lastmodified":1794681142,
+    "wof:name":"Black Creek Village",
+    "wof:parent_id":85978259,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.94976609730458,
+    43.08645360447239,
+    -78.94976609730458,
+    43.08645360447239
+],
+  "geometry": {"coordinates":[-78.94976609730458,43.08645360447239],"type":"Point"}
+}

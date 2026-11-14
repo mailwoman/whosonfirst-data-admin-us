@@ -1,0 +1,80 @@
+{
+  "id": 9895003797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.02797192964888,36.03175412638446,-84.02797192964888,36.03175412638446",
+    "geom:latitude":36.031754,
+    "geom:longitude":-84.027972,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1298390: name \"Powell\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1298390"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1298390: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1298390"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1298390: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1298390"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102086455 (Knox).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102086455 (Knox), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Powell"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        102086455,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1298390
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce827fbec876fc7ebc5d348990bdc739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":9895003797,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003797,
+    "wof:lastmodified":1794681134,
+    "wof:name":"Powell",
+    "wof:parent_id":102086455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.02797192964888,
+    36.03175412638446,
+    -84.02797192964888,
+    36.03175412638446
+],
+  "geometry": {"coordinates":[-84.02797192964888,36.03175412638446],"type":"Point"}
+}

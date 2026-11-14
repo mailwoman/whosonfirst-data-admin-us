@@ -1,0 +1,82 @@
+{
+  "id": 9895002958,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.40894666256294,36.129867088542625,-80.40894666256294,36.129867088542625",
+    "geom:latitude":36.129867,
+    "geom:longitude":-80.408947,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005501: name \"Robin Hood Trace\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005501"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005501: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005501"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1005501: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1005501"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980707 (Lewisville).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980707 (Lewisville), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Robin Hood Trace"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980707,
+        102080957,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1005501
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b772aee37acbc7743e0d41964c5f2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080957,
+            "locality_id":85980707,
+            "neighbourhood_id":9895002958,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002958,
+    "wof:lastmodified":1794681131,
+    "wof:name":"Robin Hood Trace",
+    "wof:parent_id":85980707,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.40894666256294,
+    36.129867088542625,
+    -80.40894666256294,
+    36.129867088542625
+],
+  "geometry": {"coordinates":[-80.40894666256294,36.129867088542625],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9895007231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.07230390863782,42.15947747653023,-88.07230390863782,42.15947747653023",
+    "geom:latitude":42.159477,
+    "geom:longitude":-88.072304,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2037900: name \"Dover Pond\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2037900"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2037900: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2037900"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2037900: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2037900"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85938411 (Deer Park).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85938411 (Deer Park), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Dover Pond"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688697,
+        85938411,
+        102086215,
+        102191575,
+        404498459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2037900
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab074baf637d0c136ca8e8eb808ba498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498459,
+            "locality_id":85938411,
+            "neighbourhood_id":9895007231,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":9895007231,
+    "wof:lastmodified":1794681143,
+    "wof:name":"Dover Pond",
+    "wof:parent_id":85938411,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.07230390863782,
+    42.15947747653023,
+    -88.07230390863782,
+    42.15947747653023
+],
+  "geometry": {"coordinates":[-88.07230390863782,42.15947747653023],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895002629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.64441828027361,35.26767020261734,-77.64441828027361,35.26767020261734",
+    "geom:latitude":35.26767,
+    "geom:longitude":-77.644418,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002601: name \"Kinstonian Hights\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002601"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002601: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002601"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1002601: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1002601"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85980759 (Kinston).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85980759 (Kinston), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Kinstonian Hights"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        85980759,
+        102080971,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1002601
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f412f719ac247934ea113c86d969d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080971,
+            "locality_id":85980759,
+            "neighbourhood_id":9895002629,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895002629,
+    "wof:lastmodified":1794681130,
+    "wof:name":"Kinstonian Hights",
+    "wof:parent_id":85980759,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.64441828027361,
+    35.26767020261734,
+    -77.64441828027361,
+    35.26767020261734
+],
+  "geometry": {"coordinates":[-77.64441828027361,35.26767020261734],"type":"Point"}
+}

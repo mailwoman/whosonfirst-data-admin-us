@@ -1,0 +1,82 @@
+{
+  "id": 9895001045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.8289297608415,34.243346057667246,-116.8289297608415,34.243346057667246",
+    "geom:latitude":34.243346,
+    "geom:longitude":-116.82893,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 273936: name \"Sugarloaf\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/273936"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 273936: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/273936"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 273936: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/273936"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85928649 (Big Bear City).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85928649 (Big Bear City), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Sugarloaf"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688637,
+        85928649,
+        102085395,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":273936
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b2c215c0b7f1eb741f64ce5bcd8bf76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85928649,
+            "neighbourhood_id":9895001045,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":9895001045,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Sugarloaf",
+    "wof:parent_id":85928649,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.8289297608415,
+    34.243346057667246,
+    -116.8289297608415,
+    34.243346057667246
+],
+  "geometry": {"coordinates":[-116.8289297608415,34.243346057667246],"type":"Point"}
+}

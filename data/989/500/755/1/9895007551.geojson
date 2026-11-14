@@ -1,0 +1,82 @@
+{
+  "id": 9895007551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-150.06505996081506,62.06860465385213,-150.06505996081506,62.06860465385213",
+    "geom:latitude":62.068605,
+    "geom:longitude":-150.06506,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2419535: name \"Montana Creek\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2419535"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2419535: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2419535"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2419535: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2419535"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85916173 (Susitna North).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85916173 (Susitna North), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Montana Creek"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        85916173,
+        102081903,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2419535
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c30134fec9e19e400370ed867703d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916173,
+            "neighbourhood_id":9895007551,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":9895007551,
+    "wof:lastmodified":1794681144,
+    "wof:name":"Montana Creek",
+    "wof:parent_id":85916173,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -150.06505996081506,
+    62.06860465385213,
+    -150.06505996081506,
+    62.06860465385213
+],
+  "geometry": {"coordinates":[-150.06505996081506,62.06860465385213],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895003964,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.52749936385823,36.19617315443599,-86.52749936385823,36.19617315443599",
+    "geom:latitude":36.196173,
+    "geom:longitude":-86.527499,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312884: name \"Settlers Knob\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312884"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312884: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312884"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1312884: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1312884"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101723073 (Mount Juliet).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101723073 (Mount Juliet), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Settlers Knob"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688701,
+        101723073,
+        102087205,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1312884
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8de064cfc20d3a8b8ac0a18fd44cfb5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":9895003964,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":9895003964,
+    "wof:lastmodified":1794681135,
+    "wof:name":"Settlers Knob",
+    "wof:parent_id":101723073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.52749936385823,
+    36.19617315443599,
+    -86.52749936385823,
+    36.19617315443599
+],
+  "geometry": {"coordinates":[-86.52749936385823,36.19617315443599],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895003118,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.77430060843196,35.13734288976612,-82.77430060843196,35.13734288976612",
+    "geom:latitude":35.137343,
+    "geom:longitude":-82.774301,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017727: name \"Piney Woods\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017727"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017727: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017727"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1017727: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1017727"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102087629 (Transylvania).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102087629 (Transylvania), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Piney Woods"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688773,
+        102087629,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1017727
+    },
+    "wof:country":"US",
+    "wof:geomhash":"32c93095a5cae5d1212d65e27e1ca6b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087629,
+            "locality_id":9895003118,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":9895003118,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Piney Woods",
+    "wof:parent_id":102087629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.77430060843196,
+    35.13734288976612,
+    -82.77430060843196,
+    35.13734288976612
+],
+  "geometry": {"coordinates":[-82.77430060843196,35.13734288976612],"type":"Point"}
+}

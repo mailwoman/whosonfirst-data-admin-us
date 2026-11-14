@@ -1,0 +1,80 @@
+{
+  "id": 9895001824,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.58218152588896,38.44124250940914,-76.58218152588896,38.44124250940914",
+    "geom:latitude":38.441243,
+    "geom:longitude":-76.582182,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 588895: name \"Hellen\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/588895"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 588895: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/588895"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 588895: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/588895"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102084241 (Calvert).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102084241 (Calvert), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Hellen"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102084241,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":588895
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49e65b6d2d37e583f4d3fd87412e2ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":9895001824,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001824,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Hellen",
+    "wof:parent_id":102084241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.58218152588896,
+    38.44124250940914,
+    -76.58218152588896,
+    38.44124250940914
+],
+  "geometry": {"coordinates":[-76.58218152588896,38.44124250940914],"type":"Point"}
+}

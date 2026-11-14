@@ -1,0 +1,82 @@
+{
+  "id": 9895000932,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.59675805207974,41.667052290107804,-72.59675805207974,41.667052290107804",
+    "geom:latitude":41.667052,
+    "geom:longitude":-72.596758,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 210990: name \"South Glastonbury\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/210990"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 210990: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/210990"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 210990: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/210990"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404495979 (Glastonbury).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404495979 (Glastonbury), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "South Glastonbury"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688629,
+        102085381,
+        102191575,
+        404495979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":210990
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1571f827e76399d789ee7a81bf9400a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495979,
+            "locality_id":9895000932,
+            "region_id":85688629
+        }
+    ],
+    "wof:id":9895000932,
+    "wof:lastmodified":1794681123,
+    "wof:name":"South Glastonbury",
+    "wof:parent_id":404495979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.59675805207974,
+    41.667052290107804,
+    -72.59675805207974,
+    41.667052290107804
+],
+  "geometry": {"coordinates":[-72.59675805207974,41.667052290107804],"type":"Point"}
+}

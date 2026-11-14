@@ -1,0 +1,80 @@
+{
+  "id": 9895008055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.75811170841199,38.3719504918602,-81.75811170841199,38.3719504918602",
+    "geom:latitude":38.37195,
+    "geom:longitude":-81.758112,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807492: name \"West Dunbar\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807492"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807492: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807492"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807492: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807492"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102083335 (Kanawha).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102083335 (Kanawha), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "West Dunbar"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688589,
+        102083335,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807492
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b10e303fa9c2481eebf5ae1efea46f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":9895008055,
+            "region_id":85688589
+        }
+    ],
+    "wof:id":9895008055,
+    "wof:lastmodified":1794681145,
+    "wof:name":"West Dunbar",
+    "wof:parent_id":102083335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.75811170841199,
+    38.3719504918602,
+    -81.75811170841199,
+    38.3719504918602
+],
+  "geometry": {"coordinates":[-81.75811170841199,38.3719504918602],"type":"Point"}
+}

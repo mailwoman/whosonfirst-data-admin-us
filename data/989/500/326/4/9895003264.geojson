@@ -1,0 +1,82 @@
+{
+  "id": 9895003264,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.08933896601226,40.25483782803913,-75.08933896601226,40.25483782803913",
+    "geom:latitude":40.254838,
+    "geom:longitude":-75.089339,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1177982: name \"Jamison\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1177982"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1177982: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1177982"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1177982: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1177982"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404482843 (Warwick Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404482843 (Warwick Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jamison"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688481,
+        102080987,
+        102191575,
+        404482843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1177982
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d57d8404f042dd738c8239c1f5da8774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080987,
+            "localadmin_id":404482843,
+            "locality_id":9895003264,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":9895003264,
+    "wof:lastmodified":1794681132,
+    "wof:name":"Jamison",
+    "wof:parent_id":404482843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.08933896601226,
+    40.25483782803913,
+    -75.08933896601226,
+    40.25483782803913
+],
+  "geometry": {"coordinates":[-75.08933896601226,40.25483782803913],"type":"Point"}
+}

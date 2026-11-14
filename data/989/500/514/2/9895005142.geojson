@@ -1,0 +1,82 @@
+{
+  "id": 9895005142,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.87800464815403,40.87272915093219,-111.87800464815403,40.87272915093219",
+    "geom:latitude":40.872729,
+    "geom:longitude":-111.878005,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453732: name \"Deseret\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453732"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453732: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453732"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1453732: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1453732"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727881 (Bountiful).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727881 (Bountiful), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Deseret"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727881,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1453732
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fe3dbb5d4a917e0695272ef71f992d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":9895005142,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895005142,
+    "wof:lastmodified":1794681137,
+    "wof:name":"Deseret",
+    "wof:parent_id":101727881,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.87800464815403,
+    40.87272915093219,
+    -111.87800464815403,
+    40.87272915093219
+],
+  "geometry": {"coordinates":[-111.87800464815403,40.87272915093219],"type":"Point"}
+}

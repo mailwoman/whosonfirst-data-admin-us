@@ -1,0 +1,82 @@
+{
+  "id": 9895001104,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.09449066433162,26.243975307282344,-80.09449066433162,26.243975307282344",
+    "geom:latitude":26.243975,
+    "geom:longitude":-80.094491,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 300322: name \"Pinehurst Village\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/300322"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 300322: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/300322"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 300322: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/300322"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85932289 (Pompano Beach).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85932289 (Pompano Beach), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pinehurst Village"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688651,
+        85932289,
+        102084727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":300322
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6524d8838c6263013f3668aa059a15c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932289,
+            "neighbourhood_id":9895001104,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":9895001104,
+    "wof:lastmodified":1794681124,
+    "wof:name":"Pinehurst Village",
+    "wof:parent_id":85932289,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.09449066433162,
+    26.243975307282344,
+    -80.09449066433162,
+    26.243975307282344
+],
+  "geometry": {"coordinates":[-80.09449066433162,26.243975307282344],"type":"Point"}
+}

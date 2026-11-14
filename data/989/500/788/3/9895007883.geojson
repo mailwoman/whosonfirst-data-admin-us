@@ -1,0 +1,82 @@
+{
+  "id": 9895007883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.25851769432062,48.10160858949846,-103.25851769432062,48.10160858949846",
+    "geom:latitude":48.101609,
+    "geom:longitude":-103.258518,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805289: name \"Long Creek\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805289"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805289: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805289"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805289: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805289"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF localadmin 404482279 (Truax Township).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404482279 (Truax Township), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Long Creek"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688525,
+        102082069,
+        102191575,
+        404482279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805289
+    },
+    "wof:country":"US",
+    "wof:geomhash":"44002af441818ec60b40b9a964553070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082069,
+            "localadmin_id":404482279,
+            "locality_id":9895007883,
+            "region_id":85688525
+        }
+    ],
+    "wof:id":9895007883,
+    "wof:lastmodified":1794681145,
+    "wof:name":"Long Creek",
+    "wof:parent_id":404482279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.25851769432062,
+    48.10160858949846,
+    -103.25851769432062,
+    48.10160858949846
+],
+  "geometry": {"coordinates":[-103.25851769432062,48.10160858949846],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895006428,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.78997736860401,39.71094425750564,-76.78997736860401,39.71094425750564",
+    "geom:latitude":39.710944,
+    "geom:longitude":-76.789977,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695532: name \"Saint Pauls\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695532"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695532: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695532"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1695532: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1695532"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102082193 (Baltimore).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102082193 (Baltimore), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Saint Pauls"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        102082193,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1695532
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d214b7696b624fdf0337694ce382778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":9895006428,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895006428,
+    "wof:lastmodified":1794681141,
+    "wof:name":"Saint Pauls",
+    "wof:parent_id":102082193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.78997736860401,
+    39.71094425750564,
+    -76.78997736860401,
+    39.71094425750564
+],
+  "geometry": {"coordinates":[-76.78997736860401,39.71094425750564],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895001808,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.28940410148871,39.55428204481546,-76.28940410148871,39.55428204481546",
+    "geom:latitude":39.554282,
+    "geom:longitude":-76.289404,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 587247: name \"Schucks Corners\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/587247"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 587247: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/587247"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 587247: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/587247"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 85949831 (Bel Air North).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 85949831 (Bel Air North), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Schucks Corners"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688501,
+        85949831,
+        102082727,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":587247
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0883e61007485342299b174721a6d0de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949831,
+            "neighbourhood_id":9895001808,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":9895001808,
+    "wof:lastmodified":1794681127,
+    "wof:name":"Schucks Corners",
+    "wof:parent_id":85949831,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.28940410148871,
+    39.55428204481546,
+    -76.28940410148871,
+    39.55428204481546
+],
+  "geometry": {"coordinates":[-76.28940410148871,39.55428204481546],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895004220,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.03439901338095,41.11522766494331,-112.03439901338095,41.11522766494331",
+    "geom:latitude":41.115228,
+    "geom:longitude":-112.034399,
+    "iso:country":"US",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451431: name \"Yorkshire Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451431"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451431: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451431"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1451431: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1451431"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101727901 (Clearfield).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101727901 (Clearfield), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Yorkshire Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633793,
+        85688567,
+        101727901,
+        102083563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1451431
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10937b4a0abf911131fe56af93808666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":9895004220,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":9895004220,
+    "wof:lastmodified":1794681136,
+    "wof:name":"Yorkshire Place",
+    "wof:parent_id":101727901,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-us",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.03439901338095,
+    41.11522766494331,
+    -112.03439901338095,
+    41.11522766494331
+],
+  "geometry": {"coordinates":[-112.03439901338095,41.11522766494331],"type":"Point"}
+}
